@@ -1,0 +1,13 @@
+name: MISSDC_EXP_HYPERIMPUTE_GAIN
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - setuptools<80
+  - pandas
+  - scikit-learn=1.5.2
+  - pip
+  - pip:
+      - jenga
+      - hyperimpute

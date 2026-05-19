@@ -1,0 +1,15 @@
+name: MISSDC_EXP_TRIARD
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - setuptools<80
+  - pandas
+  - psutil
+  - Levenshtein
+  - tqdm
+  - pip
+  - pip:
+      - ./DAISLabUtilsPy
+      - jenga
