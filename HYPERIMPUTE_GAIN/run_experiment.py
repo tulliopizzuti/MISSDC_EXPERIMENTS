@@ -11,7 +11,6 @@ import pandas as pd
 sys.path.append(str(Path(__file__).resolve().parent.parent))
 from utils import *
 
-MISSING_SCRIPT = "missing.py"
 SCORE_SCRIPT = str(Path(__file__).resolve().parent.parent / "score.py")
 IMPUTATION_SCRIPT = "impute.py"
 

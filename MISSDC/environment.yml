@@ -1,0 +1,7 @@
+name: MISSDC_EXP_MISSDC
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pandas

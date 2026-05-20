@@ -143,6 +143,7 @@ def build_result_row(
     score_time,
     scores,
     error,
+        jar='None'
 
 ):
     scores = scores or {}
@@ -167,6 +168,6 @@ def build_result_row(
         "clean_file": str(clean_file),
         "dirty_file": str(dirty_file),
         "repaired_file": str(repaired_file),
-        "jar": 'NONE',
+        "jar": jar,
         "error": error,
     }
