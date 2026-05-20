@@ -12,7 +12,7 @@ sys.path.append(str(Path(__file__).resolve().parent.parent))
 from utils import *
 
 APPROACH_NAME = 'DATAWIG'
-SCORE_SCRIPT = Path(__file__).resolve().parent.parent / "score.py"
+SCORE_SCRIPT = str(Path(__file__).resolve().parent.parent / "score.py")
 IMPUTATION_SCRIPT = "impute.py"
 
 

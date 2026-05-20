@@ -28,17 +28,21 @@ def datawig_imputation(
     for target in incomplete_df.columns.tolist():
         print(f"Imputing target column: {target} ({counter}/{len(incomplete_df.columns)})")
         counter+=1
+
         df = incomplete_df.copy()
+        input_columns = [c for c in df.columns if c != target]
 
         null_mask = df[target] == dataset_null_char
 
         df.loc[null_mask, target] = np.nan
-        train_df = df.dropna(axis=0, how="any")
-        input_columns = [c for c in df.columns if c != target]
-        predict_df = df[df[target].isnull()]
+        train_df = df[df[target].notnull()].copy()
+
+        predict_df = df[df[target].isnull()].copy()
+
         predict_df[target] = predict_df[target].astype(str)
         train_df[target] = train_df[target].astype(str)
-        df.replace(dataset_null_char, np.nan, inplace=True)
+        predict_df.replace(dataset_null_char, np.nan, inplace=True)
+        train_df.replace(dataset_null_char, np.nan, inplace=True)
 
         if predict_df.empty:
             continue
@@ -56,15 +60,20 @@ def datawig_imputation(
 
         print("Fitting model")
 
+        if train_df.empty:
+            continue
+        try:
+            imputer.fit(train_df=train_df)
 
-
-        imputer.fit(train_df=train_df)
-
-        print(f"Predict {target}")
-        predicted = imputer.predict(predict_df)
-        imputed_col = f"{target}_imputed"
-        for idx, val in zip(predicted.index, predicted[imputed_col]):
-            to_return.loc[idx, target] = val
+            print(f"Predict {target}")
+            predicted = imputer.predict(predict_df)
+            imputed_col = f"{target}_imputed"
+            for idx, val in zip(predicted.index, predicted[imputed_col]):
+                to_return.loc[idx, target] = val
+        except Exception as e:
+            print(f"Imputation failed for {target}")
+            print(e)
+            pass
 
 
     return to_return

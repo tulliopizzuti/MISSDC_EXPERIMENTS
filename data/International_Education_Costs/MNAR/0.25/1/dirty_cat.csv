@@ -1,0 +1,908 @@
+Country str,City str,University str,Program str,Level str,DurationYears float,TuitionUSD float,LivingCostIndex float,RentUSD float,VisaFeeUSD float,InsuranceUSD float,ExchangeRate float
+USA,Cambridge,Harvard University,Computer Science,,,ffeaa.a,id.f,ccaa.a,bga.a,bfaa.a,b.a
+UK,London,Imperial College London,Data Science,,b.a,ebcaa.a,,biaa.a,eif.a,,a.hj
+Canada,,University of Toronto,Business Analytics,,,difaa.a,,bgaa.a,cdf.a,jaa.a,b.df
+Australia,Melbourne,University of Melbourne,Engineering,,,ecaaa.a,,beaa.a,efa.a,gfa.a,b.fc
+Germany,Munich,,Mechanical Engineering,,,faa.a,ha.f,,hf.a,ffa.a,a.jc
+,,University of Tokyo,Information Science,,,ijaa.a,,bdaa.a,cca.a,,bef.i
+,Amsterdam,University of Amsterdam,Artificial Intelligence,,b.a,bfiaa.a,,bfaa.a,bia.a,,a.jc
+,,,Finance,,b.f,dfaaa.a,,bjaa.a,,,b.de
+France,Paris,,International Relations,,,,,beaa.a,,gfa.a,a.jc
+Switzerland,Zurich,ETH Zurich,Physics,,,,jb.f,cbaa.a,,bcaa.a,a.ij
+Sweden,,KTH Royal Institute,Sustainable Technology,,,a.a,,bcaa.a,bba.a,eaa.a,
+Denmark,Copenhagen,University of Copenhagen,Bioinformatics,,,a.a,,bdaa.a,bca.a,efa.a,
+China,Beijing,Tsinghua University,Computer Engineering,,,ijaa.a,fc.d,iaa.a,bea.a,eaa.a,
+South Korea,,,Digital Media,,,hcaa.a,gi.h,,bda.a,faa.a,bdca.f
+,Dublin,Trinity College Dublin,,,b.a,cijaa.a,,bgaa.a,bfa.a,gfa.a,a.jc
+South Korea,Busan,,Business,Bachelor,e.a,fjaa.a,gc.e,haa.a,bda.a,faa.a,bdca.f
+,Auckland,University of Auckland,Marine Biology,Bachelor,,cifaa.a,gj.i,bcaa.a,cef.a,gaa.a,b.ge
+Austria,,University of Vienna,Social Sciences,Bachelor,,,gh.e,,bga.a,faa.a,a.jc
+Belgium,Brussels,KU Leuven,Biomedical Sciences,Bachelor,,,gi.j,,bia.a,ffa.a,a.jc
+USA,Ann Arbor,University of Michigan,Aerospace Engineering,Bachelor,e.a,fcdaa.a,,biaa.a,bga.a,bfaa.a,b.a
+USA,Atlanta,Georgia Tech,Industrial Engineering,Bachelor,e.a,ediaa.a,,bhaa.a,bga.a,bfaa.a,b.a
+USA,Austin,UT Austin,Chemical Engineering,Bachelor,e.a,eajaa.a,,bgaa.a,bga.a,bfaa.a,b.a
+UK,Bristol,University of Bristol,Mathematics,Bachelor,,dbcaa.a,gj.i,,eif.a,,a.hj
+Canada,Ottawa,University of Ottawa,Political Science,Bachelor,e.a,cijaa.a,gi.f,bdaa.a,cdf.a,jaa.a,b.df
+Hong Kong,Hong Kong,HKUST,Finance,Bachelor,e.a,ccaaa.a,,bfaa.a,bca.a,gaa.a,
+,Lisbon,University of Lisbon,Architecture,Bachelor,d.a,,fi.e,iaa.a,bca.a,efa.a,a.jc
+,,,,Bachelor,d.a,bcaaa.a,,bcaa.a,bfa.a,,
+Taiwan,,,Electronics Engineering,Bachelor,e.a,fcaa.a,gc.i,haa.a,bea.a,efa.a,
+Czech Republic,Prague,Charles University,Medicine,Bachelor,d.a,jiaa.a,fe.g,gfa.a,,eaa.a,
+USA,,,,PhD,f.a,fecaa.a,ij.f,cdaa.a,bga.a,bfaa.a,b.a
+USA,Boston,,Electrical Engineering,PhD,f.a,fdiaa.a,id.c,ccaa.a,bga.a,bfaa.a,b.a
+UK,Oxford,University of Oxford,Biomedical Sciences,PhD,e.a,cjiaa.a,,bgaa.a,eif.a,,a.hj
+UK,Cambridge,University of Cambridge,Physics,PhD,e.a,dbcaa.a,,bhaa.a,eif.a,iaa.a,a.hj
+Germany,Heidelberg,Heidelberg University,Molecular Biology,PhD,d.a,faa.a,gi.e,,hf.a,ffa.a,a.jc
+Switzerland,Basel,ETH Basel,Pharmaceutical Sciences,PhD,e.a,,ii.g,biaa.a,,bcaa.a,a.ij
+,Delft,,Robotics,PhD,e.a,eiaa.a,,,bia.a,,a.jc
+,,,Data Science,PhD,e.a,ijaa.a,,bgaa.a,,,b.de
+Canada,,University of Waterloo,Quantum Computing,PhD,e.a,cbfaa.a,gj.i,bdaa.a,cdf.a,jaa.a,b.df
+Australia,Canberra,Australian National University,Climate Science,PhD,e.a,cjiaa.a,ha.c,beaa.a,efa.a,gfa.a,b.fc
+Sweden,Lund,,Neuroscience,PhD,e.a,a.a,gj.f,,,eaa.a,
+USA,,UC San Diego,Computer Science,Bachelor,e.a,eecaa.a,,bjaa.a,bga.a,bfaa.a,b.a
+USA,,University of Washington,Computer Science,,,dijaa.a,id.e,caaa.a,bga.a,bfaa.a,b.a
+Canada,Edmonton,University of Alberta,Computer Science,PhD,e.a,cciaa.a,gh.i,bcaa.a,cdf.a,jaa.a,b.df
+UK,Glasgow,University of Glasgow,Computer Science,,b.a,ddfaa.a,gh.f,,eif.a,iaa.a,a.hj
+,Bangalore,Indian Institute of Science,Computer Science,,,,ef.g,faa.a,caa.a,daa.a,
+Denmark,Aalborg,Aalborg University,Computer Science,Bachelor,,a.a,gj.i,,bca.a,efa.a,
+,,University of Warsaw,,,,,fb.c,gfa.a,,dfa.a,
+,Galway,,,Bachelor,e.a,cfiaa.a,gi.f,,bfa.a,gfa.a,a.jc
+South Korea,Daejeon,KAIST,,PhD,e.a,gjaa.a,gf.e,haa.a,bda.a,faa.a,bdca.f
+,Kuala Lumpur,University of Malaya,,Bachelor,e.a,eiaa.a,ei.c,faa.a,,daa.a,
+USA,Berkeley,UC Berkeley,,Bachelor,e.a,eejaa.a,ie.c,cbaa.a,bga.a,bfaa.a,b.a
+UK,Manchester,University of Manchester,Economics,Bachelor,d.a,dcaaa.a,gi.e,bcaa.a,eif.a,iaa.a,a.hj
+Canada,,University of British Columbia,Psychology,Bachelor,e.a,dbcaa.a,,bhaa.a,cdf.a,jaa.a,b.df
+Australia,,University of Sydney,Business,Bachelor,d.a,dfaaa.a,,bgaa.a,efa.a,,b.fc
+Germany,Berlin,Free University of Berlin,International Business,Bachelor,d.a,a.a,gf.c,,hf.a,ffa.a,a.jc
+Spain,Barcelona,University of Barcelona,Architecture,Bachelor,e.a,,gc.e,,bga.a,faa.a,a.jc
+,Milan,,Design,Bachelor,d.a,,gd.i,,bca.a,,a.jc
+,Rotterdam,Erasmus University,Economics,Bachelor,d.a,bbcaa.a,,bdaa.a,bia.a,,a.jc
+Finland,Helsinki,University of Helsinki,,Bachelor,d.a,a.a,ha.c,,bca.a,eaa.a,a.jc
+,Oslo,University of Oslo,Environmental Science,Bachelor,d.a,a.a,,beaa.a,bdf.a,efa.a,
+,Osaka,,Engineering,Bachelor,e.a,giaa.a,,,cca.a,,bef.i
+,Kyoto,,,,c.a,ifaa.a,,,cca.a,,bef.i
+,Nagoya,,Information Science,Bachelor,e.a,hiaa.a,gi.f,hfa.a,cca.a,,bef.i
+,,Tohoku University,Software Engineering,,c.a,icaa.a,gf.e,gfa.a,cca.a,,bef.i
+,Fukuoka,,Computer Engineering,Bachelor,e.a,hfaa.a,ge.i,gaa.a,cca.a,,bef.i
+,,Hokkaido University,Data Science,,c.a,ibaa.a,gd.f,ffa.a,cca.a,,bef.i
+,,Tokyo Institute of Technology,Artificial Intelligence,PhD,d.a,ijaa.a,,,cca.a,,bef.i
+,,University of Tsukuba,Information Systems,Bachelor,e.a,hcaa.a,ge.c,gaa.a,cca.a,,bef.i
+,Kobe,,,,c.a,hjaa.a,gh.i,haa.a,cca.a,,bef.i
+,Kanazawa,,Software Engineering,Bachelor,e.a,hbaa.a,gc.f,faa.a,cca.a,,bef.i
+,Hiroshima,Hiroshima University,Information Technology,,c.a,hgaa.a,gd.i,ffa.a,cca.a,,bef.i
+Australia,Adelaide,University of Adelaide,,Bachelor,d.a,dciaa.a,gi.f,,efa.a,,b.fc
+Australia,Perth,University of Western Australia,Software Engineering,,c.a,defaa.a,gj.i,bcaa.a,efa.a,,b.fc
+Australia,Gold Coast,Griffith University,Information Technology,Bachelor,d.a,dbcaa.a,gh.f,,efa.a,,b.fc
+Australia,Hobart,University of Tasmania,Data Science,,c.a,daiaa.a,gf.e,,efa.a,,b.fc
+Australia,Newcastle,University of Newcastle,Computer Engineering,Bachelor,e.a,dbfaa.a,gg.i,,efa.a,,b.fc
+Australia,Wollongong,University of Wollongong,Artificial Intelligence,,,dcjaa.a,gh.c,,efa.a,,b.fc
+Australia,Darwin,Charles Darwin University,Information Systems,Bachelor,d.a,cjiaa.a,ge.f,,efa.a,,b.fc
+Australia,,James Cook University,,,c.a,dbcaa.a,gf.i,,efa.a,,b.fc
+Australia,,USC,Software Development,Bachelor,d.a,cjfaa.a,gg.c,,efa.a,,b.fc
+Australia,Armidale,University of New England,,,c.a,dafaa.a,ge.i,,efa.a,,b.fc
+Germany,Dresden,,,,c.a,faa.a,gf.i,hfa.a,hf.a,ffa.a,a.jc
+Germany,,University of Stuttgart,Software Engineering,Bachelor,d.a,efa.a,gi.f,,hf.a,ffa.a,a.jc
+Germany,Hamburg,,,,c.a,faa.a,,,hf.a,ffa.a,a.jc
+Germany,Aachen,,Computer Engineering,Bachelor,d.a,faa.a,gg.e,haa.a,hf.a,ffa.a,a.jc
+Germany,Karlsruhe,KIT,Artificial Intelligence,,c.a,faa.a,gh.i,iaa.a,hf.a,ffa.a,a.jc
+Germany,Darmstadt,,Information Systems,Bachelor,d.a,efa.a,gg.j,hfa.a,hf.a,ffa.a,a.jc
+Germany,Braunschweig,,Software Systems,,c.a,faa.a,ge.f,gfa.a,hf.a,ffa.a,a.jc
+Germany,Jena,University of Jena,Data Science,Bachelor,d.a,efa.a,gd.i,gaa.a,hf.a,ffa.a,a.jc
+Germany,Hannover,,Digital Engineering,,c.a,faa.a,gg.c,hfa.a,hf.a,ffa.a,a.jc
+Germany,Freiburg,University of Freiburg,Robotics & AI,,c.a,faa.a,gh.f,iaa.a,hf.a,ffa.a,a.jc
+USA,Philadelphia,University of Pennsylvania,,,c.a,fbjaa.a,,bjaa.a,bga.a,bfaa.a,b.a
+USA,Chicago,University of Chicago,,,c.a,fceaa.a,,caaa.a,bga.a,bfaa.a,b.a
+USA,Baltimore,Johns Hopkins,Artificial Intelligence,PhD,f.a,fdgaa.a,,bhaa.a,bga.a,bfaa.a,b.a
+USA,Nashville,Vanderbilt University,Computer Engineering,Bachelor,e.a,faiaa.a,,bgaa.a,bga.a,bfaa.a,b.a
+USA,Durham,Duke University,Software Engineering,,c.a,fbfaa.a,ha.i,bfaa.a,bga.a,bfaa.a,b.a
+USA,Madison,University of Wisconsin,,PhD,f.a,dicaa.a,gj.f,beaa.a,bga.a,bfaa.a,b.a
+USA,,Arizona State University,Information Technology,Bachelor,e.a,ebcaa.a,ha.c,bdaa.a,bga.a,bfaa.a,b.a
+USA,Boulder,University of Colorado,Data Science,,c.a,djiaa.a,,bgaa.a,bga.a,bfaa.a,b.a
+USA,Minneapolis,University of Minnesota,Computer Science,Bachelor,e.a,ecfaa.a,,bfaa.a,bga.a,bfaa.a,b.a
+USA,Davis,UC Davis,Computer Engineering,,c.a,eciaa.a,,bhaa.a,bga.a,bfaa.a,b.a
+UK,London,University College London,Computer Science,,b.a,djcaa.a,,bjaa.a,eif.a,iaa.a,a.hj
+UK,Leeds,University of Leeds,Software Engineering,Bachelor,d.a,cifaa.a,gf.i,,eif.a,iaa.a,a.hj
+UK,,University of Warwick,Data Science,,b.a,dgiaa.a,gh.c,,eif.a,iaa.a,a.hj
+UK,,University of Sheffield,Artificial Intelligence,PhD,d.a,chjaa.a,ge.f,,eif.a,iaa.a,a.hj
+UK,Birmingham,University of Birmingham,Computer Engineering,Bachelor,d.a,cjfaa.a,gg.i,,eif.a,iaa.a,a.hj
+UK,,University of Southampton,,,b.a,dceaa.a,gf.j,,eif.a,iaa.a,a.hj
+UK,Nottingham,University of Nottingham,Computer Science,Bachelor,d.a,cijaa.a,ge.i,,eif.a,iaa.a,a.hj
+UK,Cardiff,Cardiff University,Software Development,,b.a,dbcaa.a,ge.c,iaa.a,eif.a,iaa.a,a.hj
+UK,Belfast,,,Bachelor,d.a,chfaa.a,gd.f,hfa.a,eif.a,iaa.a,a.hj
+UK,Newcastle,,,,b.a,daiaa.a,ge.g,iaa.a,eif.a,iaa.a,a.hj
+Canada,Hamilton,,Software Engineering,Bachelor,e.a,dcfaa.a,gi.f,bcaa.a,cdf.a,jaa.a,b.df
+Canada,London ON,Western University,Computer Science,,c.a,cjiaa.a,gf.i,,cdf.a,jaa.a,b.df
+Canada,Halifax,Dalhousie University,Data Science,,c.a,cifaa.a,ge.f,bcaa.a,cdf.a,jaa.a,b.df
+Canada,,University of Victoria,Computer Engineering,Bachelor,e.a,chjaa.a,gj.c,bdaa.a,cdf.a,jaa.a,b.df
+Canada,Quebec City,,Artificial Intelligence,,c.a,cbfaa.a,gd.i,,cdf.a,jaa.a,b.df
+Canada,,University of Manitoba,Computer Science,Bachelor,e.a,cgiaa.a,gc.f,,cdf.a,jaa.a,b.df
+Canada,Regina,University of Regina,Software Systems,Bachelor,e.a,cffaa.a,gb.i,,cdf.a,jaa.a,b.df
+Canada,,,Computer Science,,c.a,bjiaa.a,gd.c,,cdf.a,jaa.a,b.df
+Canada,,University of Saskatchewan,,,c.a,cefaa.a,gc.i,,cdf.a,jaa.a,b.df
+Canada,,Université de Sherbrooke,Computer Engineering,PhD,e.a,cafaa.a,gb.f,,cdf.a,jaa.a,b.df
+USA,Pittsburgh,Carnegie Mellon,Computer Science,,c.a,fbcaa.a,,biaa.a,bga.a,bfaa.a,b.a
+USA,,UIUC,Computer Science,PhD,f.a,efiaa.a,gi.f,beaa.a,bga.a,bfaa.a,b.a
+Canada,Calgary,University of Calgary,Software Engineering,Bachelor,e.a,cgfaa.a,gj.c,bdaa.a,cdf.a,jaa.a,b.df
+Brazil,,University of Sao Paulo,Computer Science,,c.a,a.a,ei.f,gaa.a,bga.a,eaa.a,
+Turkey,Istanbul,Bogazici University,Computer Engineering,Bachelor,e.a,,ec.i,efa.a,,daa.a,
+,Moscow,,Applied Mathematics,,c.a,,fb.c,haa.a,bca.a,dfa.a,
+,Mexico City,UNAM,Computer Engineering,Bachelor,e.a,iaa.a,ee.g,faa.a,bga.a,eaa.a,
+Greece,Athens,,Software Engineering,,c.a,,fe.i,ffa.a,bca.a,eaa.a,a.jc
+Thailand,Bangkok,Chulalongkorn University,Computer Science,Bachelor,e.a,,eg.f,efa.a,bea.a,daa.a,
+UAE,Dubai,American University in Dubai,Computer Science,Bachelor,e.a,cjfaa.a,,bcaa.a,cha.a,iaa.a,
+USA,New York,Columbia University,Data Science,,c.a,fciaa.a,baa.a,cfaa.a,bga.a,bfaa.a,b.a
+USA,Ithaca,Cornell University,Computer Science,PhD,f.a,ejiaa.a,ha.f,bgaa.a,bga.a,bfaa.a,b.a
+China,,,Artificial Intelligence,,c.a,icaa.a,fi.e,iaa.a,bea.a,eaa.a,
+South Africa,Cape Town,University of Cape Town,Computer Science,Bachelor,d.a,fjaa.a,ej.c,gaa.a,bea.a,eaa.a,
+Egypt,Cairo,American University in Cairo,Computer Engineering,Bachelor,e.a,bjiaa.a,di.e,efa.a,bda.a,dfa.a,
+Argentina,Buenos Aires,University of Buenos Aires,Software Engineering,Bachelor,f.a,a.a,ec.g,eaa.a,bfa.a,daa.a,icb.f
+,Jakarta,University of Indonesia,Information Systems,Bachelor,e.a,,ef.i,faa.a,bda.a,daa.a,bfgea.a
+,Riyadh,,Computer Science,,c.a,hiaa.a,fc.e,iaa.a,cfa.a,gaa.a,
+,Lagos,University of Lagos,Computer Engineering,Bachelor,e.a,,ea.c,eaa.a,bia.a,daa.a,iga.c
+Vietnam,Ho Chi Minh City,HCMUT,Software Engineering,Bachelor,e.a,,ed.g,efa.a,bca.a,cfa.a,ceefa.a
+,Eindhoven,,Computer Science,,c.a,bfgaa.a,gj.i,,bia.a,,a.jc
+,Enschede,University of Twente,Artificial Intelligence,Bachelor,d.a,bbcaa.a,gf.e,hfa.a,bia.a,,a.jc
+,Groningen,University of Groningen,,,c.a,beiaa.a,gg.i,iaa.a,bia.a,,a.jc
+,Maastricht,,Data Science,Bachelor,d.a,bbfaa.a,gh.c,,bia.a,,a.jc
+,Nijmegen,,Software Science,,c.a,befaa.a,gg.f,iaa.a,bia.a,,a.jc
+,,Tilburg University,Information Systems,Bachelor,d.a,bbdaa.a,gf.i,hfa.a,bia.a,,a.jc
+,,Utrecht University,Game Technology,,c.a,bfcaa.a,ha.c,,bia.a,,a.jc
+,Leiden,,Computer Engineering,Bachelor,d.a,bbeaa.a,gj.f,,bia.a,,a.jc
+,,Wageningen University,Bioinformatics,,c.a,bejaa.a,gf.c,hfa.a,bia.a,,a.jc
+,Amsterdam,VU Amsterdam,Business Analytics,,c.a,bfeaa.a,,,bia.a,,a.jc
+,,,Computer Science,Bachelor,e.a,dcfaa.a,,bfaa.a,,iaa.a,b.de
+,,,Information Systems,Bachelor,e.a,dbiaa.a,,bfaa.a,,iaa.a,b.de
+,,,,Bachelor,e.a,dbcaa.a,,bfaa.a,,iaa.a,b.de
+,,,Software Engineering,Bachelor,e.a,cjiaa.a,,bfaa.a,,iaa.a,b.de
+,,,Artificial Intelligence,,c.a,dfgaa.a,,bfaa.a,,iaa.a,b.de
+,,,Data Science & AI,,c.a,dejaa.a,,bfaa.a,,iaa.a,b.de
+,,,Technology & Innovation,,c.a,ddiaa.a,,bfaa.a,,iaa.a,b.de
+,,,,,c.a,decaa.a,,bfaa.a,,iaa.a,b.de
+,,,Computer Engineering,PhD,e.a,difaa.a,,bfaa.a,,iaa.a,b.de
+,,,Digital Systems & AI,PhD,e.a,dhjaa.a,,bfaa.a,,iaa.a,b.de
+France,Paris,École Polytechnique,Computer Science,,c.a,bfgaa.a,,bfaa.a,,,a.jc
+France,,INSA Toulouse,Software Engineering,Bachelor,d.a,,gf.i,hfa.a,,,a.jc
+France,Lyon,École Normale Supérieure Lyon,Data Science,,c.a,eiaa.a,gi.f,,,,a.jc
+France,Grenoble,Grenoble INP,Artificial Intelligence,,c.a,,gg.e,iaa.a,,,a.jc
+France,Nice,Université Nice Sophia Antipolis,Computer Engineering,Bachelor,d.a,,gj.c,,,,a.jc
+France,Bordeaux,University of Bordeaux,Information Systems,,c.a,,gh.i,,,,a.jc
+France,Lille,Université de Lille,Software Development,Bachelor,d.a,,gf.f,hfa.a,,,a.jc
+France,Rennes,INSA Rennes,,,c.a,,ge.i,haa.a,,,a.jc
+France,,University of Strasbourg,Digital Systems,Bachelor,d.a,,gg.c,iaa.a,,,a.jc
+France,Montpellier,University of Montpellier,,,c.a,,gf.j,hfa.a,,,a.jc
+Switzerland,Lausanne,EPFL,Computer Science,,c.a,,ij.i,bjaa.a,,bcaa.a,a.ij
+Switzerland,Geneva,University of Geneva,Data Science,Bachelor,d.a,,ja.f,caaa.a,,bcaa.a,a.ij
+Switzerland,Bern,University of Bern,Software Engineering,,c.a,,if.e,bhaa.a,,bcaa.a,a.ij
+Switzerland,,University of St. Gallen,Business Informatics,Bachelor,d.a,,ig.c,bgaa.a,,bcaa.a,a.ij
+Switzerland,Lugano,USI,Artificial Intelligence,,c.a,,ie.f,bfaa.a,,bcaa.a,a.ij
+Switzerland,Fribourg,University of Fribourg,Computer Engineering,Bachelor,d.a,,id.i,beaa.a,,bcaa.a,a.ij
+Switzerland,Neuchatel,University of Neuchatel,Information Systems,,c.a,,ie.c,bfaa.a,,bcaa.a,a.ij
+Switzerland,Basel,University of Basel,Computational Science,,c.a,,ih.f,biaa.a,,bcaa.a,a.ij
+Switzerland,Lucerne,University of Lucerne,Digital Innovation,Bachelor,d.a,,if.i,bgaa.a,,bcaa.a,a.ij
+Switzerland,,ZHAW,,,c.a,,ig.e,bhaa.a,,bcaa.a,a.ij
+Denmark,Copenhagen,University of Copenhagen,Computer Science,,c.a,iiaa.a,id.c,bfaa.a,,gaa.a,a.bf
+Denmark,Aarhus,Aarhus University,Data Science,,c.a,igaa.a,,bcaa.a,,gaa.a,a.bf
+Denmark,Aalborg,Aalborg University,Software Engineering,,c.a,ieaa.a,,,,gaa.a,a.bf
+China,Beijing,Tsinghua University,Computer Science,,d.a,ijaa.a,fb.c,iaa.a,bea.a,eaa.a,
+China,Beijing,,Data Science,,d.a,ifaa.a,fb.c,hfa.a,bea.a,eaa.a,
+China,,Fudan University,Software Engineering,,,hiaa.a,ei.j,haa.a,bea.a,eaa.a,
+China,,,Artificial Intelligence,,,icaa.a,ei.j,hca.a,bea.a,eaa.a,
+China,Hangzhou,Zhejiang University,Computer Engineering,,d.a,hfaa.a,ef.d,ffa.a,bea.a,eaa.a,
+China,Nanjing,,Information Technology,,d.a,hcaa.a,ee.b,faa.a,bea.a,eaa.a,
+China,Guangzhou,,Computer Science,,d.a,gjaa.a,ed.i,eia.a,bea.a,eaa.a,
+China,Wuhan,Wuhan University,Software Engineering,,d.a,gfaa.a,eb.c,efa.a,bea.a,eaa.a,
+China,Xi'an,Xi'an Jiaotong University,Data Science,,d.a,gdaa.a,ea.f,eca.a,bea.a,eaa.a,
+China,Chengdu,,Computer Engineering,,d.a,gbaa.a,dj.i,eaa.a,bea.a,eaa.a,
+South Korea,,,Computer Science,,c.a,hcaa.a,if.b,,,iaa.a,bdaa.a
+South Korea,,,Artificial Intelligence,,c.a,haaa.a,if.b,,,iaa.a,bdaa.a
+South Korea,,Yonsei University,Data Science,,c.a,gjaa.a,if.b,,,iaa.a,bdaa.a
+South Korea,,Hanyang University,Software Engineering,,c.a,gfaa.a,if.b,,,iaa.a,bdaa.a
+South Korea,,,Computer Engineering,,c.a,geaa.a,if.b,iea.a,,iaa.a,bdaa.a
+South Korea,Daejeon,KAIST,Robotics Engineering,,c.a,giaa.a,,haa.a,,iaa.a,bdaa.a
+South Korea,Daejeon,Chungnam National University,Information Systems,,c.a,fjaa.a,,gfa.a,,iaa.a,bdaa.a
+South Korea,Busan,,Computer Science,,c.a,fiaa.a,,gaa.a,,iaa.a,bdaa.a
+South Korea,Busan,Dong-A University,Software Engineering,,c.a,fgaa.a,,fia.a,,iaa.a,bdaa.a
+South Korea,Daegu,,,,c.a,ffaa.a,,ffa.a,,iaa.a,bdaa.a
+South Korea,Daegu,Yeungnam University,Computer Engineering,,c.a,feaa.a,,fda.a,,iaa.a,bdaa.a
+South Korea,Gwangju,Chonnam National University,Information Technology,,c.a,fdaa.a,ha.f,fca.a,,iaa.a,bdaa.a
+South Korea,Gwangju,Chosun University,Computer Science,,c.a,fcaa.a,ha.f,faa.a,,iaa.a,bdaa.a
+South Korea,,Ulsan National Institute of Science and Technology,AI Engineering,,c.a,gbaa.a,,fia.a,,iaa.a,bdaa.a
+South Korea,,University of Ulsan,Software Systems,,c.a,fbaa.a,,ffa.a,,iaa.a,bdaa.a
+South Korea,Pohang,,Computer Engineering,,c.a,gdaa.a,,fha.a,,iaa.a,bdaa.a
+South Korea,Incheon,Incheon National University,,,c.a,faaa.a,,gaa.a,,iaa.a,bdaa.a
+South Korea,,,,,c.a,fjaa.a,,gfa.a,,iaa.a,bdaa.a
+South Korea,Daejeon,Hanbat National University,Information Security,,c.a,ejaa.a,,fea.a,,iaa.a,bdaa.a
+South Korea,Cheongju,Chungbuk National University,Computer Networks,,c.a,eiaa.a,ha.b,fca.a,,iaa.a,bdaa.a
+USA,,,Computer Science,Bachelor,e.a,fhaaa.a,jf.c,ceaa.a,bga.a,bfaa.a,b.a
+USA,Cambridge,,,Bachelor,e.a,ffiaa.a,id.f,cdaa.a,bga.a,bfaa.a,b.a
+USA,New Haven,Yale University,,Bachelor,e.a,fefaa.a,,cbaa.a,bga.a,bfaa.a,b.a
+USA,Princeton,,,Bachelor,e.a,feaaa.a,,caaa.a,bga.a,bfaa.a,b.a
+USA,Philadelphia,University of Pennsylvania,,Bachelor,e.a,fdfaa.a,,bjaa.a,bga.a,bfaa.a,b.a
+USA,Los Angeles,UCLA,,Bachelor,e.a,edaaa.a,ii.h,ccaa.a,bga.a,bfaa.a,b.a
+USA,Berkeley,UC Berkeley,,Bachelor,e.a,edfaa.a,jb.f,cdaa.a,bga.a,bfaa.a,b.a
+USA,Ann Arbor,University of Michigan,,Bachelor,e.a,fcaaa.a,,bhaa.a,bga.a,bfaa.a,b.a
+USA,Austin,University of Texas Austin,,Bachelor,e.a,eafaa.a,,biaa.a,bga.a,bfaa.a,b.a
+USA,,University of Washington,,Bachelor,e.a,djiaa.a,if.g,caaa.a,bga.a,bfaa.a,b.a
+USA,Madison,University of Wisconsin-Madison,,Bachelor,e.a,dhfaa.a,,bgaa.a,bga.a,bfaa.a,b.a
+USA,,University of Illinois Urbana-Champaign,,Bachelor,e.a,dgiaa.a,ha.f,bfaa.a,bga.a,bfaa.a,b.a
+USA,Atlanta,Georgia Tech,,Bachelor,e.a,ddfaa.a,,bhaa.a,bga.a,bfaa.a,b.a
+USA,Columbus,,,Bachelor,e.a,dciaa.a,,beaa.a,bga.a,bfaa.a,b.a
+USA,,,,Bachelor,e.a,dbfaa.a,gi.j,bdaa.a,bga.a,bfaa.a,b.a
+USA,Gainesville,University of Florida,,Bachelor,e.a,cifaa.a,ha.c,beaa.a,bga.a,bfaa.a,b.a
+USA,,Arizona State University,,Bachelor,e.a,ciaaa.a,,bfaa.a,bga.a,bfaa.a,b.a
+USA,Raleigh,,,Bachelor,e.a,chfaa.a,,beaa.a,bga.a,bfaa.a,b.a
+USA,College Station,,,Bachelor,e.a,chaaa.a,gj.f,bdaa.a,bga.a,bfaa.a,b.a
+USA,Corvallis,,,Bachelor,e.a,cgfaa.a,ha.b,bdaa.a,bga.a,bfaa.a,b.a
+UK,Cambridge,University of Cambridge,,Bachelor,d.a,difaa.a,,biaa.a,eja.a,iaa.a,a.hj
+UK,Oxford,University of Oxford,,Bachelor,d.a,dhjaa.a,,bifa.a,eja.a,iaa.a,a.hj
+UK,London,Imperial College London,,Bachelor,d.a,dhfaa.a,,ccaa.a,eja.a,iaa.a,a.hj
+UK,London,University College London,,Bachelor,d.a,dgiaa.a,,cbaa.a,eja.a,iaa.a,a.hj
+UK,London,,,Bachelor,d.a,dffaa.a,id.c,caaa.a,eja.a,iaa.a,a.hj
+UK,Edinburgh,University of Edinburgh,,Bachelor,e.a,dcfaa.a,,bgaa.a,eja.a,iaa.a,a.hj
+UK,Manchester,University of Manchester,,Bachelor,d.a,dbiaa.a,,beaa.a,eja.a,iaa.a,a.hj
+UK,Bristol,University of Bristol,,Bachelor,d.a,dbfaa.a,,bfaa.a,eja.a,iaa.a,a.hj
+UK,,University of Warwick,,Bachelor,d.a,dbcaa.a,,bdaa.a,eja.a,iaa.a,a.hj
+UK,Glasgow,University of Glasgow,,Bachelor,e.a,daiaa.a,,beaa.a,eja.a,iaa.a,a.hj
+UK,Birmingham,University of Birmingham,,Bachelor,d.a,dafaa.a,,bdaa.a,eja.a,iaa.a,a.hj
+UK,Leeds,University of Leeds,,Bachelor,d.a,dacaa.a,,bcfa.a,eja.a,iaa.a,a.hj
+UK,,University of Sheffield,,Bachelor,d.a,cjiaa.a,ha.f,bcaa.a,eja.a,iaa.a,a.hj
+UK,Nottingham,University of Nottingham,,Bachelor,d.a,cjfaa.a,,,eja.a,iaa.a,a.hj
+UK,,University of Southampton,,Bachelor,d.a,cjcaa.a,,bdaa.a,eja.a,iaa.a,a.hj
+UK,Durham,Durham University,,Bachelor,d.a,cijaa.a,,bcfa.a,eja.a,iaa.a,a.hj
+UK,Liverpool,University of Liverpool,,Bachelor,d.a,cigaa.a,ha.c,,eja.a,,a.hj
+UK,Cardiff,Cardiff University,,Bachelor,d.a,cidaa.a,gj.i,,eja.a,,a.hj
+UK,Newcastle,,,Bachelor,d.a,ciaaa.a,ha.b,,eja.a,iaa.a,a.hj
+UK,Aberdeen,University of Aberdeen,,Bachelor,e.a,chhaa.a,gj.f,,eja.a,iaa.a,a.hj
+UK,Leicester,University of Leicester,,Bachelor,d.a,cheaa.a,gi.j,,eja.a,iaa.a,a.hj
+UK,Reading,University of Reading,,Bachelor,d.a,chbaa.a,,,eja.a,iaa.a,a.hj
+UK,,University of Sussex,,Bachelor,d.a,cgiaa.a,,,eja.a,iaa.a,a.hj
+UK,Essex,University of Essex,,Bachelor,d.a,cgfaa.a,gj.i,,eja.a,iaa.a,a.hj
+UK,Bath,University of Bath,,Bachelor,d.a,cgcaa.a,,bcfa.a,eja.a,iaa.a,a.hj
+UK,,University of Surrey,,Bachelor,d.a,cfjaa.a,,,eja.a,iaa.a,a.hj
+UK,Exeter,University of Exeter,,Bachelor,d.a,cfgaa.a,,bcaa.a,eja.a,iaa.a,a.hj
+UK,Kent,University of Kent,,Bachelor,d.a,cfdaa.a,ha.f,,eja.a,iaa.a,a.hj
+UK,Dundee,University of Dundee,,Bachelor,e.a,cfaaa.a,gi.j,,eja.a,iaa.a,a.hj
+UK,,University of Strathclyde,,Bachelor,e.a,cehaa.a,gj.c,,eja.a,iaa.a,a.hj
+UK,Heriot-Watt,Heriot-Watt University,,Bachelor,e.a,ceeaa.a,gj.f,,eja.a,iaa.a,a.hj
+UK,Loughborough,,,Bachelor,d.a,cebaa.a,gi.f,,eja.a,iaa.a,a.hj
+UK,Brunel,Brunel University London,,Bachelor,d.a,cdiaa.a,,biaa.a,eja.a,iaa.a,a.hj
+UK,Queen Mary,,,Bachelor,d.a,cdfaa.a,,bjaa.a,eja.a,iaa.a,a.hj
+UK,Royal Holloway,,,Bachelor,d.a,cdcaa.a,,beaa.a,eja.a,iaa.a,a.hj
+UK,Lancaster,,,Bachelor,d.a,ccjaa.a,gj.i,,eja.a,iaa.a,a.hj
+UK,,,,Bachelor,d.a,ccgaa.a,gi.f,,eja.a,iaa.a,a.hj
+UK,Aston,Aston University,,Bachelor,d.a,ccdaa.a,,bcaa.a,eja.a,iaa.a,a.hj
+UK,Hull,University of Hull,,Bachelor,,ccaaa.a,gh.j,,eja.a,iaa.a,a.hj
+UK,Keele,,,Bachelor,d.a,cbhaa.a,gh.f,iaa.a,eja.a,iaa.a,a.hj
+UK,Plymouth,University of Plymouth,,Bachelor,d.a,cbeaa.a,gj.c,,eja.a,iaa.a,a.hj
+UK,Portsmouth,University of Portsmouth,,Bachelor,d.a,cbbaa.a,ha.f,,eja.a,iaa.a,a.hj
+UK,,Ulster University,,Bachelor,d.a,caiaa.a,gh.c,iaa.a,eja.a,iaa.a,a.hj
+UK,Northumbria,,,Bachelor,d.a,cafaa.a,gi.f,,eja.a,iaa.a,a.hj
+UK,Coventry,Coventry University,,Bachelor,d.a,cacaa.a,gj.i,,eja.a,iaa.a,a.hj
+UK,Oxford Brookes,,,Bachelor,d.a,bjjaa.a,,bfaa.a,eja.a,iaa.a,a.hj
+UK,De Montfort,De Montfort University,,Bachelor,d.a,bjgaa.a,gi.j,,eja.a,iaa.a,a.hj
+UK,,University of Westminster,,Bachelor,d.a,bjdaa.a,,biaa.a,eja.a,iaa.a,a.hj
+UK,Greenwich,University of Greenwich,,Bachelor,d.a,bjaaa.a,id.c,bhaa.a,eja.a,iaa.a,a.hj
+UK,Kingston,,,Bachelor,d.a,bihaa.a,id.c,bgaa.a,eja.a,iaa.a,a.hj
+Canada,,University of Toronto,,Bachelor,e.a,efcaa.a,,biaa.a,cdf.a,gaa.a,b.df
+Canada,,University of Toronto,,,c.a,cifaa.a,,biaa.a,cdf.a,gaa.a,b.df
+Canada,,University of British Columbia,,Bachelor,e.a,ediaa.a,,bjaa.a,cdf.a,gaa.a,b.df
+Canada,,University of British Columbia,,,c.a,chjaa.a,,bjaa.a,cdf.a,gaa.a,b.df
+Canada,Montreal,,,Bachelor,e.a,ebfaa.a,gf.i,bfaa.a,cdf.a,gaa.a,b.df
+Canada,Montreal,,,,,cgiaa.a,gf.i,bfaa.a,cdf.a,gaa.a,b.df
+Canada,,University of Waterloo,,Bachelor,e.a,eajaa.a,gc.e,bdaa.a,cdf.a,gaa.a,b.df
+Canada,,University of Waterloo,,,,cgcaa.a,gc.e,bdaa.a,cdf.a,gaa.a,b.df
+Canada,Montreal,University of Montreal,,Bachelor,e.a,djfaa.a,gf.i,beaa.a,cdf.a,gaa.a,b.df
+Canada,Montreal,University of Montreal,,,,cfiaa.a,gf.i,beaa.a,cdf.a,gaa.a,b.df
+Canada,Edmonton,University of Alberta,,Bachelor,e.a,dicaa.a,gb.j,,cdf.a,gaa.a,b.df
+Canada,Edmonton,University of Alberta,,,,cejaa.a,gb.j,,cdf.a,gaa.a,b.df
+Canada,Ottawa,University of Ottawa,,Bachelor,e.a,dhiaa.a,gd.f,beaa.a,cdf.a,gaa.a,b.df
+Canada,Ottawa,University of Ottawa,,,,cefaa.a,gd.f,beaa.a,cdf.a,gaa.a,b.df
+Canada,Calgary,University of Calgary,,Bachelor,e.a,dhcaa.a,gc.i,bdaa.a,cdf.a,gaa.a,b.df
+Canada,Calgary,University of Calgary,,,,cebaa.a,gc.i,bdaa.a,cdf.a,gaa.a,b.df
+Canada,Hamilton,,Computer Science,Bachelor,e.a,dgfaa.a,ge.c,bcfa.a,cdf.a,gaa.a,b.df
+Canada,Hamilton,,Computer Science,,,cdiaa.a,ge.c,bcfa.a,cdf.a,gaa.a,b.df
+Canada,London,Western University,Computer Science,Bachelor,e.a,dfjaa.a,gb.f,bcaa.a,cdf.a,gaa.a,b.df
+Canada,London,Western University,Computer Science,,,cdfaa.a,gb.f,bcaa.a,cdf.a,gaa.a,b.df
+Canada,Kingston,,Computer Science,Bachelor,e.a,dfeaa.a,gc.b,bdaa.a,cdf.a,gaa.a,b.df
+Canada,Kingston,,Computer Science,,,cdcaa.a,gc.b,bdaa.a,cdf.a,gaa.a,b.df
+Canada,,University of Victoria,Computer Science,Bachelor,e.a,deiaa.a,ge.i,beaa.a,cdf.a,gaa.a,b.df
+Canada,,University of Victoria,Computer Science,,,ccjaa.a,ge.i,beaa.a,cdf.a,gaa.a,b.df
+Canada,Halifax,Dalhousie University,Computer Science,Bachelor,e.a,decaa.a,gb.c,bcaa.a,cdf.a,gaa.a,b.df
+Canada,Halifax,Dalhousie University,Computer Science,,,ccgaa.a,gb.c,,cdf.a,gaa.a,b.df
+Canada,,University of Manitoba,Computer Science,Bachelor,e.a,ddgaa.a,fj.i,,cdf.a,gaa.a,b.df
+Canada,,University of Manitoba,Computer Science,,,ccdaa.a,fj.i,,cdf.a,gaa.a,b.df
+Canada,Quebec City,,Computer Science,Bachelor,e.a,ddaaa.a,fi.f,,cdf.a,gaa.a,b.df
+Canada,Quebec City,,Computer Science,,,ccaaa.a,fi.f,,cdf.a,gaa.a,b.df
+Canada,,University of Saskatchewan,Computer Science,Bachelor,e.a,dceaa.a,fi.c,,cdf.a,gaa.a,b.df
+Canada,,University of Saskatchewan,Computer Science,,,cbhaa.a,fi.c,,cdf.a,gaa.a,b.df
+Canada,,,Computer Science,Bachelor,e.a,dbiaa.a,fh.j,,cdf.a,gaa.a,b.df
+Canada,,,Computer Science,,,cbeaa.a,fh.j,,cdf.a,gaa.a,b.df
+Canada,Regina,University of Regina,Computer Science,Bachelor,e.a,dbcaa.a,fh.f,,cdf.a,gaa.a,b.df
+Canada,Regina,University of Regina,Computer Science,,,cbbaa.a,fh.f,,cdf.a,gaa.a,b.df
+Canada,,University of Sherbrooke,Computer Science,Bachelor,e.a,dagaa.a,fg.i,ifa.a,cdf.a,gaa.a,b.df
+Canada,,University of Sherbrooke,Computer Science,,,caiaa.a,fg.i,ifa.a,cdf.a,gaa.a,b.df
+Canada,,University of Windsor,Computer Science,Bachelor,e.a,daaaa.a,fi.j,,cdf.a,gaa.a,b.df
+Canada,,University of Windsor,Computer Science,,,cafaa.a,fi.j,,cdf.a,gaa.a,b.df
+Canada,Moncton,University of New Brunswick,Computer Science,Bachelor,e.a,cjeaa.a,fh.c,,cdf.a,gaa.a,b.df
+Canada,Moncton,University of New Brunswick,Computer Science,,,cacaa.a,fh.c,,cdf.a,gaa.a,b.df
+Canada,,UQTR,Computer Science,Bachelor,e.a,ciiaa.a,fg.f,ifa.a,cdf.a,gaa.a,b.df
+Canada,,UQTR,Computer Science,,,bjjaa.a,fg.f,ifa.a,cdf.a,gaa.a,b.df
+Canada,,,Computer Science,Bachelor,e.a,cicaa.a,fg.c,iaa.a,cdf.a,gaa.a,b.df
+Canada,,,Computer Science,,,bjgaa.a,fg.c,iaa.a,cdf.a,gaa.a,b.df
+Canada,,,Computer Science,Bachelor,e.a,chgaa.a,ff.i,iaa.a,cdf.a,gaa.a,b.df
+Canada,,,Computer Science,,,bjdaa.a,ff.i,iaa.a,cdf.a,gaa.a,b.df
+Canada,Prince George,UNBC,Computer Science,Bachelor,e.a,chaaa.a,ff.f,hfa.a,cdf.a,gaa.a,b.df
+Canada,Prince George,UNBC,Computer Science,,,bjaaa.a,ff.f,hfa.a,cdf.a,gaa.a,b.df
+Australia,Melbourne,University of Melbourne,Computer Science,Bachelor,,ecfaa.a,,biaa.a,efa.a,,b.fc
+Australia,Melbourne,University of Melbourne,Computer Science,,,efiaa.a,,biaa.a,efa.a,,b.fc
+Australia,Melbourne,University of Melbourne,Computer Science,PhD,e.a,dfaaa.a,,biaa.a,efa.a,,b.fc
+Australia,,University of Sydney,Computer Science,Bachelor,,ebiaa.a,,caaa.a,efa.a,,b.fc
+Australia,,University of Sydney,Computer Science,,,eejaa.a,,caaa.a,efa.a,,b.fc
+Australia,,University of Sydney,Computer Science,PhD,e.a,defaa.a,,caaa.a,efa.a,,b.fc
+Australia,Canberra,Australian National University,Computer Science,Bachelor,,ebcaa.a,gi.j,bgaa.a,efa.a,,b.fc
+Australia,Canberra,Australian National University,Computer Science,,,eecaa.a,gi.j,bgaa.a,efa.a,,b.fc
+Australia,Canberra,Australian National University,Computer Science,PhD,e.a,deaaa.a,gi.j,bgaa.a,efa.a,,b.fc
+Australia,Brisbane,University of Queensland,Computer Science,Bachelor,,eafaa.a,gj.c,bfaa.a,efa.a,,b.fc
+Australia,Brisbane,University of Queensland,Computer Science,,,edfaa.a,gj.c,bfaa.a,efa.a,,b.fc
+Australia,Brisbane,University of Queensland,Computer Science,PhD,e.a,ddfaa.a,gj.c,bfaa.a,efa.a,,b.fc
+Australia,,University of New South Wales,Computer Science,Bachelor,,eacaa.a,,bjaa.a,efa.a,,b.fc
+Australia,,University of New South Wales,Computer Science,,,edcaa.a,,bjaa.a,efa.a,,b.fc
+Australia,,University of New South Wales,Computer Science,PhD,e.a,ddcaa.a,,bjaa.a,efa.a,,b.fc
+Australia,Melbourne,,Computer Science,Bachelor,,djiaa.a,,bhaa.a,efa.a,,b.fc
+Australia,Melbourne,,Computer Science,,,eciaa.a,,bhaa.a,efa.a,,b.fc
+Australia,Melbourne,,Computer Science,PhD,e.a,dciaa.a,,bhaa.a,efa.a,,b.fc
+Australia,Adelaide,University of Adelaide,Computer Science,Bachelor,,djcaa.a,gh.f,beaa.a,efa.a,,b.fc
+Australia,Adelaide,University of Adelaide,Computer Science,,,eccaa.a,gh.f,beaa.a,efa.a,,b.fc
+Australia,Adelaide,University of Adelaide,Computer Science,PhD,e.a,dccaa.a,gh.f,beaa.a,efa.a,,b.fc
+Australia,Perth,University of Western Australia,Computer Science,Bachelor,,diiaa.a,gi.c,bfaa.a,efa.a,,b.fc
+Australia,Perth,University of Western Australia,Computer Science,,,ebiaa.a,gi.c,bfaa.a,efa.a,,b.fc
+Australia,Perth,University of Western Australia,Computer Science,PhD,e.a,dbiaa.a,gi.c,bfaa.a,efa.a,,b.fc
+Australia,Brisbane,,Computer Science,Bachelor,,dicaa.a,gj.c,beaa.a,efa.a,,b.fc
+Australia,Brisbane,,Computer Science,,,ebcaa.a,gj.c,beaa.a,efa.a,,b.fc
+Australia,Brisbane,,Computer Science,PhD,e.a,dbcaa.a,gj.c,beaa.a,efa.a,,b.fc
+Australia,,University of Technology Sydney,Computer Science,Bachelor,,dhiaa.a,,biaa.a,efa.a,,b.fc
+Australia,,University of Technology Sydney,Computer Science,,,eaiaa.a,,biaa.a,efa.a,,b.fc
+Australia,,University of Technology Sydney,Computer Science,PhD,e.a,daiaa.a,,biaa.a,efa.a,,b.fc
+Australia,Melbourne,,Computer Science,Bachelor,,dhcaa.a,,bgaa.a,efa.a,,b.fc
+Australia,Melbourne,,Computer Science,,,eacaa.a,,bgaa.a,efa.a,,b.fc
+Australia,Melbourne,,Computer Science,PhD,e.a,dacaa.a,,bgaa.a,efa.a,,b.fc
+Australia,Wollongong,University of Wollongong,Computer Science,Bachelor,,dgiaa.a,gf.i,bdaa.a,efa.a,,b.fc
+Australia,Wollongong,University of Wollongong,Computer Science,,,djiaa.a,gf.i,bdaa.a,efa.a,,b.fc
+Australia,Wollongong,University of Wollongong,Computer Science,PhD,e.a,cjiaa.a,gf.i,bdaa.a,efa.a,,b.fc
+Australia,Newcastle,University of Newcastle,Computer Science,Bachelor,,dgcaa.a,gg.c,bdaa.a,efa.a,,b.fc
+Australia,Newcastle,University of Newcastle,Computer Science,,,djcaa.a,gg.c,bdaa.a,efa.a,,b.fc
+Australia,Newcastle,University of Newcastle,Computer Science,PhD,e.a,cjcaa.a,gg.c,bdaa.a,efa.a,,b.fc
+Australia,Hobart,University of Tasmania,Computer Science,Bachelor,,dfiaa.a,ge.f,,efa.a,,b.fc
+Australia,Hobart,University of Tasmania,Computer Science,Master,,diiaa.a,ge.f,bcaa.a,efa.a,,b.fc
+Australia,Hobart,University of Tasmania,Computer Science,PhD,e.a,ciiaa.a,ge.f,bcaa.a,efa.a,,b.fc
+Australia,Gold Coast,Griffith University,Computer Science,Bachelor,,dfcaa.a,gi.f,beaa.a,efa.a,,b.fc
+Australia,Gold Coast,Griffith University,Computer Science,Master,,dicaa.a,gi.f,beaa.a,efa.a,,b.fc
+Australia,Gold Coast,Griffith University,Computer Science,PhD,e.a,cicaa.a,gi.f,beaa.a,efa.a,,b.fc
+Australia,Canberra,University of Canberra,Computer Science,Bachelor,,deiaa.a,gi.j,bfaa.a,efa.a,,b.fc
+Australia,Canberra,University of Canberra,Computer Science,Master,,dhiaa.a,gi.j,bfaa.a,efa.a,,b.fc
+Australia,Canberra,University of Canberra,Computer Science,PhD,e.a,chiaa.a,gi.j,bfaa.a,efa.a,,b.fc
+Australia,,James Cook University,Computer Science,Bachelor,,decaa.a,gf.c,bcaa.a,efa.a,,b.fc
+Australia,,James Cook University,Computer Science,Master,,dhcaa.a,gf.c,bcaa.a,efa.a,,b.fc
+Australia,,James Cook University,Computer Science,PhD,e.a,chcaa.a,gf.c,,efa.a,,b.fc
+Australia,Armidale,University of New England,Computer Science,Bachelor,,ddiaa.a,gd.i,,efa.a,,b.fc
+Australia,Armidale,University of New England,Computer Science,Master,,dgiaa.a,gd.i,,efa.a,gfa.a,b.fc
+Australia,Armidale,University of New England,Computer Science,PhD,e.a,cgiaa.a,gd.i,,efa.a,,b.fc
+Australia,,University of Southern Queensland,Computer Science,Bachelor,,ddcaa.a,ge.c,,efa.a,,b.fc
+Australia,,University of Southern Queensland,Computer Science,Master,,dgcaa.a,ge.c,,efa.a,,b.fc
+Australia,,University of Southern Queensland,Computer Science,PhD,e.a,cgcaa.a,ge.c,,efa.a,,b.fc
+Australia,Ballarat,Federation University,Computer Science,Bachelor,,dciaa.a,gd.f,,efa.a,gfa.a,b.fc
+Australia,Ballarat,Federation University,Computer Science,Master,,dfiaa.a,gd.f,,efa.a,gfa.a,b.fc
+Australia,Ballarat,Federation University,Computer Science,PhD,e.a,cfiaa.a,gd.f,,efa.a,gfa.a,b.fc
+Australia,Lismore,,Computer Science,Bachelor,,dccaa.a,gd.c,,efa.a,gfa.a,b.fc
+Australia,Lismore,,Computer Science,Master,,dfcaa.a,gd.c,,efa.a,gfa.a,b.fc
+Australia,Lismore,,Computer Science,PhD,e.a,cfcaa.a,gd.c,,efa.a,gfa.a,b.fc
+USA,Boston,,Computer Science,Master,,fiaaa.a,,cbaa.a,bga.a,bfaa.a,b.a
+UK,London,Imperial College London,,Master,b.a,ecaaa.a,,biaa.a,eif.a,iaa.a,a.hj
+Germany,Munich,,Mechanical Engineering,Master,,a.a,,,,jaa.a,a.jc
+Canada,,University of Toronto,Business Analytics,Master,,efaaa.a,,bhaa.a,cdf.a,,b.df
+Australia,Melbourne,University of Melbourne,Artificial Intelligence,PhD,e.a,cjaaa.a,,bfaa.a,efa.a,,b.fc
+USA,,,Physics,PhD,f.a,fcaaa.a,ie.d,cdaa.a,bga.a,bfaa.a,b.a
+UK,Edinburgh,University of Edinburgh,Chemistry,Master,,diaaa.a,gh.i,,eif.a,iaa.a,a.hj
+Germany,Berlin,Humboldt University,Computer Science,Bachelor,,a.a,gi.j,,,jaa.a,a.jc
+Canada,,University of British Columbia,Environmental Science,Master,,ecaaa.a,,bgaa.a,cdf.a,,b.df
+Australia,,University of Sydney,Biotechnology,PhD,e.a,dbaaa.a,,bhaa.a,efa.a,,b.fc
+USA,Berkeley,UC Berkeley,Mathematics,Master,,feaaa.a,id.c,caaa.a,bga.a,bfaa.a,b.a
+UK,Manchester,University of Manchester,Engineering,Bachelor,,dfaaa.a,gf.e,,eif.a,iaa.a,a.hj
+Germany,Hamburg,University of Hamburg,Physics,Master,,a.a,gj.i,,bba.a,jaa.a,a.jc
+Canada,Montreal,,Computer Science,PhD,e.a,diaaa.a,gi.j,beaa.a,cdf.a,,b.df
+Australia,Brisbane,University of Queensland,,Master,,dcaaa.a,gi.h,bcaa.a,efa.a,,b.fc
+USA,New York,Columbia University,Economics,Master,,gcaaa.a,baa.a,cfaa.a,bga.a,bfaa.a,b.a
+UK,Oxford,University of Oxford,Computer Science,PhD,e.a,eaaaa.a,,beaa.a,eif.a,iaa.a,a.hj
+Germany,Dresden,,Mechanical Engineering,Bachelor,,a.a,gf.e,iaa.a,,jaa.a,a.jc
+Canada,Ottawa,University of Ottawa,Artificial Intelligence,Master,,eaaaa.a,gh.i,bdaa.a,cdf.a,,b.df
+Australia,Perth,University of Western Australia,Physics,Master,,daaaa.a,gh.c,,efa.a,,b.fc
+USA,Atlanta,Georgia Tech,Engineering,PhD,f.a,eiaaa.a,,bhaa.a,bga.a,bfaa.a,b.a
+UK,Bristol,University of Bristol,Data Science,Master,,dgaaa.a,gi.j,bcaa.a,eif.a,iaa.a,a.hj
+Germany,Frankfurt,Goethe University,Computer Science,Master,,a.a,,bdaa.a,,jaa.a,a.jc
+Canada,Calgary,University of Calgary,Mathematics,Bachelor,e.a,dfaaa.a,gf.e,bcaa.a,cdf.a,,b.df
+Australia,Adelaide,University of Adelaide,Chemistry,PhD,e.a,ciaaa.a,ge.f,,efa.a,,b.fc
+USA,Los Angeles,UCLA,Computer Science,Master,,fcaaa.a,,ccaa.a,bga.a,bfaa.a,b.a
+UK,Glasgow,University of Glasgow,Physics,Bachelor,,deaaa.a,ge.f,,eif.a,iaa.a,a.hj
+Germany,,University of Stuttgart,Engineering,Master,,a.a,gi.h,,,jaa.a,a.jc
+Canada,Edmonton,University of Alberta,,Master,,dhaaa.a,ge.d,,cdf.a,,b.df
+Australia,Canberra,Australian National University,Computer Science,PhD,e.a,ddaaa.a,gj.i,bdaa.a,efa.a,,b.fc
+USA,Austin,UT Austin,Mathematics,Master,,efaaa.a,gi.j,bgaa.a,bga.a,bfaa.a,b.a
+UK,Leeds,University of Leeds,Chemistry,PhD,e.a,dfaaa.a,gd.c,,eif.a,iaa.a,a.hj
+Germany,Heidelberg,Heidelberg University,Physics,Bachelor,,a.a,gh.i,,,jaa.a,a.jc
+Canada,Halifax,Dalhousie University,Engineering,Master,,dgaaa.a,gd.e,,cdf.a,,b.df
+Australia,Gold Coast,Griffith University,,Master,,cjaaa.a,gf.e,,efa.a,,b.fc
+USA,,University of Washington,Computer Science,PhD,f.a,faaaa.a,,caaa.a,bga.a,bfaa.a,b.a
+UK,,University of Sheffield,Engineering,Master,,ddaaa.a,gc.d,ifa.a,eif.a,iaa.a,a.hj
+Germany,Cologne,University of Cologne,Mathematics,Master,,a.a,gj.i,bcaa.a,,jaa.a,a.jc
+Canada,Quebec City,,Physics,Bachelor,,deaaa.a,gc.b,,cdf.a,,b.df
+Australia,Newcastle,University of Newcastle,Chemistry,Master,,chaaa.a,gd.c,,efa.a,,b.fc
+USA,Pittsburgh,Carnegie Mellon,,Master,,fgaaa.a,gf.e,bfaa.a,bga.a,bfaa.a,b.a
+UK,Nottingham,University of Nottingham,Computer Science,PhD,e.a,deaaa.a,gb.c,iaa.a,eif.a,iaa.a,a.hj
+Germany,Bonn,University of Bonn,Engineering,Master,,a.a,gh.i,,bba.a,jaa.a,a.jc
+Canada,,University of Victoria,Mathematics,Master,,dfaaa.a,ge.f,,cdf.a,,b.df
+Australia,Hobart,University of Tasmania,Physics,Bachelor,,cgaaa.a,gc.b,,efa.a,,b.fc
+USA,,UC San Diego,Chemistry,PhD,f.a,ejaaa.a,,bjaa.a,bga.a,bfaa.a,b.a
+UK,Durham,Durham University,Engineering,Master,,dfaaa.a,gd.e,,eif.a,iaa.a,a.hj
+Germany,Aachen,,Computer Science,Bachelor,,a.a,gi.j,,bba.a,jaa.a,a.jc
+Canada,,University of Manitoba,,Master,,ddaaa.a,gb.c,,cdf.a,,b.df
+Australia,Wollongong,University of Wollongong,Mathematics,PhD,e.a,ciaaa.a,gd.e,,efa.a,,b.fc
+USA,,UC Berkeley Extension,,,,fcaaa.a,jf.c,ceaa.a,bga.a,bfaa.a,b.a
+UK,London,,Computer Science,,b.a,djaaa.a,,bjaa.a,eif.a,iaa.a,a.hj
+Switzerland,Zurich,ETH Zurich,Computer Science,,,,bcc.e,caaa.a,bea.a,bcaa.a,a.ij
+France,Paris,,,,,,ie.d,biaa.a,,ifa.a,a.jc
+,Dublin,Trinity College Dublin,Computer Science,PhD,e.a,bijaa.a,id.g,bhaa.a,bfa.a,,a.jc
+USA,Chicago,University of Chicago,Data Science,,,fiaaa.a,ie.b,bjaa.a,bga.a,bfaa.a,b.a
+UK,Cambridge,Anglia Ruskin University,,Bachelor,,dfaaa.a,,bfaa.a,eif.a,iaa.a,a.hj
+Switzerland,Lausanne,EPFL,Computer Science,PhD,e.a,,bbj.i,bjaa.a,bea.a,bcaa.a,a.ij
+France,Lyon,University of Lyon,Data Science,,,,,bcaa.a,,ifa.a,a.jc
+,Cork,University College Cork,Computer Science,,,bgiaa.a,,bdaa.a,bfa.a,,a.jc
+USA,Boston,,,,,feaaa.a,,ccaa.a,bga.a,bfaa.a,b.a
+UK,Edinburgh,Heriot-Watt University,Computer Science,,b.a,dhaaa.a,gh.i,bcaa.a,eif.a,iaa.a,a.hj
+Switzerland,Geneva,University of Geneva,Data Science,,,,bbg.f,biaa.a,bea.a,bcaa.a,a.ij
+France,,University of Toulouse,Computer Science,Bachelor,,,,,,ifa.a,a.jc
+,Galway,,,,,bfjaa.a,,,bfa.a,,a.jc
+USA,,University of Washington,Data Science,PhD,e.a,fbaaa.a,,cbaa.a,bga.a,bfaa.a,b.a
+UK,Birmingham,University of Birmingham,Computer Science,,b.a,dgaaa.a,gf.e,,eif.a,iaa.a,a.hj
+Switzerland,Basel,University of Basel,Data Science,,,,bbe.d,bhaa.a,bea.a,bcaa.a,a.ij
+France,Bordeaux,University of Bordeaux,,Master,,,,,,ifa.a,a.jc
+,Limerick,University of Limerick,Computer Science,Bachelor,e.a,bfeaa.a,,,bfa.a,,a.jc
+USA,Austin,UT Austin,Computer Science,Master,,ejaaa.a,gi.j,biaa.a,bga.a,bfaa.a,b.a
+UK,Manchester,University of Salford,Data Science,Master,b.a,dfaaa.a,gf.e,,eif.a,iaa.a,a.hj
+Switzerland,,University of St. Gallen,,Master,,,bbc.b,bgaa.a,bea.a,bcaa.a,a.ij
+France,Nice,University of Nice,Computer Science,Master,,,,bdaa.a,,ifa.a,a.jc
+,Maynooth,,Data Science,PhD,e.a,bejaa.a,ha.b,,bfa.a,,a.jc
+USA,Denver,University of Denver,,Master,,ehaaa.a,gj.i,bhaa.a,bga.a,bfaa.a,b.a
+UK,Leeds,,Computer Science,Bachelor,,deaaa.a,gd.c,,eif.a,iaa.a,a.hj
+Switzerland,Bern,University of Bern,Data Science,Master,,,bba.e,bfaa.a,bea.a,bcaa.a,a.ij
+France,Lille,University of Lille,,PhD,e.a,,gj.i,,,ifa.a,a.jc
+,,Waterford IT,Computer Science,Master,,befaa.a,gi.j,,bfa.a,,a.jc
+USA,Portland,,Data Science,Master,,efaaa.a,,bgaa.a,bga.a,bfaa.a,b.a
+UK,Bristol,UWE Bristol,Computer Science,Master,b.a,ddaaa.a,gi.j,,eif.a,iaa.a,a.hj
+Switzerland,Lugano,USI Lugano,,Master,,,bai.j,beaa.a,bea.a,bcaa.a,a.ij
+France,,University of Strasbourg,Computer Science,Master,c.a,,ha.c,,,ifa.a,a.jc
+,,IT Sligo,Data Science,Bachelor,e.a,beaaa.a,gh.f,,bfa.a,,a.jc
+USA,Minneapolis,University of Minnesota,Computer Science,PhD,e.a,eiaaa.a,,bhaa.a,bga.a,bfaa.a,b.a
+UK,Cardiff,Cardiff University,,Master,b.a,deaaa.a,ge.f,,eif.a,iaa.a,a.hj
+Switzerland,Fribourg,University of Fribourg,Computer Science,Master,c.a,,bah.i,bdaa.a,bea.a,bcaa.a,a.ij
+France,Grenoble,Grenoble INP,Data Science,Master,c.a,,,,,ifa.a,a.jc
+,Athlone,Athlone IT,,Master,c.a,bdiaa.a,gg.h,iaa.a,bfa.a,,a.jc
+,Oslo,University of Oslo,Computer Science,Master,c.a,a.a,id.c,beaa.a,chf.a,,
+Finland,Helsinki,University of Helsinki,Data Science,Master,c.a,a.a,,bcaa.a,dfa.a,,a.jc
+Germany,Berlin,,Mechanical Engineering,Master,c.a,a.a,gi.j,,bba.a,jaa.a,a.jc
+Denmark,Copenhagen,University of Copenhagen,Physics,PhD,e.a,a.a,,bfaa.a,efa.a,iaa.a,
+,,,Robotics,Master,,a.a,,,chf.a,,
+Finland,Espoo,Aalto University,Computer Engineering,Bachelor,,a.a,,,dfa.a,,a.jc
+Germany,Munich,,Mathematics,PhD,e.a,a.a,,bdaa.a,bba.a,jaa.a,a.jc
+Denmark,Aarhus,Aarhus University,,Master,,a.a,,bcaa.a,efa.a,iaa.a,
+,Bergen,University of Bergen,Artificial Intelligence,Master,,a.a,,bcaa.a,chf.a,,
+Finland,,,Software Engineering,Master,c.a,a.a,,,dfa.a,,a.jc
+Germany,Dresden,,Computer Science,Bachelor,d.a,a.a,gf.e,,bba.a,jaa.a,a.jc
+Denmark,Odense,University of Southern Denmark,Biotechnology,Master,c.a,a.a,,,efa.a,iaa.a,
+,,UiT Arctic University,Marine Technology,PhD,e.a,a.a,,,chf.a,,
+Finland,,University of Turku,Bioinformatics,Master,c.a,a.a,,ifa.a,dfa.a,,a.jc
+Germany,Hamburg,,Electrical Engineering,Master,c.a,a.a,gj.i,bcaa.a,,jaa.a,a.jc
+Denmark,Aalborg,Aalborg University,Energy Engineering,Bachelor,d.a,a.a,,,efa.a,iaa.a,
+,,University of Stavanger,Petroleum Engineering,Master,c.a,a.a,,,chf.a,,
+Finland,Oulu,University of Oulu,Computer Science,PhD,e.a,a.a,ha.c,iaa.a,dfa.a,,a.jc
+Germany,,University of Stuttgart,Aerospace Engineering,Master,c.a,a.a,gi.h,,,jaa.a,a.jc
+Denmark,Roskilde,,Environmental Science,Master,c.a,a.a,ha.i,,efa.a,iaa.a,
+,Ås,,Biotechnology,Master,c.a,a.a,ha.f,,chf.a,,
+Finland,,University of Vaasa,Industrial Management,Master,c.a,a.a,gj.i,iaa.a,dfa.a,,a.jc
+Germany,Karlsruhe,KIT,Mechatronics,PhD,e.a,a.a,gh.j,,,jaa.a,a.jc
+Denmark,Lyngby,,Quantum Engineering,Master,c.a,a.a,,beaa.a,efa.a,iaa.a,
+,Bodø,,Marine Biology,Bachelor,d.a,a.a,gj.e,ifa.a,chf.a,,
+Finland,Jyväskylä,University of Jyväskylä,Data Science,Master,c.a,a.a,gi.h,hfa.a,dfa.a,,a.jc
+Germany,Darmstadt,,Computer Engineering,,c.a,a.a,gg.i,,,jaa.a,a.jc
+Denmark,Kolding,University of Southern Denmark,Software Engineering,PhD,e.a,a.a,gj.f,,efa.a,iaa.a,
+,Gjøvik,,Information Security,,c.a,a.a,gi.j,iaa.a,chf.a,,
+Finland,Lappeenranta,,Industrial Engineering,Master,c.a,a.a,gh.f,haa.a,dfa.a,,a.jc
+Germany,Bremen,University of Bremen,Robotics,Master,c.a,a.a,gg.f,,,jaa.a,a.jc
+Denmark,Esbjerg,University of Southern Denmark,Environmental Engineering,Master,c.a,a.a,gi.e,ifa.a,efa.a,iaa.a,
+,Kristiansand,University of Agder,Renewable Energy,PhD,e.a,a.a,gh.i,ifa.a,chf.a,,
+Finland,Kuopio,University of Eastern Finland,Environmental Science,Bachelor,d.a,a.a,gg.j,haa.a,dfa.a,,a.jc
+Germany,Aachen,,Materials Science,Master,c.a,a.a,gi.j,,,jaa.a,a.jc
+Denmark,,University of Copenhagen,Bioinformatics,Master,c.a,a.a,gh.f,,efa.a,iaa.a,
+,Horten,University of South-Eastern Norway,Systems Engineering,Master,c.a,a.a,gg.h,iaa.a,chf.a,,
+Finland,Joensuu,University of Eastern Finland,Forestry Sciences,PhD,e.a,a.a,gf.i,gfa.a,dfa.a,,a.jc
+Germany,Jena,University of Jena,Photonics,Master,c.a,a.a,gf.e,ifa.a,,jaa.a,a.jc
+Denmark,Herning,Aarhus University,Engineering Management,Master,c.a,a.a,gg.c,iaa.a,efa.a,iaa.a,
+,Auckland,University of Auckland,,Master,c.a,dcaaa.a,,bcaa.a,dda.a,gaa.a,
+USA,Boston,,Data Science,Master,c.a,feaaa.a,,caaa.a,bga.a,bfaa.a,b.a
+Sweden,,KTH Royal Institute,Engineering Physics,Master,c.a,a.a,,,bca.a,,
+,Amsterdam,University of Amsterdam,Artificial Intelligence,PhD,e.a,bfaaa.a,,bdaa.a,bhb.a,,a.jc
+,Lisbon,University of Lisbon,Computer Engineering,Master,c.a,haaa.a,gf.i,iaa.a,hf.a,eaa.a,a.jc
+,,Victoria University,,Master,c.a,daaaa.a,,,dda.a,gaa.a,
+USA,Austin,UT Austin,Robotics,PhD,f.a,eiaaa.a,gi.j,bgaa.a,bga.a,bfaa.a,b.a
+Sweden,,Uppsala University,Mathematics,Bachelor,d.a,a.a,,,bca.a,,
+,Rotterdam,Erasmus University,Business Analytics,Master,c.a,befaa.a,,bcaa.a,bhb.a,,a.jc
+,Porto,University of Porto,Software Engineering,Master,c.a,gfaa.a,gc.e,haa.a,hf.a,eaa.a,a.jc
+,Christchurch,University of Canterbury,Mechanical Engineering,PhD,e.a,dbaaa.a,,,dda.a,gaa.a,b.gf
+USA,,UC San Diego,Biotechnology,Master,c.a,ejaaa.a,,bjaa.a,bga.a,bfaa.a,b.a
+Sweden,Gothenburg,Chalmers University,Sustainable Energy,Master,c.a,a.a,,,bca.a,,
+,Delft,,Computer Science,Master,c.a,bffaa.a,,,bhb.a,,a.jc
+,Coimbra,University of Coimbra,Data Science,Bachelor,d.a,gaaa.a,fi.j,gaa.a,hf.a,eaa.a,a.jc
+,Dunedin,University of Otago,Information Systems,Master,c.a,cjaaa.a,ha.c,,dda.a,gaa.a,
+USA,,University of Washington,Computer Engineering,Master,c.a,fbaaa.a,,cbaa.a,bga.a,bfaa.a,b.a
+Sweden,Lund,,Physics,PhD,e.a,a.a,,,bca.a,,
+,Eindhoven,,Artificial Intelligence,Master,c.a,beiaa.a,,,bhb.a,,a.jc
+,Braga,University of Minho,Computer Science,Master,c.a,gcaa.a,fh.i,ffa.a,hf.a,eaa.a,a.jc
+,Hamilton,University of Waikato,Environmental Science,Master,c.a,cifaa.a,gi.j,ifa.a,dda.a,gaa.a,
+USA,Atlanta,Georgia Tech,Machine Learning,PhD,f.a,eiaaa.a,,bhaa.a,bga.a,bfaa.a,b.a
+Sweden,Linköping,,Computer Science,Master,c.a,a.a,gj.i,ifa.a,bca.a,,
+,,Utrecht University,Data Science,Bachelor,d.a,bdjaa.a,,,bhb.a,,a.jc
+,Aveiro,University of Aveiro,Robotics,PhD,e.a,giaa.a,fg.h,faa.a,hf.a,eaa.a,a.jc
+,Palmerston North,,Computer Engineering,Bachelor,d.a,chfaa.a,gh.f,iaa.a,dda.a,gaa.a,
+USA,Pittsburgh,Carnegie Mellon,Software Engineering,Master,c.a,fgaaa.a,gf.e,bfaa.a,bga.a,bfaa.a,b.a
+Sweden,,Umeå University,Artificial Intelligence,Master,c.a,a.a,gi.f,iaa.a,bca.a,,
+,Groningen,University of Groningen,,PhD,e.a,becaa.a,,,bhb.a,,a.jc
+,Faro,University of Algarve,Information Systems,Master,c.a,fjaa.a,ff.e,eia.a,hf.a,eaa.a,a.jc
+,Auckland,AUT University,,Master,c.a,cjfaa.a,,,dda.a,gaa.a,b.gf
+USA,Raleigh,,Computer Science,Master,c.a,ehaaa.a,gh.i,beaa.a,bga.a,bfaa.a,b.a
+Sweden,Karlstad,,Information Systems,Bachelor,d.a,a.a,gh.c,hfa.a,bca.a,,
+,,Tilburg University,Data Science,Master,c.a,beaaa.a,ha.f,,bhb.a,,a.jc
+,,UTAD,Computer Engineering,Master,c.a,fhaa.a,fe.d,efa.a,hf.a,eaa.a,a.jc
+,Christchurch,,Environmental Computing,PhD,e.a,ciaaa.a,,,dda.a,gaa.a,b.gf
+USA,Davis,UC Davis,Data Science,Master,c.a,eiaaa.a,,bgaa.a,bga.a,bfaa.a,b.a
+Sweden,,,Software Engineering,Master,c.a,a.a,gg.f,haa.a,bca.a,,
+,,Wageningen University,Bioinformatics,Master,c.a,befaa.a,gj.i,,bhb.a,,a.jc
+,Funchal,University of Madeira,,Bachelor,d.a,ffaa.a,fd.c,eaa.a,hf.a,eaa.a,a.jc
+Spain,Madrid,Universidad Politécnica de Madrid,Computer Science,Master,c.a,,,,,,a.jc
+,Milan,,,Master,c.a,,,,bca.a,,a.jc
+Greece,Athens,,Electrical Engineering,PhD,e.a,a.a,gf.i,gfa.a,,gaa.a,a.jc
+Austria,,,Software Engineering,Master,c.a,,,,bga.a,ifa.a,a.jc
+,Mexico City,UNAM,Computer Engineering,Bachelor,e.a,iaa.a,fc.e,gaa.a,ea.a,eaa.a,
+Spain,Barcelona,Universitat Politècnica Catalunya,Artificial Intelligence,Master,c.a,,,,,,a.jc
+,Rome,,Robotics,PhD,e.a,,,,bca.a,,a.jc
+Greece,,Aristotle University,Computer Engineering,Master,c.a,a.a,gc.e,faa.a,,gaa.a,a.jc
+Austria,Graz,,Mechanical Engineering,Bachelor,d.a,,,hfa.a,bga.a,ifa.a,a.jc
+,Monterrey,,Data Science,Master,c.a,bcaaa.a,ei.j,haa.a,ea.a,eaa.a,
+Spain,,Universitat de València,Data Science,Master,c.a,,gi.f,iaa.a,,,a.jc
+,,,Computer Engineering,Master,c.a,,gj.i,,bca.a,,a.jc
+Greece,Patras,University of Patras,Electronics,PhD,e.a,a.a,ga.f,efa.a,,gaa.a,a.jc
+Austria,Linz,Johannes Kepler University,Artificial Intelligence,Master,c.a,,ha.e,haa.a,bga.a,ifa.a,a.jc
+,Guadalajara,Universidad de Guadalajara,Software Engineering,Bachelor,e.a,jaa.a,ef.g,faa.a,ea.a,eaa.a,
+Spain,,Universidad de Sevilla,Robotics,Master,c.a,,gf.e,hfa.a,,,a.jc
+,Bologna,University of Bologna,Information Technology,PhD,e.a,,ha.f,,bca.a,,a.jc
+Greece,Heraklion,University of Crete,Computer Science,Master,c.a,a.a,gb.c,eia.a,,gaa.a,a.jc
+Austria,,University of Salzburg,,Bachelor,d.a,,,iaa.a,bga.a,ifa.a,a.jc
+,Puebla,UDLAP,Computer Engineering,Master,c.a,baaaa.a,ee.f,efa.a,ea.a,eaa.a,
+Spain,Bilbao,University of the Basque Country,Computer Science,PhD,e.a,,gh.i,ifa.a,,,a.jc
+,Florence,University of Florence,,Master,c.a,,,,bca.a,,a.jc
+Greece,,University of Thessaly,Digital Systems,Master,c.a,a.a,fj.i,eaa.a,,gaa.a,a.jc
+Austria,Innsbruck,University of Innsbruck,Mechatronics,Master,c.a,,,hia.a,bga.a,ifa.a,a.jc
+,Queretaro,,,Bachelor,e.a,bbaaa.a,eg.h,eia.a,ea.a,eaa.a,
+Spain,Granada,University of Granada,Artificial Intelligence,Master,,,ge.f,haa.a,,,a.jc
+,Naples,University of Naples,Software Engineering,PhD,e.a,,gh.i,iaa.a,bca.a,,a.jc
+Greece,Ioannina,University of Ioannina,Information Systems,Bachelor,e.a,a.a,fi.j,dia.a,,gaa.a,a.jc
+Austria,Klagenfurt,University of Klagenfurt,Data Science,Master,c.a,,gj.e,hca.a,bga.a,ifa.a,a.jc
+,Merida,Universidad Autonoma de Yucatan,Computer Engineering,Master,c.a,,ed.c,eaa.a,ea.a,eaa.a,
+Spain,Zaragoza,University of Zaragoza,Robotics,Master,c.a,,gd.c,gfa.a,,,a.jc
+,Pisa,University of Pisa,Computer Engineering,Master,c.a,,gi.j,,bca.a,,a.jc
+Greece,Rhodes,University of the Aegean,Digital Innovation,Master,c.a,a.a,gb.c,eca.a,,gaa.a,a.jc
+Austria,Leoben,,Industrial Engineering,PhD,e.a,,gi.h,haa.a,bga.a,ifa.a,a.jc
+,,CETYS Universidad,Information Technology,Bachelor,e.a,jfaa.a,ef.e,ffa.a,ea.a,eaa.a,
+Spain,,University of Salamanca,Data Science,PhD,e.a,,gc.b,gaa.a,,,a.jc
+,Padua,University of Padua,Artificial Intelligence,Master,c.a,,gj.f,,bca.a,,a.jc
+Greece,Chania,,Electronic Engineering,Master,c.a,a.a,ga.e,efa.a,,gaa.a,a.jc
+Austria,Dornbirn,FH Vorarlberg,Software Development,Bachelor,d.a,,ha.c,iaa.a,bga.a,ifa.a,a.jc
+,,UASLP,,Master,c.a,,ec.i,dia.a,ea.a,eaa.a,
+Turkey,Istanbul,Bogazici University,Computer Engineering,Master,c.a,,fb.c,gaa.a,,faa.a,
+Greece,Athens,Athens University of Economics,Data Science,Master,c.a,a.a,gf.i,gfa.a,,gaa.a,a.jc
+Belgium,Leuven,KU Leuven,Artificial Intelligence,PhD,e.a,,,,bia.a,iaa.a,a.jc
+Hungary,Budapest,Budapest University of Technology,Software Engineering,Master,c.a,gfaa.a,fd.e,faa.a,bea.a,efa.a,dfa.cf
+,Moscow,,Computer Science,Bachelor,e.a,ffaa.a,gc.d,gaa.a,bga.a,eaa.a,
+Turkey,Ankara,,,Master,c.a,,ei.f,efa.a,,faa.a,
+Greece,,University of Macedonia,Information Systems,PhD,e.a,a.a,gc.e,faa.a,,gaa.a,a.jc
+Belgium,Ghent,Ghent University,Computer Science,Master,c.a,,,,bia.a,iaa.a,a.jc
+Hungary,Debrecen,University of Debrecen,Mechatronics,Bachelor,d.a,fiaa.a,ei.j,eaa.a,bea.a,efa.a,dfa.cf
+,,ITMO University,Data Science,Master,c.a,faaa.a,ga.b,ffa.a,bga.a,eaa.a,
+Turkey,Izmir,Ege University,Electronics Engineering,PhD,e.a,,eh.i,eaa.a,,faa.a,
+Greece,Patras,University of Patras,Computer Engineering,Master,c.a,a.a,ga.f,efa.a,,gaa.a,a.jc
+Belgium,Brussels,Vrije Universiteit Brussel,Robotics,Master,c.a,,,,bia.a,iaa.a,a.jc
+Hungary,,University of Szeged,Computer Science,PhD,e.a,gaaa.a,eh.c,dia.a,bea.a,efa.a,dfa.cf
+,Novosibirsk,,Mathematics,Master,c.a,eiaa.a,ff.e,eaa.a,bga.a,eaa.a,
+Turkey,Eskisehir,Anadolu University,Information Systems,Bachelor,e.a,baaa.a,ef.g,dfa.a,,faa.a,
+Greece,Heraklion,University of Crete,,Master,c.a,a.a,gb.c,eia.a,,gaa.a,a.jc
+Belgium,Antwerp,University of Antwerp,Computer Science,PhD,e.a,,,iaa.a,bia.a,iaa.a,a.jc
+Hungary,Pecs,University of Pecs,Software Development,Master,c.a,ffaa.a,eg.i,dfa.a,bea.a,efa.a,dfa.cf
+,Kazan,,Artificial Intelligence,Bachelor,e.a,,fc.d,dia.a,bga.a,eaa.a,
+Turkey,Bursa,Uludag University,Computer Science,Master,c.a,bbaa.a,eg.f,dia.a,,faa.a,
+Greece,,University of Thessaly,,PhD,e.a,a.a,fj.i,eaa.a,,gaa.a,a.jc
+Belgium,Louvain,UCLouvain,,Master,c.a,,ha.f,hia.a,bia.a,iaa.a,a.jc
+Hungary,Gyor,,Robotics,Bachelor,d.a,fcaa.a,ef.g,dca.a,bea.a,efa.a,dfa.cf
+,,Tomsk State University,Software Engineering,Master,c.a,egaa.a,fb.c,dfa.a,bga.a,eaa.a,
+Turkey,Antalya,Akdeniz University,,PhD,e.a,,eh.i,eca.a,,faa.a,
+Greece,Piraeus,University of Piraeus,Information Technology,Master,c.a,a.a,gd.e,ffa.a,,gaa.a,a.jc
+Belgium,Hasselt,Hasselt University,Artificial Intelligence,Bachelor,d.a,,gj.i,hfa.a,bia.a,iaa.a,a.jc
+Hungary,Miskolc,University of Miskolc,Computer Engineering,Master,c.a,fdaa.a,ee.f,daa.a,bea.a,efa.a,dfa.cf
+,Yekaterinburg,Ural Federal University,,PhD,e.a,ehaa.a,fd.e,eaa.a,bga.a,eaa.a,
+Turkey,Kayseri,Erciyes University,Software Engineering,Master,c.a,,ef.c,dfa.a,,faa.a,
+Greece,Xanthi,Democritus University,Computer Engineering,Bachelor,e.a,a.a,fi.h,dia.a,,gaa.a,a.jc
+Belgium,Liege,University of Liege,,PhD,e.a,,gi.j,hca.a,bia.a,iaa.a,a.jc
+Hungary,,University of Pannonia,Information Systems,Master,,fbaa.a,ee.i,dba.a,bea.a,efa.a,dfa.cf
+,,,Computer Science,Master,,,fa.f,dha.a,bga.a,eaa.a,
+Turkey,Konya,,Artificial Intelligence,Bachelor,e.a,baaa.a,ee.f,dda.a,,faa.a,
+Greece,Chios,University of the Aegean,Digital Systems,Master,,a.a,fj.c,eaa.a,,gaa.a,a.jc
+Belgium,Mons,University of Mons,Computer Engineering,,,,gh.i,haa.a,bia.a,iaa.a,a.jc
+Hungary,Kecskemet,John von Neumann University,,PhD,e.a,feaa.a,ed.j,cja.a,bea.a,efa.a,dfa.cf
+,Rostov-on-Don,,Information Technology,Bachelor,e.a,,ej.i,dfa.a,bga.a,eaa.a,
+Brazil,,University of Sao Paulo,Computer Science,,,a.a,ff.i,gaa.a,,eaa.a,
+,Bangalore,Indian Institute of Science,,PhD,e.a,,ef.c,daa.a,bia.a,daa.a,
+Thailand,Bangkok,Chulalongkorn University,Software Engineering,,c.a,bfaaa.a,fb.e,faa.a,ia.a,dfa.a,
+Egypt,Cairo,Cairo University,Computer Engineering,Bachelor,e.a,,db.i,cfa.a,,caa.a,
+,,,Artificial Intelligence,,c.a,ecaaa.a,id.i,bcaa.a,,iaa.a,b.df
+UAE,Dubai,University of Dubai,,,c.a,cfaaa.a,,,cha.a,,
+Brazil,Rio de Janeiro,,Information Systems,PhD,e.a,iaaa.a,fd.c,ffa.a,,eaa.a,
+,Mumbai,IIT Bombay,Computer Engineering,,c.a,,eh.f,dfa.a,bia.a,daa.a,
+Thailand,Chiang Mai,Chiang Mai University,,Bachelor,e.a,bcaaa.a,ef.g,daa.a,,dfa.a,
+,,,Computer Science,PhD,e.a,eaaaa.a,id.i,,,iaa.a,b.df
+UAE,Abu Dhabi,,Robotics,,,chaaa.a,,,cha.a,,
+Brazil,Campinas,UNICAMP,Computer Engineering,,,a.a,fb.e,efa.a,,eaa.a,
+,Delhi,IIT Delhi,Artificial Intelligence,PhD,e.a,,ee.i,dca.a,bia.a,daa.a,
+Thailand,Khon Kaen,,Information Technology,,,bbaaa.a,ec.f,cfa.a,,dfa.a,
+Egypt,Alexandria,Alexandria University,Software Engineering,,,,da.f,caa.a,,caa.a,
+,,,,Bachelor,e.a,diaaa.a,id.i,,,iaa.a,b.df
+UAE,,American University of Sharjah,Computer Science,PhD,e.a,cgaaa.a,gi.f,,cha.a,,
+Brazil,Porto Alegre,UFRGS,,Bachelor,e.a,a.a,ej.i,eaa.a,,eaa.a,
+,Chennai,IIT Madras,Software Engineering,,c.a,,ec.e,cia.a,bia.a,daa.a,
+Thailand,Phuket,,Computer Engineering,,,baaaa.a,ee.i,daa.a,ia.a,dfa.a,
+Egypt,Giza,Ain Shams University,,PhD,e.a,,db.c,cca.a,,caa.a,
+,,,Artificial Intelligence,,,djaaa.a,id.i,,,iaa.a,b.df
+UAE,Ajman,Ajman University,Information Systems,Bachelor,e.a,cdaaa.a,gf.e,iaa.a,cha.a,,
+Brazil,Recife,UFPE,Computer Engineering,,,a.a,eh.f,dfa.a,,eaa.a,
+,Hyderabad,IIT Hyderabad,,PhD,e.a,,eb.c,cga.a,bia.a,daa.a,
+Thailand,Hat Yai,,Software Engineering,Bachelor,e.a,jfaa.a,ed.c,cia.a,ia.a,dfa.a,
+Egypt,Port Said,,Computer Science,,,,cj.i,bia.a,,caa.a,
+,,,Robotics,PhD,e.a,dhaaa.a,id.i,,,iaa.a,b.df
+UAE,Al Ain,UAE University,,,,ceaaa.a,ge.c,hfa.a,cha.a,,
+Brazil,Florianopolis,UFSC,Information Technology,PhD,e.a,a.a,ei.j,eaa.a,,eaa.a,
+,Pune,IIT Pune,Computer Science,,,,ea.f,cfa.a,bia.a,daa.a,
+Thailand,Nakhon Ratchasima,,,,,jaaa.a,eb.i,cfa.a,ia.a,dfa.a,
+Egypt,Mansoura,,Information Systems,Bachelor,e.a,,ci.f,bha.a,,caa.a,
+,,,Software Engineering,Bachelor,e.a,dfaaa.a,id.i,,,iaa.a,b.df
+UAE,Ras Al Khaimah,,Computer Engineering,,,ccaaa.a,gc.f,haa.a,cha.a,,
+Brazil,,UFBA,,,,a.a,eg.i,dia.a,,eaa.a,
+,Kanpur,IIT Kanpur,Artificial Intelligence,PhD,e.a,,dj.i,cea.a,bia.a,daa.a,
+Thailand,,Thaksin University,Computer Engineering,Bachelor,e.a,ifaa.a,ec.f,cha.a,ia.a,dfa.a,
+Egypt,Aswan,Aswan University,,,,,ch.i,bga.a,,caa.a,
+UAE,Fujairah,Fujairah University,Information Technology,Bachelor,e.a,cbaaa.a,gb.e,gfa.a,cha.a,,
+Iceland,Reykjavik,University of Iceland,Computer Science,,,a.a,ie.f,bcaa.a,bea.a,jaa.a,
+Colombia,Bogota,Universidad Nacional,Software Engineering,,,,eb.c,eaa.a,,daa.a,djfa.a
+,,University of Warsaw,,PhD,e.a,,fe.i,gfa.a,ia.a,eaa.a,
+,Bucharest,University Politehnica,Computer Engineering,Bachelor,,,ef.c,efa.a,bca.a,dfa.a,
+,Luxembourg City,University of Luxembourg,Artificial Intelligence,,,eaa.a,id.c,beaa.a,,iaa.a,a.jc
+,Jakarta,University of Indonesia,Information Systems,,,faaa.a,ef.i,eaa.a,bfa.a,cfa.a,bfgaa.a
+,Akureyri,University of Akureyri,,Bachelor,,a.a,,,bea.a,jaa.a,
+Colombia,Medellin,Universidad de Antioquia,Computer Science,PhD,e.a,,di.f,dfa.a,ia.a,daa.a,djfa.a
+,Krakow,Jagiellonian University,Software Development,,,,fc.e,gaa.a,,eaa.a,
+,Cluj-Napoca,Babes-Bolyai University,Data Science,,,,ed.i,eaa.a,bca.a,dfa.a,
+,Esch-sur-Alzette,,,,,eaa.a,,bcaa.a,,iaa.a,a.jc
+,Bandung,Institut Teknologi Bandung,Computer Engineering,PhD,e.a,,ec.e,daa.a,bfa.a,cfa.a,bfgaa.a
+Iceland,Reykjavik,,Robotics,,,a.a,ie.f,,bea.a,jaa.a,
+Colombia,Cali,Universidad del Valle,Information Technology,Bachelor,e.a,,dg.i,daa.a,,daa.a,djfa.a
+,Wroclaw,Wroclaw University of Technology,Artificial Intelligence,,,,fa.f,ffa.a,,eaa.a,
+,,,Software Engineering,PhD,e.a,,ec.f,dia.a,bca.a,dfa.a,
+,Belval,,Computer Science,Bachelor,,eaa.a,,,,iaa.a,a.jc
+,Yogyakarta,Gadjah Mada University,Data Science,,,,ea.c,cfa.a,bfa.a,cfa.a,bfgaa.a
+,Hafnarfjordur,Iceland University of Arts,Digital Design,,,a.a,,,bea.a,jaa.a,
+Colombia,Barranquilla,Universidad del Norte,Computer Engineering,,,,df.e,cia.a,,daa.a,djfa.a
+,Poznan,Adam Mickiewicz University,Computer Science,PhD,e.a,,fb.c,fia.a,ia.a,eaa.a,
+,Iasi,Alexandru Ioan Cuza University,Information Systems,,,,eb.i,dfa.a,bca.a,dfa.a,
+,Kirchberg,,,,,eaa.a,,bdaa.a,,iaa.a,a.jc
+,,Institut Teknologi Sepuluh,Software Engineering,Bachelor,e.a,,eb.f,cia.a,bfa.a,cfa.a,bfgaa.a
+,Kopavogur,Bifrost University,Digital Business,Bachelor,,a.a,,,bea.a,jaa.a,
+Colombia,Bucaramanga,UIS,Data Science,PhD,e.a,,de.i,cga.a,,daa.a,djfa.a
+,Gdansk,Gdansk University of Technology,,,,,ej.i,fca.a,,eaa.a,
+,Brasov,Transilvania University,Computer Engineering,Bachelor,e.a,,ea.f,dda.a,bca.a,dfa.a,
+,Differdange,,Information Technology,,,eaa.a,,,,iaa.a,a.jc
+,Malang,Brawijaya University,Artificial Intelligence,,,,dj.i,cea.a,bfa.a,cfa.a,bfgaa.a
+,Lodz,,Software Engineering,,,,ei.f,faa.a,ia.a,eaa.a,
+,Constanta,,,,,,dj.i,dca.a,bca.a,dfa.a,
+,,European Business University,Digital Innovation,Bachelor,,eaa.a,,,,iaa.a,a.jc
+,,Diponegoro University,Computer Science,PhD,e.a,,di.f,cca.a,bfa.a,cfa.a,bfgaa.a
+,Borgarnes,Agricultural University,Data Systems,Master,,a.a,,,bea.a,jaa.a,
+Colombia,Cartagena,Universidad de Cartagena,Information Systems,Master,,,df.c,cja.a,ia.a,daa.a,djfa.a
+,Katowice,University of Silesia,Computer Engineering,Bachelor,,,eh.i,eia.a,ia.a,eaa.a,
+,Craiova,University of Craiova,Software Development,PhD,e.a,,di.j,daa.a,bca.a,dfa.a,
+,Bertrange,Chamber of Commerce School,Business Analytics,Master,,eaa.a,,,,iaa.a,a.jc
+,Denpasar,Udayana University,Information Technology,Master,,,dh.j,caa.a,bfa.a,cfa.a,bfgaa.a
+Tunisia,,University of Tunis,Computer Science,Master,,,df.i,cfa.a,ga.a,caa.a,
+Cyprus,Nicosia,University of Cyprus,Data Science,Master,,iaaa.a,gf.e,gaa.a,,faa.a,a.jc
+Croatia,Zagreb,University of Zagreb,Software Engineering,PhD,e.a,,fi.j,efa.a,,eaa.a,
+Dominican Republic,,INTEC,Computer Engineering,Bachelor,e.a,gaaa.a,ec.f,dfa.a,,daa.a,
+,Rabat,,Information Systems,Master,,,eb.c,daa.a,ha.a,cfa.a,
+,Lima,,,Master,,ifaa.a,ee.i,eaa.a,bca.a,dfa.a,
+Argentina,Buenos Aires,University of Buenos Aires,Computer Science,PhD,e.a,a.a,ec.f,dfa.a,,cia.a,chf.a
+Tunisia,,University of Sfax,Artificial Intelligence,Master,,,dd.c,caa.a,ga.a,caa.a,
+Cyprus,Limassol,Cyprus University of Technology,Software Development,Bachelor,e.a,hfaa.a,gc.i,ffa.a,,faa.a,a.jc
+Croatia,,University of Split,,Master,,,fg.e,eaa.a,,eaa.a,
+Dominican Republic,,,Information Technology,Master,,ffaa.a,ea.c,daa.a,,daa.a,
+,Casablanca,Hassan II University,Computer Engineering,PhD,e.a,,ed.f,dfa.a,ha.a,cfa.a,
+,Arequipa,Universidad San Agustin,Software Engineering,Bachelor,e.a,haaa.a,eb.c,daa.a,bca.a,dfa.a,
+Argentina,Cordoba,,Data Science,,,a.a,dj.i,cia.a,,cia.a,chf.a
+Tunisia,,University of Sousse,,Bachelor,,,dc.f,bia.a,ga.a,caa.a,
+Cyprus,Larnaca,American University Cyprus,Artificial Intelligence,PhD,e.a,icaa.a,gb.f,faa.a,,faa.a,a.jc
+Croatia,Rijeka,University of Rijeka,Information Systems,Master,,,fe.i,dia.a,,eaa.a,
+Dominican Republic,La Romana,Universidad Central Este,Computer Science,Bachelor,e.a,faaa.a,di.f,cia.a,,daa.a,
+,Fez,University of Al Quaraouiyine,,Master,,,dj.i,cfa.a,ha.a,cfa.a,
+,,Universidad Nacional de Trujillo,Software Development,PhD,e.a,hfaa.a,ea.f,cia.a,bca.a,dfa.a,
+Argentina,Rosario,,Computer Engineering,Master,,a.a,di.f,cga.a,,cia.a,chf.a
+Tunisia,Monastir,University of Monastir,Data Science,PhD,e.a,,db.i,bha.a,ga.a,caa.a,
+Cyprus,Famagusta,Eastern Mediterranean University,Software Engineering,Master,,hiaa.a,fj.i,eia.a,,faa.a,a.jc
+Croatia,Osijek,University of Osijek,Computer Science,Bachelor,,,fc.f,dfa.a,,eaa.a,
+Dominican Republic,,UCNE,Information Systems,Master,,eiaa.a,dh.c,cga.a,,daa.a,
+,Marrakech,Cadi Ayyad University,Artificial Intelligence,PhD,e.a,,ea.f,cia.a,ha.a,cfa.a,
+,Cusco,Universidad San Antonio Abad,,Master,c.a,giaa.a,dj.i,cga.a,bca.a,dfa.a,
+Argentina,La Plata,,Software Development,Bachelor,e.a,a.a,dh.f,cea.a,,cia.a,chf.a
+Tunisia,Gabes,University of Gabes,Computer Engineering,Master,c.a,,da.f,bga.a,ga.a,caa.a,
+Croatia,Zadar,University of Zadar,Information Technology,PhD,e.a,,fd.c,dha.a,,eaa.a,
+Cyprus,Paphos,,Data Science,Bachelor,d.a,heaa.a,fi.f,efa.a,,faa.a,a.jc
+Dominican Republic,Puerto Plata,UTESA,Computer Science,PhD,e.a,,dg.i,cfa.a,,daa.a,
+,,Abdelmalek Essaadi University,Software Engineering,Master,c.a,,di.j,cga.a,ha.a,cfa.a,
+,Piura,Universidad de Piura,Information Systems,Master,c.a,hcaa.a,di.f,cfa.a,bca.a,dfa.a,
+Argentina,Mendoza,,,PhD,e.a,a.a,dg.i,cda.a,,cia.a,chf.a
+Tunisia,Bizerte,University of Carthage,Artificial Intelligence,Bachelor,,,cj.i,bfa.a,ga.a,caa.a,
+Cyprus,Girne,Girne American University,Computer Engineering,Master,,hgaa.a,fh.i,eda.a,,faa.a,a.jc
+Croatia,Dubrovnik,University of Dubrovnik,Software Development,Master,,,fe.f,dja.a,,eaa.a,
+,Oujda,,Computer Science,Bachelor,e.a,,dh.f,cea.a,ha.a,cfa.a,
+,Chiclayo,Universidad San Martin,,PhD,e.a,gfaa.a,dh.i,cea.a,bca.a,dfa.a,
+Ecuador,Quito,Universidad San Francisco,Computer Science,,,ifaa.a,ef.i,eaa.a,,daa.a,b.a
+,Beirut,American University of Beirut,Data Science,Master,c.a,caaaa.a,fi.j,gaa.a,bfa.a,faa.a,bfaaa.a
+Bahrain,Manama,University of Bahrain,Software Engineering,Bachelor,e.a,haaa.a,gf.e,haa.a,bda.a,gaa.a,a.di
+Uruguay,Montevideo,Universidad de la Republica,Computer Engineering,PhD,e.a,a.a,fc.e,efa.a,,dfa.a,
+Bulgaria,,,Information Systems,Master,c.a,,ei.f,eaa.a,,daa.a,
+Ghana,Accra,University of Ghana,,Master,c.a,efaa.a,ec.b,daa.a,bca.a,cfa.a,
+Algeria,Algiers,University of Science and Technology,Computer Science,Bachelor,d.a,,di.f,cfa.a,,caa.a,
+,Panama City,Universidad Tecnologica,Artificial Intelligence,Master,c.a,hfaa.a,fb.c,gaa.a,,eaa.a,b.a
+Ecuador,Guayaquil,ESPOL,Software Development,PhD,e.a,hiaa.a,ed.c,dfa.a,,daa.a,b.a
+,Byblos,,,Master,c.a,biaaa.a,ff.e,faa.a,bfa.a,faa.a,bfaaa.a
+Bahrain,Riffa,,Information Technology,Master,c.a,iaaa.a,gd.c,gfa.a,bda.a,gaa.a,a.di
+Uruguay,,Universidad ORT Uruguay,Computer Science,Master,c.a,gfaa.a,ei.f,dia.a,,dfa.a,
+Bulgaria,Plovdiv,,Data Science,Bachelor,d.a,,ef.i,dfa.a,,daa.a,
+Ghana,Kumasi,,Software Engineering,PhD,e.a,,dj.i,cfa.a,bca.a,cfa.a,
+Algeria,Oran,University of Oran,Computer Engineering,Master,c.a,bbaa.a,dg.e,cca.a,,caa.a,
+,David,ISAE University,,Bachelor,e.a,giaa.a,eh.f,efa.a,,eaa.a,b.a
+Ecuador,Cuenca,Universidad de Cuenca,Information Systems,Master,c.a,hcaa.a,ec.f,dca.a,,daa.a,b.a
+,,,Computer Science,PhD,e.a,,fc.b,eaa.a,bfa.a,faa.a,bfaaa.a
+Bahrain,Isa Town,Bahrain Polytechnic,Software Development,Bachelor,e.a,gfaa.a,gb.i,gaa.a,bda.a,gaa.a,a.di
+Uruguay,Maldonado,Universidad Catolica,Data Science,Master,c.a,haaa.a,ej.c,eaa.a,,dfa.a,
+Bulgaria,,,Computer Engineering,Master,c.a,,ee.c,dda.a,,daa.a,
+Ghana,Cape Coast,University of Cape Coast,Information Technology,Master,c.a,,di.f,cda.a,bca.a,cfa.a,
+Algeria,Constantine,University of Constantine,,PhD,e.a,,df.i,caa.a,,caa.a,
+,,Universidad Latina,Computer Science,Master,c.a,gfaa.a,ef.i,eaa.a,,eaa.a,b.a
+Ecuador,Loja,UTPL,Artificial Intelligence,Bachelor,d.a,giaa.a,eb.c,daa.a,,daa.a,b.a
+,Jounieh,Holy Spirit University,Software Engineering,Master,c.a,bgaaa.a,fe.f,efa.a,bfa.a,faa.a,bfaaa.a
+Bahrain,,Arabian Gulf University,Data Science,PhD,e.a,jaaa.a,gc.e,gca.a,bda.a,gaa.a,a.di
+Uruguay,Rivera,UTEC,Information Systems,Bachelor,e.a,a.a,eh.i,dfa.a,,dfa.a,
+Bulgaria,Burgas,Burgas Free University,,Master,c.a,,ed.f,dca.a,,daa.a,
+Ghana,,University for Development,Software Development,PhD,e.a,,dg.i,caa.a,bca.a,cfa.a,
+Algeria,Annaba,Badji Mokhtar University,Computer Engineering,Master,c.a,baaa.a,de.f,bia.a,,caa.a,
+,Chitré,,,Bachelor,d.a,gcaa.a,ee.c,dia.a,,eaa.a,b.a
+Ecuador,Ambato,Universidad Tecnica,Information Technology,PhD,e.a,gfaa.a,ea.f,cia.a,,daa.a,b.a
+,,,,Bachelor,e.a,bfaaa.a,fb.i,eca.a,bfa.a,faa.a,bfaaa.a
+Bahrain,Muharraq,Applied Science University,,Master,c.a,hfaa.a,gb.f,fia.a,bda.a,gaa.a,a.di
+Uruguay,Paysandu,Universidad de Paysandu,Software Engineering,Master,c.a,a.a,eg.f,dda.a,,dfa.a,
+Bulgaria,Ruse,University of Ruse,Artificial Intelligence,PhD,e.a,,ec.i,daa.a,,daa.a,
+Ghana,Ho,University of Health Sciences,,Master,c.a,,df.e,bia.a,bca.a,cfa.a,
+Algeria,,University of Tlemcen,Information Systems,Bachelor,d.a,jaa.a,dd.c,bga.a,ia.a,caa.a,
+,La Chorrera,Universidad Metropolitana,,Master,c.a,gaaa.a,ed.f,dfa.a,,eaa.a,b.a
+Bangladesh,Dhaka,Bangladesh University of Engineering,,Master,c.a,,ec.f,cfa.a,,caa.a,
+,Kuwait City,,Data Science,Master,c.a,,,iaa.a,bea.a,,a.db
+Ukraine,Kyiv,Igor Sikorsky Kyiv Polytechnic,Software Engineering,Bachelor,e.a,,ef.i,eaa.a,bca.a,daa.a,
+Slovenia,Ljubljana,University of Ljubljana,Computer Engineering,PhD,e.a,,gc.e,faa.a,ia.a,efa.a,a.jc
+,Belgrade,University of Belgrade,Information Systems,Master,c.a,,ei.f,dfa.a,,dca.a,
+,,,,Master,c.a,,fb.c,eaa.a,bfa.a,cia.a,ecbfa.a
+Uzbekistan,,INHA University Tashkent,,Bachelor,e.a,,ee.f,daa.a,bga.a,cfa.a,bcdaa.a
+El Salvador,,Universidad Don Bosco,Software Development,Master,c.a,ffaa.a,eg.i,eaa.a,,daa.a,b.a
+Bangladesh,Chittagong,CUET,Artificial Intelligence,PhD,e.a,,dj.i,caa.a,,caa.a,
+,Hawalli,American University Kuwait,,Master,c.a,bfaaa.a,gi.f,hfa.a,bea.a,,a.db
+Ukraine,Lviv,,,Master,c.a,,ed.c,dfa.a,bca.a,daa.a,
+Slovenia,Maribor,University of Maribor,Data Science,Master,c.a,,fi.f,efa.a,ia.a,efa.a,a.jc
+,Novi Sad,University of Novi Sad,Software Engineering,PhD,e.a,,ef.i,dca.a,,dca.a,
+,Isfahan,Isfahan University of Technology,Information Systems,Bachelor,d.a,,ei.f,dfa.a,bfa.a,cia.a,ecbfa.a
+Uzbekistan,,,,Master,c.a,,eb.c,cfa.a,bga.a,cfa.a,bcdaa.a
+El Salvador,,Universidad Catolica,Computer Engineering,Bachelor,e.a,faaa.a,ee.f,dfa.a,,daa.a,b.a
+Bangladesh,Khulna,,Software Development,Master,c.a,,di.f,bia.a,,caa.a,
+,Al Jahra,Gulf University for Science,Artificial Intelligence,PhD,e.a,beaaa.a,gg.i,haa.a,bea.a,,a.db
+Ukraine,Kharkiv,,Data Science,Master,c.a,,ec.f,dda.a,bca.a,daa.a,
+Slovenia,Koper,University of Primorska,Information Technology,Bachelor,d.a,,fh.c,eca.a,ia.a,efa.a,a.jc
+,Nis,University of Nis,Computer Engineering,Master,c.a,,ee.c,daa.a,,dca.a,
+,Mashhad,Ferdowsi University,,PhD,e.a,,eh.i,dca.a,bfa.a,cia.a,ecbfa.a
+Uzbekistan,Bukhara,Bukhara State University,,Bachelor,e.a,,dj.i,cca.a,bga.a,cfa.a,bcdaa.a
+El Salvador,,Universidad de Oriente,Information Systems,Master,c.a,eiaa.a,ed.c,dca.a,,daa.a,b.a
+Bangladesh,Rajshahi,,Software Engineering,Master,c.a,,dh.c,bha.a,,caa.a,
+,,Australian College Kuwait,Data Science,Bachelor,d.a,bdfaa.a,gf.e,gia.a,bea.a,,a.db
+Ukraine,Odesa,,Artificial Intelligence,PhD,e.a,,eb.i,dca.a,bca.a,daa.a,
+Slovenia,Nova Gorica,University of Nova Gorica,,,c.a,,fg.f,eaa.a,,efa.a,a.jc
+,Kragujevac,University of Kragujevac,,Bachelor,e.a,,ed.f,cia.a,,dca.a,
+,,,Software Development,,c.a,,eg.i,daa.a,bfa.a,cia.a,ecbfa.a
+Uzbekistan,Namangan,,Information Technology,,c.a,,di.f,caa.a,bga.a,cfa.a,bcdaa.a
+El Salvador,,Universidad de Sonsonate,Data Science,Bachelor,d.a,,ec.i,daa.a,bba.a,daa.a,b.a
+Bangladesh,,,Computer Engineering,PhD,e.a,,dg.i,bga.a,,caa.a,
+,Al Ahmadi,ACK,Software Engineering,,c.a,bdaaa.a,ge.f,gfa.a,bea.a,,a.db
+Ukraine,Dnipro,Dnipro Polytechnic,,,c.a,,ea.f,daa.a,bca.a,daa.a,
+Slovenia,Celje,Faculty of Logistics,Information Systems,Bachelor,d.a,,ff.e,dia.a,ia.a,efa.a,a.jc
+,,University of Subotica,,,c.a,,ec.i,cha.a,,dca.a,
+,,University of Tabriz,Artificial Intelligence,PhD,e.a,,ef.f,cia.a,bfa.a,cia.a,ecbfa.a
+Uzbekistan,Andijan,Andijan State University,Software Development,,c.a,,dh.i,bia.a,bga.a,cfa.a,bcdaa.a
+El Salvador,,ITCA-FEPADE,Computer Engineering,Bachelor,e.a,,ec.b,cia.a,bba.a,daa.a,b.a
+,Kuala Lumpur,University of Malaya,,,c.a,ifaa.a,ff.e,faa.a,bca.a,eaa.a,
+,Riyadh,,Data Science,PhD,e.a,faaa.a,,iaa.a,caa.a,iaa.a,
+USA,Boston,Harvard University,Artificial Intelligence,,c.a,fiaaa.a,,ccaa.a,bga.a,bfaa.a,b.a
+UK,London,Imperial College,Computer Engineering,,c.a,ecaaa.a,,biaa.a,eif.a,iaa.a,a.hj
+Spain,Madrid,Universidad Politecnica,Software Engineering,PhD,e.a,,,,ia.a,,a.jc
+,Milan,,,,c.a,,,bcaa.a,bca.a,,a.jc
+France,Paris,,,,c.a,,ie.d,biaa.a,,ifa.a,a.jc
+,Penang,USM,Information Systems,Bachelor,d.a,hfaa.a,fc.b,efa.a,bca.a,eaa.a,
+,Jeddah,,,,c.a,eiaa.a,ha.c,hfa.a,caa.a,iaa.a,
+USA,,,,PhD,f.a,fcaaa.a,ie.d,cdaa.a,bga.a,bfaa.a,b.a
+UK,Cambridge,University of Cambridge,Artificial Intelligence,PhD,e.a,efaaa.a,,bgaa.a,eif.a,iaa.a,a.hj
+Spain,Barcelona,Universitat de Barcelona,Data Science,,c.a,,,,,,a.jc
+,Rome,,Software Engineering,Bachelor,d.a,,,,bca.a,,a.jc
+France,Lyon,École Normale Supérieure,Computer Engineering,,c.a,,,bcaa.a,,ifa.a,a.jc
+,Johor Bahru,UTM,,PhD,e.a,iaaa.a,fb.i,eaa.a,bca.a,eaa.a,
+,Dhahran,KFUPM,,,c.a,,gi.f,haa.a,caa.a,iaa.a,
+USA,Berkeley,UC Berkeley,,,c.a,feaaa.a,id.c,caaa.a,bga.a,bfaa.a,b.a
+UK,Oxford,University of Oxford,Software Engineering,,c.a,eaaaa.a,,beaa.a,eif.a,iaa.a,a.hj
+Spain,,Universidad de Valencia,Information Systems,PhD,e.a,,gi.f,iaa.a,,,a.jc
+,,,Artificial Intelligence,,c.a,,gj.i,,bca.a,,a.jc
+France,,INSA Toulouse,,PhD,e.a,,,,,ifa.a,a.jc
+,Kuching,UNIMAS,,Master,,haaa.a,ej.f,dia.a,bca.a,eaa.a,
+,Medina,Islamic University,Software Development,Bachelor,e.a,,gf.e,gfa.a,caa.a,iaa.a,
+USA,MIT,,Robotics,PhD,f.a,fgaaa.a,,cbaa.a,bga.a,bfaa.a,b.a
+UK,Edinburgh,University of Edinburgh,,Master,,diaaa.a,gh.i,,eif.a,iaa.a,a.hj
+Spain,,Universidad de Sevilla,Computer Engineering,Master,,,gf.e,hfa.a,,,a.jc
+,Bologna,University of Bologna,Information Systems,PhD,e.a,,ha.f,,bca.a,,a.jc
+France,Marseille,Aix-Marseille University,Artificial Intelligence,Master,c.a,,,,,ifa.a,a.jc
+,Cyberjaya,,,Bachelor,d.a,hiaa.a,fd.c,efa.a,bca.a,eaa.a,
+,Dammam,Imam Abdulrahman University,,Master,c.a,egaa.a,gh.i,gia.a,caa.a,,
+USA,New York,Columbia University,,Master,c.a,gcaaa.a,baa.a,cfaa.a,bga.a,bfaa.a,b.a
+UK,Manchester,University of Manchester,Software Engineering,PhD,e.a,dfaaa.a,gf.e,,eif.a,,a.hj
+Spain,Granada,Universidad de Granada,,Bachelor,d.a,,ge.f,haa.a,,,a.jc
+,Florence,University of Florence,,Master,,,,,bca.a,,a.jc
+France,Bordeaux,University of Bordeaux,Information Systems,PhD,e.a,,,,,ifa.a,a.jc
+,Bangi,UKM,Artificial Intelligence,Master,,hcaa.a,fb.f,eca.a,bca.a,eaa.a,
+,,,Software Development,Master,c.a,,ge.f,gaa.a,caa.a,iaa.a,
+USA,Los Angeles,UCLA,Computer Engineering,PhD,f.a,fcaaa.a,,ccaa.a,bga.a,bfaa.a,b.a
+UK,Bristol,University of Bristol,,Master,,dgaaa.a,gi.j,bcaa.a,eif.a,iaa.a,a.hj
+Spain,Bilbao,University of the Basque Country,Information Technology,Master,c.a,,gh.i,ifa.a,ia.a,,a.jc
+,Naples,University of Naples,,Bachelor,d.a,,gh.i,iaa.a,bca.a,,a.jc
+France,Nice,University of Nice,,Master,c.a,,,bdaa.a,,ifa.a,a.jc
+,Melaka,UTeM,Software Engineering,PhD,e.a,hfaa.a,fa.c,eaa.a,bca.a,eaa.a,
+,,University of Tabuk,Computer Engineering,Bachelor,e.a,,gd.c,fia.a,caa.a,,
+USA,Chicago,University of Chicago,Artificial Intelligence,Master,c.a,fiaaa.a,ie.b,bjaa.a,bga.a,bfaa.a,b.a
+UK,Glasgow,University of Glasgow,,PhD,e.a,deaaa.a,ge.f,,eif.a,iaa.a,a.hj
+Spain,,University of Salamanca,Information Systems,Master,c.a,,gc.b,gaa.a,,,a.jc
+,Pisa,University of Pisa,Software Development,Master,c.a,,gi.j,ifa.a,bca.a,,a.jc
+France,Lille,University of Lille,,Bachelor,d.a,,gj.i,,,ifa.a,a.jc
+,,UiTM,,Master,,hbaa.a,fb.i,eda.a,bca.a,eaa.a,
+,Makkah,Umm Al-Qura University,Information Technology,PhD,e.a,,gf.i,gfa.a,caa.a,,
+USA,,,,Master,c.a,ffaaa.a,jf.c,ceaa.a,bga.a,bfaa.a,b.a
+UK,Leeds,University of Leeds,Computer Engineering,Master,c.a,dfaaa.a,gd.c,,eif.a,,a.hj
+Spain,Zaragoza,University of Zaragoza,Artificial Intelligence,PhD,e.a,,gd.c,gfa.a,,,a.jc
+,Padua,University of Padua,Software Engineering,Master,c.a,,gj.f,,bca.a,,a.jc
+France,,University of Strasbourg,,Master,,,ha.c,,,ifa.a,a.jc
+,Nilai,USIM,,Bachelor,d.a,giaa.a,fa.f,eaa.a,bca.a,eaa.a,
+,Al-Ahsa,,Information Systems,Master,c.a,,ge.c,gaa.a,caa.a,,
+USA,,University of Washington,Software Development,PhD,f.a,faaaa.a,,caaa.a,bga.a,bfaa.a,b.a
+UK,Nottingham,University of Nottingham,,Master,,deaaa.a,gb.c,iaa.a,eif.a,,a.hj

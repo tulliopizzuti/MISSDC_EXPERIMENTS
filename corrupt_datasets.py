@@ -11,7 +11,7 @@ def replace_characters(file):
         content = f.read()
         replaced_content = ''
         for char in content:
-            if char.isdigit():
+            if char.isdigit() and char.isascii():
                 replaced_content += chr(ord('a') + int(char))
             else:
                 replaced_content += char

@@ -15,7 +15,7 @@ from utils import *
 
 
 TRIARD_DATASET_FOLDER =  "dataset"
-SCORE_SCRIPT = Path(__file__).resolve().parent.parent / "score.py"
+SCORE_SCRIPT = str(Path(__file__).resolve().parent.parent / "score.py")
 IMPUTATION_SCRIPT = "impute.py"
 APPROACH_NAME = "TRIARD"
 
