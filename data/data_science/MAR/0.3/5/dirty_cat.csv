@@ -1,0 +1,608 @@
+WorkingYear int,Designation str,Experience str,EmploymentStatus str,SalaryInRupees float,EmployeeLocation str,CompanyLocation str,CompanySize str,RemoteWorkingRatio int
+caca.a,Data Scientist,MI,FT,gdfcchc.a,DE,DE,L,a.a
+,Machine Learning Scientist,,,cagiiaha.a,,JP,,a.a
+caca.a,Big Data Engineer,,FT,ighejif.a,,GB,M,fa.a
+,Product Data Analyst,,,bfjbdja.a,,HN,,a.a
+,,,,bbjdfecf.a,US,,L,fa.a
+,,,,fhcjaae.a,US,US,L,baa.a
+,,,,bfbbicaf.a,,,S,baa.a
+caca.a,Data Scientist,,FT,ciedebg.a,,HU,,fa.a
+,,,,bahebiid.a,US,,L,baa.a
+caca.a,Lead Data Engineer,,FT,jjegbii.a,,NZ,,fa.a
+caca.a,Data Scientist,,FT,eaidfig.a,,FR,S,a.a
+caca.a,Data Scientist,,FT,dccbafd.a,,IN,,a.a
+caca.a,Data Scientist,,FT,dbhgajg.a,,FR,M,a.a
+,,,,gjccfeh.a,US,US,L,baa.a
+,,,,ghgdeai.a,US,US,L,baa.a
+caca.a,Data Analyst,,FT,gdgffg.a,,PK,,fa.a
+caca.a,Data Engineer,,FT,ddbhbhd.a,,JP,,baa.a
+caca.a,Big Data Engineer,,FT,jaheggd.a,,GB,,baa.a
+caca.a,Data Science Consultant,,FT,efebad.a,,IN,,fa.a
+,,,,eeffijc.a,,US,,baa.a
+caca.a,Machine Learning Engineer,,FT,deehicg.a,,CN,M,a.a
+,Product Data Analyst,,,eidbeg.a,,IN,,baa.a
+caca.a,Data Engineer,,FT,dibbcjj.a,,GR,,fa.a
+,,,,hhjhibb.a,,US,M,a.a
+caca.a,Lead Data Scientist,,FT,jbfaejd.a,AE,AE,L,a.a
+,,,,cfigaaii.a,,US,,baa.a
+,Research Scientist,,,ddebjbj.a,,NL,,fa.a
+caca.a,Data Engineer,,FT,cgggefe.a,,MX,,a.a
+,,EN,,hjfgjfa.a,,US,,baa.a
+,Machine Learning Manager,,,jdbhjah.a,CA,CA,L,fa.a
+caca.a,Data Engineering Manager,,FT,ehbihba.a,,DE,S,baa.a
+,,,,ffgjigf.a,,US,,baa.a
+,,,,feeehic.a,,US,,baa.a
+,,,,dfiagchf.a,,US,,a.a
+caca.a,Data Analyst,,FT,dhcafja.a,FR,FR,L,fa.a
+caca.a,Data Engineer,,FT,fijieih.a,AT,AT,L,fa.a
+,,MI,,ibjfgfj.a,,US,,baa.a
+,,EN,,bjijcdhf.a,,US,,fa.a
+caca.a,Data Analyst,EN,FT,hjfgjf.a,,NG,,baa.a
+,,EN,,bajiafjb.a,,,,baa.a
+,,MI,,dgebbaa.a,,US,,baa.a
+caca.a,Data Engineering Manager,EX,FT,gdfcchc.a,ES,ES,L,fa.a
+,Machine Learning Infrastructure Engineer,MI,,djjchji.a,,PT,,a.a
+,,MI,,iededgh.a,,US,,baa.a
+caca.a,Data Engineer,MI,FT,ijibbgj.a,GB,GB,L,fa.a
+caca.a,ML Engineer,EN,PT,bchaeah.a,,DE,S,baa.a
+caca.a,Data Scientist,MI,FT,gbcdfba.a,,GB,S,baa.a
+,,SE,,bejfjagg.a,,,,baa.a
+,,MI,,idfehji.a,,US,,baa.a
+caca.a,Data Engineer,MI,FT,ffiajcf.a,FR,FR,L,fa.a
+caca.a,Data Analyst,EN,FT,eidbeg.a,,IN,,a.a
+,,EN,,hceaicf.a,,US,,baa.a
+caca.a,AI Scientist,EN,FT,dgfbjcc.a,,DK,S,fa.a
+caca.a,Data Engineer,EN,FT,edffhje.a,,DE,,baa.a
+,,SE,,ehhebha.a,,US,,baa.a
+,Principal Data Scientist,SE,,bbhjhafe.a,,,M,baa.a
+caca.a,Data Scientist,MI,FT,daifdih.a,,ES,M,baa.a
+,,MI,,jdijcab.a,,US,,baa.a
+,,SE,,jfeidea.a,,US,,fa.a
+,,MI,,bbaaieea.a,,,,baa.a
+,,MI,,ihfcgef.a,,US,,baa.a
+,,MI,,baeahgjb.a,,US,M,baa.a
+caca.a,Data Scientist,EN,PT,bhcebjb.a,,IT,,fa.a
+,,SE,,dchicgde.a,,US,,baa.a
+caca.a,Machine Learning Engineer,SE,FT,dgcjiab.a,HR,HR,,baa.a
+caca.a,Data Scientist,EN,FT,ejjbahg.a,,DE,S,fa.a
+caca.a,Data Scientist,EN,FT,djcacda.a,,DE,S,a.a
+,,SE,,bfbdebbj.a,US,,,baa.a
+,,EN,,idfehji.a,US,US,,baa.a
+caca.a,Data Scientist,SE,FT,hcfjgic.a,,AT,S,a.a
+caca.a,Data Scientist,MI,FT,ejjbahg.a,,LU,S,fa.a
+caca.a,Data Scientist,MI,FT,ddfhfje.a,,FR,S,fa.a
+,Research Scientist,EN,,gfgghbc.a,GB,GB,L,fa.a
+,,EX,,bbjdfecf.a,IN,,,baa.a
+,,EX,,bigjiidd.a,US,,,baa.a
+cacb.a,Data Scientist,,FT,ecdcegb.a,FR,FR,L,fa.a
+,,,,hjfgjfa.a,US,US,,baa.a
+cacb.a,dD Computer Vision Researcher,MI,PT,edadjb.a,IN,IN,,fa.a
+,,MI,,cbeidhgf.a,US,US,,baa.a
+,,,,gdgffga.a,US,US,,baa.a
+cacb.a,Data Analytics Engineer,,FT,gdabggg.a,DE,DE,L,baa.a
+,,,,bbbdjhda.a,US,,,baa.a
+cacb.a,Applied Data Scientist,,FT,edbfgjb.a,GB,CA,L,fa.a
+cacb.a,Machine Learning Engineer,,FT,dhgccaf.a,,ES,S,baa.a
+cacb.a,Director of Data Science,,FT,bccchcag.a,IT,,,baa.a
+cacb.a,Data Engineer,,FT,ccgficb.a,PL,PL,,baa.a
+cacb.a,Data Analyst,,FT,ehachbh.a,,FR,M,fa.a
+,,,,ihfcgef.a,US,US,L,baa.a
+,,,,bdfcgibf.a,US,,L,baa.a
+,,,,gdgffga.a,,US,S,baa.a
+,Marketing Data Analyst,,,hafebfe.a,GR,DK,,baa.a
+cacb.a,Data Science Consultant,,FT,gbbdfgd.a,,DE,S,baa.a
+cacb.a,Lead Data Analyst,,FT,bfgachi.a,IN,IN,,baa.a
+,,,,cbjgbbic.a,US,US,L,a.a
+cacb.a,Data Scientist,,FT,cdghchc.a,IN,IN,,fa.a
+cacb.a,Cloud Data Engineer,,FT,hbafahj.a,SG,SG,,fa.a
+,,EN,,jfeide.a,,US,S,baa.a
+,,,,dfiagchf.a,US,US,L,baa.a
+,,,,ffgjigf.a,,US,M,baa.a
+,,,,hgbiegb.a,,US,S,baa.a
+,,,,fjghhbd.a,US,US,L,a.a
+,,,,bbjdfecf.a,US,,L,baa.a
+,,,,ciifbbb.a,HU,US,,fa.a
+,,,,ejdddaj.a,US,US,L,a.a
+,,,FT,fiaifhe.a,US,US,L,a.a
+cacb.a,Data Analyst,,FT,eajjdeb.a,GB,GB,L,fa.a
+,Research Scientist,,FT,bejbeggg.a,CA,,L,baa.a
+,,,FT,jbfaejd.a,,US,S,baa.a
+,,,FT,bbjdfecf.a,,,M,baa.a
+cacb.a,Data Engineer,,FT,cecbbeb.a,IN,IN,,baa.a
+cacb.a,Machine Learning Engineer,,FT,hfceeba.a,DE,DE,L,fa.a
+cacb.a,Director of Data Engineering,,FT,jacjccj.a,GB,GB,,baa.a
+cacb.a,Lead Data Engineer,,FT,icaidja.a,,GB,S,baa.a
+,,EN,PT,jfeide.a,PK,US,,baa.a
+cacb.a,Data Engineer,,FT,dgbbhdj.a,NL,NL,,baa.a
+,,,FT,bhjadbdi.a,US,,L,baa.a
+cacb.a,Data Scientist,,FT,djhiehf.a,NG,NG,,baa.a
+cacb.a,Data Science Engineer,,FT,dbjhibj.a,GR,GR,,baa.a
+,,,FT,hbgbcff.a,,US,S,baa.a
+,,,FT,bfjbdjaa.a,US,,L,baa.a
+cacb.a,Big Data Engineer,,FT,ehhebha.a,,RO,M,fa.a
+,,,FT,bfjbdjaa.a,,,M,baa.a
+,,,FT,djhiehf.a,,US,M,baa.a
+cacb.a,Applied Data Scientist,,FT,ihfffij.a,GB,GB,,a.a
+cacb.a,Data Analyst,EN,PT,icdigd.a,,ES,M,fa.a
+,,,FT,bcabejjf.a,US,,L,baa.a
+,,,FT,jfeidea.a,,US,S,fa.a
+cacb.a,Data Scientist,,FT,hfdcaf.a,IN,IN,,a.a
+cacb.a,Machine Learning Engineer,,FT,bfjbdja.a,IN,IN,,baa.a
+cacb.a,Lead Data Scientist,,FT,dccibdf.a,IN,IN,,fa.a
+cacb.a,Machine Learning Developer,,FT,hjfgjfa.a,IQ,IQ,,fa.a
+cacb.a,Data Scientist,,FT,djfadah.a,,FR,M,fa.a
+,,,FT,daffegj.a,,US,M,baa.a
+cacb.a,Computer Vision Engineer,,FT,bjajggi.a,,BR,M,baa.a
+,,,FT,hjfgjfa.a,,US,S,a.a
+,,,FT,hbgbcff.a,,US,M,baa.a
+cacb.a,ML Engineer,,FT,fagjefc.a,JP,JP,,
+cacb.a,ML Engineer,,FT,gbffibf.a,JP,JP,,
+,,,FT,bhfafcja.a,US,,L,a.a
+,,,FT,gdgffga.a,,US,M,baa.a
+,,,FT,bahebiid.a,US,,L,baa.a
+,,,FT,bjajggia.a,US,,L,a.a
+cacb.a,Data Engineering Manager,,FT,bbjdfecf.a,US,,L,
+cacb.a,Data Scientist,,FT,gfgeeie.a,,US,S,
+cacb.a,Data Engineer,,FT,hjfgjfa.a,US,US,L,
+,Machine Learning Engineer,,FT,gfidijj.a,,BE,M,fa.a
+,Research Scientist,,FT,ejiejfa.a,,FR,M,fa.a
+cacb.a,Data Engineer,,FT,hbgbcff.a,US,US,L,
+cacb.a,Data Engineering Manager,,FT,bcbhebde.a,US,,L,
+cacb.a,Cloud Data Engineer,,FT,bchdbbca.a,,,S,
+cacb.a,Director of Data Science,SE,FT,bddghghg.a,JP,,,
+cacb.a,Data Scientist,,FT,bbjdfecf.a,,,M,
+cacb.a,Data Scientist,,FT,gacjcjj.a,CA,CA,L,
+cacb.a,Data Scientist,EN,FT,baggcdb.a,UA,UA,,
+cacb.a,Data Science Manager,SE,FT,bbefiaai.a,US,,L,
+cacb.a,Data Science Engineer,SE,FT,babccjbb.a,CA,CA,L,
+cacb.a,Data Scientist,MI,FT,jehdegf.a,SG,IL,,
+cacb.a,Applied Machine Learning Scientist,MI,FT,ddgfhijj.a,US,US,L,
+cacb.a,Data Analytics Manager,SE,FT,jfeidea.a,,US,M,baa.a
+cacb.a,Machine Learning Engineer,EN,FT,jjegbii.a,,US,S,baa.a
+cacb.a,Head of Data,EX,FT,bidaajif.a,RU,,,fa.a
+cacb.a,Head of Data Science,EX,FT,ghgdeai.a,RU,RU,,a.a
+cacb.a,Data Engineer,MI,FT,ccfhdah.a,MT,MT,,fa.a
+cacb.a,Data Science Consultant,EN,FT,fahjaab.a,DE,DE,L,fa.a
+cacb.a,Director of Data Science,EX,FT,badegbae.a,,DE,M,fa.a
+,,SE,FT,bdbcijgi.a,US,,L,baa.a
+,,EN,FT,gdgffga.a,US,US,L,baa.a
+,,EX,FT,bjijcdhf.a,US,US,L,a.a
+,,EN,FT,edhgdcd.a,,US,S,fa.a
+,,MI,FT,bbjdfecf.a,US,,L,baa.a
+,,MI,FT,bdfcgibf.a,US,,L,baa.a
+cacb.a,Data Engineer,MI,FT,gfgghbc.a,GB,GB,L,baa.a
+,,EN,FT,ehhebha.a,,US,S,baa.a
+,,SE,FT,bigjiidd.a,US,,L,baa.a
+,Research Scientist,SE,FT,eideeae.a,PT,PT,,fa.a
+,,SE,FT,bdiefajd.a,US,,L,baa.a
+cacb.a,Data Scientist,MI,FT,ccheij.a,MX,MX,,a.a
+cacb.a,Data Scientist,MI,FT,dbifiae.a,CL,CL,L,baa.a
+,,EN,FT,geefbda.a,,US,S,fa.a
+,,MI,FT,efbihf.a,IN,US,,baa.a
+cacb.a,Big Data Engineer,MI,FT,bhjjbeg.a,IN,IN,,a.a
+cacb.a,Data Scientist,MI,FT,hcbjgfj.a,DE,DE,L,fa.a
+,,MI,FT,cagjcaf.a,RO,US,,a.a
+cacb.a,Finance Data Analyst,SE,FT,ejcfade.a,GB,GB,L,fa.a
+,Machine Learning Scientist,MI,FL,jfeide.a,PK,PK,,fa.a
+cacb.a,Data Engineer,MI,FT,dbichi.a,IR,IR,,baa.a
+cacb.a,Data Analytics Engineer,SE,FT,djhiehf.a,,GB,M,baa.a
+cacb.a,Data Science Consultant,EX,FT,ffejcfg.a,,ES,S,baa.a
+cacb.a,Data Engineer,SE,FT,gbbdfgd.a,RO,GB,,fa.a
+cacb.a,Machine Learning Engineer,MI,FT,fiiibed.a,JP,JP,,fa.a
+cacb.a,Data Science Manager,SE,FT,bcajefge.a,US,,L,baa.a
+cacb.a,Machine Learning Engineer,EN,FT,bhdibbg.a,,CO,M,fa.a
+cacb.a,Big Data Engineer,MI,FT,bedccfb.a,MD,MD,,a.a
+,,SE,FT,bdiefajd.a,US,,L,baa.a
+,Research Scientist,SE,FT,hgehggd.a,CA,CA,L,fa.a
+,,MI,FT,bbgjghbh.a,US,,,fa.a
+cacb.a,BI Data Analyst,EN,FT,hdhhgi.a,KE,KE,,baa.a
+cacb.a,Machine Learning Engineer,SE,FT,bjdgiib.a,IN,IN,,baa.a
+,,SE,FT,edaecdd.a,IN,US,,fa.a
+,,EN,FT,hbgbcff.a,,US,S,baa.a
+cacb.a,Data Scientist,MI,FT,eijaiji.a,,AT,M,fa.a
+,,SE,FT,bffbgafd.a,,,M,baa.a
+cacb.a,Data Scientist,MI,FT,daajhbg.a,ES,ES,L,baa.a
+,,SE,FT,djhiehf.a,,US,S,baa.a
+,,MI,FT,bchdbbca.a,US,,L,baa.a
+cacb.a,Data Scientist,MI,FT,bacgfcg.a,,BR,S,a.a
+,,SE,FT,bfjbdjaa.a,US,,L,baa.a
+,,SE,FT,bdbcijgi.a,,,M,a.a
+,,MI,FL,bfjbdja.a,IT,US,,a.a
+,,SE,FT,jfeidea.a,US,US,L,a.a
+cacb.a,Machine Learning Engineer,MI,FT,bjhfbfe.a,SI,SI,,fa.a
+,Research Scientist,MI,FT,efbegbe.a,,FR,S,fa.a
+cacb.a,Data Engineer,MI,FT,fcfdddi.a,HK,GB,,fa.a
+cacb.a,Big Data Engineer,EN,FT,egiaci.a,IN,CH,,a.a
+cacb.a,Machine Learning Engineer,EN,FT,bjhfbfe.a,,DE,M,fa.a
+,,SE,FT,behcadfi.a,US,,L,baa.a
+cacb.a,Computer Vision Engineer,EN,PT,cchgeae.a,,DK,S,fa.a
+cacb.a,Data Scientist,MI,FT,hcbjgfj.a,DE,DE,L,fa.a
+cacb.a,Machine Learning Engineer,MI,FT,hafebfe.a,,BE,M,baa.a
+,,SE,FT,bbbdjhda.a,US,,L,baa.a
+cacb.a,Machine Learning Engineer,MI,FT,dhahhaa.a,PL,PL,,baa.a
+cacb.a,Data Scientist,MI,FT,jdachij.a,GB,GB,L,fa.a
+cacb.a,Data Scientist,MI,FT,cgjaaig.a,IN,IN,,
+cacb.a,Data Scientist,MI,FT,eehgcgc.a,GB,GB,L,
+,Machine Learning Scientist,SE,FT,bhjadbdi.a,US,,L,baa.a
+,,EX,CT,ddbaajbc.a,,US,S,baa.a
+cacb.a,Data Scientist,SE,FT,gjibcgj.a,,CA,S,
+cacb.a,Data Scientist,MI,FT,hafebfe.a,DE,DE,L,
+,,SE,FT,bahebiid.a,US,,L,a.a
+cacb.a,Data Analyst,SE,FT,fhbbjhg.a,,CA,M,
+cacb.a,Big Data Engineer,EN,FT,bcjbcfe.a,IN,IN,,
+,,SE,FT,cadgjhjc.a,,US,S,baa.a
+,,SE,FT,bfjbdjaa.a,US,,L,baa.a
+,,SE,FT,bfjbdjaa.a,US,,L,baa.a
+,,MI,FT,bedccfba.a,US,,L,baa.a
+,,MI,FT,ihfcgef.a,,US,S,a.a
+,Research Scientist,MI,FT,fahhdda.a,CA,CA,M,baa.a
+cacb.a,Data Scientist,MI,FT,dhcefgj.a,ES,ES,M,
+cacb.a,Data Scientist,EN,FT,dbichi.a,VN,VN,M,
+cacb.a,Data Engineer,EN,FT,bhcbgef.a,IN,IN,,
+cacb.a,Data Scientist,SE,FT,icfageb.a,CA,CA,L,
+,,MI,FT,gdgffga.a,US,US,L,baa.a
+,,MI,FT,ihfcgef.a,US,US,L,baa.a
+,,SE,FT,bdbcijgi.a,US,,L,baa.a
+cacb.a,AI Scientist,EN,FT,bedgegi.a,IN,AS,,
+cacb.a,Data Engineer,MI,FT,fhefihd.a,GB,GB,L,
+cacb.a,Data Scientist,EN,FT,cjbfggf.a,FR,FR,L,
+cacb.a,Data Engineer,MI,FT,jgdada.a,TR,TR,,
+cacb.a,Data Engineer,SE,FT,hggbbbb.a,GB,GB,L,
+,,SE,FT,bdfcgibf.a,US,,M,baa.a
+,,MI,FT,jbfaejd.a,US,US,L,fa.a
+,,EN,FT,hbgbcff.a,,US,S,baa.a
+,,EX,FT,ehhebhaa.a,US,US,L,baa.a
+cacb.a,Data Scientist,EN,FT,ccfjgje.a,IN,IN,,
+,,MI,FT,hdjjjge.a,US,US,L,baa.a
+cacb.a,Big Data Architect,SE,FT,hjdddbi.a,CA,CA,M,
+,,MI,FT,bfjbdjaa.a,US,,L,baa.a
+,Principal Data Scientist,SE,FT,bdicgbff.a,DE,,M,baa.a
+,,SE,FT,behcadfi.a,US,,L,fa.a
+cacb.a,Director of Data Science,EX,FT,bbciggbf.a,DE,,L,
+,,MI,FT,badeeadf.a,US,US,L,fa.a
+cacb.a,Data Analyst,SE,FT,fahjaab.a,DE,DE,L,
+cacb.a,Data Scientist,MI,FT,bdefaed.a,IN,IN,,
+cacb.a,Machine Learning Engineer,SE,FT,fchcghd.a,IN,IN,,
+cacb.a,Data Scientist,MI,FT,cadbfgi.a,RS,DE,,
+,,SE,FT,bchdbbca.a,PR,,,fa.a
+,,MI,FT,hebbijj.a,US,US,M,a.a
+,,MI,FT,iijdiib.a,US,US,M,a.a
+cacb.a,Data Engineer,MI,FT,cccjcbj.a,TR,TR,,
+cacb.a,Data Engineer,EN,FT,fbhdafc.a,DE,DE,M,
+,,EN,FT,fhgihij.a,US,US,L,baa.a
+cacb.a,Computer Vision Engineer,SE,FT,bfaeecb.a,BR,BR,M,
+cacb.a,Data Science Consultant,EN,FT,gbbdfgd.a,DE,DE,L,
+,Machine Learning Engineer,EN,FT,ghgdeai.a,NL,DE,,baa.a
+cacb.a,Data Scientist,SE,FT,gbibchh.a,FR,FR,M,
+,,EN,FT,hjfgjfa.a,US,US,M,baa.a
+,,EN,FT,egbfadb.a,US,US,L,fa.a
+cacb.a,AI Scientist,SE,FT,edhgdcd.a,ES,ES,L,
+cacb.a,Data Scientist,SE,FT,bgaejjg.a,TR,TR,,
+cacb.a,Business Data Analyst,EN,FT,ehachbh.a,LU,LU,,
+,,MI,FT,ijbbhie.a,US,US,L,baa.a
+,Research Scientist,EN,FT,hjfgjfa.a,JE,CN,,a.a
+cacb.a,Data Engineer,MI,PT,ffejcfg.a,NL,NL,,
+,,SE,CT,idfehji.a,US,US,M,baa.a
+,Research Scientist,MI,FT,ffgjhif.a,CZ,CZ,L,fa.a
+cacb.a,Data Science Manager,SE,FT,hfdceeh.a,IN,IN,,
+cacb.a,Head of Data,SE,FT,ibiciei.a,SI,SI,,
+,,MI,FT,ighdahg.a,US,US,L,fa.a
+,Machine Learning Engineer,MI,FT,eagdbdh.a,IT,IT,,fa.a
+,,SE,FT,bahebiid.a,US,,M,baa.a
+,,SE,FT,bcdddchd.a,US,,M,baa.a
+cacc.a,Data Analyst,SE,,jfjgaic.a,US,US,M,baa.a
+,,MI,FT,badeeadf.a,US,US,M,a.a
+cacc.a,Data Scientist,MI,,hbgbcff.a,US,US,M,a.a
+cacc.a,Data Engineer,MI,,bdfcgibf.a,US,,M,baa.a
+cacc.a,Data Engineer,MI,,bbjdfecf.a,US,,M,baa.a
+cacc.a,Data Analyst,SE,,ibceaeg.a,US,US,M,baa.a
+cacc.a,Data Analyst,SE,FT,,US,US,M,
+cacc.a,Data Scientist,SE,FT,,,,M,
+cacc.a,Data Scientist,SE,FT,,,US,M,
+cacc.a,Data Scientist,SE,FT,,,GB,M,
+cacc.a,Data Scientist,SE,FT,,,GB,M,
+cacc.a,Data Scientist,SE,FT,,,,M,
+cacc.a,Data Scientist,,FT,,,US,M,
+cacc.a,Data Engineer,,FT,ebgffed.a,,GB,M,
+cacc.a,Data Analyst,,FT,hihhdib.a,,US,M,
+cacc.a,Data Analyst,,FT,jcdaagc.a,,US,M,
+cacc.a,Data Analyst,,FT,ieffaff.a,,US,M,
+cacc.a,Data Analyst,MI,FT,baagffec.a,,US,M,
+cacc.a,Data Engineer,EX,FT,bjcffibj.a,,,M,
+cacc.a,Data Engineer,EX,FT,bfjbdjaa.a,,,M,
+cacc.a,Data Scientist,MI,FT,fcagigj.a,GB,GB,,
+cacc.a,Data Scientist,MI,FT,dbcebdh.a,,GB,M,
+cacc.a,Data Engineer,MI,FT,,GB,GB,,
+cacc.a,Data Engineer,MI,FT,,GB,GB,,
+cacc.a,Data Scientist,SE,FT,,,,M,
+cacc.a,Data Engineer,EN,FT,,GB,GB,,
+,,SE,FT,jfgbahb.a,,US,M,baa.a
+,,SE,FT,hbighbh.a,,US,M,baa.a
+,,SE,FT,beehgihf.a,,,M,a.a
+,,SE,FT,bafcigdg.a,,,M,a.a
+,,SE,FT,bhfbeaed.a,,,M,a.a
+,,SE,FT,bchdheig.a,,,M,a.a
+,,SE,FT,bedccfba.a,US,,L,a.a
+,,SE,FT,jfeidea.a,US,US,L,a.a
+,,SE,FT,jiibhdg.a,,US,M,baa.a
+,,EX,FT,badeeadf.a,,US,M,baa.a
+,,EX,FT,ihfcgef.a,,US,M,baa.a
+,,SE,FT,bdfcgibf.a,US,,M,baa.a
+,,MI,FT,jbjachh.a,,US,M,baa.a
+,,SE,FT,ijiddjh.a,,US,M,baa.a
+,,SE,FT,hbighbh.a,,US,M,baa.a
+,,SE,FT,ijiddjh.a,,US,M,baa.a
+,,SE,FT,hbighbh.a,,US,M,baa.a
+,,SE,FT,bdbgahjf.a,,,M,baa.a
+,,SE,FT,bafcigdg.a,,US,M,baa.a
+,,MI,FT,bdciibah.a,,,M,baa.a
+,,SE,FT,bjeahaab.a,,US,M,baa.a
+,,SE,FT,baigjbje.a,,,M,baa.a
+cacc.a,,SE,FT,,,US,M,
+cacc.a,,SE,FT,,,US,M,
+cacc.a,,SE,FT,,,US,M,
+cacc.a,,EX,FT,,,,M,
+cacc.a,,EX,FT,,,,M,
+cacc.a,,EX,FT,,,,M,
+cacc.a,,SE,FT,,,,M,
+cacc.a,,SE,FT,,,US,M,
+cacc.a,,SE,FT,,,US,M,
+cacc.a,,SE,FT,,US,US,L,
+cacc.a,,SE,FT,,,,M,
+cacc.a,,SE,FT,,,,M,
+cacc.a,,SE,FT,,,,M,
+cacc.a,,SE,FT,,,,M,
+cacc.a,,SE,FT,,,US,M,
+cacc.a,Data Engineer,SE,FT,,GB,GB,,
+cacc.a,Data Engineer,SE,FT,,GB,GB,,
+cacc.a,,SE,FT,,,,M,
+cacc.a,,SE,FT,,,,M,
+cacc.a,Data Architect,SE,FT,,,,M,
+cacc.a,Data Architect,SE,FT,,,CA,M,
+cacc.a,Data Analyst,SE,FT,,,CA,M,
+cacc.a,Data Analyst,SE,FT,,,CA,M,
+cacc.a,Data Analyst,SE,FT,,,CA,M,
+cacc.a,Data Analyst,SE,FT,,,CA,M,
+cacc.a,,SE,FT,,US,,L,
+cacc.a,,SE,FT,,,,M,
+cacc.a,,SE,FT,,,,M,
+cacc.a,,MI,FT,,,US,S,
+cacc.a,,EX,FT,,,,M,
+cacc.a,,SE,FT,,,,M,
+cacc.a,,SE,FT,,,US,M,
+cacc.a,,SE,FT,,,,M,
+cacc.a,,SE,FT,,,,M,
+cacc.a,ETL Developer,MI,FT,,GR,GR,,
+cacc.a,ETL Developer,MI,FT,,GR,GR,,
+cacc.a,Lead Data Engineer,EX,FT,,,CA,S,
+cacc.a,,SE,FT,,US,US,M,
+cacc.a,,SE,FT,,US,,M,
+cacc.a,,SE,FT,,US,,M,
+cacc.a,,SE,FT,,US,,M,
+cacc.a,,SE,FT,,US,,M,
+cacc.a,,SE,FT,,US,US,M,
+cacc.a,,SE,FT,,US,US,M,
+cacc.a,,SE,FT,,US,US,M,
+cacc.a,Head of Machine Learning,EX,FT,,IN,IN,,
+cacc.a,,SE,FT,,US,US,M,
+,Machine Learning Engineer,EN,FT,cjghjec.a,GB,GB,L,baa.a
+cacc.a,,SE,FT,,US,,M,
+cacc.a,,SE,FT,,US,,M,
+cacc.a,Machine Learning Engineer,MI,FT,,GB,GB,M,
+cacc.a,Machine Learning Engineer,MI,FT,,GB,GB,M,
+cacc.a,,MI,FT,,US,US,M,
+cacc.a,Data Analyst,SE,FT,,US,US,M,
+cacc.a,,SE,FT,,US,US,M,
+cacc.a,Data Analytics Manager,SE,FT,,US,,M,
+cacc.a,Data Analytics Manager,SE,FT,,US,US,M,
+cacc.a,Machine Learning Engineer,MI,FT,,FR,DE,M,
+cacc.a,Data Engineer,MI,FT,,GB,GB,M,
+cacc.a,Data Scientist,SE,FT,,US,,L,
+cacc.a,Data Scientist,SE,FT,,US,,L,
+cacc.a,Data Engineer,SE,FT,,US,,L,
+cacc.a,Data Engineer,SE,FT,,US,,L,
+cacc.a,Data Analyst,SE,FT,,US,US,M,
+cacc.a,Data Analyst,SE,FT,,US,US,M,
+cacc.a,Data Engineer,SE,FT,,US,,M,
+cacc.a,Data Engineer,MI,FT,,GB,GB,M,
+cacc.a,Data Analyst,MI,FT,,,US,S,
+cacc.a,Data Engineer,SE,FT,,US,,L,
+cacc.a,Data Analyst,MI,FT,,GB,GB,M,
+cacc.a,Data Scientist,SE,FT,,US,,M,
+cacc.a,Data Scientist,MI,FT,,GB,GB,M,
+cacc.a,Data Scientist,MI,FT,,GB,GB,,
+cacc.a,Data Engineer,MI,FT,,GR,GR,,
+cacc.a,Data Engineer,MI,FT,,GR,GR,,
+cacc.a,Data Engineer,MI,FT,,GB,GB,,
+cacc.a,Data Engineer,MI,FT,,GB,GB,,
+cacc.a,Data Scientist,SE,FT,,US,US,M,
+cacc.a,Data Science Engineer,SE,FT,,AR,MX,L,
+cacc.a,Data Engineer,MI,FT,,US,US,M,
+,Machine Learning Scientist,MI,FT,bchdbbca.a,US,,L,baa.a
+,Machine Learning Scientist,MI,FT,ijdfgff.a,US,US,L,baa.a
+cacc.a,Data Science Manager,MI,FT,,US,,M,
+cacc.a,Data Science Manager,MI,FT,,US,,M,
+cacc.a,Data Scientist,SE,FT,,US,,M,
+cacc.a,Data Scientist,SE,FT,,US,US,M,
+cacc.a,Data Engineer,MI,FT,,US,US,,
+cacc.a,Data Engineer,SE,FT,,US,US,,
+cacc.a,Data Engineer,MI,FT,,ES,ES,M,
+cacc.a,Data Scientist,SE,FT,,US,,,
+cacc.a,Data Analyst,MI,FT,,GB,GB,,
+cacc.a,Data Analyst,MI,FT,,ES,ES,M,
+cacc.a,Data Analyst,MI,FT,,ES,ES,M,
+cacc.a,Data Engineer,MI,FT,,ES,ES,M,
+cacc.a,Data Engineer,MI,FT,,ES,ES,M,
+cacc.a,Data Engineer,MI,FT,,GB,GB,M,baa.a
+cacc.a,Data Engineer,MI,FT,,GB,GB,M,baa.a
+cacc.a,Data Engineer,MI,FT,,ES,ES,M,baa.a
+cacc.a,Data Engineer,MI,FT,,GR,GR,,baa.a
+,Machine Learning Engineer,SE,FT,bfajadfg.a,US,,,a.a
+cacc.a,Machine Learning Engineer,SE,FT,,US,,,a.a
+cacc.a,Data Analyst,MI,FT,,GR,GR,,baa.a
+cacc.a,Data Analyst,MI,FT,,GR,GR,,baa.a
+cacc.a,Data Engineer,MI,FT,,GB,GB,M,baa.a
+cacc.a,Data Engineer,MI,FT,,GB,GB,M,baa.a
+cacc.a,Data Scientist,SE,FT,,US,,,a.a
+cacc.a,Data Engineer,MI,FT,,GR,GR,,baa.a
+cacc.a,Data Engineer,SE,FT,,US,,,
+cacc.a,Data Engineer,SE,FT,,US,,,
+cacc.a,Data Engineer,SE,FT,,US,,,
+cacc.a,ML Engineer,EN,FT,,PT,PT,,
+cacc.a,Data Engineer,SE,FT,,US,US,,
+cacc.a,Machine Learning Developer,MI,,,CA,CA,M,baa.a
+cacc.a,Director of Data Science,,,,CA,,L,fa.a
+cacc.a,Machine Learning Engineer,MI,,,US,US,,baa.a
+cacc.a,Computer Vision Engineer,EN,,,US,US,,a.a
+,NLP Engineer,,FT,cjgcifa.a,US,US,,fa.a
+cacc.a,Data Engineer,,,,US,US,,baa.a
+cacc.a,Lead Machine Learning Engineer,,,,DE,DE,M,a.a
+cacc.a,Business Data Analyst,,,,IN,IN,,baa.a
+cacc.a,Data Scientist,,,,IN,IN,,baa.a
+,Machine Learning Infrastructure Engineer,,FT,egdfdcb.a,PT,PT,,fa.a
+cacc.a,Financial Data Analyst,,FT,,US,US,,fa.a
+cacc.a,Data Engineer,MI,PT,,DE,DE,L,fa.a
+cacc.a,Data Scientist,,FT,,IN,IN,,baa.a
+,Principal Data Scientist,,FT,bcjediij.a,DE,,M,baa.a
+cacc.a,Data Engineer,,FT,,US,US,,baa.a
+,Research Scientist,,FT,bbefiaai.a,US,,,fa.a
+cacc.a,Data Scientist,,FT,,US,US,,baa.a
+cacc.a,Data Engineer,,FT,,US,US,,baa.a
+cacc.a,Data Scientist,,FT,,US,,,baa.a
+cacc.a,Data Analyst,,FT,,US,,,baa.a
+cacc.a,Data Analyst,,,,US,US,,baa.a
+cacc.a,Data Scientist,,,,US,,,baa.a
+cacc.a,Data Scientist,,,,US,,,baa.a
+cacc.a,Data Scientist,MI,,,GB,,M,a.a
+cacc.a,Data Scientist,,,,GB,GB,M,a.a
+cacc.a,Data Scientist,,,,US,,,baa.a
+cacc.a,Machine Learning Engineer,,,,US,,,baa.a
+cacc.a,Data Scientist,,,,US,,M,baa.a
+cacc.a,Data Scientist,,,,US,US,,baa.a
+cacc.a,Machine Learning Engineer,,,,,AE,S,baa.a
+cacc.a,Machine Learning Engineer,,,,,AE,S,baa.a
+cacc.a,Data Engineer,,,,US,US,,baa.a
+cacc.a,Data Engineer,,,,US,,,baa.a
+cacc.a,Data Engineer,,,,US,,,baa.a
+,Machine Learning Engineer,,FT,jfeidea.a,US,US,,baa.a
+cacc.a,Data Scientist,,,,US,,,baa.a
+cacc.a,Data Scientist,EN,,,DZ,DZ,M,fa.a
+cacc.a,Data Scientist,MI,,,CA,US,M,baa.a
+cacc.a,Applied Machine Learning Scientist,EN,,,TN,CZ,,baa.a
+cacc.a,Head of Data,,,,MY,,,baa.a
+,Principal Data Analyst,,FT,fjghhbd.a,,CA,S,baa.a
+cacc.a,Data Scientist,,,,PL,PL,,baa.a
+cacc.a,Machine Learning Developer,,,,CA,CA,M,baa.a
+cacc.a,Data Scientist,,,,BR,US,M,baa.a
+,Machine Learning Scientist,,FT,bcbhebde.a,US,,,fa.a
+cacc.a,Data Engineer,,,,PK,DE,,baa.a
+cacc.a,Data Scientist,,,,US,,,baa.a
+,Research Scientist,,FT,heddjea.a,FR,FR,L,fa.a
+cacc.a,Data Scientist,,,,CA,CA,L,baa.a
+cacc.a,Machine Learning Engineer,,,,NL,NL,,baa.a
+cacc.a,Head of Data,,,,,EE,S,baa.a
+cacc.a,Data Scientist,,,,JP,MY,,baa.a
+cacc.a,Machine Learning Engineer,,,,AU,AU,L,baa.a
+cacc.a,Data Engineer,,,,US,US,M,baa.a
+cacc.a,Data Scientist,,,,AU,AU,M,fa.a
+cacc.a,Applied Machine Learning Scientist,,,,BO,US,L,baa.a
+,Research Scientist,,FT,fbgaaad.a,AT,AT,L,a.a
+,Research Scientist,,FT,jfeidea.a,US,US,L,baa.a
+cacc.a,Applied Data Scientist,,,bcejcebc.a,US,,L,baa.a
+cacc.a,Computer Vision Software Engineer,,,,,,S,baa.a
+cacc.a,Business Data Analyst,,,,CA,CA,L,fa.a
+cacc.a,Data Engineer,,,,,US,S,baa.a
+cacc.a,Machine Learning Engineer,,,,IE,IE,,baa.a
+cacc.a,Data Analytics Engineer,,,,PK,PK,,a.a
+cacc.a,Data Scientist,,,,RU,US,,baa.a
+cacc.a,Data Science Manager,,,,US,,M,baa.a
+cacc.a,Data Engineer,,,,FR,FR,M,baa.a
+cacc.a,Data Scientist,,,,CH,CH,L,a.a
+cacc.a,Applied Data Scientist,,,,US,US,L,baa.a
+cacc.a,Data Scientist,,,,CA,CA,M,baa.a
+cacc.a,Computer Vision Engineer,,,,PT,LU,,baa.a
+cacc.a,Data Analyst,,,,GR,GR,,baa.a
+cacc.a,Data Analytics Lead,,,,US,US,L,baa.a
+cacc.a,Data Scientist,,,,US,,L,baa.a
+cacc.a,Applied Data Scientist,,,beaidiac.a,US,,L,baa.a
+cacc.a,Data Scientist,,,gcagecb.a,US,US,M,baa.a
+cacc.a,Data Analyst,,,bahebiid.a,US,,M,baa.a
+cacc.a,Data Analyst,,,hjfgjfa.a,US,US,M,baa.a
+cacc.a,Data Analyst,,,hbighbh.a,US,US,M,baa.a
+cacc.a,Data Analyst,MI,,ghgdeai.a,CA,CA,M,a.a
+cacc.a,Data Analyst,MI,,fjghhbd.a,CA,CA,M,a.a
+,Machine Learning Engineer,SE,FT,bhachihd.a,US,,M,baa.a
+,Machine Learning Engineer,SE,FT,bfdcfaig.a,US,,M,baa.a
+cacc.a,Data Architect,SE,,cbbjhdbf.a,US,US,M,baa.a
+cacc.a,Data Architect,SE,,bgjfhifc.a,US,,M,baa.a
+cacc.a,Data Analyst,SE,,ijiddjh.a,US,US,M,baa.a
+cacc.a,Data Engineer,SE,,bcdddchd.a,US,,M,baa.a
+cacc.a,Data Scientist,MI,,bbcedbha.a,US,,M,a.a
+cacc.a,Data Scientist,MI,,ibceaeg.a,US,US,M,a.a
+cacc.a,Data Analyst,SE,,jcceiba.a,US,US,M,baa.a
+cacc.a,Data Analyst,SE,,gejibcd.a,US,US,M,baa.a
+cacc.a,Data Engineer,MI,,bgeegjdg.a,US,,M,a.a
+cacc.a,Data Engineer,MI,,hiifddh.a,US,US,M,a.a
+cacc.a,Data Engineer,SE,,badeeadf.a,US,US,M,baa.a
+cacc.a,Data Engineer,SE,,jbfaejd.a,US,US,M,baa.a
+cacc.a,Data Engineer,SE,,ihjceda.a,US,US,M,baa.a
+cacc.a,Data Engineer,SE,,badeeadf.a,US,US,M,baa.a
+cacc.a,Data Analyst,SE,,hiibdfj.a,US,US,M,baa.a
+cacc.a,Data Engineer,SE,,bchdbbca.a,US,,M,baa.a
+cacc.a,Data Scientist,SE,,bgddfgbi.a,US,,L,a.a
+cacc.a,Data Scientist,SE,,bbbhbffi.a,US,,L,a.a
+cacc.a,Data Scientist,SE,,beaaecdc.a,US,,M,baa.a
+cacc.a,Data Scientist,SE,,bbefiaai.a,US,,M,baa.a
+cacc.a,Data Engineer,SE,,bfjcbifh.a,US,,M,baa.a
+cacc.a,Data Engineer,SE,,bchdbbca.a,US,,M,baa.a
+cacc.a,Data Engineer,SE,,bbfdhfhi.a,US,,M,baa.a
+cacc.a,Data Engineer,SE,,fgajgfa.a,US,US,M,a.a
+cacc.a,Data Scientist,SE,,bgddfgbi.a,US,,M,a.a
+cacc.a,Data Scientist,SE,,bbbhbffi.a,US,,M,a.a
+cacc.a,Analytics Engineer,SE,,bgddfgbi.a,US,,M,a.a
+cacc.a,Analytics Engineer,SE,,begjgeih.a,US,,M,a.a
+cacc.a,Data Engineer,SE,,bdjdcgbj.a,US,,M,baa.a
+cacc.a,Data Engineer,SE,,bbbfjgcc.a,US,,M,baa.a
+cacc.a,Data Analyst,SE,,jcebjjh.a,US,US,M,baa.a
+cacc.a,Data Engineer,SE,,ecjghfd.a,US,US,M,a.a
+cacc.a,Data Analyst,SE,,bdfcgibf.a,US,,M,baa.a
+cacc.a,Data Analyst,MI,,fcagigj.a,GB,GB,M,a.a
+cacc.a,Data Analyst,SE,,gdgffga.a,US,US,M,baa.a
+cacc.a,Data Scientist,SE,,bbbdjhda.a,US,,M,baa.a
+cacc.a,Data Scientist,SE,,bghajfjf.a,US,,M,baa.a
+cacc.a,Data Scientist,SE,,bbbdjhda.a,US,,M,baa.a
+cacc.a,Data Analyst,SE,,hjfgjfa.a,US,US,M,baa.a
+cacc.a,Data Analyst,SE,,fejacjg.a,US,US,M,baa.a
+cacc.a,Data Scientist,SE,,bghajfjf.a,US,,M,baa.a
+cacc.a,Data Scientist,SE,,bbbdjhda.a,US,,M,baa.a
+cacc.a,Data Scientist,SE,,bghajfjf.a,US,,M,baa.a
+cacc.a,Data Analyst,SE,,bbjebdjd.a,US,,M,baa.a
+cacc.a,Data Engineer,SE,,hjfgjfa.a,US,US,M,baa.a
+cacc.a,Data Engineer,SE,,bjijcdi.a,US,US,M,baa.a
+cacc.a,Data Analyst,SE,,baagffec.a,US,US,M,baa.a
+cacc.a,Data Analyst,SE,,ieffaff.a,US,US,M,baa.a
+cacc.a,Data Engineer,SE,,bhfbeaed.a,US,,M,baa.a
+cacc.a,Data Engineer,SE,,bchdheig.a,US,,M,baa.a
+cacc.a,Data Analyst,SE,,idfehji.a,US,US,M,baa.a
+cacc.a,Data Analyst,SE,,iicgceh.a,US,US,M,baa.a
+cacc.a,Data Analyst,MI,,dgeeiea.a,GB,GB,M,a.a
+cacc.a,Data Scientist,SE,,bbbdjhda.a,US,,M,baa.a
+cacc.a,Data Analyst,SE,,hihhdib.a,US,US,M,a.a
+cacc.a,Data Analyst,SE,,ehhebha.a,US,US,M,baa.a
+cacc.a,Data Architect,SE,,bfdccccb.a,US,,M,baa.a
+cacc.a,Data Architect,SE,FT,bbfcfjga.a,US,,M,
+cacc.a,Data Scientist,SE,FT,bidaajif.a,US,,M,
+cacc.a,Data Scientist,SE,FT,bbjdfecf.a,US,,M,
+cacc.a,Data Analytics Manager,SE,FT,bbjfgbbd.a,US,,M,
+cacc.a,Data Analytics Manager,SE,FT,igjfdff.a,US,US,M,
+cacc.a,Data Scientist,SE,FT,bghajfjf.a,US,,M,
+cacc.a,Data Analyst,SE,FT,bdfcgibf.a,US,,M,
+cacc.a,Data Scientist,MI,FT,bchdbbca.a,US,,M,
+cacc.a,Data Scientist,MI,FT,badeeadf.a,US,US,M,
+cacc.a,Data Analyst,EN,FT,fddbbfh.a,CA,CA,M,
+cacc.a,Data Analyst,EN,FT,ebdhgbe.a,CA,CA,M,
+cacc.a,Data Engineer,SE,FT,bccfdhad.a,US,,M,
+cacc.a,Data Engineer,SE,FT,baacfhfh.a,US,US,M,
+cacc.a,Data Analyst,SE,FT,bacgeegg.a,,US,M,
+cacc.a,Data Analyst,SE,FT,bbjdfecf.a,,,M,
+cacc.a,AI Scientist,MI,FT,bfjbdjaa.a,IN,,,

@@ -1,0 +1,899 @@
+Country str,CustomerName str,DeliveryYear int,Engine str,ModelSeries str,OrderMonth str,OrderYear str,Region str,DeliveryTotal int,OrderTotal int
+USA,,1968.0,PW,DC-9,,,North America,3.0,
+Ireland,Ryanair,,CF,,,2002.0,Europe,,2.0
+Netherlands,KLM Royal Dutch Airlines,,GE,747-300,Jan,1982.0,,,
+USA,,2010.0,GE,777F,,,,2.0,
+Russian Federation,Volga-Dnepr UK Ltd,2012.0,GE,747-8F,,2006.0,Europe,3.0,3.0
+Argentina,,,,727,,,South America,2.0,
+Indonesia,Garuda Indonesia,1976.0,PW,,Feb,1976.0,,,
+China,China Xinjiang Airlines,2002.0,RR,,Mar,2000.0,East Asia,1.0,1.0
+USA,,,RR,757-200,,,North America,2.0,
+France,AOM French Airlines,1996.0,PW,,Jun,1995.0,Europe,,2.0
+United Kingdom,,1989.0,RR,757-200,,,Europe,2.0,2.0
+Turkey,Pegasus Airlines,2007.0,,737-800,Feb,2006.0,,1.0,
+Netherlands,ITOCHU AirLease B.V.,1993.0,,737-300,Jul,1991.0,,,
+Venezuela,Aeropostal,1987.0,PW,MD-80,May,1986.0,South America,1.0,
+USA,U.S. Air Force,,PW,707/720,,1973.0,North America,1.0,
+Germany,Bavaria,,PW,,Jan,1980.0,Europe,,2.0
+Turkey,Turkish Air Force Peace Eagle,2005.0,,737-700W,,2003.0,Europe,1.0,1.0
+Germany,Aero Lloyd,1987.0,PW,,Aug,1986.0,Europe,,1.0
+Hungary,Malev Hungarian Airlines Ltd.,1993.0,PW,,Feb,1991.0,,,
+Cameroon,Cameroon Airlines,1972.0,PW,707/720,May,1972.0,Africa,1.0,1.0
+USA,Jackson Square Aviation,2021.0,,737 MAX,Feb,2021.0,,4.0,
+Ireland,DAE 4 Ireland Limited,2020.0,GE,,Dec,2018.0,Europe,,1.0
+Switzerland,Swissair,,PW,DC-9,,1966.0,Europe,5.0,5.0
+Turkey,Onur Air,1997.0,PW,MD-80,Oct,1995.0,,5.0,
+Nigeria,Arik Air,2009.0,,737-800,Sep,2007.0,Africa,1.0,1.0
+USA,Republic Airlines,,PW,DC-9,,1979.0,North America,4.0,
+Germany,Deucalion Capital VII Limited,2010.0,GE,,Dec,2005.0,Europe,,4.0
+China,,2006.0,GE,,,,,2.0,
+USA,,,,737-800,,,North America,1.0,
+Germany,Lufthansa Cargo,1998.0,GE,,Feb,1997.0,,,
+Tanzania United Republic of,,2019.0,RR,787-8,,,Africa,1.0,1.0
+China,,,PW,,,,East Asia,1.0,1.0
+State of Libya,,1975.0,,727,,,,3.0,
+Mexico,VivaAerobus,1992.0,,737-300,,1989.0,Central America and Mexico,,2.0
+USA,,,PW,707/720,,,North America,1.0,
+Azerbaijan,,2014.0,GE,787-8,,,Central Asia,2.0,2.0
+China,CAAC-Civil Aviation of China,1985.0,PW,,May,1985.0,East Asia,1.0,1.0
+China,,1992.0,PW,,,,East Asia,2.0,2.0
+Germany,dba,1998.0,CF,,,1997.0,Europe,,1.0
+Japan,Mitsui & Co.,1990.0,GE,MD-11,Dec,1986.0,,,
+USA,Air Lease Corporation,,RR,787-9,Jan,2016.0,North America,1.0,
+United Arab Emirates,Emirates,2011.0,GE,777-300ER,Apr,2010.0,Middle East,3.0,3.0
+China,,2006.0,GE,,,,East Asia,1.0,1.0
+Brunei Darussalam,,,,737-200,,,Southeast Asia,2.0,
+China,,,CF,,,,East Asia,1.0,1.0
+Hong Kong,CDB Aviation,2016.0,CF,,Mar,2014.0,East Asia,,6.0
+USA,Altavair LLC,2007.0,GE,747-400ERF,Jun,2005.0,North America,3.0,
+South Africa,,2015.0,,737-800,,,Africa,2.0,2.0
+Japan,Japan Transocean Air,2016.0,,737-800,May,2014.0,,,
+Saudi Arabia,,,PW,757-200,,,,1.0,
+Malta,Air Malta,1983.0,,737-200,Mar,1982.0,Europe,,3.0
+Brazil,VASP Airlines,1973.0,,737-200,,1973.0,South America,3.0,
+USA,,2017.0,GE,747-8,,,North America,2.0,
+Mexico,Aeromexico,,PW,DC-9,Jan,1979.0,Central America and Mexico,,6.0
+Brazil,,,,737-800,,,,1.0,
+Azerbaijan,,2012.0,GE,767-300F,,,Central Asia,2.0,2.0
+Ukraine,,2012.0,,737-800,,,,2.0,
+Spain,Iberia Airlines,,,727,Jan,1972.0,,3.0,
+Singapore,Scoot PTE LTD,2015.0,RR,787-9,,2006.0,Southeast Asia,6.0,
+Singapore,SilkAir,2015.0,,737-800,,2012.0,Southeast Asia,6.0,
+United Kingdom,,2001.0,RR,757-300,,,Europe,2.0,2.0
+USA,,,PW,DC-8,,,North America,1.0,
+Germany,LTU,,RR,,Jan,1987.0,,,
+Netherlands,Air France-KLM Group,2016.0,GE,787-9,Dec,2011.0,Europe,,1.0
+South Korea,Jeju Air,2018.0,,737-800,Dec,2016.0,,3.0,
+USA,American Airlines,,,727,Jan,1974.0,North America,8.0,
+Iceland,Icelandair,,CF,,Jan,2005.0,,,
+Algeria,,,,737-200,,,Africa,1.0,1.0
+United Arab Emirates,Dubai Air Wing,1982.0,,727,Jul,1982.0,Middle East,1.0,1.0
+Ireland,GPA Group,,CF,,Jan,1988.0,,,
+USA,,1982.0,,737-200,,,,2.0,
+Italy,Alitalia,,PW,,Jan,1966.0,Europe,,2.0
+USA,,,,727,,,North America,2.0,
+Switzerland,,1979.0,,737-200,,,,1.0,
+United Kingdom,,1989.0,,737-400,,,,2.0,
+USA,,,RR,757-200,,,North America,1.0,
+South Korea,,2022.0,,737-800A,,,,1.0,
+Japan,BDS Japan International Tanker,2021.0,PW,,Nov,2018.0,East Asia,,1.0
+Reunion,,2016.0,RR,787-8,,,Africa,2.0,2.0
+Saudi Arabia,,1996.0,GE,767-200ER,,,,1.0,
+Brazil,,,RR,707/720,,,South America,1.0,
+USA,,1964.0,PW,DC-8,,,North America,1.0,
+Morocco,Royal Air Maroc,,,727,,1969.0,Africa,,1.0
+USA,United Airlines,,,727,,1966.0,North America,9.0,
+Algeria,Tassili Airlines,2011.0,,737-800,,2009.0,Africa,4.0,4.0
+Netherlands,Martinair Cargo,1989.0,PW,767-300ER,Mar,1988.0,,,
+Czech Republic,CSA,,CF,,Jan,1999.0,Europe,,2.0
+Fiji,Fiji Airways,2018.0,CF,,Mar,2017.0,Oceania,,
+Slovakia (Slovak Republic),,2008.0,,737-700,,,Europe,1.0,1.0
+China,Donghai Airlines,2016.0,CF,,Dec,2013.0,East Asia,3.0,3.0
+USA,ATA Airlines Inc.,2001.0,,737-800,Jun,2000.0,North America,5.0,
+Taiwan,,,,727,,,Southeast Asia,1.0,
+United Arab Emirates,National Airlines,,GE,DC-10,Jan,1973.0,,4.0,
+Switzerland,PrivatAir,1981.0,,737-200,,1979.0,Europe,1.0,1.0
+USA,,1968.0,PW,DC-9,,,,2.0,
+USA,U.S. Air Force,,PW,707/720,,1982.0,North America,1.0,
+Bermuda,AOF Leasing,1991.0,,737-400,Apr,1988.0,Caribbean,1.0,1.0
+Peru,FUERZA AEREA DEL PERU,1995.0,,737-500,Sep,1995.0,South America,1.0,
+China,,2001.0,RR,,,,East Asia,2.0,2.0
+Egypt,EgyptAir,,PW,,Jan,1984.0,Africa,,3.0
+Angola,TAAG Angola Airlines,2014.0,GE,777-300ER,,2012.0,Africa,1.0,1.0
+USA,WEDGE Group,1981.0,PW,727,,1980.0,North America,1.0,
+Brunei Darussalam,Royal Brunei Airlines,1996.0,GE,767-300ER,,1996.0,Southeast Asia,1.0,
+Australia,,2000.0,RR,717-200,,,,2.0,
+Norway,,1998.0,,737-700,,,Europe,2.0,2.0
+Italy,Air Trading 92,1991.0,PW,,Jun,1988.0,Europe,,3.0
+Venezuela,VIASA,,PW,DC-8,,1967.0,South America,1.0,
+United Arab Emirates,Etihad Airways,2013.0,GE,777-300ER,Feb,2011.0,Middle East,3.0,3.0
+Belgium,DHL International,2012.0,GE,767-300F,Feb,2007.0,Europe,3.0,3.0
+Japan,Japan Airlines Co. Ltd.,,PW,,Jan,1984.0,,,
+Canada,Wardair,1969.0,PW,,,1969.0,North America,1.0,
+United Arab Emirates,Dubai Aerospace Enterprise,2022.0,,737 MAX,Apr,2021.0,Middle East,5.0,5.0
+Slovenia,Adria Airways d.d.,1969.0,PW,DC-9,Mar,1969.0,Europe,1.0,1.0
+China,,,CF,,,,East Asia,2.0,2.0
+,Air India,,RR,,Jan,1960.0,South Asia,,
+United Arab Emirates,,2020.0,GE,777-300ER,,,,2.0,
+USA,,1986.0,PW,MD-80,,,,2.0,
+,Kenya Airways,1998.0,,737-300,Mar,1997.0,,,
+,Italian Air Force Tanker,2005.0,GE,,Apr,2002.0,,,
+Indonesia,Garuda Indonesia,,PW,,Jan,1973.0,,,
+,Bonanza Airlines,1965.0,PW,DC-9,Jul,1963.0,North America,1.0,
+USA,,1978.0,,737-200,,,,2.0,
+Russian Federation,,2011.0,,737-800,,,Europe,2.0,2.0
+,Nordair,,PW,,Jan,1967.0,,1.0,
+Brazil,LATAM Airlines Brasil,2012.0,GE,777-300ER,Aug,2007.0,,4.0,
+,LAM,1971.0,,737-200,Mar,1971.0,,,
+Japan,Government of Japan,1991.0,GE,,Dec,1987.0,,,
+,Mauritania Airlines,2016.0,,737-800,Jul,2016.0,,,
+Finland,Finnair,,GE,,Jan,1971.0,,,
+,Novus Aviation Capital,2021.0,GE,777-300ER,Nov,2018.0,,1.0,
+Canada,Canadian Airlines,1988.0,GE,,Apr,1987.0,North America,4.0,
+Canada,Air Canada,,PW,,Jan,1989.0,North America,3.0,
+,Philippine Airlines,,GE,747-400M,,1996.0,Southeast Asia,1.0,
+,Sobelair,1992.0,,737-400,,1988.0,Europe,1.0,1.0
+United Arab Emirates,,2011.0,GE,777-300ER,,,Middle East,2.0,2.0
+,Playboy,1969.0,PW,DC-9,,1967.0,North America,1.0,
+Panama,Copa Airlines,,,737-700,Jan,1999.0,Central America and Mexico,4.0,4.0
+USA,America West Airlines,,,737-300,Jan,1986.0,North America,5.0,
+,City Bird,1998.0,PW,MD-11,Mar,1998.0,Europe,1.0,1.0
+,AirTran Airways (Merged with S,,,737-700,Jan,2006.0,North America,1.0,
+,Chilean Air Force Mission,1997.0,CF,,Sep,1996.0,South America,1.0,
+,Arik Air,2010.0,,737-800,Sep,2007.0,Africa,1.0,1.0
+,Linjeflyg,1990.0,,737-500,Aug,1988.0,,1.0,
+,Air Florida,,,737-200,Jan,1979.0,North America,1.0,
+,Socialist Republic of Romania,1974.0,PW,707/720,,1973.0,Europe,1.0,1.0
+Japan,Japan Airlines Co. Ltd.,,PW,DC-9,Jan,1973.0,,,
+USA,,,PW,MD-80,,,,2.0,
+,Kenya Airways,2002.0,,737-700,Mar,2000.0,,,
+Thailand,,2015.0,,737-800,,,,2.0,
+,Jet America Airlines,,PW,MD-80,Jan,1980.0,,1.0,
+Germany,Lufthansa,,PW,,Jan,1968.0,,,
+United Kingdom,,1988.0,PW,MD-80,,,,2.0,
+,Nigeria Airways,,GE,DC-10,Jan,1977.0,,1.0,
+,Novel Leasing,1997.0,,737-300,Dec,1997.0,,1.0,
+,PACE Airlines,1980.0,,737-200,Mar,1980.0,,1.0,
+,TAP Portugal,,PW,727,,1981.0,Europe,1.0,1.0
+,Korean Air Force Peace Eye,2009.0,,737-700W,Dec,2006.0,,1.0,
+USA,UPS,,GE,767-300F,,1993.0,North America,5.0,
+,Silk Way Airlines,2015.0,GE,747-8F,,2015.0,Central Asia,1.0,1.0
+Bahrain,,,RR,787-9,,,,2.0,
+Vietnam,,,PW,777-200ER,,,Southeast Asia,2.0,
+Canada,CP Air,,PW,,Feb,1967.0,North America,5.0,
+,LADECO,1980.0,PW,,May,1980.0,,1.0,
+USA,M&T Aviation USA Inc,1999.0,,737-700,Dec,1996.0,,3.0,
+,Hebei Airlines Company LTD,2015.0,CF,,Dec,2013.0,,1.0,
+USA,GATX Jet Partners Ltd.,2000.0,,737-800,May,2000.0,,4.0,
+,LTU,,RR,,Jan,1986.0,,,1.0
+USA,,1991.0,PW,MD-80,,,North America,2.0,
+India,Vistara,2020.0,GE,,,2018.0,South Asia,,
+,Philippine Airlines,,PW,DC-8,,1966.0,Southeast Asia,1.0,
+United Arab Emirates,flydubai,2009.0,,737-800,,2008.0,Middle East,6.0,6.0
+,Air Jamaica-See CBL,1974.0,PW,,Jun,1973.0,Caribbean,,1.0
+Japan,Atlantis Aviation Corporation,2021.0,GE,787-9,Sep,2018.0,East Asia,,2.0
+USA,,,PW,757-200,,,,2.0,2.0
+,Cathay Pacific Airways,,RR,,Feb,1990.0,East Asia,1.0,1.0
+USA,,2012.0,GE,777F,,,,2.0,2.0
+,Adria Airways d.d.,1970.0,PW,DC-9,Mar,1969.0,Europe,1.0,1.0
+Israel,MG Aviation Limited,2016.0,RR,,Jul,2014.0,,,2.0
+United Kingdom,,1995.0,PW,MD-80,,,Europe,2.0,2.0
+Sweden,Scandinavian Airlines,,PW,DC-9,,1966.0,Europe,10.0,10.0
+USA,,,,737-800,,,North America,2.0,
+,Nepal Airlines Corporation,,RR,757-200,Feb,1986.0,,,1.0
+,DAE Aerospace Enterprise,,CF,,Jan,1996.0,Europe,,1.0
+USA,,,,737-200,,,North America,2.0,
+Portugal,,,PW,707/720,,,Europe,2.0,2.0
+Brazil,Cruzeiro,1975.0,,737-200,May,1974.0,South America,6.0,
+Kenya,East African Airways,1971.0,PW,DC-9,Apr,1970.0,Africa,,2.0
+,NASA,1973.0,,737-100,Mar,1973.0,,1.0,1.0
+USA,BDS USAF Tanker Program,,PW,767-2C,Jan,2017.0,North America,7.0,
+,Air Gabon,1978.0,PW,,Apr,1977.0,Africa,,1.0
+,Hainan Airlines Holding,,CF,,Jan,2006.0,,1.0,1.0
+,Air China Cargo,2013.0,GE,,Mar,2013.0,East Asia,1.0,1.0
+,Delta Air Lines,,PW,DC-8,Jan,1965.0,North America,1.0,
+Spain,,,,737-800,,,Europe,2.0,2.0
+,Rafic B. Hariri,,,727,,1983.0,Middle East,1.0,1.0
+,Air Zimbabwe,1990.0,PW,767-200ER,Mar,1989.0,Africa,1.0,1.0
+USA,,,PW,MD-80,,,North America,2.0,
+USA,M&T Aviation USA Inc,1998.0,,737-700,Dec,1996.0,,3.0,3.0
+Brazil,Transbrasil,1983.0,GE,767-200,,1981.0,South America,3.0,
+USA,Pan Am World Airways,,PW,747-100,Jan,1969.0,,6.0,6.0
+,Ceiba Intercontinental,2011.0,GE,,Mar,2009.0,Africa,,1.0
+,Air Atlantis,1970.0,PW,DC-8,Apr,1969.0,Europe,1.0,1.0
+Romania,,2001.0,,737-700,,,Europe,2.0,2.0
+,Jetstar - Duplicated (See JSA),,RR,717-200,Feb,2001.0,,1.0,1.0
+,Avianca El Salvador,1986.0,GE,,May,1986.0,Central America and Mexico,,1.0
+Gibraltar,GB Airways,1998.0,CF,,Mar,1997.0,,,2.0
+Saudi Arabia,Saudi Arabian Airlines,,PW,DC-9,,1965.0,Middle East,3.0,3.0
+Russian Federation,Sberbank Leasing,,,737-800,,2017.0,Europe,4.0,4.0
+Australia,,1980.0,RR,747-200,,,Oceania,2.0,
+,City Bird,1998.0,GE,MD-11,May,1997.0,Europe,1.0,1.0
+,Smartwings a.s.,2018.0,CF,,,2013.0,Europe,,1.0
+China,,,PW,,,,East Asia,2.0,2.0
+,Air Nippon,1999.0,CF,,May,1999.0,East Asia,,1.0
+,Handlingair Establishment,,,727,Feb,1974.0,,1.0,1.0
+,Dominicana Airlines,1975.0,PW,,Apr,1975.0,Caribbean,,1.0
+Switzerland,Flightlease,2000.0,PW,767-300ER,Dec,1999.0,,4.0,4.0
+,Lufthansa,1968.0,PW,,Jan,1968.0,,,1.0
+,Miami Air,2006.0,,737-800,Dec,2004.0,,1.0,1.0
+,Ruili Airlines,2014.0,CF,,,2013.0,East Asia,1.0,1.0
+Ireland,Avia Capital Leasing,2013.0,CF,,Oct,2010.0,Europe,,3.0
+Thailand,Nok Air,2016.0,,737-800,May,2014.0,,3.0,3.0
+USA,,2011.0,,737-800A,,,North America,2.0,
+,Trans European Airways,,,737-200,,1979.0,Europe,1.0,1.0
+,Air Belgium,1991.0,,737-400,Jun,1988.0,Europe,1.0,1.0
+USA,,1969.0,PW,727,,,,2.0,2.0
+USA,,2000.0,GE,747-400F,,,North America,2.0,
+,BDS Australia P-8,2018.0,,737-800A,Jan,2016.0,Oceania,1.0,
+Jamaica,Air Jamaica-See CBL,1969.0,PW,,Jan,1969.0,Caribbean,,2.0
+China,,2018.0,GE,,,,East Asia,2.0,2.0
+Yemen,,1984.0,,737-200,,,Middle East,2.0,2.0
+Canada,Canadian Air Force,1970.0,PW,,Feb,1970.0,North America,4.0,
+Turkey,SunExpress Airlines,2015.0,,737-800,,2014.0,Europe,5.0,5.0
+USA,,,RR,MD-90,,,North America,2.0,
+Brazil,Cruzeiro,1971.0,,727,Jun,1970.0,South America,3.0,
+USA,Southern Airways - USA (Inacti,1967.0,PW,DC-9,,1965.0,North America,3.0,
+,Avianca,,PW,,Jan,1966.0,South America,,
+Sudan,,1975.0,,737-200,,,Africa,2.0,2.0
+,Texas Air Corporation,1974.0,PW,DC-9,,1973.0,North America,1.0,
+United Kingdom,,1966.0,PW,DC-9,,1965.0,Europe,3.0,3.0
+,EL AL Israel Airlines,,PW,,Jan,1968.0,Middle East,,1.0
+Japan,Nippon Cargo Airlines,,GE,,Jan,2004.0,,,2.0
+Turkey,,1997.0,RR,MD-90,,,Europe,2.0,2.0
+,Martinair Cargo,1973.0,GE,DC-10,Feb,1972.0,,,1.0
+Colombia,Avianca,,PW,,Jan,1967.0,South America,,
+,Euralair,1991.0,CF,,May,1987.0,Europe,,1.0
+,Yemenia,1979.0,,727,,1979.0,Middle East,1.0,1.0
+,Nippon Cargo Airlines,,GE,747-400F,Jan,2004.0,,,1.0
+,Trans Carib Air,1968.0,GE,DC-8,,1966.0,North America,1.0,
+USA,,1972.0,GE,DC-10,,,,2.0,2.0
+Oman,,2022.0,,737 MAX,,,,2.0,2.0
+,SonAir,2007.0,,737-700,,2005.0,Africa,1.0,1.0
+,Skyways Leasing,2017.0,CF,,,2007.0,Europe,,1.0
+,Air Tanzania,1979.0,,737-200,Mar,1978.0,Africa,1.0,1.0
+,Hashemite Kingdom of Jordan,1980.0,PW,727,Sep,1980.0,,,1.0
+,Presidential Flight,1999.0,GE,747-400,,1999.0,Middle East,1.0,1.0
+China,,1994.0,CF,,,,East Asia,2.0,2.0
+Sweden,,1991.0,,737-500,,,,2.0,2.0
+,Boeing Capital Corporation,2019.0,GE,777F,Aug,2018.0,North America,1.0,
+United Kingdom,easyJet,2002.0,,737-700,,2000.0,Europe,4.0,4.0
+,Australian Wedgetail,2003.0,,737-700W,Oct,2001.0,Oceania,1.0,
+,Royal Moroccan Air Force,1982.0,PW,707/720,,1982.0,Africa,,1.0
+United Kingdom,TUI Travel PLC,,RR,757-200,,1993.0,Europe,4.0,4.0
+Australia,,1964.0,PW,727,,,Oceania,2.0,
+,Air Austral,2011.0,GE,777-200LR,May,2010.0,Africa,1.0,1.0
+,Ozark Air Lines,1973.0,PW,DC-9,Mar,1973.0,,1.0,1.0
+,Starflite Corporation,1999.0,RR,757-200,,1999.0,North America,1.0,
+USA,,1967.0,PW,707/720,,,North America,2.0,
+Turkey,,2009.0,,737-900ER,,,Europe,2.0,2.0
+,Dream Aviation Ltd.,1999.0,GE,777-200ER,Nov,1998.0,Middle East,1.0,1.0
+,Boeing Capital Corporation,2019.0,GE,777F,Dec,2018.0,North America,1.0,
+,Varig Airlines,1974.0,GE,DC-10,,1974.0,South America,1.0,
+Austria,,2001.0,,737-700,,,,2.0,2.0
+,Cameroon Airlines,1985.0,,737-200,Jan,1985.0,Africa,1.0,1.0
+,Panagra Cargo,1966.0,PW,DC-8,Nov,1965.0,,1.0,1.0
+,AVIOGENEX,1987.0,,737-200,Aug,1986.0,Europe,1.0,1.0
+Indonesia,Lion Air,2014.0,CF,,Feb,2008.0,,,4.0
+,Air Serbia,1974.0,,727,Feb,1974.0,Europe,1.0,1.0
+Russian Federation,,2011.0,,737-800,,,Europe,2.0,2.0
+USA,DHL,2019.0,GE,777F,Jun,2018.0,North America,4.0,
+,Italian Air Force Tanker,2003.0,GE,,Apr,2002.0,,,1.0
+,Air Madagascar,1972.0,,737-200,Mar,1972.0,Africa,,1.0
+,Midland Montagu Leasing,1981.0,,737-200,Mar,1981.0,,1.0,1.0
+,Asiana Airlines,2010.0,PW,777-200ER,Jan,2008.0,East Asia,1.0,1.0
+Equatorial Guinea,Ceiba Intercontinental,2014.0,CF,,Aug,2010.0,Africa,,3.0
+,Turkish Air Force Peace Eagle,2004.0,,737-700W,,2003.0,Europe,1.0,1.0
+United Kingdom,easyJet,2003.0,,737-700,,2000.0,Europe,7.0,7.0
+,Maersk Air,,CF,,Jan,1989.0,,,1.0
+,China Xinhua Airlines,1993.0,CF,,Aug,1992.0,East Asia,1.0,1.0
+Australia,,1992.0,,737-400,,,Oceania,2.0,
+,McDonnell Douglas,,PW,MD-80,Jan,1980.0,,1.0,1.0
+,Thai Airways International,1995.0,GE,747-400,,1992.0,Southeast Asia,1.0,
+Ireland,Timaero Ireland Limited,,CF,,,2014.0,Europe,,2.0
+,UTair Aviation,2013.0,,737-800,,2011.0,Europe,1.0,1.0
+China,Donghai Airlines,2015.0,CF,,Dec,2013.0,East Asia,4.0,4.0
+Russian Federation,,2016.0,GE,747-8F,,,Europe,2.0,2.0
+,Bahamasair,1981.0,,737-200,Feb,1980.0,Caribbean,1.0,1.0
+,MyTravel Airways,1997.0,RR,757-200,May,1996.0,,1.0,1.0
+USA,,1960.0,PW,DC-8,,1955.0,,3.0,3.0
+Czech Republic,Smartwings a.s.,2010.0,CF,,,2006.0,Europe,,2.0
+USA,UPS,,GE,767-300F,,1993.0,North America,10.0,
+,Aviation Service & Support,1975.0,PW,707/720,Jun,1975.0,North America,1.0,
+Indonesia,Lion Air,2014.0,CF,,Feb,2008.0,,,16.0
+Ireland,GPA Group,,CF,,Jan,1988.0,,,2.0
+,The Republic of Niger,,,737-200,,1977.0,Africa,,1.0
+Canada,,1970.0,PW,,,,North America,2.0,
+USA,,,PW,DC-9,,1966.0,North America,3.0,
+,,1976.0,,737-200,,,Middle East,1.0,1.0
+China,China Northern Airlines,1996.0,RR,,Dec,1992.0,East Asia,3.0,3.0
+Singapore,,2017.0,,737-800,,,Southeast Asia,2.0,
+Taiwan,UNI Airways,1998.0,RR,MD-90,,1998.0,Southeast Asia,4.0,
+,,2017.0,CF,,,,,1.0,1.0
+USA,Atlas Air Inc.,1998.0,GE,747-400F,Jun,1997.0,North America,5.0,
+Japan,MCAP Japan01 Limited,2010.0,,737-800,Jun,2009.0,,,2.0
+USA,,,,737-400,Jan,,,3.0,3.0
+Czech Republic,CSA,1992.0,CF,,Mar,1992.0,Europe,,5.0
+,Turkmenhowayollary Agency,,GE,777-200LR,,2008.0,Central Asia,1.0,1.0
+,Air India,,PW,,Jan,1967.0,South Asia,,
+USA,TWA,,PW,707/720,,1965.0,North America,12.0,
+,Saturn Airways,1968.0,GE,DC-8,,,North America,1.0,
+,Air China Southwest Branch,1993.0,CF,,Apr,1991.0,East Asia,1.0,1.0
+France,Air-Lib,1991.0,PW,,Jun,1990.0,Europe,,2.0
+United Kingdom,Jet2.com Ltd,2017.0,,737-800,Sep,2015.0,,14.0,14.0
+,Wien Air Alaska,,,737-200,,1968.0,North America,1.0,
+,Air France-KLM Group,2016.0,GE,777-300ER,May,2014.0,Europe,,1.0
+Netherlands,Transavia Airlines,1989.0,,737-300,,1988.0,Europe,,2.0
+Australia,,,,747-100,Jan,,Oceania,2.0,
+,Orion Airways,1982.0,,737-200,Mar,1981.0,,1.0,1.0
+,Air Astana,2014.0,PW,767-300ER,Feb,2012.0,Central Asia,,1.0
+Singapore,SilkAir,2014.0,,737-800,,2012.0,Southeast Asia,8.0,
+,DHL Aviation Americas,2022.0,GE,777F,Dec,2020.0,North America,1.0,
+Tajikistan,,2011.0,,737-900ER,Feb,,Central Asia,2.0,2.0
+Australia,,,,737-800,Jan,,Oceania,2.0,
+,Air Canada,,PW,,Jan,1973.0,North America,1.0,
+,Aero Lloyd,1987.0,PW,,Oct,1985.0,Europe,,1.0
+,Essex Wire Corp.,1969.0,,737-200,Sep,1969.0,North America,1.0,
+,AVIOGENEX,1988.0,,737-200,Oct,1987.0,Europe,1.0,1.0
+,Irish Aerospace,,PW,,Jan,1988.0,,,1.0
+Chile,,,GE,,Jan,,,2.0,2.0
+USA,,1962.0,PW,707/720,Apr,,,2.0,2.0
+United Kingdom,Rolls-Royce A/C Management,1999.0,RR,757-200,,1998.0,Europe,4.0,4.0
+,Mauritania Airlines,2017.0,,737 MAX,Nov,2016.0,,,1.0
+,,2016.0,CF,,Jul,,East Asia,1.0,1.0
+United Kingdom,Virgin Atlantic Airways,2015.0,RR,787-9,,2007.0,Europe,7.0,7.0
+,,,,737-700C,Jan,,North America,1.0,
+,,,,737-200,Jan,,North America,1.0,
+United Kingdom,,,,737-800A,Jan,2018.0,Europe,3.0,3.0
+,SMBC Aviation Capital,,CF,,,2018.0,Europe,,1.0
+,Cargolux Airlines Internationa,,RR,747-400F,Jan,2003.0,Europe,,1.0
+Italy,Air Trading 92,1990.0,PW,,Sep,1987.0,Europe,,2.0
+,Aero Trasporti Italiani,,PW,,Feb,1969.0,Europe,,1.0
+,,2018.0,RR,787-8,Dec,,Africa,1.0,1.0
+Ireland,Standard Chartered Aviation Fi,2017.0,CF,,,2016.0,Europe,,7.0
+,,1979.0,,737-200,Dec,,Europe,1.0,1.0
+,,1968.0,PW,707/720,Feb,,Europe,1.0,1.0
+,Albaraka,1993.0,,737-400,Oct,,Middle East,1.0,1.0
+,PLUNA,1969.0,,737-200,Dec,,,1.0,1.0
+,SonAir,2008.0,,737-700,,,Africa,1.0,1.0
+,Ruili Airlines,2018.0,CF,,,,East Asia,1.0,1.0
+,LOT Polish Airlines,2012.0,RR,787-8,Feb,,,1.0,1.0
+USA,American Airlines,,PW,727,Jan,1974.0,North America,6.0,
+Taiwan,Hwa-Hsia Leasing,1998.0,RR,MD-90,Jun,1996.0,,3.0,3.0
+France,Continent Air Paris,1988.0,PW,,Dec,1986.0,Europe,,3.0
+,TAAG Angola Airlines,,,737-200,,,Africa,1.0,1.0
+,Transavia Airlines,,,737-300,,1986.0,Europe,,1.0
+,,1988.0,PW,MD-80,Sep,,,1.0,1.0
+Thailand,,1995.0,,737-400,Feb,,Southeast Asia,1.0,
+Fiji,Fiji Airways,2021.0,CF,,Mar,2017.0,,,3.0
+Australia,,,PW,727,Feb,,Oceania,1.0,
+Canada,,,PW,,Jan,,,2.0,2.0
+Venezuela,,,GE,DC-8,Jan,,South America,1.0,
+Brazil,GOL Linhas Aereas,,,737-800,Jan,2005.0,,4.0,4.0
+Unidentified,Unidentified Customer(s),,GE,777F,,2014.0,Unidentified,4.0,
+Afghanistan,,1970.0,PW,727,Apr,,Central Asia,1.0,1.0
+Indonesia,Pelita Air Service,1975.0,PW,,,1974.0,,,1.0
+China,,1991.0,PW,,Mar,,East Asia,1.0,1.0
+Spain,AVIACO,1974.0,PW,DC-9,Feb,1973.0,Europe,4.0,4.0
+,Condor Flugdienst,1971.0,PW,,Apr,1970.0,Europe,,1.0
+,China Eastern Yunnan Airlines,,CF,,Jan,1985.0,East Asia,1.0,1.0
+,,,CF,BBJ,Jan,,North America,1.0,
+Norway,Norwegian Air Shuttle,,,737 MAX,Jan,2012.0,,6.0,6.0
+USA,TWA,,PW,707/720,,1957.0,North America,4.0,
+New Zealand,Air New Zealand,,GE,DC-10,Feb,1974.0,Oceania,,
+,,1995.0,PW,747-400,Sep,,,1.0,1.0
+USA,Midwest Airlines Inc.,2004.0,BR,717-200,Apr,2002.0,,6.0,6.0
+,,1994.0,PW,,May,,East Asia,1.0,1.0
+Chile,,1981.0,PW,,May,,,1.0,1.0
+USA,BDS U.S. Navy (P-8A Poseidon),,,737-800A,Jan,2018.0,North America,3.0,
+Sweden,,1988.0,PW,MD-80,Feb,,,1.0,1.0
+USA,,1968.0,PW,727,Aug,,North America,2.0,
+USA,,2000.0,,737-700,Dec,,North America,3.0,
+Netherlands,ITOCHU AirLease B.V.,1992.0,GE,767-300ER,Jul,1991.0,,,3.0
+Brazil,,1961.0,PW,DC-8,Oct,,,2.0,2.0
+Denmark,Sterling Air A/S,,RR,,,1989.0,Europe,,1.0
+Germany,Suedflug,,PW,,,1966.0,Europe,,2.0
+Ecuador,TAME,1981.0,PW,,,1981.0,South America,,
+USA,,1963.0,PW,DC-8,Feb,,North America,1.0,
+Singapore,,2016.0,,737-800,Feb,,Southeast Asia,3.0,
+Denmark,Maersk Air,,PW,,Jan,1976.0,,,2.0
+USA,,,PW,707/720,Jan,,North America,1.0,
+USA,,,,737-200,Jan,,North America,3.0,
+Taiwan,,,GE,747-400M,Jan,,Southeast Asia,1.0,
+Ethiopia,Ethiopian Airlines Group,,PW,,Jan,1987.0,Africa,,1.0
+China,Bank of Communications Leasing,2015.0,CF,,Jun,2013.0,East Asia,3.0,3.0
+USA,,2017.0,GE,777-300ER,Jul,,North America,2.0,
+United Kingdom,,1992.0,,737-400,Apr,,Europe,1.0,1.0
+United Kingdom,,1994.0,GE,767-300ER,Aug,,,2.0,2.0
+Lebanon,Middle East Airlines,1975.0,PW,747-200,Jun,1974.0,,,3.0
+Brazil,VASP Airlines,,,727,,1980.0,South America,4.0,
+South Korea,,,PW,747-200,Feb,,,1.0,1.0
+Mexico,VivaAerobus,1991.0,,737-300,,1989.0,Central America and Mexico,,2.0
+USA,,1968.0,GE,DC-8,Sep,,North America,2.0,
+USA,,1969.0,PW,DC-9,Jun,,North America,1.0,
+USA,,1981.0,,727,May,,North America,3.0,
+Mexico,Lineas Aereas Azteca,2001.0,,737-700,Feb,2001.0,,,2.0
+France,Transavia Company SAS,2017.0,CF,,,2014.0,Europe,,8.0
+United Kingdom,British Caledonian Airways,1981.0,GE,DC-10,Feb,1980.0,Europe,1.0,1.0
+United Kingdom,Security Pacific EuroFinance,1991.0,,737-300,,1987.0,Europe,1.0,1.0
+Pakistan,Pakistan International Airline,1976.0,GE,DC-10,Mar,1975.0,,1.0,1.0
+USA,NAS Aviation Services LLC,,,737-300,Jan,1996.0,,1.0,1.0
+Namibia,Air Namibia,1999.0,GE,747-400M,Apr,1999.0,Africa,,1.0
+Kuwait,ALAFCO,2010.0,,737-800,Mar,2007.0,Middle East,,5.0
+Nauru,Nauru Airlines,,,737-400,Jan,1991.0,,,2.0
+Italy,AIR ITALY S.p.A.,,PW,,Jan,1988.0,Europe,,1.0
+Italy,AIR ITALY S.p.A.,,PW,,Jan,1986.0,Europe,,1.0
+Venezuela,,1967.0,PW,DC-9,Aug,,South America,2.0,
+Saudi Arabia,Kingdom of Saudi Arabia,1987.0,CF,707/720,Jun,1983.0,,7.0,7.0
+Germany,TUI Group,1981.0,PW,,,1980.0,Europe,,4.0
+Mongolia,MIAT Mongolian Airlines,2013.0,GE,767-300ER,May,2011.0,,,1.0
+Tunisia,TunisAir,1974.0,,727,,1974.0,Africa,1.0,1.0
+Cyprus,Skyways Leasing,2017.0,CF,,,2010.0,Europe,,1.0
+France,Air France,,PW,,Jan,1971.0,Europe,,3.0
+Netherlands,Dutch Caribbean Airlines,1975.0,PW,DC-9,Mar,1974.0,Europe,,3.0
+Japan,All Nippon Airways Co. Ltd.,,,727,Jan,1964.0,East Asia,,3.0
+USA,Airlift International,1964.0,PW,DC-8,Feb,1963.0,North America,1.0,
+Uzbekistan,Uzbekistan Airways,2018.0,GE,787-8,,2018.0,Central Asia,1.0,1.0
+United Arab Emirates,Presidential Flight,1978.0,,737-200,,1977.0,Middle East,1.0,1.0
+Argentina,Estado Nacional Argentino ENA,1975.0,PW,707/720,Jun,1975.0,South America,1.0,
+State of Libya,,1977.0,,727,May,,,2.0,2.0
+USA,,1985.0,,737-200,Sep,,,1.0,1.0
+Japan,Air Nippon,1999.0,CF,,Jul,1999.0,East Asia,,1.0
+France,UTA,1968.0,PW,,,1966.0,Europe,,2.0
+Austria,,,PW,DC-9,Jan,,Europe,1.0,1.0
+USA,,1971.0,,737-200,Apr,,North America,1.0,
+China,,1979.0,RR,,Feb,,East Asia,1.0,1.0
+Poland,,2018.0,,737 MAX,Nov,,Europe,2.0,2.0
+China,9 Air,2017.0,CF,,May,2014.0,East Asia,4.0,4.0
+USA,,1967.0,,727,Nov,,North America,2.0,
+New Zealand,Air New Zealand,,,737-200,Jan,1978.0,Oceania,,
+China,,2014.0,CF,,Jun,,,2.0,2.0
+Ireland,Aer Lingus,,PW,,Jan,1967.0,Europe,,1.0
+Canada,,,PW,,Jan,,,1.0,1.0
+USA,,1969.0,GE,DC-8,Feb,,,3.0,3.0
+China,,2011.0,CF,,Feb,,East Asia,2.0,2.0
+Australia,,,,737-300,Jan,,Oceania,1.0,
+France,Transavia Company SAS,2016.0,CF,,,2014.0,Europe,,4.0
+China,ICBC Leasing,2016.0,CF,,May,2013.0,,8.0,8.0
+USA,Eastern Air Lines,,PW,DC-8,Jan,1967.0,North America,4.0,
+Canada,,,CF,,Jan,,North America,3.0,
+Senegal,,1976.0,,727,Aug,,Africa,1.0,1.0
+USA,,2014.0,GE,777-300ER,Feb,,North America,3.0,
+Bangladesh,,2014.0,GE,777-300ER,Apr,,South Asia,2.0,
+Turkey,,2008.0,,737-800,Feb,,,2.0,2.0
+USA,Seaboard World Airlines,1967.0,PW,DC-8,,1966.0,North America,1.0,
+Japan,ANA Holdings Inc.,2018.0,GE,777F,Mar,2018.0,East Asia,,1.0
+Kuwait,LoadAir Cargo,2009.0,GE,747-400ERF,Jul,2006.0,,,2.0
+Ireland,Standard Chartered Aviation Fi,2018.0,CF,,,2016.0,Europe,,3.0
+United Kingdom,BDS UK P-8,,,737-800A,Jan,2019.0,Europe,4.0,4.0
+USA,Braniff Airlines,,,747-100,Jan,1968.0,North America,1.0,
+Oman,Oman Air (SAOC),2005.0,,737-800,Mar,2004.0,,1.0,1.0
+Madagascar,Air Madagascar,1979.0,PW,747-200,Jun,1977.0,Africa,,1.0
+Indonesia,Indonesian Air Force-DUPLICATE,1983.0,PW,,Apr,1981.0,,,2.0
+Singapore,MSA-Malaysia/Singapore A/L,1969.0,,737-100,May,1967.0,,5.0,5.0
+Japan,Japan Transocean Air,1984.0,,737-200,May,1983.0,,,1.0
+Ireland,Avolon - Ireland,2014.0,CF,,Sep,2012.0,Europe,,2.0
+United Kingdom,British Royal Air Force,,CF,707/720,Feb,1987.0,Europe,5.0,5.0
+United Arab Emirates,flydubai,2010.0,,737-800,,2008.0,Middle East,4.0,4.0
+Trinidad and Tobago,BWIA,1987.0,PW,MD-80,Apr,1986.0,Caribbean,1.0,1.0
+Netherlands,Sojitz,1992.0,RR,757-200,,1988.0,Europe,,1.0
+Australia,Virgin Australia,2010.0,GE,777-300ER,,2007.0,Oceania,1.0,
+Germany,Lufthansa Cargo,2013.0,GE,,May,2011.0,,,2.0
+Belgium,NATO,1982.0,PW,707/720,May,1980.0,,4.0,4.0
+USA,Boullioun Aviation Services,,,737-400,Feb,1997.0,North America,1.0,
+Venezuela,Republic of Venezuela,,,737-200,,1976.0,South America,1.0,
+USA,,,PW,DC-9,Feb,,,3.0,3.0
+China,CES Leasing Corporation,2022.0,GE,,May,2021.0,East Asia,1.0,1.0
+Cameroon,Republic of Cameroon,1978.0,,727,,1978.0,Africa,1.0,1.0
+Taiwan,Republic of China Air Force,1999.0,,737-800,,1998.0,Southeast Asia,1.0,
+Japan,Japan Airlines,,PW,DC-8,Jan,1956.0,,,3.0
+Argentina,Aerolineas Argentinas,,,727,Jan,1978.0,South America,1.0,
+China,,2016.0,CF,,Jun,,East Asia,2.0,2.0
+Unidentified,Unidentified Customer(s),,GE,747-8,,2021.0,Unidentified,1.0,
+United Kingdom,British Eagle International,1962.0,RR,707/720,May,1961.0,Europe,1.0,1.0
+USA,Frontier Airlines,1980.0,,737-200,Mar,1979.0,,1.0,1.0
+Jordan,Royal Jordanian,,,727,,1974.0,Middle East,,1.0
+USA,,1966.0,PW,DC-9,Nov,,North America,2.0,
+Bahrain,Gulf Air,,RR,787-9,Jan,2008.0,,5.0,5.0
+Portugal,Air Atlantis,1970.0,PW,DC-9,Jun,1969.0,Europe,1.0,1.0
+Italy,Italian Air Force,,PW,,Jan,1973.0,,,2.0
+Serbia,,,,727,Feb,,Europe,3.0,3.0
+,Air Guinee,1981.0,PW,,Aug,1981.0,Africa,,1.0
+Mexico,Aeromexico,,PW,DC-9,Jan,1973.0,Central America and Mexico,,6.0
+,Continent Air Paris,1989.0,PW,,Dec,1986.0,Europe,,1.0
+,McDonnell Douglas,1992.0,PW,MD-80,Feb,1989.0,,1.0,1.0
+Singapore,,1968.0,PW,707/720,May,,,3.0,3.0
+,Southern Air Transport,1966.0,,727,,1966.0,North America,1.0,
+Norway,BDS Norway P-8,,,737-800A,Jan,2019.0,Europe,5.0,5.0
+Panama,Copa Airlines,,,737-700,Jan,1999.0,Central America and Mexico,4.0,4.0
+,Trans-Australia Airlines,1969.0,,727,,1969.0,Oceania,1.0,
+Japan,Sumitomo Corporation,1999.0,CF,,,1996.0,East Asia,,2.0
+South Africa,,1960.0,PW,707/720,Feb,,Africa,3.0,3.0
+United Kingdom,,1983.0,RR,757-200,Feb,,,2.0,2.0
+Turkey,SunExpress Airlines,2016.0,,737-800,,2014.0,Europe,7.0,7.0
+Iraq,Republic of Iraq,2014.0,CF,,,2008.0,Middle East,,5.0
+,Aloha Airlines,,,737-200,Jan,1968.0,North America,1.0,
+USA,,1968.0,,727,May,,,3.0,3.0
+China,ICBC Leasing,2017.0,CF,,May,2013.0,,6.0,6.0
+,LOT Polish Airlines,1994.0,,737-500,May,1994.0,,1.0,1.0
+Bermuda,,1992.0,,737-400,Apr,,Caribbean,2.0,2.0
+Germany,Germania,1998.0,CF,,Mar,1995.0,,,12.0
+,Kuwait Airways,1994.0,GE,747-400M,Apr,1992.0,,,1.0
+Netherlands,Dutch Caribbean Airlines,1982.0,PW,MD-80,Aug,1982.0,Europe,,2.0
+,Wardair,,PW,,,1968.0,North America,1.0,
+,All Nippon Airways Co. Ltd.,,PW,727,Jan,1964.0,East Asia,,1.0
+,Laker Airways (Bahamas),1977.0,GE,DC-10,Feb,1977.0,,1.0,1.0
+,Eastern Provincial Airways,,PW,,Jan,1973.0,North America,1.0,
+Ireland,Aer Lingus,,PW,,Jan,1966.0,Europe,,2.0
+USA,BBAM Aircraft Management LP,2012.0,,737-800,Nov,2007.0,North America,6.0,
+Qatar,,2013.0,GE,777-300ER,Mar,,Middle East,3.0,3.0
+,Air Senegal International,2005.0,,737-700,May,2004.0,Africa,1.0,1.0
+South Korea,,,GE,DC-10,Jan,,,3.0,3.0
+China,Dragon Aviation Leasing,2014.0,CF,,Dec,2013.0,East Asia,4.0,4.0
+,SABENA Aerospace,,GE,747-300,,1989.0,Europe,1.0,1.0
+,Royal Jordanian,2014.0,GE,787-8,,2007.0,Middle East,,1.0
+,Government of Egypt,1976.0,PW,,Jun,1975.0,,,1.0
+,Ansett Worldwide Av. Equipment,1992.0,,737-300,Mar,1992.0,Oceania,1.0,
+Germany,TUI Group,1982.0,PW,,,1980.0,Europe,,2.0
+France,UTA,,PW,,,1965.0,Europe,,2.0
+,Condor Flugdienst,1994.0,PW,,Mar,1994.0,Europe,,1.0
+Slovakia (Slovak Republic),SkyEurope,2007.0,,737-700,,2005.0,Europe,4.0,4.0
+South Africa,,,PW,727,Jan,,Africa,2.0,2.0
+Germany,dba,1997.0,CF,,,1997.0,Europe,,6.0
+Sweden,,1993.0,PW,MD-80,Mar,,,2.0,2.0
+,Transamerica Airlines,,GE,DC-10,,1972.0,North America,1.0,
+,Midway Airlines,1990.0,PW,MD-80,Apr,1988.0,,1.0,1.0
+,Scandinavian Airlines,,PW,DC-8,,1965.0,Europe,1.0,1.0
+France,Republic of France,1991.0,CF,,,1987.0,Europe,,3.0
+,Virgin Atlantic Airways,2014.0,RR,787-9,,2007.0,Europe,1.0,1.0
+,GATX Financial Corporation,1991.0,GE,767-200ER,May,1989.0,,1.0,1.0
+,Japan ASDF Tanker,2006.0,GE,767-200ER,Jun,2004.0,,,1.0
+Netherlands,KLM Royal Dutch Airlines,,PW,DC-9,Jan,1979.0,,,2.0
+Netherlands,Air Holland Leasing,1988.0,RR,757-200,Jun,1987.0,Europe,,3.0
+,China Airlines,1977.0,,747-100,Feb,1976.0,Southeast Asia,1.0,
+,Transamerica Airlines,1967.0,GE,DC-8,,1965.0,North America,1.0,
+Zimbabwe,,,,737-200,Jan,,Africa,2.0,2.0
+USA,,1998.0,,737-700,Oct,,North America,2.0,
+Russian Federation,,,GE,777-300ER,Feb,,Europe,3.0,3.0
+,Air Afrique,1980.0,PW,,Apr,1979.0,Africa,,1.0
+,Pacific Southwest Airlines,,PW,727,Jan,1966.0,,1.0,1.0
+Australia,,,PW,727,Feb,,Oceania,2.0,
+,Pembroke Capital Limited,1998.0,CF,,,1997.0,,,1.0
+,Samoa Airways,1981.0,,737-200,,1979.0,Oceania,1.0,
+USA,,1992.0,RR,757-200,Apr,,,2.0,2.0
+Spain,,,GE,DC-10,Jan,,,3.0,3.0
+,Olympic Airlines,,PW,,Jan,1968.0,,,1.0
+,BDS Japan International Tanker,2021.0,PW,,Dec,2018.0,East Asia,,1.0
+,Tracinda Corp.,1968.0,PW,DC-9,,1968.0,North America,1.0,
+Vietnam,,,PW,777-200ER,Jan,,Southeast Asia,2.0,
+China,9 Air,2016.0,CF,,May,2014.0,East Asia,4.0,4.0
+,West Coast Airlines - UK (Inac,1967.0,PW,DC-9,,1965.0,Europe,1.0,1.0
+United Arab Emirates,Dubai Aerospace Enterprise,2021.0,,737 MAX,Apr,2021.0,Middle East,4.0,4.0
+,Air Algerie,,PW,727,Jan,1974.0,Africa,1.0,1.0
+France,Air Charter,1981.0,PW,,Mar,1981.0,Europe,,2.0
+,SCAT Airlines,2018.0,,737 MAX,,2017.0,Central Asia,,1.0
+Canada,,1987.0,CF,,Apr,,North America,2.0,
+Ireland,Ryanair,,CF,,,2002.0,Europe,,9.0
+China,,2001.0,CF,,Jun,,East Asia,2.0,2.0
+China,,,CF,,Jan,,East Asia,3.0,3.0
+United Kingdom,,1981.0,,737-200,Dec,,Europe,3.0,3.0
+,Avianca Costa Rica,1979.0,PW,,Aug,1978.0,Central America and Mexico,,1.0
+Germany,Deucalion Capital VII Limited,2009.0,GE,,Sep,2005.0,Europe,,4.0
+Russian Federation,,2017.0,GE,747-8F,Mar,,Europe,2.0,2.0
+,DAE Aerospace Enterprise,,PW,,Jan,1994.0,Europe,,1.0
+,Icelandair,,CF,,Jan,2005.0,,,1.0
+,Kuwait Air Force,1992.0,PW,MD-80,Mar,1992.0,,,1.0
+,Cargolux Airlines Internationa,2007.0,RR,747-400F,Feb,2006.0,Europe,,1.0
+Sweden,,1967.0,PW,727,Nov,,Europe,2.0,2.0
+,Ghana Airways,1978.0,PW,,Jun,1977.0,,,1.0
+,ITOCHU Corporation,1996.0,GE,767-200ER,Oct,1994.0,,,1.0
+,Balair/CTA,,PW,DC-9,Jan,1969.0,Europe,1.0,1.0
+France,Air France,,PW,,Jan,1971.0,Europe,,3.0
+,Government of Egypt,1974.0,PW,,Sep,1973.0,,,1.0
+,LAM,1993.0,PW,767-200ER,Aug,1990.0,,,1.0
+,Sterling Air A/S,,PW,,,1978.0,Europe,,1.0
+,Japan Airlines,1960.0,PW,DC-8,Jan,1960.0,,,1.0
+USA,,1974.0,PW,727,Apr,,North America,2.0,
+Algeria,,2018.0,,737-800,May,,Africa,3.0,3.0
+,,1991.0,PW,MD-80,May,,,1.0,1.0
+USA,,1997.0,,737-300,Jun,,North America,2.0,
+Taiwan,,1991.0,PW,MD-80,Apr,,Southeast Asia,2.0,
+USA,,2003.0,,737-700,Mar,,North America,3.0,
+,Air Afrique,1966.0,PW,,Jun,1965.0,Africa,,1.0
+,Republic of France,1992.0,CF,,,1987.0,Europe,,1.0
+China,Shenzhen Airlines,2009.0,CF,,,2006.0,East Asia,,5.0
+Russian Federation,UTair Aviation,2014.0,,737-800,,2011.0,Europe,5.0,5.0
+China,,2019.0,GE,,Feb,,,2.0,2.0
+,Bain Capital Griffin Internati,2022.0,CF,,Aug,2021.0,Caribbean,1.0,1.0
+China,,,RR,,Jan,,East Asia,3.0,3.0
+,LAB,1970.0,PW,727,Aug,1969.0,,1.0,1.0
+,Dome Petroleum,1980.0,PW,,Aug,1979.0,North America,1.0,
+,Turkmenhowayollary Agency,,,737-300,,1990.0,Central Asia,1.0,1.0
+,TunisAir,1972.0,PW,727,,1971.0,Africa,1.0,1.0
+,Ariana Afghan Airlines,1968.0,PW,727,Mar,1968.0,Central Asia,1.0,1.0
+USA,Transtar Airlines Corporation,1982.0,PW,MD-80,,1981.0,North America,4.0,
+China,Everbright Financial Leasing,2018.0,CF,,Feb,2017.0,East Asia,7.0,7.0
+,Qatar Airways,,PW,727,,1979.0,Middle East,1.0,1.0
+,Mexicana,,GE,DC-10,Jan,1980.0,,,1.0
+Australia,,1967.0,PW,DC-9,Apr,,Oceania,2.0,
+USA,Eastern Air Lines,,PW,DC-9,Jan,1967.0,North America,5.0,
+Belarus,,2016.0,,737-800,Jun,,Europe,3.0,3.0
+,Union Aeromaritime Transport,1960.0,PW,,,1956.0,Europe,,1.0
+Belgium,,1980.0,,737-200,Apr,,Europe,2.0,2.0
+Kuwait,Kuwait Air Force,1976.0,PW,DC-9,Oct,1976.0,,,2.0
+China,,1999.0,CF,,Oct,,East Asia,2.0,2.0
+Saudi Arabia,,,PW,707/720,Feb,,Middle East,2.0,2.0
+,Socialist Republic of Romania,1979.0,PW,707/720,,1979.0,Europe,1.0,1.0
+,Transair (Inactive),1974.0,PW,,,1973.0,North America,1.0,1.0
+China,,2020.0,GE,,May,,East Asia,2.0,2.0
+,Avianca El Salvador,1978.0,PW,,Jul,1978.0,Central America and Mexico,,1.0
+China,,,CF,,Jan,,,3.0,3.0
+Austria,Austrian Airlines,1971.0,PW,DC-9,Mar,1970.0,Europe,5.0,5.0
+,BDS Indian Navy P-8I,2020.0,CF,,Mar,2017.0,South Asia,,
+,,,PW,DC-8,Jan,,North America,1.0,
+Trinidad and Tobago,,1977.0,PW,DC-9,Jul,,Caribbean,2.0,2.0
+,,2011.0,,737-800,Mar,,Europe,1.0,1.0
+Ireland,SMBC Aviation Capital,2011.0,CF,,,2008.0,Europe,,2.0
+USA,,1998.0,,737-300,Sep,,,2.0,2.0
+,Quebecair,1981.0,PW,,,1979.0,North America,1.0,1.0
+USA,,1979.0,PW,DC-9,Feb,,North America,3.0,3.0
+,Braniff Airlines,,PW,747-200,Jan,1978.0,North America,1.0,1.0
+,Reno Air,1996.0,RR,MD-90,,1996.0,North America,1.0,1.0
+,Iraqi Airways,,PW,,Jan,1975.0,,,1.0
+,SAHSA,1974.0,PW,,,1973.0,Central America and Mexico,,1.0
+,AerCap,2019.0,GE,,Jun,2017.0,Europe,,1.0
+,Capitol Air,,GE,DC-8,Jan,1968.0,North America,1.0,1.0
+Germany,Air Berlin,,CF,,Jan,1999.0,Europe,,4.0
+United Kingdom,,1980.0,,737-200,Mar,,Europe,2.0,2.0
+China,,2007.0,GE,,Aug,,,3.0,3.0
+Israel,MG Aviation Limited,2016.0,RR,,Dec,2006.0,,,2.0
+Romania,,1974.0,PW,707/720,Mar,,Europe,2.0,2.0
+China,,,GE,,Feb,,,3.0,3.0
+,Federal Government of Nigeria,1982.0,PW,727,Jul,1982.0,Africa,1.0,1.0
+,Business Aerotech,1971.0,PW,727,Nov,1970.0,North America,1.0,1.0
+,Security Pacific EuroFinance,1991.0,,737-300,,1988.0,Europe,1.0,1.0
+,Nauru Airlines,1975.0,,737-200,Jul,1974.0,,,1.0
+,Pakistan International Airline,,GE,747-200,Jan,1980.0,,1.0,1.0
+,TAME,1980.0,PW,,,1980.0,South America,,
+,Kazakhstan Airlines,2002.0,GE,767-200ER,Dec,2000.0,,,1.0
+USA,BDS USAF Tanker Program,,PW,767-2C,Jan,2017.0,North America,7.0,
+USA,777 Partners,2021.0,,737 MAX,Mar,2021.0,North America,9.0,9.0
+Belgium,,1996.0,,737-300,Dec,,Europe,2.0,2.0
+,Pro Air,1997.0,,737-400,,1997.0,North America,1.0,1.0
+,Luxair,,,737-200,Jan,1977.0,,,1.0
+Ireland,Avia Capital Leasing,2014.0,CF,,Oct,2010.0,Europe,,5.0
+Malta,Air Malta,1987.0,,737-200,Aug,1986.0,Europe,,2.0
+,Korean Air Force Peace Eye,2009.0,,737-700W,Jun,2005.0,,1.0,1.0
+,China Xinhua Airlines,1994.0,CF,,Apr,1993.0,East Asia,1.0,1.0
+United Kingdom,British Airtours,1980.0,,737-200,Dec,1978.0,Europe,6.0,6.0
+,ITOCHU Corporation,1997.0,GE,767-200ER,Oct,1994.0,,,1.0
+,Australian Wedgetail,2002.0,,737-700W,Oct,2001.0,Oceania,1.0,
+,Itel Air,1979.0,,737-200,Nov,1978.0,,1.0,1.0
+,EVA Air,1995.0,GE,747-400M,Feb,1995.0,Southeast Asia,1.0,
+USA,,,PW,707/720,Jan,,,2.0,2.0
+,AirCal,1970.0,,737-200,Apr,1969.0,North America,1.0,1.0
+,Luxair,,,737-200,Jan,1977.0,,,1.0
+USA,,1966.0,,727,Sep,,,2.0,2.0
+China,CAAC-Civil Aviation of China,1985.0,PW,,May,1985.0,East Asia,5.0,5.0
+,International Lease Finance Co,,,737-400,Jan,1990.0,,1.0,1.0
+Belgium,,,,747-100,Jan,,Europe,2.0,2.0
+,Indonesian Air Force-DUPLICATE,1982.0,PW,,Apr,1981.0,,,1.0
+,Euralair,1990.0,CF,,May,1987.0,Europe,,1.0
+,CP Air,1969.0,PW,,Feb,1967.0,North America,1.0,1.0
+United Kingdom,,,PW,707/720,Jan,,Europe,2.0,2.0
+,Japan Asia Airways,1988.0,PW,747-300,Aug,1987.0,,,1.0
+,Lauda Air,,PW,767-300ER,Jan,1999.0,,1.0,1.0
+,Wien Air Alaska,,,737-200,,1966.0,North America,1.0,1.0
+Indonesia,Sriwijaya Air,2015.0,CF,,,2015.0,Southeast Asia,,
+,Aviation Service & Support,,PW,707/720,Jan,1975.0,North America,1.0,1.0
+Australia,,2009.0,GE,777-300ER,Mar,,Oceania,3.0,
+,,1989.0,,737-300,Jul,,Southeast Asia,1.0,
+United Kingdom,,1997.0,PW,MD-80,Aug,,Europe,2.0,2.0
+USA,Hawaiian Airlines,1975.0,PW,DC-9,Feb,1974.0,,4.0,4.0
+,Seaboard World Airlines,,PW,DC-8,,1965.0,North America,1.0,
+USA,Southwest Airlines,,,737-700,,1998.0,North America,10.0,
+,Novair International Airways,1990.0,,737-400,Apr,1990.0,,1.0,1.0
+,Balair/CTA,1976.0,PW,DC-9,Feb,1976.0,Europe,1.0,1.0
+,Air Asia Company,1966.0,,727,Feb,1966.0,Southeast Asia,1.0,
+USA,,,PW,747-400,Jan,,,2.0,2.0
+Russian Federation,Sberbank Leasing,,,737-800,,2017.0,Europe,6.0,6.0
+Spain,,2000.0,RR,717-200,May,,Europe,3.0,3.0
+,Air Tanzania,1978.0,,737-200,Mar,1978.0,Africa,1.0,1.0
+India,SpiceJet,,CF,,,2005.0,South Asia,,
+United Arab Emirates,Emirates,2012.0,GE,777-300ER,Apr,2010.0,Middle East,12.0,12.0
+Spain,AVIACO,,PW,DC-9,Jan,1975.0,Europe,4.0,4.0
+Italy,Alitalia,,PW,,Jan,1967.0,Europe,,2.0
+Saudi Arabia,Kingdom of Saudi Arabia,1986.0,CF,707/720,Jun,1983.0,,4.0,4.0
+Singapore,,,PW,747-400,Jan,,Southeast Asia,2.0,
+,BDS Indian Navy P-8I,2019.0,CF,,Mar,2017.0,South Asia,,
+,,1968.0,PW,DC-9,Mar,,South America,1.0,
+Canada,WestJet,,CF,,,2004.0,North America,4.0,
+Iraq,Republic of Iraq,2013.0,CF,,,2008.0,Middle East,,2.0
+,,1981.0,PW,MD-80,Nov,,North America,1.0,
+USA,BBAM Aircraft Management LP,2011.0,,737-800,Nov,2007.0,North America,4.0,
+,CALC Aircraft Assets Limited,2019.0,GE,787-9,Nov,2019.0,Southeast Asia,,
+USA,,2001.0,,737-700C,Dec,,North America,2.0,
+,Malaysia Airlines,,GE,747-400,Jan,1989.0,,,1.0
+USA,,1977.0,GE,DC-10,Apr,,North America,2.0,
+Belgium,,1997.0,,737-400,Apr,,Europe,2.0,2.0
+,Lignes Aeriennes de Congolaise,1973.0,PW,,Feb,1973.0,,,1.0
+United Kingdom,,,PW,707/720,Jan,,Europe,2.0,2.0
+Ireland,Pembroke Capital Limited,1998.0,CF,,,1997.0,Europe,,2.0
+Kazakhstan,Air Astana,,PW,767-300ER,Feb,2012.0,Central Asia,,2.0
+Mexico,Mexicana,,PW,727,Feb,1974.0,,,3.0
+United Kingdom,,1985.0,,737-300,Jun,,,3.0,3.0
+USA,,1973.0,PW,727,Sep,,North America,2.0,2.0
+Norway,Norwegian Air Shuttle,,,737-800,Jan,2012.0,,10.0,10.0
+Bangladesh,,2011.0,GE,777-300ER,Apr,,South Asia,2.0,
+Brazil,,1976.0,,737-200,Aug,,South America,2.0,
+USA,Jackson Square Aviation,,,737-800,Jan,2014.0,,3.0,3.0
+USA,,1966.0,PW,DC-9,Jul,,North America,2.0,2.0
+,Germania,1991.0,CF,,May,1991.0,,,1.0
+,ALAFCO,2011.0,,737-800,Mar,2007.0,Middle East,,1.0
+,,1980.0,PW,,Aug,,North America,1.0,1.0
+,,,PW,747-200,Jan,,Southeast Asia,1.0,
+United Kingdom,,1982.0,,737-200,Feb,,,2.0,2.0
+,,2016.0,GE,747-8F,Feb,,Central Asia,1.0,1.0
+,,1999.0,CF,,Oct,,East Asia,1.0,1.0
+,CDB Financial Leasing,2019.0,CF,,Sep,2018.0,Europe,,1.0
+,Finnair,,GE,,Jan,1981.0,,,1.0
+USA,Western Pacific Airlines,1997.0,,737-300,,1996.0,North America,4.0,4.0
+,,1970.0,PW,,Apr,,,1.0,1.0
+Germany,Bavaria,,CF,,Jan,1995.0,Europe,,2.0
+,Olympic Airlines,,PW,,Jan,1968.0,,,1.0
+South Africa,Comair Limited,2012.0,,737-800,Jun,2010.0,Africa,4.0,4.0
+,EL AL Israel Airlines,,PW,,Jan,1979.0,Middle East,,1.0
+,Aeromaritime,,PW,,Jan,1989.0,Europe,,1.0
+,Jet Airways,2003.0,CF,,Mar,2003.0,,,1.0
+USA,,1977.0,PW,DC-9,Mar,1975.0,,3.0,3.0
+,Goiania,2016.0,,737-800,Jul,2007.0,,1.0,1.0
+Australia,,,,737-800A,Jan,,Oceania,3.0,
+France,AOM French Airlines,1994.0,PW,,Sep,1994.0,Europe,,4.0
+Ireland,Irish Aerospace,1988.0,PW,,Sep,1986.0,,,2.0
+USA,Aviation Capital Group,,,737-800,Jan,2008.0,North America,4.0,
+Sudan,,1974.0,PW,707/720,May,,Africa,2.0,2.0
+Zambia,Zambia Airways,1984.0,GE,DC-10,,1983.0,Africa,1.0,1.0
+Ethiopia,Ethiopian Airlines Group,,PW,,Jan,1965.0,Africa,,1.0
+Liberia,Republic of Liberia,1978.0,,737-200,,1978.0,Africa,,1.0
+Peru,FAUCETT,1968.0,,727,Apr,1968.0,South America,1.0,
+United Kingdom,,1977.0,GE,DC-10,Jun,,Europe,2.0,2.0
+,Air Gabon,1978.0,GE,,Apr,1977.0,Africa,,1.0
+USA,Midwest Airlines Inc.,2003.0,BR,717-200,Apr,2002.0,,11.0,11.0
+,FedEx Express,2018.0,GE,777F,Jan,2017.0,North America,1.0,
+,LATAM Airlines Group,2010.0,GE,,Jan,2007.0,,1.0,1.0
+,CALC Aircraft Assets Limited,2020.0,GE,787-9,Nov,2019.0,Southeast Asia,,
+USA,,1970.0,GE,DC-8,Mar,,North America,2.0,2.0
+Norway,,1971.0,,737-200,Sep,,,2.0,2.0
+USA,,1979.0,PW,DC-9,Feb,1978.0,,3.0,3.0
+,L.T.E. International Airways,1992.0,RR,757-200,Apr,1988.0,,1.0,1.0
+,NEA Holdings Inc.,1967.0,PW,DC-9,Apr,1966.0,,1.0,1.0
+India,Jet Airways,2014.0,CF,,Jan,2012.0,,,4.0
+Mauritius,Air Mauritius,1988.0,GE,767-200ER,Jan,1987.0,Africa,,2.0
+Syrian Arab Republic,,1976.0,,747-100,Dec,,Middle East,2.0,2.0
+USA,,2016.0,GE,777-300ER,Jul,,North America,2.0,2.0
+Switzerland,,2018.0,GE,777-300ER,Apr,,Europe,1.0,1.0
+Israel,Arkia Israeli Airlines,1983.0,PW,,Jun,1981.0,Middle East,,2.0
+Switzerland,,2017.0,GE,777-300ER,Apr,,Europe,2.0,2.0
+USA,,,,737-300,Jan,,,1.0,1.0
+,Kuwait Airways,1976.0,,737-200,Apr,1975.0,,,1.0
+State of Libya,,2006.0,,737-800,Nov,,Africa,2.0,2.0
+China,,2013.0,CF,,Apr,,East Asia,2.0,2.0
+China,Zhongyuan Airlines,1994.0,CF,,,1993.0,East Asia,3.0,3.0
+,Midland Montagu Leasing,1980.0,,737-200,Dec,1979.0,,1.0,1.0
+,Sojitz,1991.0,RR,757-200,,1988.0,Europe,,1.0
+Thailand,Air Siam,1974.0,GE,DC-10,Sep,1974.0,Southeast Asia,1.0,
+Nigeria,Nigeria Airways,1989.0,GE,DC-10,Apr,1988.0,,1.0,1.0
+Uruguay,PLUNA,1982.0,,737-200,Mar,1981.0,,3.0,3.0
+USA,Purdue Airlines,1969.0,PW,DC-9,,1968.0,North America,1.0,1.0
+China,,2012.0,CF,,Feb,,East Asia,2.0,2.0
+United Arab Emirates,,1967.0,PW,727,Feb,1966.0,,3.0,3.0
+USA,FAA,,PW,707/720,Jan,1961.0,North America,1.0,1.0
+China,Xiamen Airlines,2001.0,RR,,,2001.0,East Asia,1.0,1.0
+China,,1985.0,PW,,Jun,,East Asia,2.0,2.0
+Spain,,1988.0,PW,MD-80,Sep,,Europe,2.0,2.0
+USA,Pacific Air Lines,1967.0,,727,Oct,1966.0,,1.0,1.0
+Brazil,LATAM Airlines Brasil,,GE,777-300ER,Feb,2007.0,,4.0,4.0
+Germany,German Air Force,1968.0,PW,,Nov,1967.0,,,4.0
+China,,2017.0,CF,,Nov,,,2.0,2.0
+China,Xiamen Airlines,2002.0,RR,,,2001.0,East Asia,1.0,1.0
+USA,Saturn Airways,,GE,DC-8,,1966.0,North America,1.0,1.0
+USA,Itel Air,1979.0,,737-200,Jan,1979.0,,1.0,1.0
+Taiwan,UNI Airways,1996.0,RR,MD-90,,1996.0,Southeast Asia,1.0,
+Argentina,AUSTRAL - Cielos del Sur,1981.0,PW,MD-80,Dec,1978.0,South America,3.0,
+Morocco,Royal Air Maroc,,,737-400,,1993.0,Africa,,1.0
+French Polynesia,Air Tahiti Nui,2019.0,GE,,Apr,2015.0,Oceania,,
+USA,Alaska Airlines,,PW,727,Jan,1968.0,North America,1.0,1.0
+China,Air China Cargo,2014.0,GE,,Mar,2013.0,East Asia,4.0,4.0
+China,Okay Airways Company Limited,2016.0,CF,,May,2014.0,,1.0,1.0
+Nigeria,Midway Airlines,1987.0,,737-200,Mar,1986.0,,,3.0
+Ukraine,Ukraine International Airlines,1999.0,,737-300,,1997.0,Europe,1.0,1.0
+USA,FedEx Express,,GE,DC-10,Feb,1987.0,North America,1.0,1.0
+USA,Pan Am World Airways,,,747-100,Jan,1969.0,,1.0,1.0
+Dominican Republic,Dominicana Airlines,1972.0,PW,,May,1972.0,Caribbean,,1.0
+Taiwan,Great China Airlines,1997.0,RR,MD-90,Nov,1990.0,,1.0,1.0
+Turkey,,,,737-900ER,Feb,,Europe,2.0,2.0
+Iraq,Iraqi Airways,,PW,,Jan,1975.0,,,3.0
+Venezuela,AVENSA,1969.0,PW,DC-9,Jun,1967.0,South America,1.0,
+Switzerland,,,PW,DC-8,Jan,,Europe,2.0,2.0
+Israel,Arkia Israeli Airlines,2000.0,RR,,Jul,1998.0,Middle East,,2.0
+Russian Federation,,2013.0,GE,747-8F,Nov,,Europe,2.0,2.0
+USA,Business Jet / VIP Customer(s),,CF,BBJ,Jan,1996.0,North America,1.0,
+India,Jet Lite,,CF,,Jan,2006.0,,,1.0
+Taiwan,,1993.0,PW,MD-80,May,,Southeast Asia,2.0,
+Canada,,1980.0,PW,,Feb,,North America,2.0,
+Nepal,Nepal Airlines Corporation,1988.0,RR,757-200M,Feb,1986.0,,,1.0
+Japan,Japan Domestic Airlines,1966.0,PW,727,Apr,1965.0,,,2.0
+USA,,,PW,747-400,Jan,,North America,2.0,2.0
+Kenya,East African Airways,1970.0,PW,DC-9,Apr,1970.0,Africa,,1.0
+Costa Rica,Avianca Costa Rica,1980.0,PW,,Aug,1978.0,Central America and Mexico,,1.0
+Germany,Germanwings GmbH,1989.0,PW,,Sep,1988.0,,,4.0
+Japan,Mitsui & Co.,1992.0,GE,MD-11,Dec,1986.0,,,2.0
+China,Silk Road Leasing,2016.0,CF,,,2016.0,East Asia,1.0,1.0
+China,Dragon Aviation Leasing,2015.0,CF,,Dec,2013.0,East Asia,4.0,4.0
+USA,Southwest Airlines,,,737-300,,1986.0,North America,3.0,
+United Kingdom,TUI Travel PLC,,RR,757-200,,1993.0,Europe,1.0,1.0
+USA,BDS U.S. Navy (P-8A Poseidon),,,737-800A,Jan,2018.0,North America,4.0,4.0
+USA,PACE Airlines,,,737-200,Jan,1966.0,,6.0,6.0
+Rwanda,,2011.0,,737-800,Dec,,Africa,2.0,2.0
+Jersey (UK),Ardennes Epsilon,1989.0,PW,MD-80,Dec,1988.0,Europe,,2.0
+Syrian Arab Republic,Syrianair,1976.0,,727,,1974.0,Middle East,3.0,3.0
+USA,GATX Jet Partners Ltd.,2001.0,,737-800,May,2000.0,,4.0,4.0
+Ireland,Avolon - Ireland,2015.0,CF,,Sep,2012.0,Europe,,7.0
+Russian Federation,,2013.0,GE,777-300ER,Feb,,Europe,2.0,2.0
+United Kingdom,Jet2.com Ltd,2016.0,,737-800,Sep,2015.0,,5.0,5.0
+Turkey,,2011.0,,737-800,Feb,,Europe,2.0,2.0
+France,Union Aeromaritime Transport,1960.0,PW,,,1956.0,Europe,,1.0
+Malaysia,Malaysia Airlines,,GE,747-400M,Jan,1988.0,,,1.0
+Ghana,Ghana Airways,1983.0,GE,,Feb,1983.0,,,1.0
+USA,America West Airlines,,,737-300,Jan,1986.0,North America,5.0,5.0
+Japan,ANA Holdings Inc.,2019.0,GE,777F,Mar,2018.0,East Asia,,1.0
+United Kingdom,,1990.0,,737-400,Jun,,Europe,1.0,1.0
+Bolivia,,1978.0,PW,727,Apr,,,2.0,2.0
+Singapore,Scoot PTE LTD,2015.0,RR,787-8,,2006.0,Southeast Asia,4.0,
+Canada,Eastern Provincial Airways,1973.0,PW,,Jun,1972.0,North America,1.0,1.0
+USA,,2021.0,GE,777F,Mar,,North America,2.0,2.0
+USA,Altavair LLC,2006.0,GE,747-400ERF,Jun,2005.0,North America,1.0,
+United Kingdom,,1992.0,CF,707/720,Feb,,Europe,1.0,1.0
+Belgium,,1979.0,,737-200,Aug,,Europe,2.0,2.0
+Germany,Germanwings GmbH,1989.0,PW,,Dec,1988.0,,,1.0
+USA,Western Airlines,,PW,707/720,,1963.0,North America,3.0,
+Bermuda,,1997.0,,737-300,Jul,,,1.0,1.0
+Switzerland,Noga Export Import,1981.0,,737-200,Apr,1980.0,,1.0,1.0
+Hong Kong,CDB Aviation,2016.0,CF,,Mar,2014.0,East Asia,,3.0
+South Korea,Asiana Airlines,2006.0,GE,747-400F,Feb,1998.0,East Asia,1.0,1.0
+France,Aeromaritime,,PW,,Jan,1989.0,Europe,,2.0
+Zambia,Zambia Airways,1976.0,,737-200,,1975.0,Africa,1.0,1.0
+Belgium,DHL International,,GE,767-300F,Feb,2007.0,Europe,3.0,3.0
+China,Hebei Airlines Company LTD,2016.0,CF,,Dec,2013.0,,3.0,3.0
+USA,Western Airlines,,PW,707/720,,1960.0,North America,1.0,
+Japan,Japan ASDF Tanker,2005.0,GE,767-200ER,Jun,2003.0,,,1.0
+Ireland,AerCap,2018.0,CF,,Jun,2015.0,Europe,,5.0
+Belgium,NATO,1983.0,PW,707/720,May,1980.0,,5.0,5.0
+Sweden,Transair Sweden,1968.0,PW,727,,1967.0,Europe,1.0,1.0
+USA,,,,737-700,Jan,,North America,2.0,2.0
+Norway,SAS Norway,1977.0,,737-200,,1977.0,Europe,1.0,1.0
+USA,,2022.0,,737 MAX,Mar,,North America,2.0,2.0
+South Korea,Republic of Korea Air Force,,,737-300,,1985.0,East Asia,1.0,1.0
+Serbia,Pan Adria,1973.0,PW,DC-9,May,1972.0,,1.0,1.0
+Germany,Air Berlin,2002.0,CF,,Feb,2001.0,Europe,,2.0
+Russian Federation,,2011.0,,737-800,Nov,,Europe,2.0,2.0
+Lebanon,Middle East Airlines,1968.0,PW,707/720,Aug,1968.0,,,2.0
+China,Air China,,PW,,Jan,1997.0,East Asia,1.0,1.0
+Thailand,,2001.0,GE,747-400,Feb,,Southeast Asia,2.0,
+India,SpiceJet,2007.0,CF,,,2005.0,South Asia,,
+USA,Pacific Southwest Airlines,,PW,727,Jan,1965.0,,1.0,1.0
+Ireland,Timaero Ireland Limited,2015.0,CF,,,2014.0,Europe,,4.0
+USA,FAA,1966.0,PW,727,Jul,1966.0,North America,1.0,1.0
+Australia,Virgin Australia Airlines,,,737-800,,2012.0,Oceania,1.0,
+Canada,Canadian Air Force,1971.0,PW,,Mar,1971.0,North America,1.0,1.0
+Mexico,Government of Mexico,1987.0,RR,757-200,Nov,1987.0,,,1.0
+Italy,Aero Trasporti Italiani,1970.0,PW,,Feb,1969.0,Europe,,1.0
+Egypt,AMC Airlines,1997.0,RR,,Mar,1997.0,Africa,,1.0
+Switzerland,,2015.0,RR,787-8,Nov,,Europe,1.0,1.0
+USA,,1968.0,PW,DC-9,Feb,,,2.0,2.0
+Egypt,EgyptAir,2016.0,CF,,Feb,2016.0,Africa,,1.0
+United Kingdom,,1987.0,,737-300,Sep,,,1.0,1.0
+Uzbekistan,,2007.0,PW,767-300ER,Feb,,Central Asia,1.0,1.0
+Congo the Democratic Republic,Lignes Aeriennes de Congolaise,1973.0,GE,,Feb,1973.0,,,1.0
+Singapore,,,PW,747-200,Jan,,Southeast Asia,2.0,
+United Kingdom,British Eagle International,,PW,707/720,Jan,1967.0,Europe,1.0,1.0

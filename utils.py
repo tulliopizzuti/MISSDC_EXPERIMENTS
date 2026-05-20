@@ -57,8 +57,8 @@ def get_num_columns(dataset_file):
 
 
 
-
-def run_command(cmd, cwd=None, timeout=2):
+#TODO timeout as parameter
+def run_command(cmd, cwd=None, timeout=43200):
     print("\nRunning:")
     print(" ".join(str(x) for x in cmd))
 
