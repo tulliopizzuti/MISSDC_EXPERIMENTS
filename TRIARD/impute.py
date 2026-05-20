@@ -11,7 +11,6 @@ import dataset_util
 import imputation
 import load_metadata
 import util
-import domino
 from datetime import datetime
 import time
 import json
@@ -131,11 +130,11 @@ if __name__ == "__main__":
     dataset_filename = os.path.basename(dataset_file_path)
     dataset_name = dataset_filename.split('.')[0]
     util.check_and_create_directory(output_folder)
-    current_exp_folder=util.join_path(output_folder,f"{dataset_filename}_{int(round(time.time() * 1000))}")
+    current_exp_folder= util.join_path(output_folder, f"{dataset_filename}_{int(round(time.time() * 1000))}")
     util.check_and_create_directory(current_exp_folder)
     if save_log:
-        current_imputation_result_folder=util.join_path(current_exp_folder,f"imputation_results")
-        current_dependencies_result_folder=util.join_path(current_exp_folder,f"dependencies")
+        current_imputation_result_folder= util.join_path(current_exp_folder, f"imputation_results")
+        current_dependencies_result_folder= util.join_path(current_exp_folder, f"dependencies")
         util.check_and_create_directory(current_imputation_result_folder)
         util.check_and_create_directory(current_dependencies_result_folder)
 
@@ -143,11 +142,11 @@ if __name__ == "__main__":
 
     print(f"Read dataset file '{dataset_filename}'")
     read_time, df = util.profile_f(pd.read_csv,
-        dataset_file_path,
-        sep=dataset_separator,
-        header=0 if dataset_has_header else None,
-        na_values=dataset_null_char
-    )
+                                   dataset_file_path,
+                                   sep=dataset_separator,
+                                   header=0 if dataset_has_header else None,
+                                   na_values=dataset_null_char
+                                   )
     print(f"Read time: {read_time}")
     dataset_has_null_values=df.isna().any().any()
     if not increasing_steps:
@@ -170,8 +169,8 @@ if __name__ == "__main__":
 
     print(f"Extracting metadata")
 
-    dtypes=dataset_util.get_dtypes(train_set)
-    stats_map=load_metadata.load_metadata_reduced(train_set)
+    dtypes= dataset_util.get_dtypes(train_set)
+    stats_map= load_metadata.load_metadata_reduced(train_set)
     ordered_distances={}
     medians=[]
     for k,v in stats_map.items():
@@ -199,15 +198,16 @@ if __name__ == "__main__":
             "increasing_steps":increasing_steps,
             "max_similarity_values": max_similarity_values
         }, indent=4))
-    original_initial_tuples_placeholder=util.join_path(current_exp_folder, dataset_filename)
+    original_initial_tuples_placeholder= util.join_path(current_exp_folder, dataset_filename)
     null_values.to_csv(original_initial_tuples_placeholder, sep=';', index=False, header=False)
     train_set_filename=f"{dataset_name}_train_set.csv"
-    train_set_path=util.join_path(current_exp_folder, train_set_filename)
+    train_set_path= util.join_path(current_exp_folder, train_set_filename)
     print(f"Save train set in: {train_set_path}")
     train_set.to_csv(train_set_path, sep=dataset_separator,index=False, header=True)
     print(f"Inject null values for train \"thresholds\": {train_set_path}")
     train_set_injected_initial_tuple, train_set_injected_dataset = dataset_util.inject_mv(train_set_path, dataset_separator, dataset_has_header, dataset_null_char, missing_percentage_generator)
-    train_set_injected_initial_tuple["df"].to_csv(util.join_path(current_exp_folder, "train_set_injected_initial_tuple.csv"), index=None, sep=";")
+    train_set_injected_initial_tuple["df"].to_csv(
+        util.join_path(current_exp_folder, "train_set_injected_initial_tuple.csv"), index=None, sep=";")
     train_set_injected_dataset["df"].to_csv(util.join_path(current_exp_folder, "train_set_injected_dataset.csv"), index=None, sep=";")
     discovery_set, null_discovery_set = dataset_util.load_datasets_portions(train_set_injected_dataset["df"])
     discovery_set_filename = f"{dataset_name}_discovery_set.csv"
@@ -252,12 +252,12 @@ if __name__ == "__main__":
                 combination_tested.add(attr_set)
             print(f"\n{'=' * 10}Elapsed time: {str(datetime.now() - triard_start_time)}{'=' * 10}")
             print(f"{iteration_i+1}/{iterations} - {attr} ({column_j+1}/{len(df.columns)}) - Run discovery on dataset... ")
-            total_discovery_time, qr_out = util.profile_f(dataset_util.discovery,os.path.abspath(discovery_set_path), dataset_separator, dataset_has_header, dataset_null_char, current_thresholds, list(df.columns))
+            total_discovery_time, qr_out = util.profile_f(dataset_util.discovery, os.path.abspath(discovery_set_path), dataset_separator, dataset_has_header, dataset_null_char, current_thresholds, list(df.columns))
             print(f"Discovery time: {total_discovery_time}")
             if save_log:
-                util.copy_file(qr_out, util.join_path(current_dependencies_result_folder,f"{attr}_{iteration_i}.csv"))
+                util.copy_file(qr_out, util.join_path(current_dependencies_result_folder, f"{attr}_{iteration_i}.csv"))
             if use_previous_results_at_each_step:
-                increased_qr=dataset_util.load_qr_file(qr_out)
+                increased_qr= dataset_util.load_qr_file(qr_out)
                 for k, v in best_attributes_score.items():
                     for lhs,rhs in v["used_dependencies"].items():
                         increased_qr[lhs] = rhs
@@ -267,20 +267,20 @@ if __name__ == "__main__":
             print(f"{iteration_i + 1}/{iterations} - {attr} ({column_j + 1}/{len(df.columns)}) - Run imputation...")
             triard_time_current_imputation = None
 
-            total_imputation_time, (imputation_result, candidates) = util.profile_f(imputation.impute,train_set_injected_dataset["path"],
-                                                              train_set_injected_initial_tuple["path"],
-                                                              qr_out,
-                                                              dtypes,
-                                                              dataset_separator)
+            total_imputation_time, (imputation_result, candidates) = util.profile_f(imputation.impute, train_set_injected_dataset["path"],
+                                                                                    train_set_injected_initial_tuple["path"],
+                                                                                    qr_out,
+                                                                                    dtypes,
+                                                                                    dataset_separator)
             print(f"Imputation time: {total_imputation_time}")
-            if save_log and imputation_result: util.copy_file(imputation_result, util.join_path(current_imputation_result_folder,f"{attr}_{iteration_i}.csv"))
+            if save_log and imputation_result: util.copy_file(imputation_result, util.join_path(current_imputation_result_folder, f"{attr}_{iteration_i}.csv"))
             if imputation_result:
                 print(
                     f"{iteration_i + 1}/{iterations} iter. on {attr} ({column_j + 1}/{len(df.columns)}) - Imputation results analysis...")
                 (thr_possible_update,
                  new_thresholds_score,
                  single_attribute_score, goodness) = (analyze_imputation
-                                            .attribute_improvement(attr,
+                                                      .attribute_improvement(attr,
                                                                           min_score_to_reach,
                                                                           train_set_injected_dataset["df"],
                                                                           imputation_result,
@@ -335,11 +335,11 @@ if __name__ == "__main__":
         final_path="final_dependencies_set/final_result.json"
         with open(final_path, "w") as f:
             f.write(f'[{to_save}]')
-        final_qr=dataset_util.export_to_qr(final_path, list(df.columns),'qroutfolder')
-        final_imputation_time,(imputation_result, candidates)=util.profile_f(imputation.impute, dataset_file_path, original_initial_tuples_placeholder,
-                                                              final_qr,
-                                                              dtypes,
-                                                              dataset_separator)
+        final_qr= dataset_util.export_to_qr(final_path, list(df.columns), 'qroutfolder')
+        final_imputation_time,(imputation_result, candidates)= util.profile_f(imputation.impute, dataset_file_path, original_initial_tuples_placeholder,
+                                                                              final_qr,
+                                                                              dtypes,
+                                                                              dataset_separator)
         print(f"Final imputation time: {final_imputation_time}")
         triard_end_time = datetime.now()
         imputation_result_df = pd.read_csv(imputation_result, sep=";")
@@ -350,12 +350,13 @@ if __name__ == "__main__":
                                     index=False)
 
         rapaired_file=df.copy()
+        rapaired_file=rapaired_file.astype(object)
         for i, row in imputation_result_df.iterrows():
             rapaired_file.loc[row["row"], row["column"]]=row["imputed"] if row["imputed"]!=dataset_null_char else output_file_null_char
 
 
-        rapaired_file.to_csv(util.join_path(current_exp_folder, rapaired_file_path), sep=output_file_sep,
-                                    index=False)
+        rapaired_file.to_csv(rapaired_file_path, sep=output_file_sep,
+                             index=False)
 
 
 

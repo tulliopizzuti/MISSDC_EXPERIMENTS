@@ -5,7 +5,6 @@ from dependencies_util import *
 
 import dataset_util
 import util
-import re
 import json
 from load_metadata import compute_distance
 

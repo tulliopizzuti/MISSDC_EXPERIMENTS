@@ -16,16 +16,16 @@ def run(original_file_path, separator, has_header, nullvalue="?", max_thr=0, dom
 
     os.chdir(domino_params['folder'])
 
-    dataset_log_folder=util.join_path(dataset_folder, "log")
-    dataset_maps_folder=util.join_path(dataset_folder, "maps")
-    dataset_matrices_folder=util.join_path(dataset_folder, "matrices")
-    dataset_output_folder=util.join_path(dataset_folder, "SCORE")
-    dataset_outputQR_folder=util.join_path(dataset_folder, "outputQR")
+    dataset_log_folder= util.join_path(dataset_folder, "log")
+    dataset_maps_folder= util.join_path(dataset_folder, "maps")
+    dataset_matrices_folder= util.join_path(dataset_folder, "matrices")
+    dataset_output_folder= util.join_path(dataset_folder, "SCORE")
+    dataset_outputQR_folder= util.join_path(dataset_folder, "outputQR")
 
 
-    dataset_matrices_complete_folder=util.join_path(dataset_matrices_folder, "complete")
-    dataset_matrices_approx_folder=util.join_path(dataset_matrices_folder, "approx")
-    dataset_matrices_max_thr_folder=util.join_path(dataset_matrices_folder, f"{str(max_thr)}")
+    dataset_matrices_complete_folder= util.join_path(dataset_matrices_folder, "complete")
+    dataset_matrices_approx_folder= util.join_path(dataset_matrices_folder, "approx")
+    dataset_matrices_max_thr_folder= util.join_path(dataset_matrices_folder, f"{str(max_thr)}")
 
     if os.path.exists(dataset_folder):
         util.drop_directory(dataset_folder)
@@ -59,7 +59,7 @@ def run(original_file_path, separator, has_header, nullvalue="?", max_thr=0, dom
         create_matrix_cmd=f"timeout {domino_time_limit} {create_matrix_cmd}"
 
     print(create_matrix_cmd)
-    time_matrix, res=util.profile_f(os.system,create_matrix_cmd)
+    time_matrix, res= util.profile_f(os.system, create_matrix_cmd)
 
 
 

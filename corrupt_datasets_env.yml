@@ -1,13 +1,11 @@
-name: MISSDC_EXP_TRIARD
+name: MISSDC_EXP_CORRUPT_DATASET
 channels:
   - conda-forge
   - defaults
 dependencies:
   - python=3.10
+  - setuptools<80
   - pandas
-  - psutil
-  - Levenshtein
-  - tqdm
   - pip
   - pip:
-      - ./DAISLabUtilsPy
+      - jenga

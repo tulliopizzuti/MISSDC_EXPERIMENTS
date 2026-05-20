@@ -84,12 +84,12 @@ def inject_coordinates(dataset_file_path, dataset_separator, dataset_has_header,
         sep=dataset_separator,
         header=0 if dataset_has_header else None,
         na_values=dataset_null_char
-    ), "path":util.get_most_recent_file(initial_tuples_folder)}, {"df":pd.read_csv(
+    ), "path": util.get_most_recent_file(initial_tuples_folder)}, {"df":pd.read_csv(
         util.get_most_recent_file(missing_dataset_folder),
         sep=dataset_separator,
         header=0 if dataset_has_header else None,
         na_values=dataset_null_char
-    ), "path":util.get_most_recent_file(missing_dataset_folder)}
+    ), "path": util.get_most_recent_file(missing_dataset_folder)}
 
 
 
@@ -126,12 +126,12 @@ def inject_mv(dataset_file_path, dataset_separator, dataset_has_header, dataset_
         sep=dataset_separator,
         header=0 if dataset_has_header else None,
         na_values=dataset_null_char
-    ), "path":util.get_most_recent_file(initial_tuples_folder)}, {"df":pd.read_csv(
+    ), "path": util.get_most_recent_file(initial_tuples_folder)}, {"df":pd.read_csv(
         util.get_most_recent_file(missing_dataset_folder),
         sep=dataset_separator,
         header=0 if dataset_has_header else None,
         na_values=dataset_null_char
-    ), "path":util.get_most_recent_file(missing_dataset_folder)}
+    ), "path": util.get_most_recent_file(missing_dataset_folder)}
 
 def save_to_qr(dependencies, header, qroutfolder, output_file):
     result_df = pd.DataFrame(index=np.arange(dependencies.count_dependencies()), columns=["RHS"] + header)
@@ -168,17 +168,17 @@ def discovery(dataset_file_path, dataset_separator, dataset_has_header, dataset_
     util.check_and_create_directory(discovery_params['resfolder'])
     util.clean_directory(discovery_params['resfolder'])
     util.clean_directory("log")
-    run_string = (f"java -Xmx{util.get_max_ram()}G -jar {discovery_params['jar_name']} {dataset_file_path} {' '.join(map(lambda x: str(x),thrs))} -s \"{dataset_separator}\" -r {discovery_params['resfolder']} "
+    run_string = (f"java -Xmx{util.get_max_ram()}G -jar {discovery_params['jar_name']} {dataset_file_path} {' '.join(map(lambda x: str(x), thrs))} -s \"{dataset_separator}\" -r {discovery_params['resfolder']} "
                   f"-head {dataset_has_header} -pd true -n {'blank' if dataset_null_char=='' else dataset_null_char} > {util.get_null_redirect_output()} 2>&1") #
     print(run_string)
     os.system(run_string)
     result_file = util.get_file_first_file(discovery_params['resfolder'])
     os.chdir(current_cwd)
 
-    toret = export_to_qr(util.join_path(discovery_params['discovery_folder'],result_file), columns,
+    toret = export_to_qr(util.join_path(discovery_params['discovery_folder'], result_file), columns,
                          discovery_params['qroutfolder'])
-    util.clean_directory(util.join_path(discovery_params['discovery_folder'],discovery_params['resfolder']))
-    util.clean_directory(util.join_path(discovery_params['discovery_folder'],"log"))
+    util.clean_directory(util.join_path(discovery_params['discovery_folder'], discovery_params['resfolder']))
+    util.clean_directory(util.join_path(discovery_params['discovery_folder'], "log"))
     return toret
 
 def get_dtypes(df):
