@@ -33,11 +33,21 @@ datasets/
 ## Usage
 
 ```bash
-python generate_datasets.py \
+python corrupt_datasets.py \
     --datasets_folder datasets \
     --missingness MCAR MAR MNAR \
-    --ratio 0.1 0.2 0.3 \
+    --ratio 0.01 0.05 0.1 0.2 0.3 \
     --repetitions 5
+```
+
+#### for quicker tests
+
+```bash
+python corrupt_datasets.py \
+    --datasets_folder datasets_sample \
+    --missingness MCAR \
+    --ratio 0.01 0.05 \
+    --repetitions 3
 ```
 
 
