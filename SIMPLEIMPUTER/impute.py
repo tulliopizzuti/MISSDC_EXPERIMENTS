@@ -22,7 +22,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         prog='SimpleImputer_Exp',
         description='Run imputation using SimpleImputer')
-    parser.add_argument('dataset_file_path', help="Path to the dataset file (CSV with semicolon separator)")
+    parser.add_argument('dataset_file_path', help="Path to the dataset file")
     parser.add_argument('--dataset_null_char', type=str, default='',
                         help='Character used to represent missing values in the dataset')
     parser.add_argument('--csv_sep', type=str, default=',',

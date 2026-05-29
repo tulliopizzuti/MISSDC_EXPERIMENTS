@@ -11,7 +11,7 @@ import pandas as pd
 sys.path.append(str(Path(__file__).resolve().parent.parent))
 from utils import *
 
-APPROACH_NAME = 'SIMPLEIMPUTER'
+APPROACH_NAME = 'HOLOCLEAN'
 SCORE_SCRIPT = str(Path(__file__).resolve().parent.parent / "score.py")
 IMPUTATION_SCRIPT = "impute.py"
 
@@ -19,7 +19,7 @@ IMPUTATION_SCRIPT = "impute.py"
 
 
 
-def run_experiment(corrupted_dataset_folder, dataset, missingness, ratio, repetition, cwd):
+def run_experiment(corrupted_dataset_folder, dataset, missingness, ratio, repetition, user, pwd, host, name, cwd):
 
     dataset_dir = corrupted_dataset_folder
     clean_file = dataset_dir / "clean.csv"
@@ -43,6 +43,10 @@ def run_experiment(corrupted_dataset_folder, dataset, missingness, ratio, repeti
         sys.executable,
         IMPUTATION_SCRIPT,
         str(dirty_file),
+        "--db_user", user ,
+        "--db-pwd", pwd ,
+        "--db-host", host ,
+        "--db-name", name ,
         "--output_file_path", str(repaired_file)
     ]
 
@@ -156,6 +160,10 @@ def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--datasets_folder", required=True)
     parser.add_argument("--results", default="results/results.csv")
+    parser.add_argument('--db_user', type=str, default='holocleanuser')
+    parser.add_argument('--db-pwd', type=str, default='abcd1234')
+    parser.add_argument('--db-host', type=str, default='localhost')
+    parser.add_argument('--db-name', type=str, default='holo')
     parser.add_argument("--cwd", default=None)
 
     return parser.parse_args()
@@ -165,8 +173,11 @@ def main():
     args = parse_args()
     datasets_folder = Path(args.datasets_folder)
     dataset_files = datasets_folder.rglob("dirty.csv")
-
-
+    user = args.db_user
+    pwd = args.db_pwd
+    host = args.db_host
+    name = args.db_name
+    cwd = args.cwd
 
     for dirty_file in dataset_files:
         parts = dirty_file.parts
@@ -174,7 +185,11 @@ def main():
         missingness = parts[2]
         ratio = float(parts[3])
         repetition = int(parts[4])
-        result = run_experiment(dirty_file.parent, dataset_name, missingness, ratio, repetition, args.cwd)
+
+
+
+
+        result = run_experiment(dirty_file.parent, dataset_name, missingness, ratio, repetition, user, pwd, host, name, cwd)
         append_result(args.results, result)
 
 
