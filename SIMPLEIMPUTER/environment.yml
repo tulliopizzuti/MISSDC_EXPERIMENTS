@@ -1,0 +1,8 @@
+name: MISSDC_EXP_SIMPLEIMP
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - scikit-learn
+  - pandas
