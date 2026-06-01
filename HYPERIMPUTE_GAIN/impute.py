@@ -13,7 +13,13 @@ def hyperimpute(
     data: pd.DataFrame,
 
 ):
-    plugin = Imputers().get("hyperimpute")
+    plugin = Imputers().get("hyperimpute",
+                            classifier_seed=[
+                                "logistic_regression",
+                                "random_forest",
+                                "catboost",
+                                "neural_nets"
+                            ])
     out = plugin.fit_transform(data.copy())
     return out
 
@@ -29,6 +35,8 @@ def gain(
 def hyperimpute_improved(
     data: pd.DataFrame,
 ):
+
+
     plugin = Imputers().get(
         "hyperimpute",
         classifier_seed=[
@@ -38,13 +46,9 @@ def hyperimpute_improved(
             "neural_nets",
             "xgboost"
         ],
-        # regression_seed=[
-        #     "logistic_regression",
-        #     "random_forest",
-        #     "catboost",
-        #     "neural_nets",
-        #     "xgboost"
-        # ],
+        regression_seed=[
+            "linear_regression",
+        ],
         imputation_order=2,
         optimizer='hyperband',
         n_inner_iter= 10,
@@ -105,6 +109,7 @@ if __name__ == "__main__":
 
     imputer = globals().get(args.imputation_method)
     if not imputer: raise ValueError('Imputation method not recognized')
+
 
     imputed_scaled_df = imputer(scaled_df)
 
