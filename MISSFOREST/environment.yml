@@ -1,0 +1,12 @@
+name: MISSDC_EXP_MISSFOREST
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - pandas
+  - scikit-learn
+  - tqdm
+  - pip:
+      - MissForest
+      - lightgbm

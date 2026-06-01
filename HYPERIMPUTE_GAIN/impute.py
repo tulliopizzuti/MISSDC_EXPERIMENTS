@@ -25,13 +25,6 @@ def gain(
     out = plugin.fit_transform(data.copy())
     return out
 
-def missforest(
-    data: pd.DataFrame
-
-):
-    plugin = Imputers().get("missforest")
-    out = plugin.fit_transform(data.copy())
-    return out
 
 def hyperimpute_improved(
     data: pd.DataFrame,

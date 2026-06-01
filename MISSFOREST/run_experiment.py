@@ -11,6 +11,7 @@ import pandas as pd
 sys.path.append(str(Path(__file__).resolve().parent.parent))
 from utils import *
 
+APPROACH_NAME = 'MISSFOREST'
 SCORE_SCRIPT = str(Path(__file__).resolve().parent.parent / "score.py")
 IMPUTATION_SCRIPT = "impute.py"
 
@@ -18,16 +19,14 @@ IMPUTATION_SCRIPT = "impute.py"
 
 
 
-def run_experiment(corrupted_dataset_folder, dataset, imputation_method, missingness, ratio, repetition, cwd):
-    APPROACH_NAME = imputation_method
-    dataset_dir = corrupted_dataset_folder
+def run_experiment(corrupted_dataset_folder, dataset, missingness, ratio, repetition, cwd):
 
+    dataset_dir = corrupted_dataset_folder
     clean_file = dataset_dir / "clean.csv"
     dirty_file = dataset_dir / "dirty.csv"
     repaired_file = dataset_dir / "dirty_imputed.csv"
 
     timestamp = datetime.now().isoformat(timespec="seconds")
-
 
     if not clean_file.exists():
         raise FileNotFoundError(f"clean.csv was not created: {clean_file}")
@@ -37,15 +36,14 @@ def run_experiment(corrupted_dataset_folder, dataset, imputation_method, missing
 
     if repaired_file.exists():
         repaired_file.unlink()
-    ncols = get_num_columns(dirty_file)
 
+    ncols = get_num_columns(dirty_file)
 
     imputation_cmd = [
         sys.executable,
         IMPUTATION_SCRIPT,
-        imputation_method,
-        dirty_file,
-        "--output_file_path", repaired_file
+        str(dirty_file),
+        "--output_file_path", str(repaired_file)
     ]
 
     imputation_returncode, imputation_time, _, _ = run_command(imputation_cmd, cwd=cwd)
@@ -59,16 +57,16 @@ def run_experiment(corrupted_dataset_folder, dataset, imputation_method, missing
             ncols=ncols,
             timestamp=timestamp,
             repetition=repetition,
-            status=f"{imputation_method}_failed",
+            status=f"{APPROACH_NAME}_failed",
             clean_file=clean_file,
             dirty_file=dirty_file,
             repaired_file=repaired_file,
-            missing_time=None,
             imputation_time=imputation_time,
             score_time=None,
             scores=None,
-            error=f"{IMPUTATION_SCRIPT} {'TIME LIMIT' if imputation_returncode=='TL' else 'failed'}",
-        )
+            missing_time=None,
+            error=f"{IMPUTATION_SCRIPT} {'TIME LIMIT' if imputation_returncode == 'TL' else 'failed'}",        )
+
         return row
 
     if not repaired_file.exists():
@@ -92,6 +90,7 @@ def run_experiment(corrupted_dataset_folder, dataset, imputation_method, missing
         )
 
         return row
+
 
     score_cmd = [
         sys.executable,
@@ -122,6 +121,7 @@ def run_experiment(corrupted_dataset_folder, dataset, imputation_method, missing
             scores=None,
             error="score.py failed",
         )
+
         return row
 
     scores = parse_score_output(score_stdout)
@@ -145,14 +145,15 @@ def run_experiment(corrupted_dataset_folder, dataset, imputation_method, missing
         error="",
     )
 
+
     return row
+
 
 
 
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('imputation_method')
     parser.add_argument("--datasets_folder", required=True)
     parser.add_argument("--results", default="results/results.csv")
     parser.add_argument("--cwd", default=None)
@@ -165,14 +166,17 @@ def main():
     datasets_folder = Path(args.datasets_folder)
     dataset_files = datasets_folder.rglob("dirty.csv")
 
+
+
     for dirty_file in dataset_files:
         parts = dirty_file.parts
         dataset_name = parts[-5]
         missingness = parts[-4]
         ratio = float(parts[-3])
         repetition = int(parts[-2])
-        result = run_experiment(dirty_file.parent, dataset_name, args.imputation_method, missingness, ratio, repetition, args.cwd)
+        result = run_experiment(dirty_file.parent, dataset_name, missingness, ratio, repetition, args.cwd)
         append_result(args.results, result)
+
 
 
 if __name__ == "__main__":

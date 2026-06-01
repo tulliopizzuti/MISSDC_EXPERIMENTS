@@ -168,10 +168,10 @@ def main():
 
     for dirty_file in dataset_files:
         parts = dirty_file.parts
-        dataset_name = parts[1]
-        missingness = parts[2]
-        ratio = float(parts[3])
-        repetition = int(parts[4])
+        dataset_name = parts[-5]
+        missingness = parts[-4]
+        ratio = float(parts[-3])
+        repetition = int(parts[-2])
         result = run_experiment(dirty_file.parent, dataset_name, args.java_opts, missingness, ratio, repetition, args.cwd)
         append_result(args.results, result)
 
