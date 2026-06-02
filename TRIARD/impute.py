@@ -59,7 +59,7 @@ if __name__ == "__main__":
     parser.add_argument('dataset_file_path', help="Path to the dataset file (CSV with semicolon separator)")
 
     # Added for experimental session
-    parser.add_argument('rapaired_file_path', help="Path to the repaired file")
+    parser.add_argument('--rapaired_file_path', help="Path to the repaired file", default="repaired.csv")
     parser.add_argument('--output_file_sep', type=str, default=',',
                         help='CSV separator for the repaired file')
     parser.add_argument('--output_file_null_char', type=str, default='',
