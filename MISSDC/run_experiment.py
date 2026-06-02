@@ -12,11 +12,11 @@ sys.path.append(str(Path(__file__).resolve().parent.parent))
 from utils import *
 
 SCORE_SCRIPT = str(Path(__file__).resolve().parent.parent / "score.py")
-IMPUTATION_SCRIPT = "missdc.jar"
+IMPUTATION_SCRIPT = "missdc_hybrid.jar"
 APPROACH_NAME = "MISSDC"
 
 
-def run_experiment(corrupted_dataset_folder, dataset, java_opts, missingness, ratio, repetition, cwd):
+def run_experiment(corrupted_dataset_folder, dataset, java_opts, missingness, ratio, repetition, cwd, hybrid_mode):
     dataset_dir = corrupted_dataset_folder
 
     clean_file = dataset_dir / "clean.csv"
@@ -44,6 +44,9 @@ def run_experiment(corrupted_dataset_folder, dataset, java_opts, missingness, ra
         IMPUTATION_SCRIPT,
         dirty_file,
     ]
+    if hybrid_mode:
+        imputation_cmd.append("--mode")
+        imputation_cmd.append("hybrid")
 
     imputation_returncode, imputation_time, _, _ = run_command(imputation_cmd, cwd=cwd)
 
@@ -156,6 +159,11 @@ def parse_args():
     parser.add_argument("--datasets_folder", required=True)
     parser.add_argument("--results", default="results/results.csv")
     parser.add_argument("--cwd", default=None)
+    parser.add_argument(
+        "--hybrid",
+        action="store_true",
+        help="Enable hybrid mode"
+    )
     parser.add_argument("--java-opts", nargs="*", default=[])
 
     return parser.parse_args()
@@ -165,14 +173,14 @@ def main():
     args = parse_args()
     datasets_folder = Path(args.datasets_folder)
     dataset_files = datasets_folder.rglob("dirty.csv")
-
+    hybrid = args.hybrid
     for dirty_file in dataset_files:
         parts = dirty_file.parts
         dataset_name = parts[-5]
         missingness = parts[-4]
         ratio = float(parts[-3])
         repetition = int(parts[-2])
-        result = run_experiment(dirty_file.parent, dataset_name, args.java_opts, missingness, ratio, repetition, args.cwd)
+        result = run_experiment(dirty_file.parent, dataset_name, args.java_opts, missingness, ratio, repetition, args.cwd, hybrid)
         append_result(args.results, result)
 
 
