@@ -1,20 +1,25 @@
-name: grimp
+name: MISSDC_EXP_GRIMP
 channels:
   - defaults
+  - conda-forge
+  - dglteam
 dependencies:
+  - python==3.10
   - pip
   - scikit-learn
   - scipy
   - setuptools
   - tqdm
-  - numpy
+  - numpy<2
   - pandas
   - gensim
   - seaborn
   - matplotlib
+  - pybind11
+  - toml
+  - pydantic
   - pip:
     - chardet==5.2.0
-    - dgl==1.1.2.post1
-    - fasttext==0.9.2
+    - fasttext-wheel
     - networkx==3.2.1
   - pre-commit

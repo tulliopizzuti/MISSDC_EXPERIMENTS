@@ -72,15 +72,15 @@ def prepare_config_dict(base_config):
 
 def complete_config(config):
     dataset_name = config["ground_truth"]
-    clean_dataset = Path(f"data/clean/{dataset_name}.csv")
+    clean_dataset = Path(f"grimpdata/clean/{dataset_name}.csv")
     config["ground_truth"] = clean_dataset
     error_fraction = config["error_fraction"]
     dirty_dataset = Path(
-        "data/dirty/", f"{dataset_name}_allcolumns_{error_fraction}.csv"
+        "grimpdata/dirty/", f"{dataset_name}_allcolumns_{error_fraction}.csv"
     )
     config["dirty_dataset"] = dirty_dataset
     config["text_embs"] = [
-        f"data/pretrained-emb/{dataset_name}_{error_fraction}_{config['emb']}.emb"
+        f"grimpdata/pretrained-emb/{dataset_name}_{error_fraction}_{config['emb']}.emb"
     ]
     config["imputed_df_tag"] = config["emb"]
 

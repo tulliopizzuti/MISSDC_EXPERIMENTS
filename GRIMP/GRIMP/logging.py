@@ -24,12 +24,12 @@ import pandas as pd
 from abc import abstractmethod, ABC
 
 # Setting the default path for all files. Assumes that the dir tree is already built.
-RESULTS_PATH = osp.realpath("results")
-PLOTS_PATH = osp.realpath("results/plots")
+RESULTS_PATH = osp.realpath("grimpresults")
+PLOTS_PATH = osp.realpath("grimpresults/plots")
 JSON_PATH = osp.join(RESULTS_PATH, "json")
 # The run_id file should contain only a number, which is incremented automatically
 # at the start of each run.
-RUN_ID_PATH = osp.realpath("data/run_id")
+RUN_ID_PATH = osp.realpath("grimpdata/run_id")
 
 
 class Logger(ABC):
@@ -64,8 +64,8 @@ class Logger(ABC):
             self.add_time("logger_creation_time")
 
             # Ensure that the required folders exist
-            os.makedirs("results", exist_ok=True)
-            os.makedirs("results/plots", exist_ok=True)
+            os.makedirs("grimpresults", exist_ok=True)
+            os.makedirs("grimpresults/plots", exist_ok=True)
         else:
             self.obj = pickle.load(open(file_path, "rb"))
             self.run_id = self.obj["run_id"]
@@ -228,14 +228,14 @@ class Logger(ABC):
         """Update the result file with the string produced by pprint. If the file
         does not exist, create it, then update it.
         """
-        if osp.exists(osp.join(self.results_path, "results.csv")):
-            with open(osp.join(self.results_path, "results.csv"), "a") as fp:
+        if osp.exists(osp.join(self.results_path, "grimpresults.csv")):
+            with open(osp.join(self.results_path, "grimpresults.csv"), "a") as fp:
                 fp.write(self.pprint())
         else:
             header = self.get_header()
             df = pd.DataFrame(columns=header)
-            df.to_csv(osp.join(self.results_path, "results.csv"), index=False)
-            with open(osp.join(self.results_path, "results.csv"), "a") as fp:
+            df.to_csv(osp.join(self.results_path, "grimpresults.csv"), index=False)
+            with open(osp.join(self.results_path, "grimpresults.csv"), "a") as fp:
                 fp.write(self.pprint())
 
 
@@ -292,7 +292,7 @@ class GrimpLogger(Logger):
             self.obj["statistics"]["num_distinct_values"],
             self.obj["statistics"]["num_missing_values"],
             self.obj["durations"]["training_duration"],
-            # self.obj["results"]["imp_accuracy"],
+            self.obj["results"]["imp_accuracy"],
             self.obj["results"]["tot_true"],
             self.obj["curves"]["min"],
             self.obj["curves"]["end"],

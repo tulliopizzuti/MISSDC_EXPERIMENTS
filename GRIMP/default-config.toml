@@ -35,7 +35,8 @@ save_model_file_path = false
 save_imputed_df = true
 
 # Training parameters
-epochs = 300
+epochs = 100
+#epochs = 300
 dropout_gnn = 0
 dropout_clf = 0.2
 batchnorm = false
@@ -48,22 +49,12 @@ force_training = false
 
 # Datasets configuration
 ground_truth = [
-    "adultsample10",
-    "australian",
-    "contraceptive",
-    "credit",
-    "flare",
-    "fodorszagats",
-    "imdb",
-    "mammogram",
-    "tax5000trimmed",
-    "thoracic",
-    "tictactoe",
+    "dirty",
 ]
 
 training_subset = "target"
 
-error_fraction  = ["05", "20", "50"]
-emb = ["ft", "embdi_f4"]
+error_fraction  = ["0"]
+emb = ["ft"]
 n_iter=2
 fd_path=false

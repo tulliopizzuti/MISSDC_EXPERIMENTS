@@ -18,8 +18,8 @@ import sys
 
 def prepare_ft_model():
     fname = download_model(lang_id="en", if_exists="ignore")
-    os.makedirs("data/", exist_ok=True)
-    new_fname = osp.join("data", fname)
+    os.makedirs("grimpdata/", exist_ok=True)
+    new_fname = osp.join("grimpdata", fname)
     shutil.move(fname, new_fname)
     return new_fname
 
@@ -93,7 +93,7 @@ def generate(df, model, n_dim=300):
         col_vectors[col] = np.mean(tmp_vec, 0)
 
     print("Writing embeddings on file. ")
-    with open(generated_emb_file, "w", encoding="str") as fp:
+    with open(generated_emb_file, "w") as fp:
         tot_rows = len(row_vectors) + len(col_vectors) + len(vector_dict)
         fp.write(f"{tot_rows} {n_dim}\n")
         for k, vec in tqdm(row_vectors.items(), total=len(row_vectors)):
@@ -118,7 +118,7 @@ def generate(df, model, n_dim=300):
 
 
 if __name__ == "__main__":
-    fname = "data/cc.en.300.bin"
+    fname = "grimpdata/cc.en.300.bin"
 
     # Fetching the model if it is not currently available.
     if not osp.exists(fname):
@@ -139,10 +139,10 @@ if __name__ == "__main__":
     print("Model loaded.")
 
     # I convert all files present in data/to_pretrain
-    for data in os.listdir("data/to_pretrain"):
-        df_path = f"data/to_pretrain/{data}"
+    for data in os.listdir("grimpdata/to_pretrain"):
+        df_path = f"grimpdata/to_pretrain/{data}"
         basename, ext = osp.splitext(data)
-        generated_emb_file = f"data/pretrained-emb/{basename}_ft.emb"
+        generated_emb_file = f"grimpdata/pretrained-emb/{basename}_ft.emb"
         # Read dirty dataset
         df = pd.read_csv(df_path, dtype="str")
 

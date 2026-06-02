@@ -128,7 +128,7 @@ def generate_imputed_dataset_multilabel(graph_dataset, gnn_model, link_predictor
             chosen_value + graph_dataset.num_row_col_nodes
         ]
         df_imputed.loc[imputed_row, imputed_col_value] = imputed_cell_value
-    np.save("results", results)
+    np.save("grimpresults", results)
     return df_imputed
 
 
@@ -215,7 +215,7 @@ def measure_imp_accuracy(graph_dataset, df_imp, logger=None):
             if col in graph_dataset.numerical_columns:
                 true_col = true_col.apply(lambda x: float(x.split("_")[1]))
                 denormalized_column = graph_dataset.denormalize_column(col, test_col)
-                mse = mean_squared_error(true_col, denormalized_column, squared=False)
+                mse = mean_squared_error(true_col, denormalized_column)
                 acc_dict[col] = mse
                 acc_type[col] = "RMSE"
                 true_dict[col] = 0
@@ -253,11 +253,11 @@ def measure_imp_accuracy(graph_dataset, df_imp, logger=None):
 
     print(f"Correct categorical imputations: {tot_true}")
     print(f"Total missing values: {tot_missing}")
-    #print(f"Average imputation accuracy: {tot_true/tot_missing*100:.4f}")
+    print(f"Average imputation accuracy: {tot_true/tot_missing*100:.4f}")
 
     if logger:
         logger.add_value("results", "accuracy_dict", acc_dict)
-        # logger.add_value("results", "imp_accuracy", tot_true / tot_missing)
+        logger.add_value("results", "imp_accuracy", tot_true / tot_missing)
         logger.add_value("results", "tot_true", tot_true)
         logger.add_value("results", "tot_missing", tot_missing)
         for col in target_columns:

@@ -494,17 +494,13 @@ class HeterographDataset(DGLDataset):
         self.df_missing = pd.read_csv(self.missing_value_file_name)
         self.all_columns = list(self.df_missing.columns)
 
-        #Inferring column data type.
+        # Inferring column data type.
         self.numerical_columns = self.df_missing.select_dtypes(
             include="number"
         ).columns.to_list()
         self.categorical_columns = self.df_missing.select_dtypes(
             exclude="number"
         ).columns.to_list()
-
-        # ##Altered
-        # self.numerical_columns = []
-        # self.categorical_columns = self.df_missing.columns.to_list()
 
         # Check if the list self.convert_columns contains something. If it does, all columns in the list will be treated as categorical.
         if self.convert_columns:
@@ -1032,7 +1028,7 @@ class HeterographDataset(DGLDataset):
                             true_value_id = self.val2idx[true_value]
                         except KeyError:
                             self.impossible.append(true_value)
-                            continue ## altered here
+                            # continue
 
                     full_tuple = self.df_missing.loc[row_num].tolist()
                     v = [self.val2idx[_v] for _v in full_tuple]

@@ -48,26 +48,21 @@ def create_graph_dataset(args: argparse.Namespace, logger: GrimpLogger):
 
     random_init = args.random_init
 
+    if args.text_embs:
+        node_mapping, ext_features = read_external_features(
+            missing_value_file_name, args.text_embs, args.max_components
+        )
+    elif args.np_mat:
+        ext_features = read_features_tensor(args.np_mat)
+        node_mapping = None
+    else:
+        ext_features = None
+        node_mapping = None
 
-    # if args.text_embs:
-    #     node_mapping, ext_features = read_external_features(
-    #         missing_value_file_name, args.text_embs, args.max_components
-    #     )
-    # elif args.np_mat:
-    #     ext_features = read_features_tensor(args.np_mat)
-    #     node_mapping = None
-    # else:
-    #     ext_features = None
-    #     node_mapping = None
-
-    # if args.fd_path:
-    #     fds = read_functional_dependencies(args.fd_path, args.dirty_dataset)
-    # else:
-    #     fds = None
-
-    fds = None
-    ext_features = None
-    node_mapping = None
+    if args.fd_path:
+        fds = read_functional_dependencies(args.fd_path, args.dirty_dataset)
+    else:
+        fds = None
 
     architecture = "multitask"
 
@@ -279,12 +274,10 @@ def run_testing(
     if args.save_imputed_df:
         fullname, ext = osp.splitext(args.dirty_dataset)
         basename = osp.basename(fullname)
-        os.makedirs("results/imputed_datasets", exist_ok=True)
-        df_imp_fname = "results/imputed_datasets/" + basename + "_imputed_grimp"
+        os.makedirs("grimpresults/imputed_datasets", exist_ok=True)
+        df_imp_fname = "grimpresults/imputed_datasets/" + basename + "_imputed_grimp"
         if args.imputed_df_tag:
             df_imp_fname += f"_{args.imputed_df_tag}"
         df_imp_fname += ext
         df_imputed.to_csv(df_imp_fname, index=False)
         print(f"Imputed dataset saved in {df_imp_fname}")
-
-    return df_imputed
