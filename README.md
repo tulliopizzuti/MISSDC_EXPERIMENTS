@@ -563,3 +563,14 @@ init_env.bat
 ```
 
 If an environment definition changes, it is recommended to remove the existing Conda environment and recreate it.
+
+
+---
+
+# Parallel Execution
+
+Parallel execution of experiments is not recommended.
+
+Since each approach may generate intermediate artifacts and temporary files inside the dataset and/or approach directory (in addition to the final imputed output), running multiple experiments on the same dataset folder can lead to file overwrites, conflicts, and race conditions.
+
+To ensure correctness and reproducibility, experiments should be executed sequentially or on disjoint copies of the repository.
