@@ -33,6 +33,9 @@ for F in "${FOLDERS[@]}"; do
     conda env create -f "$F/environment.yml" -y
     if [ -f "$F/env_post_setup.sh" ]; then
         bash "$F/env_post_setup.sh"
-    else
+    fi
 done
+
 echo "Done"
+
+
