@@ -1,16 +1,6 @@
 set PIP_TIMEOUT=0
 
-@REM     CORRUPT_DATASETS
-@REM     DATAWIG
-@REM     GRIMP
-@REM     HOLOCLEAN
-@REM     HYPERIMPUTE_GAIN
-@REM     MISSDC
-@REM     MISSFOREST
-@REM     SIMPLEIMPUTER
-@REM     TRIARD
-
-conda env create -f environment.yml -y
+call conda env create -f environment.yml -y
 for %%F in (
     CORRUPT_DATASETS
     DATAWIG

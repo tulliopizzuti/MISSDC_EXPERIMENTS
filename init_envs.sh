@@ -2,16 +2,6 @@
 export PIP_TIMEOUT=0
 
 
-#    "CORRUPT_DATASETS"
-#    "DATAWIG"
-#    "GRIMP"
-#    "HOLOCLEAN"
-#    "HYPERIMPUTE_GAIN"
-#    "MISSDC"
-#    "MISSFOREST"
-#    "SIMPLEIMPUTER"
-#    "TRIARD"
-
 FOLDERS=(
     "CORRUPT_DATASETS"
     "DATAWIG"
