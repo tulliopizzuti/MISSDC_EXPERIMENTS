@@ -1,0 +1,120 @@
+{
+    "common_arguments": {
+      "dataset_null_char": {
+        "type": "str",
+        "default": "",
+        "help":"Character used to represent missing values in the dataset"
+      },
+      "csv_sep": {
+        "type": "str",
+        "default": ",",
+        "help":"CSV separator"
+      }
+    },
+    "approach_configuration": {
+      "DATAWIG":{
+        "approach_folder": "DATAWIG",
+        "imputation_script": "impute.py",
+        "sys_exec": ["conda","run","-n","MISSDC_EXP_DATAWIG","python"]
+      },
+      "GRIMP":{
+        "approach_folder": "GRIMP",
+        "imputation_script": "impute.py",
+        "sys_exec": ["conda","run","-n","MISSDC_EXP_GRIMP","python"]
+      },
+      "HOLOCLEAN": {
+        "approach_folder": "HOLOCLEAN",
+        "imputation_script": "impute.py",
+        "sys_exec": ["conda","run","-n","MISSDC_EXP_HOLOCLEAN","python"],
+        "additional_arguments": {
+          "db_user": {
+            "type": "str",
+            "default": "holocleanuser"
+          },
+          "db_pwd": {
+            "type": "str",
+            "default": "abcd1234"
+          },
+          "db_host": {
+            "type": "str",
+            "default": "localhost"
+          },
+          "db_name": {
+            "type": "str",
+            "default": "holo"
+          }
+        }
+
+
+      },
+      "HYPERIMPUTE": {
+        "approach_folder": "HYPERIMPUTE_GAIN",
+        "imputation_script": "impute.py",
+        "sys_exec": ["conda","run","-n","MISSDC_EXP_HYPERIMPUTE_GAIN","python"],
+        "additional_arguments": {
+          "imputation_method": {
+            "type": "str",
+            "default": "hyperimpute"
+          }
+        }
+      },
+      "GAIN": {
+        "approach_folder": "HYPERIMPUTE_GAIN",
+        "imputation_script": "impute.py",
+        "sys_exec": ["conda","run","-n","MISSDC_EXP_HYPERIMPUTE_GAIN","python"],
+        "additional_arguments": {
+          "imputation_method": {
+            "type": "str",
+            "default": "gain"
+          }
+        }
+      },
+      "MISSDC": {
+        "approach_folder": "MISSDC",
+        "imputation_script": "impute.py",
+        "sys_exec": ["conda","run","-n","MISSDC_EXP_MISSDC","python"],
+        "common_arguments_to_exclude": ["dataset_null_char", "csv_sep", "output_file_path"]
+      },
+      "MISSDCHYBRID": {
+        "approach_folder": "MISSDC",
+        "imputation_script": "impute.py",
+        "sys_exec": ["conda","run","-n","MISSDC_EXP_MISSDC","python"],
+        "common_arguments_to_exclude": ["dataset_null_char", "csv_sep", "output_file_path"],
+        "additional_arguments": {
+          "mode": {
+            "default": "hybrid",
+            "type": "str"
+          }
+        }
+      },
+      "MISSFOREST": {
+        "approach_folder": "MISSFOREST",
+        "imputation_script": "impute.py",
+        "sys_exec": ["conda","run","-n","MISSDC_EXP_MISSFOREST","python"]
+      },
+      "SIMPLEIMPUTER": {
+        "approach_folder": "SIMPLEIMPUTER",
+        "imputation_script": "impute.py",
+        "sys_exec": ["conda","run","-n","MISSDC_EXP_SIMPLEIMPUTER","python"]
+      },
+      "TRIARD": {
+        "approach_folder": "TRIARD",
+        "imputation_script": "impute.py",
+        "sys_exec": ["conda","run","-n","MISSDC_EXP_TRIARD","python"],
+        "additional_arguments": {
+          "dataset_null_char": {
+            "type": "str",
+            "default": "?"
+          },
+          "iterations": {
+            "default": "3",
+            "type": "str"
+          },
+          "min_score_to_reach": {
+            "default": "0.5",
+            "type": "str"
+          }
+        }
+      }
+    }
+}

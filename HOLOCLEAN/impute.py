@@ -63,11 +63,11 @@ if __name__ == "__main__":
                         help='Repaired file path')
     parser.add_argument('--db_user', type=str, default='holocleanuser',
                         help='User for DB used to persist state.')
-    parser.add_argument('--db-pwd', type=str, default='abcd1234',
+    parser.add_argument('--db_pwd', type=str, default='abcd1234',
                         help='Password for DB used to persist state.')
-    parser.add_argument('--db-host', type=str, default='localhost',
+    parser.add_argument('--db_host', type=str, default='localhost',
                         help='Host for DB used to persist state.')
-    parser.add_argument('--db-name', type=str, default='holo',
+    parser.add_argument('--db_name', type=str, default='holo',
                         help='Name of DB used to persist state.') 
 
     args = parser.parse_args()

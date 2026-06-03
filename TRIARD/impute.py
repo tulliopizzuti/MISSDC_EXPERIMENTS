@@ -1,5 +1,6 @@
 import argparse
 import statistics
+from pathlib import Path
 
 import pandas as pd
 from dependencies_util import DependenciesLoader, DependenciesFormatter, Dependencies, AttributeSet, Attribute
@@ -14,6 +15,9 @@ import util
 from datetime import datetime
 import time
 import json
+
+
+TRIARD_DATASET_FOLDER =  "dataset"
 
 def get_new_threshold(operation, current_value, distances):
     if operation=="": return current_value
@@ -59,9 +63,11 @@ if __name__ == "__main__":
     parser.add_argument('dataset_file_path', help="Path to the dataset file (CSV with semicolon separator)")
 
     # Added for experimental session
-    parser.add_argument('--rapaired_file_path', help="Path to the repaired file", default="repaired.csv")
+    parser.add_argument('--output_file_path', help="Path to the repaired file", default="repaired.csv")
     parser.add_argument('--output_file_sep', type=str, default=',',
                         help='CSV separator for the repaired file')
+    parser.add_argument('--csv_sep', type=str, default=',',
+                        help='CSV separator')
     parser.add_argument('--output_file_null_char', type=str, default='',
                         help='Character used to represent missing values in the repaired file')
     #################
@@ -103,7 +109,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     dataset_file_path = args.dataset_file_path
-    rapaired_file_path = args.rapaired_file_path
+    rapaired_file_path = args.output_file_path
     save_log = not args.remove_log
     dataset_has_header = not args.dataset_has_not_header
     dataset_null_char = args.dataset_null_char
@@ -116,15 +122,28 @@ if __name__ == "__main__":
     output_file_null_char=args.output_file_null_char
     increasing_steps = args.increasing_steps
     max_similarity_values = args.max_similarity_values
+    dataset_separator=args.csv_sep
+    df_to_cast = pd.read_csv(dataset_file_path, sep=dataset_separator)
+    dataset = Path(dataset_file_path).stem
+    df_with_semicolon_path = os.path.join(TRIARD_DATASET_FOLDER, f"{dataset}_{str(df_to_cast.isna().sum().sum())}_1.csv")
+    df_to_cast = df_to_cast.fillna("?")
+    if not os.path.exists(TRIARD_DATASET_FOLDER):
+        os.makedirs(TRIARD_DATASET_FOLDER)
+    df_to_cast.to_csv(df_with_semicolon_path, sep=';', index=None)
+    dataset_separator = ";"
+    dataset_file_path=df_with_semicolon_path
+
+
+
+
+
+
     preprocessing_start_time = datetime.now()
-    with open(dataset_file_path) as f:
-        first_line = f.readline()
-        comma_len = len(first_line.split(","))
-        semicolon_len = len(first_line.split(";"))
-        dataset_separator = "," if comma_len > semicolon_len else ";"
-    if dataset_separator!=";":
-        print("The semicolon is required as CSV separator")
-        exit()
+
+
+
+
+
 
 
     dataset_filename = os.path.basename(dataset_file_path)
@@ -400,4 +419,6 @@ if __name__ == "__main__":
     dataset_util.clean()
     imputation.clean()
     util.drop_directory("final_dependencies_set")
+    util.drop_directory("output")
+    util.clean_directory(TRIARD_DATASET_FOLDER)
 

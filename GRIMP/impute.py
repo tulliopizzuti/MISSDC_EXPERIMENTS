@@ -25,6 +25,7 @@ RESULTS_JSON_FOLDER=os.path.join(RESULTS_FOLDER, "json")
 IMPUTED_DATASET_FOLDER=os.path.join(RESULTS_FOLDER, "imputed_datasets")
 IMPUTED_DATASET_FILENAME = "dirty_allcolumns_0_imputed_grimp_ft.csv"
 IMPUTED_DATASET_PATH = os.path.join(IMPUTED_DATASET_FOLDER, IMPUTED_DATASET_FILENAME)
+RUN_ID_FILE = os.path.join("grimpdata", "run_id")
 
 PRETRAIN_SCRIPT="prepare_pretrained_embeddings.py"
 
@@ -43,6 +44,9 @@ def reset_folders():
     reset_dir(RESULTS_FOLDER)
     reset_dir(RESULTS_JSON_FOLDER)
     reset_dir(IMPUTED_DATASET_FOLDER)
+    if os.path.exists(RUN_ID_FILE):
+        os.remove(RUN_ID_FILE)
+
 
 
 def build_string_mapping(df: pd.DataFrame) -> dict:
@@ -120,6 +124,7 @@ def grimp_imputation(
     imputed_df = apply_string_mapping(imputed_df, reverse_string_map)
     imputed_df.columns = incomplete_df.columns
     reset_folders()
+
     return imputed_df
 
 
