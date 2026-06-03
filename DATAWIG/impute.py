@@ -7,7 +7,7 @@ import numpy as np
 from datawig import SimpleImputer, Imputer, CategoricalEncoder, BowEncoder, BowFeaturizer
 from sklearn.preprocessing import OrdinalEncoder
 import datawig
-
+import shutil
 warnings.simplefilter("ignore")
 
 import os
@@ -75,7 +75,8 @@ def datawig_imputation(
             print(e)
             pass
 
-
+    if os.path.exists(model_root):
+        shutil.rmtree(model_root)
     return to_return
 
 if __name__ == "__main__":
