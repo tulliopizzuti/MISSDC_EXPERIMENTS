@@ -186,7 +186,7 @@ def parse_args():
     APPROACHES_CONFIG = CONFIGURATION["approach_configuration"]
     COMMON_ARGUMENTS = CONFIGURATION["common_arguments"]
     parser = argparse.ArgumentParser(conflict_handler="resolve")
-    parser.add_argument("--approach", required=True, choices=APPROACHES_CONFIG.keys())
+    parser.add_argument("approach", choices=APPROACHES_CONFIG.keys())
     parser.add_argument("--datasets_folder", required=True)
     parser.add_argument("--results_folder", default="results")
     add_arguments(parser, COMMON_ARGUMENTS)

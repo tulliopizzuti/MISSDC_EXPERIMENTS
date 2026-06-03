@@ -10,7 +10,7 @@ set PIP_TIMEOUT=0
 @REM     SIMPLEIMPUTER
 @REM     TRIARD
 
-
+conda env create -f environment.yml -y
 for %%F in (
     CORRUPT_DATASETS
     DATAWIG

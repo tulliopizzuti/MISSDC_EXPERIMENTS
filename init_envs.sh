@@ -23,7 +23,7 @@ FOLDERS=(
     "SIMPLEIMPUTER"
     "TRIARD"
 )
-
+conda env create -f environment.yml -y
 for F in "${FOLDERS[@]}"; do
     echo ""
     echo "========================="
