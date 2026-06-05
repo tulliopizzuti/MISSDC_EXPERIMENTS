@@ -4,7 +4,9 @@ export PIP_TIMEOUT=0
 
 FOLDERS=(
     "CORRUPT_DATASETS"
+    "CAFE"
     "DATAWIG"
+    "DIFFPUTER"
     "GRIMP"
     "HOLOCLEAN"
     "HYPERIMPUTE_GAIN"

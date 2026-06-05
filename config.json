@@ -115,6 +115,60 @@
             "type": "str"
           }
         }
+      },
+      "DIFFPUTER": {
+        "approach_folder": "DIFFPUTER",
+        "imputation_script": "impute.py",
+        "sys_exec": ["conda","run","-n","MISSDC_EXP_DIFFPUTER","python"],
+        "additional_arguments": {
+          "gpu": {
+            "type": "int",
+            "default": 0
+          },
+          "max_iter": {
+            "type": "int",
+            "default": 10
+          },
+          "hid_dim": {
+            "type": "int",
+            "default": 1024
+          },
+          "num_trials": {
+            "type": "int",
+            "default": 20
+          },
+          "num_steps": {
+            "type": "int",
+            "default": 50
+          },
+          "num_epochs": {
+            "type": "int",
+            "default": 1000
+          }
+        }
+      },
+      "CAFE": {
+        "approach_folder": "CAFE",
+        "imputation_script": "impute.py",
+        "sys_exec": ["conda","run","-n","MISSDC_EXP_CAFE","python"],
+        "additional_arguments": {
+          "clients": {
+            "type": "int",
+            "default": 5
+          },
+          "rounds": {
+            "type": "int",
+            "default": 20
+          },
+          "seed": {
+            "type": "int",
+            "default": 42
+          },
+          "partition": {
+            "type": "str",
+            "default": "sample-evenly"
+          }
+        }
       }
     }
 }

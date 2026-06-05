@@ -3,7 +3,9 @@ set PIP_TIMEOUT=0
 call conda env create -f environment.yml -y
 for %%F in (
     CORRUPT_DATASETS
+    CAFE
     DATAWIG
+    DIFFPUTER
     GRIMP
     HOLOCLEAN
     HYPERIMPUTE_GAIN

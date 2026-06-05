@@ -1,0 +1,23 @@
+name: MISSDC_EXP_DIFFPUTER
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - xlrd
+  - scipy
+  - pandas
+  - scikit-learn
+  - tqdm
+  - scikit-learn
+  - pyyaml
+  - setuptools
+  - timm
+  - category_encoders==2.5.1.post0
+  - numpy>=1.24,<2.0   # pin sia conda che pip
+  - pot
+  - pip:
+      - "numpy>=1.24,<2.0"
+      - hyperimpute
+      - FrEIA
