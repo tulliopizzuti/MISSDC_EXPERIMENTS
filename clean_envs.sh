@@ -2,6 +2,7 @@
 
 FOLDERS=(
     "CORRUPT_DATASETS"
+    "CAFE"
     "DATAWIG"
     "DIFFPUTER"
     "GRIMP"

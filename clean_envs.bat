@@ -1,6 +1,7 @@
 
 for %%F in (
     CORRUPT_DATASETS
+    CAFE
     DATAWIG
     DIFFPUTER
     GRIMP

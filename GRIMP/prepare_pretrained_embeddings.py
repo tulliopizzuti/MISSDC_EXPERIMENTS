@@ -122,15 +122,8 @@ if __name__ == "__main__":
 
     # Fetching the model if it is not currently available.
     if not osp.exists(fname):
-        print(f"Pre-trained model not found on path {fname}.")
-        reply = input("Do you want to download the model? y/[n] : ")
-        if reply.lower() == "y":
-            fname = prepare_ft_model()
-        elif reply == "" or reply.lower() == "n":
-            print("Quitting.")
-            sys.exit()
-        else:
-            raise ValueError(f"Unrecognized option {reply}.")
+        print(f"Download Pre-trained model.")
+        fname = prepare_ft_model()
 
     # Load fasttext model once for all datasets.
     print("Loading fasttext model...")
