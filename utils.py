@@ -1,3 +1,4 @@
+import shutil
 from pathlib import Path
 
 import pandas as pd
@@ -59,18 +60,19 @@ def normalize_command(cmd):
     cmd = list(map(str, cmd))
 
     if len(cmd) > 0 and cmd[0].lower() == "conda":
-        conda_exe = os.environ.get("CONDA_EXE")
+        conda_exe = shutil.which("conda")
         if conda_exe:
             cmd[0] = conda_exe
 
     return cmd
 
 #TODO timeout as parameter
-def run_command(cmd, cwd=None, timeout=43200):
+def run_command(cmd, cwd=None, timeout=43200, stdout=subprocess.PIPE,  stderr=subprocess.PIPE):
     print("\nRunning:")
-    print(" ".join(str(x) for x in cmd))
     cmd = list(map(lambda x: str(x), cmd))
     cmd = normalize_command(cmd)
+    print(" ".join(str(x) for x in cmd))
+
 
     start = time.time()
     try:
@@ -79,8 +81,8 @@ def run_command(cmd, cwd=None, timeout=43200):
             cwd=cwd,
             text=True,
             shell=False,
-            stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE,
+            stdout=stdout,
+            stderr=stderr,
             timeout=timeout,
         )
 

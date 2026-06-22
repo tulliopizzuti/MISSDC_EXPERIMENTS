@@ -36,7 +36,7 @@ def reset_folders():
     reset_dir(DATASETS_FOLDER)
     reset_dir(CKPT_FOLDER)
 
-def diffputer_imputation(input, device, hid_dim, mask_type, num_trials, num_steps, num_epochs):
+def diffputer_imputation(input, device, hid_dim, mask_type, num_trials, num_steps, orig_num_epochs):
     reset_folders()
     dataname=Path(input).stem
     pretrain_cmd = [sys.executable, PRETRAIN_SCRIPT, "--input", input, "--name", dataname]
@@ -84,7 +84,7 @@ def diffputer_imputation(input, device, hid_dim, mask_type, num_trials, num_step
         train_loader = DataLoader(train_data, batch_size=batch_size,
                                   shuffle=True, num_workers=4)
 
-        num_epochs = num_epochs + 1
+        num_epochs = orig_num_epochs + 1
         denoise_fn = MLPDiffusion(in_dim, hid_dim).to(device)
 
 

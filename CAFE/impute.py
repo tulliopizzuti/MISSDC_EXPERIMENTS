@@ -3,7 +3,7 @@ import sys, os, argparse, warnings
 import numpy as np
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
-
+import time
 warnings.filterwarnings("ignore")
 
 sys.path.insert(0, 'CAFE')
@@ -29,7 +29,7 @@ def preprocess(csv_path: str, target_column: str, normalize: bool = True, datase
     df_orig = df_orig.replace(dataset_null_char, np.nan)
 
     if target_column not in df_orig.columns:
-        raise ValueError(f"Target column '{target_column}' non trovata nel CSV.")
+        raise ValueError(f"Target column '{target_column}' missing.")
 
     df_enc = df_orig.copy()
     scaler = None
@@ -268,13 +268,13 @@ def run_full_imputation(
         csv_sep          :str=","
 ):
     print("\n" + "=" * 65)
-    print("  CAFE — Imputazione completa colonna per colonna")
+    print("  CAFE  ")
     print("=" * 65)
 
     df = pd.read_csv(csv_path, sep=csv_sep)
 
     for target_col in df.columns:
-        print(f"\n[1/3] Caricamento e preprocessing {target_col}...")
+        print(f"\nLoading & preprocessing {target_col}...")
         train_df, test_df, test_idx, target_encoder, scaler = preprocess(
             csv_path, target_col, normalize,dataset_null_char, csv_sep
         )
@@ -314,6 +314,7 @@ if __name__ == "__main__":
     parser.add_argument("--partition", default="sample-evenly")
 
     args = parser.parse_args()
+    print("Start imputation")
     imputed_df = run_full_imputation(
         csv_path=args.dataset_file_path,
         dataset_null_char=args.dataset_null_char,
