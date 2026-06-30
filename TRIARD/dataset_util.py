@@ -189,7 +189,12 @@ def get_dtypes(df):
         if len(df[c].unique()) == 2:
             dtypes[col_iter] = "B"
         elif df[c].dtype == "object":
-            if df[c].str.len().max() == 1:
+            values = df[c].dropna()
+
+            if values.map(lambda x: isinstance(x, bool)).all():
+                df[c] = df[c].astype(str)
+
+            if df[c].astype(str).str.len().max() == 1:
                 dtypes[col_iter] = "C"
         else:
             pass

@@ -75,8 +75,8 @@ def datawig_imputation(
             print(e)
             pass
 
-    if os.path.exists(model_root):
-        shutil.rmtree(model_root)
+    # if os.path.exists(model_root):
+    #     shutil.rmtree(model_root)
     return to_return
 
 if __name__ == "__main__":

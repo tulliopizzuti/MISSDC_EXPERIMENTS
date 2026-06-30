@@ -193,8 +193,9 @@ if __name__ == "__main__":
     ordered_distances={}
     medians=[]
     for k,v in stats_map.items():
-        median=int(statistics.median(v))
-        medians.append(median)
+        if v:
+            median=int(statistics.median(v))
+            medians.append(median)
     for stats_map_i, (stats_map_k, stats_map_v) in enumerate(stats_map.items()):
         increasing_step = increasing_steps[stats_map_i]
         max_similarity = max_similarity_values[stats_map_i]

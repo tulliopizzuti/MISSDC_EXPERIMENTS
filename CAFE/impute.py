@@ -279,16 +279,18 @@ def run_full_imputation(
             csv_path, target_col, normalize,dataset_null_char, csv_sep
         )
         if len(test_idx) <= 0: continue
-        imputed_values = cafe_train_predict(train_df,
-                                            test_df,
-                                            target_col,
-                                            target_encoder,
-                                            scaler,
-                                            num_clients,
-                                            imp_rounds,
-                                            seed,
-                                            partition)
-        df.loc[test_idx, target_col] = imputed_values
+        try:
+            imputed_values = cafe_train_predict(train_df,
+                                                test_df,
+                                                target_col,
+                                                target_encoder,
+                                                scaler,
+                                                num_clients,
+                                                imp_rounds,
+                                                seed,
+                                                partition)
+            df.loc[test_idx, target_col] = imputed_values
+        except: pass
     return df
 
 
