@@ -127,6 +127,16 @@ if __name__ == "__main__":
     dataset = Path(dataset_file_path).stem
     df_with_semicolon_path = os.path.join(TRIARD_DATASET_FOLDER, f"{dataset}_{str(df_to_cast.isna().sum().sum())}_1.csv")
     df_to_cast = df_to_cast.fillna("?")
+
+
+    semicolon_cells = {}
+    for col in df_to_cast.columns:
+        mask = df_to_cast[col].astype(str).str.contains(';', na=False)
+        for idx in df_to_cast.index[mask]:
+            semicolon_cells[(idx, col)] = df_to_cast.at[idx, col]
+
+    df_to_cast = df_to_cast.replace(';', '', regex=True)
+
     if not os.path.exists(TRIARD_DATASET_FOLDER):
         os.makedirs(TRIARD_DATASET_FOLDER)
     df_to_cast.to_csv(df_with_semicolon_path, sep=';', index=None)
@@ -373,6 +383,19 @@ if __name__ == "__main__":
         rapaired_file=rapaired_file.astype(object)
         for i, row in imputation_result_df.iterrows():
             rapaired_file.loc[row["row"], row["column"]]=row["imputed"] if row["imputed"]!=dataset_null_char else output_file_null_char
+
+        rapaired_file = df.copy()
+        rapaired_file = rapaired_file.astype(object)
+        for i, row in imputation_result_df.iterrows():
+            rapaired_file.loc[row["row"], row["column"]] = row["imputed"] if row[
+                                                                                 "imputed"] != dataset_null_char else output_file_null_char
+
+        # Ripristina i valori originali contenenti ';'
+        for (idx, col), original_value in semicolon_cells.items():
+            if idx in rapaired_file.index and col in rapaired_file.columns:
+                rapaired_file.loc[idx, col] = original_value
+
+        rapaired_file.to_csv(rapaired_file_path, sep=output_file_sep, index=False)
 
 
         rapaired_file.to_csv(rapaired_file_path, sep=output_file_sep,
