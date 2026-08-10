@@ -1,0 +1,899 @@
+Country str,CustomerName str,DeliveryYear int,Engine str,ModelSeries str,OrderMonth str,OrderYear str,Region str,DeliveryTotal int,OrderTotal int
+USA,Southern Airways - USA (Inacti,,PW,,May,,,d.a,d.a
+,Ryanair,,CF,hdh-iaa,Jan,,Europe,,c.a
+Netherlands,,bjid.a,,heh-daa,Jan,bjic.a,Europe,b.a,b.a
+,Oak Hill,caba.a,GE,hhhF,Apr,,North America,,c.a
+Russian Federation,Volga-Dnepr UK Ltd,,GE,,Nov,,,d.a,d.a
+,,bjhi.a,PW,hch,Jan,bjhi.a,South America,,
+Indonesia,,,PW,DC-j,Feb,,,d.a,d.a
+China,China Xinjiang Airlines,caac.a,RR,,Mar,caaa.a,East Asia,b.a,b.a
+,ATA Airlines Inc.,caaa.a,RR,hfh-caa,Jan,,North America,,c.a
+,AOM French Airlines,bjjg.a,,MD-ia,Jun,,Europe,,c.a
+,Air Europe,bjij.a,,hfh-caa,Apr,,Europe,,c.a
+Turkey,Pegasus Airlines,caah.a,CF,hdh-iaa,Feb,caag.a,Europe,b.a,b.a
+Netherlands,ITOCHU AirLease B.V.,bjjd.a,,hdh-daa,Jul,bjjb.a,Europe,b.a,
+Venezuela,Aeropostal,bjih.a,,,May,bjig.a,South America,b.a,b.a
+USA,,bjhi.a,PW,hah/hca,Jan,bjhd.a,North America,b.a,
+,,bjic.a,,hdh-caa,Jan,bjia.a,Europe,,
+Turkey,Turkish Air Force Peace Eagle,caaf.a,CF,hdh-haaW,Aug,caad.a,Europe,b.a,b.a
+Germany,Aero Lloyd,bjih.a,,MD-ia,Aug,bjig.a,Europe,b.a,b.a
+,Malev Hungarian Airlines Ltd.,bjjd.a,,hgh-caaER,Feb,bjjb.a,Europe,,c.a
+Cameroon,,bjhc.a,PW,,May,bjhc.a,,b.a,b.a
+USA,Jackson Square Aviation,cacb.a,CF,hdh MAX,Feb,cacb.a,,e.a,
+Ireland,DAE e Ireland Limited,caca.a,GE,hhhF,Dec,cabi.a,,b.a,b.a
+Switzerland,Swissair,bjgi.a,PW,DC-j,Jan,bjgg.a,,f.a,f.a
+Turkey,Onur Air,bjjh.a,,,Oct,bjjf.a,,f.a,f.a
+Nigeria,Arik Air,caaj.a,CF,,Sep,caah.a,,b.a,b.a
+USA,,,,DC-j,Jan,,,e.a,e.a
+Germany,Deucalion Capital VII Limited,,GE,hhhF,Dec,,,e.a,e.a
+,Jade Cargo International,,GE,heh-eaaERF,Aug,,East Asia,,c.a
+USA,CIT Aerospace LLC,caag.a,CF,hdh-iaa,Jan,caad.a,,b.a,a.a
+Germany,Lufthansa Cargo,bjji.a,GE,MD-bb,Feb,bjjh.a,,f.a,f.a
+Tanzania United Republic of,Tanzania,cabj.a,RR,,May,cabi.a,,b.a,b.a
+China,Air China,bjji.a,PW,heh-eaaM,Jan,bjjh.a,,b.a,b.a
+State of Libya,,bjhf.a,PW,hch,Apr,bjhe.a,,d.a,
+,VivaAerobus,bjjc.a,,,Sep,bjij.a,Central America and Mexico,,
+USA,World Airways Inc.,bjgf.a,PW,hah/hca,Jan,bjgf.a,,b.a,b.a
+,Azerbaijan Airlines,,GE,hih-i,Feb,,Central Asia,,c.a
+China,,bjif.a,,,May,bjif.a,,b.a,b.a
+,CATIC,bjjc.a,,,Mar,,East Asia,,c.a
+Germany,dba,bjji.a,,,Mar,bjjh.a,,b.a,
+,Mitsui & Co.,bjja.a,,MD-bb,Dec,,East Asia,,c.a
+USA,Air Lease Corporation,cabh.a,RR,hih-j,Jan,cabg.a,,b.a,b.a
+United Arab Emirates,Emirates,,GE,hhh-daaER,Apr,,,d.a,d.a
+China,China Cargo,caag.a,GE,heh-eaaERF,Jul,caaf.a,,b.a,b.a
+,,bjhf.a,PW,hdh-caa,Jan,bjhf.a,Southeast Asia,,
+China,,bjif.a,,hdh-daa,Jan,bjif.a,,b.a,
+,CDB Aviation,cabg.a,CF,,Mar,cabe.a,,g.a,g.a
+USA,Altavair LLC,,GE,,Jun,,,d.a,d.a
+,Comair Limited,cabf.a,CF,,Jun,,Africa,,c.a
+,Japan Transocean Air,cabg.a,CF,,May,,East Asia,,c.a
+Saudi Arabia,Mid East Jet,bjjh.a,,hfh-caa,Jan,bjjh.a,,b.a,b.a
+Malta,,bjid.a,,,Mar,bjic.a,,d.a,
+Brazil,,bjhd.a,PW,,Mar,bjhd.a,,d.a,
+,USAF PAR Program,cabh.a,GE,heh-i,Aug,,North America,,c.a
+,,bjia.a,,DC-j,Jan,bjhj.a,,g.a,g.a
+Brazil,GOL Linhas Aereas,caaj.a,CF,hdh-iaa,Feb,caag.a,,b.a,b.a
+,Azerbaijan Airlines,cabc.a,GE,hgh-daaF,Jun,,Central Asia,,c.a
+,Goiania,cabc.a,CF,hdh-iaa,Jul,,Europe,,c.a
+Spain,,bjhc.a,PW,hch,Jan,bjhc.a,,d.a,
+,Scoot PTE LTD,cabf.a,RR,,Oct,caag.a,,g.a,g.a
+,SilkAir,cabf.a,CF,,Nov,cabc.a,,g.a,g.a
+,Thomas Cook Airlines,caab.a,RR,,May,,Europe,,c.a
+USA,Capitol Air,bjgj.a,PW,DC-i,Feb,bjgh.a,,b.a,b.a
+,LTU,bjih.a,,hfh-caa,Jan,,Europe,,c.a
+Netherlands,Air France-KLM Group,cabg.a,GE,hih-j,Dec,cabb.a,,b.a,b.a
+South Korea,Jeju Air,,CF,hdh-iaa,Dec,,,d.a,d.a
+,,bjhg.a,PW,hch,Jan,bjhe.a,,i.a,
+,Icelandair,caag.a,CF,hdh-iaa,Jan,caaf.a,,j.a,j.a
+Algeria,,bjhe.a,PW,hdh-caa,Jan,bjhe.a,Africa,b.a,
+United Arab Emirates,,bjic.a,,hch,Jul,bjic.a,Middle East,b.a,
+Ireland,GPA Group,,,hdh-eaa,Jan,bjii.a,,e.a,e.a
+,,bjic.a,,hdh-caa,Dec,bjic.a,North America,,
+,Alitalia,,PW,DC-i,Jan,,Europe,,c.a
+,,bjha.a,PW,hch,Jan,bjgj.a,North America,,
+Switzerland,,bjhj.a,PW,,,bjhi.a,Europe,b.a,
+,Novair International Airways,,,hdh-eaa,Apr,,Europe,,c.a
+USA,US Airways Inc.,bjje.a,,,,bjjd.a,North America,b.a,b.a
+South Korea,Government of Korea,cacc.a,CF,,,caca.a,East Asia,b.a,b.a
+Japan,BDS Japan International Tanker,cacb.a,PW,,,cabi.a,East Asia,b.a,b.a
+,Air Austral,,RR,hih-i,Feb,,Africa,,c.a
+Saudi Arabia,Mid East Jet,bjjg.a,,,,bjjg.a,Middle East,b.a,b.a
+Brazil,Varig Airlines,bjgd.a,RR,,,bjgd.a,South America,b.a,b.a
+USA,Trans Carib Air,bjge.a,PW,,,bjge.a,North America,b.a,b.a
+Morocco,,bjha.a,PW,,,bjgj.a,Africa,b.a,
+,United Airlines,bjgh.a,PW,hch,Jan,bjgg.a,,j.a,
+Algeria,Tassili Airlines,,CF,,Oct,caaj.a,,e.a,e.a
+Netherlands,Martinair Cargo,bjij.a,,,Mar,bjii.a,,b.a,b.a
+,CSA,,CF,hdh-eaa,Jan,,Europe,,c.a
+,Fiji Airways,cabi.a,CF,,Mar,cabh.a,Oceania,,
+Slovakia (Slovak Republic),SkyEurope,caai.a,CF,hdh-haa,Jun,caag.a,,b.a,b.a
+China,Donghai Airlines,,CF,hdh-iaa,Dec,,,d.a,d.a
+USA,ATA Airlines Inc.,caab.a,CF,hdh-iaa,Jun,caaa.a,,f.a,f.a
+Taiwan,Air Asia Company,bjgg.a,PW,hch,Jan,bjgg.a,,b.a,
+United Arab Emirates,,,GE,DC-ba,Jan,,,e.a,e.a
+Switzerland,,bjib.a,,,,bjhj.a,Europe,b.a,
+,Hughes Airwest Inc.,,PW,DC-j,Feb,,North America,,c.a
+USA,,bjic.a,,,,bjic.a,North America,b.a,b.a
+Bermuda,AOF Leasing,bjjb.a,,,,bjii.a,Caribbean,b.a,
+Peru,FUERZA AEREA DEL PERU,bjjf.a,,,,bjjf.a,South America,b.a,b.a
+,China Xinjiang Airlines,,RR,,Mar,,East Asia,,c.a
+Egypt,,,,hgh-caaER,Jan,,,d.a,d.a
+Angola,TAAG Angola Airlines,cabe.a,GE,,,cabc.a,Africa,b.a,b.a
+USA,,bjib.a,,,,bjia.a,North America,b.a,
+Brunei Darussalam,Royal Brunei Airlines,bjjg.a,,,,bjjg.a,Southeast Asia,b.a,b.a
+,Jetstar - Duplicated (See JSA),caaa.a,RR,hbh-caa,Dec,caaa.a,Oceania,,
+,SAS Norway,,CF,hdh-haa,Feb,,Europe,,c.a
+Italy,Air Trading jc,,,MD-ia,Jun,,,d.a,d.a
+Venezuela,VIASA,bjgi.a,PW,,,bjgh.a,South America,b.a,b.a
+United Arab Emirates,Etihad Airways,,GE,hhh-daaER,Feb,,,d.a,d.a
+Belgium,DHL International,,GE,hgh-daaF,Feb,,,d.a,d.a
+,,,,MD-ia,Jan,,East Asia,,c.a
+Canada,,bjgj.a,PW,,,bjgj.a,North America,b.a,b.a
+United Arab Emirates,Dubai Aerospace Enterprise,cacc.a,CF,hdh MAX,Apr,cacb.a,,f.a,
+Slovenia,Adria Airways d.d.,bjgj.a,PW,,,bjgj.a,Europe,b.a,b.a
+,Shandong Airlines,,CF,hdh-iaa,Jan,,East Asia,,c.a
+India,Air India,bjgb.a,RR,,,bjga.a,South Asia,b.a,b.a
+,Novus Aviation Capital,,GE,,Nov,,Middle East,,c.a
+,,,,MD-ia,Aug,,North America,,c.a
+Kenya,Kenya Airways,bjji.a,CF,,,bjjh.a,Africa,b.a,
+Italy,Italian Air Force Tanker,caaf.a,GE,,,caac.a,Europe,b.a,b.a
+Indonesia,,,PW,DC-j,Jan,,,d.a,d.a
+USA,Bonanza Airlines,bjgf.a,PW,,,bjgd.a,North America,b.a,b.a
+,,bjhi.a,PW,,Mar,bjhi.a,North America,,
+,Sh Group,,CF,,Nov,,Europe,,c.a
+Canada,Nordair,bjgj.a,PW,,,bjgh.a,North America,b.a,
+Brazil,LATAM Airlines Brasil,,GE,hhh-daaER,Aug,,,e.a,e.a
+Mozambique,,bjhb.a,PW,,,bjhb.a,Africa,b.a,
+,Government of Japan,,,heh-eaa,Dec,,East Asia,,c.a
+Mauritania,Mauritania Airlines,cabg.a,CF,,,cabg.a,Africa,b.a,b.a
+,,,GE,DC-ba,Jan,,Europe,,c.a
+United Arab Emirates,Novus Aviation Capital,cacb.a,GE,,,cabi.a,Middle East,b.a,b.a
+Canada,Canadian Airlines,,,hgh-daaER,Apr,,,e.a,e.a
+Canada,Air Canada,,,heh-eaaM,Jan,,,d.a,d.a
+Philippines,Philippine Airlines,bjjg.a,,,,bjjg.a,Southeast Asia,b.a,b.a
+Belgium,Sobelair,bjjc.a,,,,bjii.a,Europe,b.a,b.a
+,Etihad Airways,,GE,,Mar,,Middle East,,c.a
+USA,,bjgj.a,PW,,,bjgh.a,North America,b.a,b.a
+Panama,Copa Airlines,,CF,hdh-haa,Jan,,,e.a,e.a
+USA,America West Airlines,bjii.a,,hdh-daa,Jan,bjig.a,,f.a,
+Belgium,City Bird,bjji.a,PW,,,bjji.a,Europe,b.a,b.a
+USA,AirTran Airways (Merged with S,caah.a,CF,,,caag.a,North America,b.a,b.a
+Chile,Chilean Air Force Mission,bjjh.a,,,,bjjg.a,South America,b.a,b.a
+Nigeria,Arik Air,caba.a,CF,,,caah.a,Africa,b.a,b.a
+Sweden,Linjeflyg,bjja.a,,,,bjii.a,Europe,b.a,b.a
+USA,,bjhj.a,,,,bjhj.a,North America,b.a,
+Romania,,bjhe.a,PW,,,bjhd.a,Europe,b.a,b.a
+,,bjhe.a,PW,DC-j,Jan,bjhd.a,,i.a,i.a
+,,,,MD-ia,Jan,,North America,,c.a
+Kenya,Kenya Airways,caac.a,CF,,,caaa.a,Africa,b.a,b.a
+,Nok Air,,CF,,May,,Southeast Asia,,c.a
+USA,,bjib.a,,,,bjia.a,North America,b.a,b.a
+,Lufthansa,,PW,hah/hca,Jan,,Europe,,c.a
+,Paramount Airways - (Inactive),,,MD-ia,Dec,,Europe,,c.a
+Nigeria,,bjhh.a,GE,,,bjhh.a,Africa,b.a,b.a
+Bermuda,Novel Leasing,bjjh.a,,,,bjjh.a,Caribbean,b.a,
+USA,,bjia.a,,,,bjia.a,North America,b.a,
+Portugal,,bjib.a,,,,bjib.a,Europe,b.a,
+USA,Korean Air Force Peace Eye,caaj.a,CF,,,caag.a,North America,b.a,b.a
+USA,UPS,bjjf.a,,hgh-daaF,Jan,bjjd.a,,f.a,f.a
+Azerbaijan,Silk Way Airlines,cabf.a,GE,,,cabf.a,Central Asia,b.a,b.a
+,Gulf Air,,RR,hih-j,Jan,,Middle East,,c.a
+,Vietnam Airlines,,PW,hhh-caaER,Jan,,Southeast Asia,,c.a
+Canada,CP Air,bjgi.a,PW,hdh-caa,Feb,bjgh.a,,f.a,
+Chile,,bjia.a,,,,bjia.a,South America,b.a,
+USA,M&T Aviation USA Inc,,CF,hdh-haa,Dec,,,d.a,d.a
+China,Hebei Airlines Company LTD,cabf.a,CF,,,cabd.a,East Asia,b.a,b.a
+USA,GATX Jet Partners Ltd.,,CF,,May,,,e.a,e.a
+Germany,,bjig.a,,,,bjig.a,Europe,b.a,b.a
+,Polaris Aircraft Leasing,,,,May,,North America,,c.a
+,Vistara,,GE,,Oct,,South Asia,,c.a
+Philippines,Philippine Airlines,bjgi.a,PW,,,bjgg.a,Southeast Asia,b.a,b.a
+,flydubai,caaj.a,CF,hdh-iaa,Jul,caai.a,,g.a,g.a
+Jamaica,,bjhe.a,PW,,,bjhd.a,Caribbean,b.a,b.a
+,Atlantis Aviation Corporation,,GE,,Sep,,East Asia,,c.a
+,Northwest-Merged w Delta,,PW,hfh-caa,Jan,,North America,,c.a
+China,Cathay Pacific Airways,bjja.a,,,,bjja.a,East Asia,b.a,b.a
+,Oak Hill,,GE,hhhF,Apr,,North America,,c.a
+Slovenia,,bjha.a,PW,,,bjgj.a,Europe,b.a,b.a
+,MG Aviation Limited,,RR,hih-j,Jul,,Middle East,,c.a
+,U-Land Airlines,,,,Sep,,Europe,,c.a
+,Scandinavian Airlines,bjgi.a,PW,DC-j,Jan,bjgg.a,,ba.a,ba.a
+,Aviation Capital Group,,CF,hdh-iaa,Jan,,North America,,c.a
+Nepal,Nepal Airlines Corporation,bjih.a,,,,bjig.a,South Asia,b.a,b.a
+Ireland,DAE Aerospace Enterprise,bjjg.a,,,,bjjg.a,Europe,b.a,
+,,bjib.a,,hdh-caa,Jan,bjib.a,North America,,
+,,,PW,hah/hca,Jan,,Europe,,c.a
+,,bjhf.a,PW,,May,bjhe.a,,g.a,
+,,,PW,DC-j,Apr,,Africa,,c.a
+USA,,bjhd.a,PW,,,bjhd.a,North America,b.a,
+,BDS USAF Tanker Program,cabi.a,PW,hgh-cC,Jan,cabh.a,,h.a,h.a
+Gabon,,bjhi.a,PW,,,bjhh.a,Africa,b.a,
+China,Hainan Airlines Holding,caaj.a,CF,,,caag.a,East Asia,b.a,b.a
+China,Air China Cargo,cabd.a,GE,,,cabd.a,East Asia,b.a,b.a
+USA,Delta Air Lines,bjgg.a,PW,,,bjgf.a,North America,b.a,b.a
+,Air Europa,,CF,hdh-iaa,Feb,,Europe,,c.a
+Saudi Arabia,,bjid.a,,,,bjid.a,Middle East,b.a,
+Zimbabwe,Air Zimbabwe,bjja.a,,,,bjij.a,Africa,b.a,b.a
+,,,,MD-ia,Jan,,North America,,c.a
+,M&T Aviation USA Inc,,CF,hdh-haa,Dec,,North America,,d.a
+,,,,hgh-caa,Jul,,South America,,d.a
+,,bjhb.a,PW,heh-baa,Jan,bjgj.a,,g.a,g.a
+Equatorial Guinea,Ceiba Intercontinental,cabb.a,GE,,,caaj.a,Africa,b.a,b.a
+Portugal,,bjha.a,PW,,,bjgj.a,Europe,b.a,b.a
+,TAROM Romanian Air Transport,,CF,,Jun,,Europe,,c.a
+Australia,Jetstar - Duplicated (See JSA),caab.a,RR,,,caab.a,Oceania,b.a,
+El Salvador,,bjig.a,,,,bjig.a,Central America and Mexico,b.a,b.a
+,GB Airways,bjji.a,CF,,Mar,bjjh.a,Europe,,
+,Saudi Arabian Airlines,,PW,DC-j,Feb,,Middle East,,d.a
+Russian Federation,Sberbank Leasing,,CF,hdh-iaa,Feb,,,e.a,e.a
+,,,,heh-caa,Jan,,Oceania,,c.a
+Belgium,City Bird,bjji.a,GE,,,bjjh.a,Europe,b.a,b.a
+Czech Republic,Smartwings a.s.,cabi.a,CF,,,cabd.a,Europe,b.a,
+,China Southern Airlines,,PW,heh-eaaF,Feb,,East Asia,,c.a
+Japan,Air Nippon,bjjj.a,CF,,,bjjj.a,East Asia,b.a,b.a
+USA,,bjhf.a,PW,,,bjhe.a,North America,b.a,
+Dominican Republic,,bjhf.a,PW,,,bjhf.a,Caribbean,b.a,
+Switzerland,Flightlease,,PW,hgh-daaER,Dec,,,e.a,e.a
+Germany,Lufthansa,bjgi.a,PW,,,bjgi.a,Europe,b.a,
+USA,Miami Air,caag.a,CF,,,caae.a,North America,b.a,b.a
+China,Ruili Airlines,cabe.a,CF,,,cabd.a,East Asia,b.a,b.a
+,Avia Capital Leasing,,CF,,Oct,,Europe,,d.a
+,Nok Air,,CF,,May,,Southeast Asia,,d.a
+,United States Navy,,CF,hdh-iaaA,Jan,,North America,,c.a
+Belgium,,bjhj.a,,,,bjhj.a,Europe,b.a,
+Belgium,Air Belgium,bjjb.a,,,,bjii.a,Europe,b.a,b.a
+,GATX Financial Corporation,bjgj.a,PW,hch,Apr,bjgj.a,North America,,
+,Atlas Air Inc.,,GE,heh-eaaF,Feb,,North America,,c.a
+Australia,BDS Australia P-i,cabi.a,CF,,,cabg.a,Oceania,b.a,b.a
+,,,PW,DC-j,Jan,,Caribbean,,c.a
+,Bank of Communications Leasing,,GE,hih-j,Apr,,East Asia,,c.a
+,,bjie.a,,,Oct,bjid.a,Middle East,,
+Canada,,,PW,hah/hca,Feb,,,e.a,e.a
+Turkey,SunExpress Airlines,,CF,hdh-iaa,Feb,cabe.a,,f.a,f.a
+,Reno Air,,,MD-ja,Jan,,North America,,c.a
+,,bjhb.a,PW,hch,Jun,bjha.a,South America,,
+,Southern Airways - USA (Inacti,,PW,DC-j,Jun,,North America,,d.a
+Colombia,Avianca,bjgh.a,PW,,,bjgg.a,South America,b.a,
+,,bjhf.a,PW,hdh-caa,Dec,bjhe.a,Africa,,
+USA,,bjhe.a,PW,,,bjhd.a,North America,b.a,b.a
+,West Coast Airlines - UK (Inac,,PW,DC-j,Feb,,Europe,,d.a
+Israel,,bjhb.a,PW,,,bjgi.a,Middle East,b.a,b.a
+,Nippon Cargo Airlines,,GE,heh-eaaF,Jan,,East Asia,,c.a
+,Cyprus Turkish Airlines (KTHY),,,MD-ja,Jun,,Europe,,c.a
+Netherlands,,bjhd.a,GE,,,bjhc.a,Europe,b.a,b.a
+,Avianca,bjgh.a,PW,hch,Jan,bjgh.a,South America,,
+France,Euralair,bjjb.a,,,,bjih.a,Europe,b.a,b.a
+Yemen,,bjhj.a,PW,hch,,bjhj.a,Middle East,b.a,
+Japan,Nippon Cargo Airlines,caag.a,GE,heh-eaaF,,caae.a,East Asia,b.a,b.a
+USA,Trans Carib Air,bjgi.a,GE,DC-i,,bjgg.a,North America,b.a,b.a
+,,,GE,DC-ba,Feb,,North America,,c.a
+,Oman Air (SAOC),cacc.a,CF,,Mar,cacb.a,Middle East,,
+Angola,SonAir,caah.a,CF,hdh-haa,,caaf.a,Africa,b.a,b.a
+Cyprus,Skyways Leasing,cabh.a,CF,hdh-iaa,,caah.a,Europe,b.a,b.a
+Tanzania United Republic of,,bjhj.a,PW,hdh-caa,,bjhi.a,Africa,b.a,
+Jordan,,bjia.a,,hch,,bjia.a,Middle East,b.a,
+United Arab Emirates,Presidential Flight,bjjj.a,GE,heh-eaa,,bjjj.a,Middle East,b.a,b.a
+,Air China Southwest Branch,bjje.a,,hdh-daa,Apr,bjjd.a,East Asia,,
+,Linjeflyg,,,hdh-faa,Aug,,Europe,,c.a
+USA,Boeing Capital Corporation,cabj.a,GE,hhhF,,cabi.a,North America,b.a,b.a
+United Kingdom,easyJet,,CF,,Mar,,,e.a,e.a
+Australia,Australian Wedgetail,caad.a,CF,hdh-haaW,,caab.a,Oceania,b.a,b.a
+Morocco,,bjic.a,,hah/hca,,bjic.a,Africa,b.a,b.a
+United Kingdom,TUI Travel PLC,,,hfh-caa,Jan,,,e.a,e.a
+,Trans-Australia Airlines,bjge.a,PW,hch,Feb,bjgd.a,Oceania,,
+Reunion,Air Austral,cabb.a,GE,hhh-caaLR,,caba.a,Africa,b.a,b.a
+USA,,bjhd.a,PW,DC-j,,bjhd.a,North America,b.a,b.a
+USA,Starflite Corporation,bjjj.a,RR,hfh-caa,,bjjj.a,North America,b.a,b.a
+,Executive Jet Aviation,,PW,,Nov,,North America,,c.a
+,Sky Airlines,,CF,,May,,Europe,,c.a
+Saudi Arabia,Dream Aviation Ltd.,bjjj.a,GE,hhh-caaER,,bjji.a,Middle East,b.a,b.a
+USA,Boeing Capital Corporation,cabj.a,GE,hhhF,,cabi.a,North America,b.a,b.a
+Brazil,,bjhe.a,GE,DC-ba,,bjhe.a,South America,b.a,b.a
+,Lauda Air,,CF,hdh-haa,Jan,,Europe,,c.a
+Cameroon,,bjif.a,,hdh-caa,,bjif.a,Africa,b.a,
+USA,Panagra Cargo,bjgg.a,PW,DC-i,,bjgf.a,North America,b.a,b.a
+Serbia,AVIOGENEX,bjih.a,,hdh-caa,,bjig.a,Europe,b.a,
+Indonesia,Lion Air,,CF,hdh-jaaER,Feb,,,e.a,e.a
+Serbia,,bjhe.a,PW,hch,,bjhe.a,Europe,b.a,
+,BLF Ltd.,,CF,,Mar,,Europe,,c.a
+USA,DHL,,GE,hhhF,Jun,cabi.a,,e.a,e.a
+Italy,Italian Air Force Tanker,caad.a,GE,hgh-caaER,,caac.a,Europe,b.a,b.a
+Madagascar,,bjhc.a,PW,hdh-caa,,bjhc.a,Africa,b.a,
+United Kingdom,,bjib.a,,hdh-caa,,bjib.a,Europe,b.a,
+South Korea,Asiana Airlines,caba.a,PW,hhh-caaER,,caai.a,East Asia,b.a,b.a
+,Ceiba Intercontinental,,CF,hdh-iaa,Aug,,Africa,,d.a
+Turkey,Turkish Air Force Peace Eagle,caae.a,CF,hdh-haaW,,caad.a,Europe,b.a,b.a
+,easyJet,caad.a,CF,,Mar,caaa.a,,h.a,h.a
+Denmark,Maersk Air,bjij.a,,hdh-daa,,bjij.a,Europe,b.a,
+China,China Xinhua Airlines,bjjd.a,,hdh-daa,,bjjc.a,East Asia,b.a,
+,Australian Airlines Limited,,,,Mar,,Oceania,,c.a
+USA,,bjib.a,,MD-ia,,bjia.a,North America,b.a,b.a
+Thailand,Thai Airways International,bjjf.a,,heh-eaa,,bjjc.a,Southeast Asia,b.a,b.a
+,Timaero Ireland Limited,cabi.a,CF,hdh MAX,Jan,cabe.a,Europe,,
+Russian Federation,UTair Aviation,cabd.a,CF,hdh-iaa,,cabb.a,Europe,b.a,b.a
+China,Donghai Airlines,,CF,hdh-iaa,Dec,cabd.a,,e.a,e.a
+,AirBridgeCargo Airlines,,GE,,Mar,,Europe,,c.a
+Bahamas,,bjib.a,,hdh-caa,,bjia.a,Caribbean,b.a,
+United Kingdom,MyTravel Airways,bjjh.a,,hfh-caa,,bjjg.a,Europe,b.a,b.a
+USA,Panagra Cargo,,PW,,Oct,,,d.a,d.a
+,Smartwings a.s.,,CF,,Sep,,Europe,,c.a
+,UPS,bjjg.a,,hgh-daaF,Jan,bjjd.a,,ba.a,ba.a
+USA,,bjhf.a,PW,hah/hca,,bjhf.a,North America,b.a,b.a
+,Lion Air,cabe.a,CF,hdh-iaa,Feb,caai.a,Southeast Asia,bg.a,bg.a
+,GPA Group,,,hdh-faa,Jan,,Europe,,c.a
+Niger,,bjhi.a,PW,hdh-caa,,bjhh.a,Africa,b.a,
+,,bjha.a,PW,,Nov,bjgi.a,North America,,
+USA,ATAircraft One,,PW,DC-j,Jan,,,d.a,d.a
+Yemen,,bjhg.a,PW,hdh-caa,,bjhg.a,Middle East,b.a,
+China,China Northern Airlines,,,MD-ja,Dec,,,d.a,d.a
+,BOC Aviation Limited,,CF,hdh-iaa,Feb,,Southeast Asia,,c.a
+Taiwan,UNI Airways,,RR,,Oct,bjji.a,,e.a,e.a
+China,Okay Airways Company Limited,cabh.a,CF,hdh-iaa,,cabe.a,East Asia,b.a,b.a
+USA,Atlas Air Inc.,bjji.a,GE,,Jun,bjjh.a,,f.a,f.a
+,MCAP Japanab Limited,,CF,,Jun,,East Asia,,c.a
+,NAS Aviation Services LLC,bjjg.a,,hdh-eaa,Jan,bjjg.a,North America,,
+Czech Republic,CSA,bjjc.a,,,Mar,bjjc.a,,f.a,f.a
+Turkmenistan,Turkmenhowayollary Agency,caba.a,GE,hhh-caaLR,,caai.a,Central Asia,b.a,b.a
+India,Air India,bjgi.a,PW,hah/hca,,bjgh.a,South Asia,b.a,b.a
+,TWA,bjgg.a,PW,hah/hca,Jan,bjgf.a,,bc.a,bc.a
+USA,Saturn Airways,bjgi.a,GE,DC-i,,bjgg.a,North America,b.a,b.a
+China,Air China Southwest Branch,bjjd.a,,hdh-daa,,bjjb.a,East Asia,b.a,
+,Air-Lib,,,MD-ia,Jun,,Europe,,c.a
+,Jetc.com Ltd,cabh.a,CF,,Sep,cabf.a,,be.a,be.a
+USA,Wien Air Alaska,bjgj.a,PW,hdh-caa,,bjgi.a,North America,b.a,
+Netherlands,Air France-KLM Group,cabg.a,GE,hhh-daaER,,cabe.a,Europe,b.a,b.a
+,Transavia Airlines,bjij.a,,,Mar,bjii.a,Europe,,
+,,,,heh-baa,Jan,,Oceania,,c.a
+United Kingdom,,bjic.a,,hdh-caa,,bjib.a,Europe,b.a,
+Kazakhstan,Air Astana,cabe.a,PW,hgh-daaER,,cabc.a,Central Asia,b.a,b.a
+,SilkAir,cabe.a,CF,,Nov,cabc.a,,i.a,i.a
+USA,DHL Aviation Americas,cacc.a,GE,hhhF,,caca.a,North America,b.a,b.a
+,Somon Air,cabb.a,CF,hdh-jaaER,Feb,,Central Asia,,c.a
+,Virgin Australia Airlines,caaf.a,CF,hdh-iaa,Jan,,Oceania,,c.a
+Canada,,bjhd.a,PW,heh-baa,,bjhd.a,North America,b.a,b.a
+Germany,Aero Lloyd,bjih.a,,MD-ia,,bjif.a,Europe,b.a,b.a
+USA,Essex Wire Corp.,bjgj.a,PW,hdh-caa,,bjgj.a,North America,b.a,
+Serbia,AVIOGENEX,bjii.a,,hdh-caa,,bjih.a,Europe,b.a,
+Ireland,Irish Aerospace,bjii.a,,MD-ia,,bjii.a,Europe,b.a,b.a
+,LATAM Airlines Group,caaj.a,GE,hgh-daaER,Jan,,South America,,c.a
+,Pacific Northern,bjgc.a,PW,hah/hca,Apr,,North America,,c.a
+United Kingdom,Rolls-Royce A/C Management,,RR,hfh-caa,Aug,bjji.a,,e.a,e.a
+Mauritania,Mauritania Airlines,cabh.a,CF,hdh MAX,,cabg.a,Africa,b.a,
+China,Everbright Financial Leasing,cabg.a,CF,hdh-iaa,,cabg.a,East Asia,b.a,b.a
+,Virgin Atlantic Airways,cabf.a,RR,,Mar,caah.a,,h.a,h.a
+USA,United States Navy,caac.a,CF,hdh-haaC,,caab.a,North America,b.a,b.a
+USA,,bjia.a,,hdh-caa,,bjhj.a,North America,b.a,
+United Kingdom,BDS UK P-i,,CF,hdh-iaaA,Jan,,,d.a,d.a
+Ireland,SMBC Aviation Capital,cabi.a,CF,hdh MAX,,cabi.a,Europe,b.a,
+Luxembourg,Cargolux Airlines Internationa,caae.a,RR,heh-eaaF,,caad.a,Europe,b.a,b.a
+,Air Trading jc,bjja.a,,,Sep,,Europe,,c.a
+Italy,,bjhb.a,PW,DC-j,,bjgj.a,Europe,b.a,b.a
+Tanzania United Republic of,Tanzania,cabi.a,RR,hih-i,,cabg.a,Africa,b.a,b.a
+,Standard Chartered Aviation Fi,cabh.a,CF,hdh-iaa,Apr,cabg.a,,h.a,h.a
+Norway,,bjhj.a,PW,hdh-caa,,bjhj.a,Europe,b.a,
+Portugal,TAP Portugal,bjgi.a,PW,hah/hca,,bjgi.a,Europe,b.a,
+Saudi Arabia,Albaraka,bjjd.a,,hdh-eaa,,bjij.a,Middle East,b.a,
+Uruguay,PLUNA,bjgj.a,PW,hdh-caa,,bjgj.a,South America,b.a,
+Angola,SonAir,caai.a,CF,hdh-haa,,caag.a,Africa,b.a,b.a
+China,Ruili Airlines,cabi.a,CF,hdh-iaa,,cabe.a,East Asia,b.a,b.a
+Poland,LOT Polish Airlines,cabc.a,RR,hih-i,,caah.a,Europe,b.a,b.a
+,,bjhf.a,PW,hch,Jan,bjhe.a,,g.a,
+Taiwan,Hwa-Hsia Leasing,,RR,MD-ja,Jun,,,d.a,d.a
+France,Continent Air Paris,,,MD-ia,Dec,,,d.a,d.a
+Angola,,bjif.a,,hdh-caa,,bjif.a,Africa,b.a,
+Netherlands,Transavia Airlines,bjih.a,,hdh-daa,,bjig.a,Europe,b.a,
+Sweden,Finans AB Balans,bjii.a,,MD-ia,,bjig.a,Europe,b.a,b.a
+Thailand,Royal Thai Air Force,bjjf.a,,hdh-eaa,,bjjf.a,Southeast Asia,b.a,
+Fiji,Fiji Airways,cacb.a,CF,,Mar,cabh.a,,d.a,
+Australia,,bjgj.a,PW,hch,,bjgj.a,Oceania,b.a,
+,,bjhf.a,PW,hdh-caa,Jan,bjhf.a,North America,,
+Venezuela,VIASA,bjgj.a,GE,DC-i,,bjgh.a,South America,b.a,b.a
+Brazil,GOL Linhas Aereas,,CF,hdh-iaa,Jan,caaf.a,,e.a,e.a
+Unidentified,Unidentified Customer(s),,GE,hhhF,Jan,,,e.a,e.a
+Afghanistan,,bjha.a,PW,hch,,bjgj.a,Central Asia,b.a,
+Indonesia,,bjhf.a,PW,hah/hca,,bjhe.a,Southeast Asia,b.a,
+China,CATIC,bjjb.a,,MD-ia,,bjja.a,East Asia,b.a,b.a
+Spain,,,PW,DC-j,Feb,,,e.a,e.a
+Germany,,bjhb.a,PW,heh-caa,,bjha.a,Europe,b.a,b.a
+China,,bjig.a,,hdh-daa,,bjif.a,East Asia,b.a,
+USA,Business Jet / VIP Customer(s),bjjj.a,CF,BBJ,,bjjg.a,North America,b.a,b.a
+,Norwegian Air Shuttle,cabh.a,CF,hdh MAX,Jan,cabc.a,,g.a,
+USA,TWA,bjfj.a,PW,hah/hca,Jan,bjfh.a,,e.a,
+,,,GE,DC-ba,Feb,,Oceania,,c.a
+Taiwan,Mandarin Airlines,bjjf.a,,heh-eaa,,bjje.a,Southeast Asia,b.a,b.a
+,Midwest Airlines Inc.,caae.a,BR,hbh-caa,Apr,caac.a,,g.a,
+China,Shanghai Airlines,bjje.a,,hgh-daa,,bjjd.a,East Asia,b.a,b.a
+Chile,,bjib.a,,hdh-caa,,bjia.a,South America,b.a,
+USA,BDS U.S. Navy (P-iA Poseidon),,CF,hdh-iaaA,Jan,,,d.a,d.a
+Sweden,KB Flygplanet,bjii.a,,MD-ia,,bjii.a,Europe,b.a,b.a
+,American Flyers Airlines,bjgi.a,PW,hch,Aug,bjgh.a,North America,,
+USA,ARAMCO Associated Company,,CF,hdh-haa,Dec,,,d.a,d.a
+Netherlands,ITOCHU AirLease B.V.,,,hgh-daaER,Jul,,,d.a,d.a
+,Panair do Brasil,,PW,,Oct,,South America,,c.a
+Denmark,Sterling Air A/S,bjja.a,,hfh-caa,,bjij.a,Europe,b.a,b.a
+,Suedflug,,PW,DC-j,Jan,,Europe,,c.a
+Ecuador,,bjib.a,,hdh-caa,,bjib.a,South America,b.a,
+USA,Airlift International,bjgd.a,PW,DC-i,,bjgd.a,North America,b.a,b.a
+Singapore,BOC Aviation Limited,,CF,hdh-iaa,Feb,,,d.a,d.a
+,,bjhg.a,PW,hdh-caa,Jan,bjhg.a,Europe,,
+USA,World Airways Inc.,bjgd.a,PW,hah/hca,,bjgd.a,North America,b.a,
+USA,Aloha Airlines,bjgj.a,PW,hdh-caa,Jan,bjgi.a,,d.a,
+Taiwan,EVA Air,bjjf.a,,heh-eaaM,,bjjf.a,Southeast Asia,b.a,b.a
+Ethiopia,,bjih.a,,hdh-caa,,bjih.a,Africa,b.a,
+China,Bank of Communications Leasing,,CF,hdh-iaa,Jun,,,d.a,d.a
+,Voyager Aviation Aircraft Leas,cabh.a,GE,hhh-daaER,Jul,,North America,,c.a
+United Kingdom,buzz,bjjc.a,,hdh-eaa,,bjjc.a,Europe,b.a,b.a
+,MyTravel Airways,bjje.a,,hgh-daaER,Aug,,Europe,,c.a
+Lebanon,,,PW,heh-caa,Jun,,,d.a,d.a
+Brazil,,bjia.a,,hch,Jan,bjia.a,,e.a,
+South Korea,,bjhj.a,PW,heh-caa,,bjhi.a,East Asia,b.a,b.a
+,VivaAerobus,bjjb.a,,,Sep,bjij.a,Central America and Mexico,,
+,Universal Airlines,bjgi.a,GE,,Sep,,North America,,c.a
+USA,,bjgj.a,PW,DC-j,,bjgh.a,North America,b.a,b.a
+USA,,bjib.a,,,May,bjia.a,,d.a,
+,Lineas Aereas Azteca,caab.a,CF,hdh-haa,Feb,,Central America and Mexico,,c.a
+,Transavia Company SAS,cabh.a,CF,,Sep,cabe.a,,i.a,i.a
+United Kingdom,,bjib.a,,DC-ba,,bjia.a,Europe,b.a,b.a
+United Kingdom,Security Pacific EuroFinance,bjjb.a,,hdh-daa,,bjih.a,Europe,b.a,
+Pakistan,,bjhg.a,GE,DC-ba,,bjhf.a,South Asia,b.a,b.a
+USA,NAS Aviation Services LLC,bjjg.a,,hdh-daa,,bjjg.a,North America,b.a,
+Namibia,Air Namibia,bjjj.a,GE,heh-eaaM,,bjjj.a,Africa,b.a,b.a
+Kuwait,ALAFCO,caba.a,CF,,Mar,caah.a,,f.a,f.a
+,Nauru Airlines,,,hdh-eaa,Jan,,Oceania,,c.a
+Italy,AIR ITALY S.p.A.,bjij.a,,MD-ia,,bjii.a,Europe,b.a,b.a
+Italy,AIR ITALY S.p.A.,bjih.a,,MD-ia,,bjig.a,Europe,b.a,b.a
+,AVENSA,,PW,DC-j,Aug,,South America,,c.a
+,,bjih.a,,,Jun,bjid.a,,h.a,
+Germany,,bjib.a,,,Mar,bjia.a,,e.a,
+Mongolia,MIAT Mongolian Airlines,cabd.a,GE,,May,cabb.a,Central Asia,b.a,b.a
+Tunisia,,bjhe.a,PW,hch,Apr,bjhe.a,Africa,b.a,
+Cyprus,Skyways Leasing,cabh.a,CF,hdh-iaa,Dec,caba.a,Europe,b.a,b.a
+,,bjhc.a,PW,hch,Jan,bjhb.a,Europe,,
+,,,PW,,Mar,,Europe,,d.a
+,All Nippon Airways Co. Ltd.,bjgf.a,PW,hch,Jan,bjge.a,East Asia,,
+USA,Airlift International,bjge.a,PW,DC-i,Feb,bjgd.a,North America,b.a,b.a
+Uzbekistan,Uzbekistan Airways,cabi.a,GE,hih-i,Apr,cabi.a,Central Asia,b.a,b.a
+United Arab Emirates,,bjhi.a,PW,,Oct,bjhh.a,Middle East,b.a,
+Argentina,,bjhf.a,PW,hah/hca,Jun,bjhf.a,South America,b.a,
+,,bjhh.a,PW,,May,bjhg.a,Africa,,
+USA,,bjif.a,,,Sep,bjie.a,North America,b.a,
+Japan,Air Nippon,bjjj.a,CF,hdh-faa,Jul,bjjj.a,East Asia,b.a,b.a
+,UTA,,PW,DC-i,Feb,,Europe,,c.a
+Austria,,bjhi.a,PW,DC-j,,bjhh.a,Europe,b.a,b.a
+USA,,bjhb.a,PW,hdh-caa,,bjgj.a,North America,b.a,
+China,,bjhj.a,,heh-caa,Feb,bjhi.a,East Asia,b.a,b.a
+,Enter Air Sp. z o.o.,cabi.a,CF,,Nov,cabg.a,Europe,,
+China,j Air,,CF,,May,cabe.a,,e.a,e.a
+,Executive Jet Aviation,bjgh.a,PW,,Nov,bjgg.a,North America,,
+New Zealand,,bjhi.a,PW,hdh-caa,,bjhi.a,Oceania,b.a,
+,Kunming Airlines,cabe.a,CF,hdh-iaa,Jun,,East Asia,,c.a
+Ireland,,bjha.a,PW,heh-baa,,bjgh.a,Europe,b.a,b.a
+Canada,Nordair,bjgi.a,PW,hdh-caa,,bjgh.a,North America,b.a,
+USA,Flying Tiger,,GE,DC-i,Feb,,,d.a,d.a
+,China Eastern Airlines,,CF,hdh-haa,Feb,,East Asia,,c.a
+Australia,Ansett Worldwide Av. Equipment,bjjc.a,,hdh-daa,Jan,bjjc.a,Oceania,b.a,
+France,Transavia Company SAS,,CF,,Sep,cabe.a,,e.a,e.a
+,ICBC Leasing,cabg.a,CF,,May,cabd.a,,i.a,i.a
+USA,Eastern Air Lines,,PW,DC-i,Jan,bjgh.a,,e.a,e.a
+Canada,WestJet,,CF,hdh-haa,Jan,,,d.a,d.a
+Senegal,,bjhg.a,PW,hch,Aug,bjhg.a,Africa,b.a,
+USA,Air Lease Corporation,,GE,hhh-daaER,Feb,,,d.a,d.a
+,Biman Bangladesh Airlines,cabe.a,GE,hhh-daaER,Apr,,South Asia,,c.a
+,Pegasus Airlines,,CF,hdh-iaa,Feb,,Europe,,c.a
+USA,Seaboard World Airlines,bjgh.a,PW,DC-i,Feb,bjgg.a,North America,b.a,b.a
+Japan,ANA Holdings Inc.,cabi.a,GE,,Mar,cabi.a,East Asia,b.a,b.a
+,LoadAir Cargo,,GE,heh-eaaERF,Jul,,Middle East,,c.a
+Ireland,Standard Chartered Aviation Fi,,CF,hdh-iaa,Apr,,,d.a,d.a
+United Kingdom,BDS UK P-i,,CF,hdh-iaaA,Jan,cabj.a,,e.a,e.a
+USA,,bjhb.a,PW,heh-baa,Jan,bjgi.a,North America,b.a,b.a
+Oman,Oman Air (SAOC),caaf.a,CF,,Mar,caae.a,Middle East,b.a,b.a
+Madagascar,,bjhj.a,PW,,Jun,bjhh.a,Africa,b.a,b.a
+,,bjid.a,,hdh-caa,Apr,bjib.a,Southeast Asia,,
+Singapore,MSA-Malaysia/Singapore A/L,bjgj.a,PW,,May,bjgh.a,,f.a,
+Japan,,bjie.a,,,May,bjid.a,East Asia,b.a,
+,Avolon - Ireland,,CF,,Sep,,Europe,,c.a
+United Kingdom,British Royal Air Force,bjjb.a,,hah/hca,Feb,bjih.a,,f.a,
+United Arab Emirates,flydubai,,CF,hdh-iaa,Jul,caai.a,,e.a,e.a
+Trinidad and Tobago,,bjih.a,,MD-ia,Apr,bjig.a,Caribbean,b.a,b.a
+Netherlands,Sojitz,bjjc.a,,hfh-caa,Apr,bjii.a,Europe,b.a,b.a
+Australia,Virgin Australia,caba.a,GE,,Mar,caah.a,Oceania,b.a,b.a
+,Lufthansa Cargo,,GE,,May,,Europe,,c.a
+Belgium,,,,,May,bjia.a,,e.a,e.a
+USA,Boullioun Aviation Services,bjji.a,CF,hdh-eaa,Feb,bjjh.a,North America,b.a,b.a
+Venezuela,,bjhg.a,PW,hdh-caa,Jan,bjhg.a,South America,b.a,
+USA,Ozark Air Lines,,PW,DC-j,Feb,,,d.a,d.a
+China,CES Leasing Corporation,cacc.a,GE,,May,cacb.a,East Asia,b.a,b.a
+Cameroon,,bjhi.a,PW,,Nov,bjhi.a,Africa,b.a,
+Taiwan,Republic of China Air Force,bjjj.a,CF,,Nov,bjji.a,Southeast Asia,b.a,b.a
+Japan,Japan Airlines,,PW,DC-i,Jan,,,d.a,d.a
+Argentina,,bjhj.a,,hch,Jan,bjhi.a,South America,b.a,
+,Shenzhen Airlines,,CF,hdh-iaa,Jun,,East Asia,,c.a
+Unidentified,Unidentified Customer(s),cacb.a,GE,heh-i,Feb,cacb.a,Unidentified,b.a,b.a
+United Kingdom,British Eagle International,bjgc.a,RR,,May,bjgb.a,,b.a,
+USA,,bjia.a,,,Mar,bjhj.a,North America,b.a,
+Jordan,,bjhe.a,PW,hch,Jan,bjhe.a,Middle East,b.a,
+,Standard Airways,,PW,,Nov,,North America,,c.a
+Bahrain,Gulf Air,cabi.a,RR,hih-j,Jan,caai.a,,f.a,f.a
+Portugal,,bjha.a,PW,DC-j,Jun,bjgj.a,Europe,b.a,b.a
+,,,PW,DC-j,Jan,,Europe,,c.a
+Serbia,,bjhf.a,PW,hch,Feb,bjhe.a,,d.a,
+Guinea,,bjib.a,,hdh-caa,Aug,bjib.a,Africa,b.a,
+Mexico,,bjhe.a,PW,DC-j,Jan,bjhd.a,,g.a,g.a
+France,Continent Air Paris,bjij.a,,MD-ia,Dec,bjig.a,Europe,b.a,b.a
+USA,McDonnell Douglas,bjjc.a,,MD-ia,Feb,bjij.a,North America,b.a,b.a
+Singapore,MSA-Malaysia/Singapore A/L,bjgi.a,PW,,May,bjgh.a,,d.a,
+USA,Southern Air Transport,bjgg.a,PW,hch,Feb,bjgg.a,North America,b.a,
+Norway,BDS Norway P-i,cacb.a,CF,hdh-iaaA,Jan,cabj.a,,f.a,f.a
+Panama,Copa Airlines,,CF,hdh-haa,Jan,bjjj.a,,e.a,e.a
+Australia,,bjgj.a,PW,hch,Feb,bjgj.a,Oceania,b.a,
+,Sumitomo Corporation,,CF,hdh-iaa,Jul,,East Asia,,c.a
+South Africa,South African Airways,,PW,hah/hca,Feb,,,d.a,d.a
+,,,,hfh-caa,Feb,,Europe,,c.a
+,SunExpress Airlines,cabg.a,CF,hdh-iaa,Feb,cabe.a,,h.a,h.a
+Iraq,Republic of Iraq,cabe.a,CF,hdh-iaa,Apr,caai.a,,f.a,f.a
+USA,,bjha.a,PW,hdh-caa,Jan,bjgi.a,,b.a,
+USA,NEA Holdings Inc.,bjgi.a,PW,,May,bjgi.a,,d.a,
+China,ICBC Leasing,cabh.a,CF,,May,cabd.a,,g.a,g.a
+Poland,LOT Polish Airlines,bjje.a,,,May,bjje.a,,b.a,b.a
+,AOF Leasing,,,hdh-eaa,Apr,,Caribbean,,c.a
+,Germania,bjji.a,CF,,Mar,bjjf.a,,bc.a,bc.a
+Kuwait,Kuwait Airways,bjje.a,,heh-eaaM,Apr,bjjc.a,,b.a,b.a
+,,,,MD-ia,Aug,,Europe,,c.a
+Canada,Wardair,bjgi.a,PW,hah/hca,Jan,bjgi.a,,b.a,b.a
+Japan,All Nippon Airways Co. Ltd.,bjge.a,PW,hch,Jan,bjge.a,,b.a,
+USA,,bjhh.a,GE,DC-ba,Feb,bjhh.a,North America,b.a,b.a
+Canada,,bjhd.a,PW,hdh-caa,Jan,bjhd.a,,b.a,
+,Aer Lingus,bjgj.a,PW,hdh-caa,Jan,bjgg.a,Europe,,
+USA,BBAM Aircraft Management LP,cabc.a,CF,,Nov,caah.a,,g.a,g.a
+Qatar,Qatar Airways,,GE,,Mar,,,d.a,d.a
+Senegal,Air Senegal International,caaf.a,CF,,May,caae.a,,b.a,b.a
+South Korea,,,GE,DC-ba,Jan,,,d.a,d.a
+China,Dragon Aviation Leasing,,CF,hdh-iaa,Dec,,,e.a,e.a
+Belgium,SABENA Aerospace,bjja.a,,heh-daa,Jan,bjij.a,,b.a,b.a
+Jordan,Royal Jordanian,cabe.a,GE,,Mar,caah.a,,b.a,b.a
+Egypt,,bjhg.a,PW,hdh-caa,Jun,bjhf.a,,b.a,
+Australia,Ansett Worldwide Av. Equipment,bjjc.a,,,Mar,bjjc.a,,b.a,
+,,bjic.a,,,Mar,bjia.a,Europe,,
+,UTA,,PW,DC-i,Jan,,Europe,,c.a
+Germany,Condor Flugdienst,bjje.a,,,Mar,bjje.a,,b.a,b.a
+Slovakia (Slovak Republic),SkyEurope,,CF,hdh-haa,Jul,,,e.a,e.a
+,South African Airways,bjgh.a,PW,hch,Jan,bjgg.a,Africa,,
+Germany,dba,bjjh.a,,,Mar,bjjh.a,,g.a,
+,Malmo Aviation,,,,Mar,,Europe,,c.a
+USA,,bjhd.a,GE,DC-ba,Jan,bjhc.a,,b.a,b.a
+Nigeria,Midway Airlines,bjja.a,,MD-ia,Apr,bjii.a,,b.a,b.a
+Sweden,Scandinavian Airlines,bjgg.a,PW,DC-i,Jan,bjgf.a,,b.a,b.a
+France,Republic of France,,,hah/hca,Feb,,,d.a,d.a
+United Kingdom,Virgin Atlantic Airways,cabe.a,RR,,Mar,caah.a,,b.a,b.a
+USA,GATX Financial Corporation,bjjb.a,,,May,bjij.a,,b.a,b.a
+Japan,Japan ASDF Tanker,caag.a,GE,hgh-caaER,Jun,caae.a,,b.a,b.a
+,,,,DC-j,Jan,,Europe,,c.a
+Netherlands,Air Holland Leasing,,,hfh-caa,Jun,,,d.a,d.a
+Taiwan,,bjhh.a,PW,heh-baa,Feb,bjhg.a,Southeast Asia,b.a,b.a
+USA,Transamerica Airlines,bjgh.a,GE,DC-i,Feb,bjgf.a,North America,b.a,b.a
+,Air Zimbabwe,bjih.a,,hdh-caa,Jan,bjih.a,Africa,,
+,Eastwind Airlines,,CF,,Oct,,North America,,c.a
+Russian Federation,Aeroflot - Russian Airlines,,GE,hhh-daaER,Feb,,,d.a,d.a
+Cte dIvoire,,bjia.a,,heh-caa,Apr,bjhj.a,Africa,b.a,b.a
+USA,Pacific Southwest Airlines,bjgg.a,PW,hch,Jan,bjgg.a,North America,b.a,
+,Ansett Australia,bjge.a,PW,hch,Feb,bjgd.a,Oceania,,
+Ireland,Pembroke Capital Limited,bjji.a,CF,,Mar,bjjh.a,Europe,b.a,
+Samoa,,bjib.a,,hdh-caa,Jun,bjhj.a,Oceania,b.a,
+,KE Aircraft Leasing,,,hfh-caa,Apr,,North America,,c.a
+Spain,,,GE,DC-ba,Jan,,,d.a,d.a
+Greece,Olympic Airlines,bjgi.a,PW,hch,Jan,bjgi.a,,b.a,
+Japan,BDS Japan International Tanker,cacb.a,PW,hgh-cC,Dec,cabi.a,,b.a,b.a
+USA,Tracinda Corp.,bjgi.a,PW,DC-j,Apr,bjgi.a,,b.a,b.a
+,Vietnam Airlines,,PW,hhh-caaER,Jan,,Southeast Asia,,c.a
+China,j Air,,CF,,May,,,e.a,e.a
+United Kingdom,West Coast Airlines - UK (Inac,bjgh.a,PW,DC-j,Dec,bjgf.a,,b.a,b.a
+United Arab Emirates,Dubai Aerospace Enterprise,cacb.a,CF,hdh MAX,Apr,cacb.a,,e.a,
+Algeria,,bjhe.a,PW,hch,Jan,bjhe.a,,b.a,
+,,bjib.a,,,Mar,bjib.a,Europe,,
+Kazakhstan,SCAT Airlines,cabi.a,CF,hdh MAX,Dec,cabh.a,,b.a,
+,Canadian Airlines,bjih.a,,hdh-daa,Apr,bjie.a,North America,,
+,Ryanair,caad.a,CF,hdh-iaa,Jan,caac.a,,j.a,j.a
+,China Eastern Airlines Wuhan,,CF,hdh-iaa,Jun,,East Asia,,c.a
+China,Shandong Airlines,,CF,hdh-iaa,Jan,,,d.a,d.a
+,,bjib.a,,hdh-caa,Dec,bjhi.a,Europe,,
+Costa Rica,,bjhj.a,PW,hch,Aug,bjhi.a,,b.a,
+Germany,Deucalion Capital VII Limited,,GE,,Sep,caaf.a,,e.a,e.a
+,AirBridgeCargo Airlines,,GE,,Mar,,Europe,,c.a
+Ireland,DAE Aerospace Enterprise,bjje.a,,hgh-daaER,Jan,bjje.a,,b.a,b.a
+Iceland,Icelandair,caah.a,CF,hdh-iaa,Jan,caaf.a,,b.a,b.a
+Kuwait,Kuwait Air Force,bjjc.a,,,Mar,bjjc.a,,b.a,b.a
+Luxembourg,Cargolux Airlines Internationa,caah.a,RR,heh-eaaF,Feb,caag.a,,b.a,b.a
+,Transair Sweden,bjgh.a,PW,,Nov,bjgg.a,Europe,,
+Ghana,,bjhi.a,PW,,Jun,bjhh.a,,b.a,b.a
+Japan,ITOCHU Corporation,bjjg.a,,,Oct,bjje.a,,b.a,b.a
+Switzerland,,bjha.a,PW,DC-j,Jan,bjgj.a,,b.a,b.a
+,,,PW,heh-baa,Jan,,Europe,,d.a
+Egypt,,bjhe.a,PW,,Sep,bjhd.a,Africa,b.a,b.a
+Mozambique,LAM,bjjd.a,,hgh-caaER,Aug,bjja.a,Africa,b.a,b.a
+Denmark,,bjhi.a,PW,hch,Jan,bjhi.a,Europe,b.a,
+Japan,Japan Airlines,bjga.a,PW,DC-i,Jan,bjga.a,East Asia,b.a,b.a
+,,bjhe.a,PW,hch,Apr,bjhd.a,North America,,
+,Tassili Airlines,,CF,,May,,Africa,,d.a
+Sweden,Malmo Aviation,bjjb.a,,,May,bjij.a,Europe,b.a,b.a
+,Boullioun Aviation Services,bjjh.a,,,Jun,bjjg.a,North America,,
+,Far Eastern Air Transport,,,MD-ia,Apr,,Southeast Asia,,c.a
+USA,CIT Aerospace LLC,,CF,,Mar,,,d.a,d.a
+Cte dIvoire,Air Afrique,bjgg.a,PW,DC-i,Jun,bjgf.a,Africa,b.a,b.a
+France,Republic of France,bjjc.a,,hah/hca,Aug,bjih.a,Europe,b.a,b.a
+China,Shenzhen Airlines,caaj.a,CF,hdh-iaa,Apr,caag.a,,f.a,f.a
+Russian Federation,UTair Aviation,cabe.a,CF,,Sep,cabb.a,,f.a,f.a
+,Juneyao Air Co. LTD.,,GE,hih-j,Feb,,East Asia,,c.a
+Cayman Islands,Bain Capital Griffin Internati,cacc.a,CF,hdh MAX,Aug,cacb.a,,b.a,
+,China Southern Airlines,,,hfh-caa,Jan,,East Asia,,d.a
+Bolivia,,bjha.a,PW,hch,Aug,bjgj.a,,b.a,
+Canada,,bjia.a,,hdh-caa,Aug,bjhj.a,,b.a,
+Turkmenistan,Turkmenhowayollary Agency,bjjc.a,,hdh-daa,Feb,bjja.a,,b.a,
+Tunisia,,bjhc.a,PW,,Mar,bjhb.a,,b.a,
+Afghanistan,Ariana Afghan Airlines,bjgi.a,PW,,Mar,bjgi.a,,b.a,
+USA,,,,MD-ia,Apr,,,e.a,e.a
+,Everbright Financial Leasing,cabi.a,CF,hdh-iaa,Feb,cabh.a,,h.a,h.a
+Qatar,,bjhj.a,PW,hch,Jan,bjhj.a,,b.a,
+Mexico,,bjib.a,,DC-ba,Jan,bjia.a,,b.a,b.a
+,Australian Airlines Limited,,PW,DC-j,Apr,,Oceania,,c.a
+USA,Eastern Air Lines,,PW,DC-j,Jan,bjgh.a,,f.a,f.a
+,Belavia Belarusian Airlines,,CF,hdh-iaa,Jun,,Europe,,d.a
+France,Union Aeromaritime Transport,bjga.a,PW,,Nov,bjfg.a,Europe,b.a,b.a
+,,bjia.a,,hdh-caa,Apr,bjia.a,Europe,,
+,,,PW,,Oct,,Middle East,,c.a
+,Zhongyuan Airlines,bjjj.a,CF,,Oct,bjjh.a,East Asia,,
+,,,PW,hah/hca,Feb,,Middle East,,c.a
+Romania,,bjhj.a,PW,,Mar,bjhj.a,Europe,b.a,b.a
+Canada,,bjhe.a,PW,,Nov,bjhd.a,North America,b.a,
+,China Cargo,,GE,,May,,East Asia,,c.a
+El Salvador,,bjhi.a,PW,hdh-caa,Jul,bjhi.a,Central America and Mexico,b.a,
+,Hainan Airlines Holding,,CF,hdh-iaa,Jan,,East Asia,,d.a
+Austria,,bjhb.a,PW,,Mar,bjha.a,,f.a,f.a
+India,BDS Indian Navy P-iI,caca.a,CF,,Mar,cabh.a,South Asia,b.a,b.a
+USA,Delta Air Lines,bjgf.a,PW,DC-i,Jan,bjgf.a,North America,b.a,b.a
+,,,PW,DC-j,Jul,,Caribbean,,c.a
+Spain,Air Europa,cabb.a,CF,,Mar,caag.a,Europe,b.a,b.a
+,SMBC Aviation Capital,,CF,,Mar,,Europe,,c.a
+,Heller Financial,bjji.a,CF,,Sep,bjji.a,North America,,
+Canada,,bjib.a,,hdh-caa,Dec,bjhj.a,North America,b.a,
+,,,,DC-j,Feb,,North America,,d.a
+USA,,bjhj.a,,heh-caa,Jan,bjhi.a,North America,b.a,b.a
+USA,Reno Air,bjjg.a,,MD-ja,Apr,bjjg.a,North America,b.a,b.a
+Iraq,,bjhg.a,PW,hdh-caa,Jan,bjhf.a,Middle East,b.a,
+Honduras,,bjhe.a,PW,,Nov,bjhd.a,Central America and Mexico,b.a,
+Ireland,AerCap,cabj.a,GE,hih-j,Jun,cabh.a,Europe,b.a,b.a
+USA,,bjgj.a,GE,DC-i,Jan,bjgi.a,North America,b.a,b.a
+Germany,Air Berlin,,CF,hdh-iaa,Jan,,,e.a,e.a
+,,bjia.a,,,Mar,bjia.a,Europe,,
+,Jade Cargo International,,GE,heh-eaaERF,Aug,,East Asia,,d.a
+,MG Aviation Limited,,RR,hih-j,Dec,,Middle East,,c.a
+,,,PW,,Mar,,Europe,,c.a
+,Juneyao Air Co. LTD.,,GE,hih-j,Feb,,East Asia,,d.a
+Nigeria,,bjic.a,,hch,,bjic.a,Africa,b.a,
+USA,,bjhb.a,PW,hch,,bjha.a,North America,b.a,
+United Kingdom,Security Pacific EuroFinance,bjjb.a,,hdh-daa,,bjii.a,Europe,b.a,
+Nauru,,bjhf.a,PW,hdh-caa,Jul,bjhe.a,Oceania,b.a,
+Pakistan,,bjia.a,,heh-caa,Jan,bjia.a,South Asia,b.a,b.a
+Ecuador,,bjia.a,,,Sep,bjia.a,South America,b.a,
+Kazakhstan,Kazakhstan Airlines,caac.a,GE,hgh-caaER,Dec,caaa.a,Central Asia,b.a,b.a
+,BDS USAF Tanker Program,cabj.a,PW,hgh-cC,Jan,cabh.a,,h.a,h.a
+,hhh Partners,cacb.a,CF,,Mar,cacb.a,,j.a,
+,Brussels Airlines SA/NV,bjjg.a,,hdh-daa,Dec,bjjf.a,Europe,,
+USA,Pro Air,bjjh.a,,hdh-eaa,Jun,bjjh.a,North America,b.a,
+Luxembourg,,bjhi.a,PW,hdh-caa,Jan,bjhh.a,Europe,b.a,
+Ireland,Avia Capital Leasing,cabe.a,CF,,Oct,caba.a,,f.a,f.a
+,Air Malta,bjih.a,,hdh-caa,Aug,bjig.a,Europe,,
+USA,Korean Air Force Peace Eye,caaj.a,CF,hdh-haaW,Jun,caaf.a,North America,b.a,b.a
+China,China Xinhua Airlines,bjje.a,,hdh-daa,Apr,bjjd.a,East Asia,b.a,
+United Kingdom,,bjia.a,,hdh-caa,Dec,bjhi.a,,g.a,
+Japan,ITOCHU Corporation,bjjh.a,,,Oct,bjje.a,East Asia,b.a,b.a
+Australia,Australian Wedgetail,caac.a,CF,hdh-haaW,,caab.a,Oceania,b.a,b.a
+USA,,bjhj.a,,hdh-caa,,bjhi.a,North America,b.a,
+Taiwan,EVA Air,bjjf.a,,heh-eaaM,,bjjf.a,Southeast Asia,b.a,b.a
+,Flying Tiger,,PW,hah/hca,Jan,,North America,,c.a
+USA,,bjha.a,PW,hdh-caa,,bjgj.a,North America,b.a,
+Luxembourg,,bjhh.a,PW,hdh-caa,,bjhh.a,Europe,b.a,
+,Pacific Air Lines,bjgg.a,PW,,Sep,bjgf.a,North America,,
+China,,bjif.a,,,May,bjif.a,,f.a,
+USA,International Lease Finance Co,bjje.a,,hdh-eaa,,bjja.a,North America,b.a,
+,,,PW,heh-baa,Jan,,Europe,,c.a
+Indonesia,,bjic.a,,hdh-caa,,bjib.a,Southeast Asia,b.a,
+France,Euralair,bjja.a,,hdh-faa,,bjih.a,Europe,b.a,b.a
+Canada,,bjgj.a,PW,hdh-caa,,bjgh.a,North America,b.a,
+,,,PW,hah/hca,Jan,,Europe,,c.a
+Japan,Japan Asia Airways,bjii.a,,heh-daa,,bjih.a,East Asia,b.a,b.a
+Austria,Lauda Air,bjjj.a,PW,hgh-daaER,,bjjj.a,Europe,b.a,b.a
+USA,Wien Air Alaska,bjgi.a,PW,hdh-caa,,bjgg.a,North America,b.a,
+,Sriwijaya Air,,CF,,May,,Southeast Asia,,c.a
+USA,,bjhf.a,PW,hah/hca,,bjhf.a,North America,b.a,b.a
+,Virgin Australia,,GE,,Mar,,Oceania,,d.a
+Thailand,Royal Thai Air Force,bjij.a,,hdh-daa,,bjii.a,Southeast Asia,b.a,
+,U-Land Airlines,,,MD-ia,Aug,,Europe,,c.a
+USA,,,PW,DC-j,Feb,,,e.a,e.a
+USA,Seaboard World Airlines,bjgg.a,PW,DC-i,,bjgf.a,North America,b.a,b.a
+,Southwest Airlines,bjjj.a,CF,hdh-haa,Jan,bjji.a,,ba.a,ba.a
+United Kingdom,Novair International Airways,bjja.a,,hdh-eaa,,bjja.a,Europe,b.a,b.a
+Switzerland,,bjhg.a,PW,DC-j,,bjhg.a,Europe,b.a,b.a
+Taiwan,Air Asia Company,bjgg.a,PW,hch,,bjgg.a,Southeast Asia,b.a,
+,Northwest-Merged w Delta,,PW,heh-eaa,Jan,,North America,,c.a
+Russian Federation,Sberbank Leasing,cabj.a,CF,hdh-iaa,Feb,cabh.a,,g.a,g.a
+,Quantum Air S.A.,caaa.a,RR,,May,caaa.a,Europe,,
+Tanzania United Republic of,,bjhi.a,PW,hdh-caa,,bjhi.a,Africa,b.a,
+India,SpiceJet,,CF,hdh-iaa,Feb,,,e.a,e.a
+,Emirates,cabc.a,GE,hhh-daaER,Apr,caba.a,,bc.a,bc.a
+Spain,,,PW,DC-j,Jan,,,e.a,e.a
+,,,PW,DC-j,Jan,,Europe,,c.a
+Saudi Arabia,,,,,Jun,,,e.a,e.a
+,Singapore Airlines,,,heh-eaa,Jan,,Southeast Asia,,c.a
+India,BDS Indian Navy P-iI,cabj.a,CF,hdh-iaaA,,cabh.a,South Asia,b.a,b.a
+Venezuela,Aeropostal,bjgi.a,PW,DC-j,,bjgh.a,South America,b.a,b.a
+Canada,WestJet,,CF,hdh-iaa,Jan,,,e.a,e.a
+,Republic of Iraq,,CF,hdh-iaa,Apr,,Middle East,,c.a
+USA,,bjib.a,,MD-ia,,bjhj.a,North America,b.a,b.a
+USA,BBAM Aircraft Management LP,,CF,,Nov,,,e.a,e.a
+Malaysia,CALC Aircraft Assets Limited,cabj.a,GE,hih-j,,cabj.a,Southeast Asia,b.a,b.a
+,ARAMCO Associated Company,,CF,hdh-haaC,Dec,,North America,,c.a
+Malaysia,Malaysia Airlines,bjjb.a,,heh-eaa,,bjij.a,Southeast Asia,b.a,b.a
+,,,GE,DC-ba,Apr,,North America,,c.a
+,Brussels Airlines SA/NV,bjjh.a,,hdh-eaa,Apr,bjjg.a,Europe,,
+Congo the Democratic Republic,,bjhd.a,PW,hdh-caa,,bjhd.a,Africa,b.a,
+,British Airways,,PW,hah/hca,Jan,,Europe,,c.a
+,Pembroke Capital Limited,,CF,,Mar,,Europe,,c.a
+,Air Astana,,PW,hgh-daaER,Feb,,Central Asia,,c.a
+Mexico,,bjhe.a,PW,hch,Feb,bjhe.a,,d.a,
+United Kingdom,,bjif.a,,hdh-daa,Jun,bjic.a,,d.a,
+,,bjhd.a,PW,,Sep,bjhc.a,North America,,
+,Norwegian Air Shuttle,cabg.a,CF,hdh-iaa,Jan,cabc.a,,ba.a,ba.a
+,Biman Bangladesh Airlines,,GE,hhh-daaER,Apr,,South Asia,,c.a
+,,bjhg.a,PW,hdh-caa,Aug,bjhf.a,South America,,
+USA,Jackson Square Aviation,,CF,hdh-iaa,Jan,,,d.a,d.a
+,Bonanza Airlines,,PW,DC-j,Jul,,North America,,c.a
+Germany,Germania,bjjb.a,,hdh-daa,,bjjb.a,Europe,b.a,
+Kuwait,ALAFCO,cabb.a,CF,hdh-iaa,,caah.a,Middle East,b.a,b.a
+Canada,,bjia.a,,hdh-caa,,bjhj.a,North America,b.a,
+Taiwan,,bjia.a,,heh-caa,,bjhj.a,Southeast Asia,b.a,b.a
+,,bjic.a,,hdh-caa,Feb,bjib.a,Europe,,
+Azerbaijan,Silk Way Airlines,cabg.a,GE,heh-iF,,cabf.a,Central Asia,b.a,b.a
+China,China Eastern Airlines Wuhan,bjjj.a,CF,hdh-daa,,bjjh.a,East Asia,b.a,
+Ireland,CDB Financial Leasing,cabj.a,CF,hdh MAX,,cabi.a,Europe,b.a,
+Finland,,bjib.a,,DC-ba,,bjib.a,Europe,b.a,b.a
+USA,Western Pacific Airlines,bjjh.a,,,Oct,bjjg.a,,e.a,
+Canada,,bjha.a,PW,hdh-caa,,bjgi.a,North America,b.a,
+,Bavaria,,CF,hdh-haa,Jan,,Europe,,c.a
+Greece,Olympic Airlines,bjgi.a,PW,hah/hca,,bjgi.a,Europe,b.a,b.a
+South Africa,Comair Limited,,CF,hdh-iaa,Jun,caba.a,,e.a,e.a
+Israel,,bjhj.a,,heh-caa,,bjhj.a,Middle East,b.a,b.a
+France,Aeromaritime,bjjb.a,,hgh-daaER,,bjij.a,Europe,b.a,b.a
+India,Jet Airways,caad.a,CF,hdh-jaa,,caad.a,South Asia,b.a,b.a
+,,,PW,,Mar,,North America,,d.a
+Ukraine,Goiania,cabg.a,CF,hdh-iaa,,caah.a,Europe,b.a,b.a
+Australia,BDS Australia P-i,,CF,hdh-iaaA,Jan,,,d.a,d.a
+France,AOM French Airlines,,,,Sep,bjje.a,,e.a,e.a
+,Irish Aerospace,,,,Sep,,Europe,,c.a
+USA,Aviation Capital Group,,CF,hdh-iaa,Jan,,,e.a,e.a
+,,,PW,,May,,Africa,,c.a
+Zambia,,bjie.a,,DC-ba,,bjid.a,Africa,b.a,b.a
+Ethiopia,Ethiopian Airlines Group,bjgf.a,PW,hah/hca,,bjgf.a,Africa,b.a,b.a
+Liberia,,bjhi.a,PW,hdh-caa,,bjhi.a,Africa,b.a,
+Peru,FAUCETT,bjgi.a,PW,hch,,bjgi.a,South America,b.a,
+,,,GE,DC-ba,Jun,,Europe,,c.a
+Gabon,,bjhi.a,GE,heh-caa,,bjhh.a,Africa,b.a,b.a
+,Midwest Airlines Inc.,caad.a,BR,hbh-caa,Apr,caac.a,,bb.a,
+USA,FedEx Express,cabi.a,GE,hhhF,,cabh.a,North America,b.a,b.a
+Chile,LATAM Airlines Group,caba.a,GE,hgh-daaER,,caah.a,South America,b.a,b.a
+Malaysia,CALC Aircraft Assets Limited,caca.a,GE,hih-j,,cabj.a,Southeast Asia,b.a,b.a
+,,,GE,,Mar,,North America,,c.a
+,,bjhb.a,PW,,Sep,bjhb.a,Europe,,
+USA,,,,DC-j,Feb,,,d.a,d.a
+Spain,L.T.E. International Airways,bjjc.a,,hfh-caa,,bjii.a,Europe,b.a,b.a
+USA,NEA Holdings Inc.,bjgh.a,PW,DC-j,,bjgg.a,North America,b.a,b.a
+India,Jet Airways,,CF,hdh-iaa,Jan,,,e.a,e.a
+,Air Mauritius,,,hgh-caaER,Jan,,Africa,,c.a
+,,,PW,heh-baa,Dec,,Middle East,,c.a
+,Voyager Aviation Aircraft Leas,,GE,hhh-daaER,Jul,,North America,,c.a
+Switzerland,Swiss International Air Lines,cabi.a,GE,hhh-daaER,,cabf.a,Europe,b.a,b.a
+,,bjid.a,,,Jun,bjib.a,Middle East,,
+,Swiss International Air Lines,,GE,hhh-daaER,Apr,,Europe,,c.a
+USA,International Lease Finance Co,bjje.a,,hdh-daa,,bjja.a,North America,b.a,
+Kuwait,,bjhg.a,PW,hdh-caa,,bjhf.a,Middle East,b.a,
+,Buraq Air,,CF,,Nov,,Africa,,c.a
+,Shanghai Airlines,,CF,hdh-iaa,Apr,,East Asia,,c.a
+China,Zhongyuan Airlines,bjje.a,,hdh-daa,Apr,bjjd.a,,d.a,
+United Kingdom,,bjia.a,,hdh-caa,,bjhj.a,Europe,b.a,
+Netherlands,Sojitz,bjjb.a,,hfh-caa,,bjii.a,Europe,b.a,b.a
+Thailand,,bjhe.a,GE,DC-ba,,bjhe.a,Southeast Asia,b.a,b.a
+Nigeria,Nigeria Airways,bjij.a,,DC-ba,,bjii.a,Africa,b.a,b.a
+Uruguay,,bjic.a,,,Mar,bjib.a,,d.a,
+USA,,bjgj.a,PW,DC-j,,bjgi.a,North America,b.a,b.a
+,China Eastern Airlines,,CF,hdh-haa,Feb,,East Asia,,c.a
+United Arab Emirates,National Airlines,bjgh.a,PW,hch,Feb,bjgg.a,,d.a,
+USA,FAA,bjgb.a,PW,hah/hca,,bjgb.a,North America,b.a,b.a
+China,Xiamen Airlines,caab.a,RR,hfh-caa,,caab.a,East Asia,b.a,b.a
+,,,,MD-ia,Jun,,East Asia,,c.a
+,Vingreiser AS,,,,Sep,,Europe,,c.a
+USA,Pacific Air Lines,bjgh.a,PW,hch,,bjgg.a,North America,b.a,
+Brazil,LATAM Airlines Brasil,,GE,hhh-daaER,Feb,caah.a,,e.a,e.a
+Germany,German Air Force,,PW,,Nov,bjgh.a,,e.a,e.a
+,Kunming Airlines,,CF,,Nov,,East Asia,,c.a
+China,Xiamen Airlines,caac.a,RR,hfh-caa,,caab.a,East Asia,b.a,b.a
+USA,Saturn Airways,bjgh.a,GE,DC-i,,bjgg.a,North America,b.a,b.a
+USA,,bjhj.a,PW,hdh-caa,,bjhj.a,North America,b.a,
+Taiwan,UNI Airways,bjjg.a,,MD-ja,,bjjg.a,Southeast Asia,b.a,b.a
+Argentina,,,,MD-ia,Dec,,,d.a,d.a
+Morocco,Royal Air Maroc,bjjf.a,,hdh-eaa,,bjjd.a,Africa,b.a,b.a
+,Air Tahiti Nui,,GE,hih-j,Apr,,Oceania,,c.a
+USA,Alaska Airlines,bjgi.a,PW,hch,,bjgi.a,North America,b.a,
+China,Air China Cargo,,GE,,Mar,cabd.a,,e.a,e.a
+China,Okay Airways Company Limited,cabg.a,CF,hdh-iaa,,cabe.a,East Asia,b.a,b.a
+Nigeria,Midway Airlines,bjih.a,,,Mar,bjig.a,,d.a,
+Ukraine,Ukraine International Airlines,bjjj.a,CF,hdh-daa,,bjjh.a,Europe,b.a,
+USA,FedEx Express,bjii.a,,DC-ba,,bjih.a,North America,b.a,b.a
+USA,,bjhd.a,PW,heh-baa,,bjgj.a,North America,b.a,b.a
+Dominican Republic,,bjhc.a,PW,hch,,bjhc.a,Caribbean,b.a,
+Taiwan,Great China Airlines,bjjh.a,,MD-ja,,bjja.a,Southeast Asia,b.a,b.a
+Turkey,Turkish Airlines,,CF,hdh-jaaER,Feb,,Europe,,c.a
+Iraq,,bjhg.a,PW,hch,Jan,bjhf.a,,d.a,
+Venezuela,,bjgj.a,PW,DC-j,,bjgh.a,South America,b.a,b.a
+Switzerland,Swissair,,PW,DC-i,Jan,,Europe,,c.a
+Israel,Arkia Israeli Airlines,,RR,hfh-daa,Jul,,Middle East,,c.a
+Russian Federation,Volga-Dnepr UK Ltd,,GE,,Nov,,Europe,,c.a
+USA,Business Jet / VIP Customer(s),bjji.a,CF,BBJ,Jan,bjjg.a,,b.a,b.a
+India,Jet Lite,caaj.a,CF,hdh-iaa,Jan,caag.a,,b.a,b.a
+Taiwan,Far Eastern Air Transport,,,,May,,Southeast Asia,,c.a
+Canada,,bjia.a,,hdh-caa,Feb,bjhj.a,North America,,
+Nepal,Nepal Airlines Corporation,bjii.a,,hfh-caaM,Feb,bjig.a,,b.a,b.a
+Japan,Japan Domestic Airlines,bjgg.a,PW,hch,Apr,bjgf.a,East Asia,,
+USA,United Airlines,,,heh-eaa,Jan,,North America,,c.a
+Kenya,,bjha.a,PW,DC-j,,bjha.a,Africa,b.a,b.a
+Costa Rica,,bjia.a,,hch,,bjhi.a,Central America and Mexico,b.a,
+Germany,Germanwings GmbH,,,,Sep,bjii.a,,e.a,e.a
+Japan,Mitsui & Co.,bjjc.a,,MD-bb,Dec,,East Asia,,c.a
+China,Silk Road Leasing,cabg.a,CF,hdh-iaa,,cabg.a,East Asia,b.a,b.a
+China,Dragon Aviation Leasing,,CF,hdh-iaa,Dec,cabd.a,,e.a,e.a
+USA,Southwest Airlines,bjii.a,,hdh-daa,Jan,bjig.a,,d.a,
+United Kingdom,TUI Travel PLC,bjjf.a,,hfh-caa,Jan,bjjd.a,,b.a,b.a
+USA,BDS U.S. Navy (P-iA Poseidon),,CF,hdh-iaaA,Jan,cabi.a,,e.a,e.a
+,PACE Airlines,bjgi.a,PW,hdh-caa,Jan,bjgg.a,,g.a,
+Rwanda,RwandAir,,CF,hdh-iaa,Dec,,Africa,,c.a
+Jersey (UK),Ardennes Epsilon,,,MD-ia,Dec,,Europe,,c.a
+Syrian Arab Republic,,bjhg.a,PW,hch,Dec,bjhe.a,,d.a,
+USA,GATX Jet Partners Ltd.,,CF,,May,caaa.a,,e.a,e.a
+,Avolon - Ireland,cabf.a,CF,,Sep,cabc.a,,h.a,h.a
+Russian Federation,Aeroflot - Russian Airlines,,GE,hhh-daaER,Feb,,Europe,,c.a
+United Kingdom,Jetc.com Ltd,cabg.a,CF,,Sep,cabf.a,,f.a,f.a
+Turkey,Turkish Airlines,,CF,hdh-iaa,Feb,,Europe,,c.a
+France,Union Aeromaritime Transport,bjga.a,PW,DC-i,Dec,bjfg.a,,b.a,b.a
+Malaysia,Malaysia Airlines,bjij.a,,heh-eaaM,Jan,bjii.a,,b.a,b.a
+Ghana,,bjid.a,,DC-ba,Feb,bjid.a,Africa,b.a,b.a
+USA,America West Airlines,bjih.a,,hdh-daa,Jan,bjig.a,,f.a,
+Japan,ANA Holdings Inc.,cabj.a,GE,hhhF,,cabi.a,East Asia,b.a,b.a
+United Kingdom,buzz,bjja.a,,hdh-eaa,,bjih.a,Europe,b.a,b.a
+Bolivia,,bjhi.a,PW,hch,Apr,bjhh.a,South America,,
+Singapore,Scoot PTE LTD,,RR,,Oct,,,e.a,e.a
+Canada,,bjhd.a,PW,hdh-caa,,bjhc.a,North America,b.a,
+USA,DHL,,GE,,Mar,,North America,,c.a
+USA,Altavair LLC,caag.a,GE,heh-eaaERF,Jun,caaf.a,North America,,b.a
+United Kingdom,British Royal Air Force,bjjc.a,,hah/hca,Feb,bjih.a,Europe,,b.a
+Belgium,,bjhj.a,PW,hdh-caa,Aug,bjhi.a,Europe,,
+Germany,Germanwings GmbH,bjij.a,,MD-ia,Dec,bjii.a,Europe,,b.a
+USA,Western Airlines,,PW,hah/hca,Jan,,North America,,d.a
+Bermuda,Novel Leasing,bjjh.a,,hdh-daa,,bjjh.a,Caribbean,b.a,
+Switzerland,,bjib.a,,hdh-caa,Apr,bjia.a,Europe,b.a,
+Hong Kong,CDB Aviation,,CF,,Mar,,,d.a,d.a
+South Korea,Asiana Airlines,caag.a,GE,heh-eaaF,Feb,bjji.a,East Asia,b.a,b.a
+France,Aeromaritime,,,hgh-caaER,Jan,,Europe,,c.a
+Zambia,,bjhg.a,PW,,Jun,bjhf.a,Africa,b.a,
+Belgium,DHL International,,GE,hgh-daaF,Feb,,,d.a,d.a
+China,Hebei Airlines Company LTD,,CF,hdh-iaa,Dec,,,d.a,d.a
+USA,Western Airlines,bjga.a,PW,hah/hca,Jan,bjga.a,North America,b.a,
+Japan,Japan ASDF Tanker,caaf.a,GE,hgh-caaER,Jun,caad.a,East Asia,b.a,b.a
+Ireland,AerCap,cabi.a,CF,hdh MAX,Jun,cabf.a,,f.a,
+Belgium,,bjid.a,,,May,bjia.a,,f.a,
+Sweden,Transair Sweden,bjgi.a,PW,hch,Aug,bjgh.a,Europe,b.a,
+USA,AirTran Airways (Merged with S,caag.a,CF,hdh-haa,Jan,,North America,,c.a
+Norway,,bjhh.a,PW,hdh-caa,,bjhh.a,Europe,b.a,
+USA,hhh Partners,cacc.a,CF,,Mar,cacb.a,North America,,
+South Korea,,bjif.a,,hdh-daa,,bjif.a,East Asia,b.a,
+Serbia,,bjhd.a,PW,DC-j,,bjhc.a,Europe,b.a,b.a
+Germany,Air Berlin,,CF,hdh-iaa,Feb,,Europe,,c.a
+Russian Federation,BLF Ltd.,,CF,,Nov,,Europe,,c.a
+Lebanon,Middle East Airlines,,PW,hah/hca,Aug,,Middle East,,c.a
+China,Air China,bjjj.a,PW,heh-eaaM,Jan,bjjh.a,,b.a,b.a
+Thailand,Thai Airways International,,GE,heh-eaa,Feb,,Southeast Asia,,c.a
+India,SpiceJet,caah.a,CF,hdh-iaa,Feb,caaf.a,,g.a,g.a
+USA,Pacific Southwest Airlines,bjgg.a,PW,hch,Jan,bjgf.a,,b.a,
+Ireland,Timaero Ireland Limited,,CF,hdh-iaa,Feb,,,e.a,e.a
+USA,FAA,bjgg.a,PW,hch,Jul,bjgg.a,,b.a,
+Australia,Virgin Australia Airlines,cabh.a,CF,hdh-iaa,Jan,cabc.a,,b.a,b.a
+Canada,,bjhb.a,PW,,Mar,bjhb.a,North America,,
+Mexico,Government of Mexico,bjih.a,,,Nov,bjih.a,Central America and Mexico,,b.a
+Italy,,bjha.a,PW,DC-j,Feb,bjgj.a,Europe,,b.a
+Egypt,AMC Airlines,bjjh.a,,,Mar,bjjh.a,Africa,,b.a
+Switzerland,PrivatAir,cabf.a,RR,,Nov,caag.a,Europe,,b.a
+USA,Hughes Airwest Inc.,,PW,DC-j,Feb,,North America,,c.a
+Egypt,EgyptAir,cabg.a,CF,hdh-iaa,Feb,cabg.a,Africa,,b.a
+United Kingdom,Flightpath,bjih.a,,,Sep,bjig.a,Europe,,
+Uzbekistan,Uzbekistan Airways,caah.a,PW,hgh-daaER,Feb,caag.a,Central Asia,,b.a
+Congo the Democratic Republic,,bjhd.a,GE,DC-ba,Feb,bjhd.a,Africa,,b.a
+Singapore,,bjhj.a,,heh-caa,Jan,bjhi.a,Southeast Asia,,c.a
+United Kingdom,British Eagle International,bjgh.a,PW,hah/hca,Jan,bjgh.a,Europe,,b.a

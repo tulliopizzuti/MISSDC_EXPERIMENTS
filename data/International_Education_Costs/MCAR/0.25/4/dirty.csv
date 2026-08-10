@@ -1,0 +1,908 @@
+Country str,City str,University str,Program str,Level str,DurationYears float,TuitionUSD float,LivingCostIndex float,RentUSD float,VisaFeeUSD float,InsuranceUSD float,ExchangeRate float
+,Cambridge,,Computer Science,Master,,55400.0,,2200.0,160.0,1500.0,1.0
+UK,London,Imperial College London,Data Science,Master,,,75.8,,485.0,800.0,
+Canada,Toronto,,,Master,2.0,38500.0,72.5,1600.0,235.0,900.0,1.35
+,Melbourne,,Engineering,Master,2.0,,71.2,1400.0,450.0,650.0,
+Germany,Munich,Technical University of Munich,,Master,,500.0,70.5,1100.0,,550.0,0.92
+,Tokyo,University of Tokyo,,Master,2.0,8900.0,76.4,1300.0,220.0,750.0,145.8
+Netherlands,Amsterdam,,,Master,,15800.0,73.2,,180.0,720.0,0.92
+Singapore,,National University of Singapore,,,1.5,35000.0,81.1,1900.0,,800.0,
+France,Paris,,International Relations,Master,2.0,,74.6,,99.0,650.0,0.92
+Switzerland,Zurich,,Physics,Master,2.0,1460.0,91.5,2100.0,88.0,,
+Sweden,Stockholm,KTH Royal Institute,Sustainable Technology,Master,,0.0,,1200.0,110.0,400.0,
+,Copenhagen,University of Copenhagen,Bioinformatics,Master,2.0,0.0,73.4,1300.0,120.0,,6.92
+China,Beijing,Tsinghua University,Computer Engineering,Master,2.5,8900.0,52.3,800.0,,400.0,
+South Korea,Seoul,Seoul National University,Digital Media,,2.0,7200.0,,,130.0,500.0,
+Ireland,,Trinity College Dublin,,Master,1.0,28900.0,72.9,,,,
+South Korea,Busan,,Business,Bachelor,,5900.0,62.4,700.0,130.0,,1320.5
+New Zealand,Auckland,University of Auckland,Marine Biology,Bachelor,,28500.0,69.8,1200.0,245.0,,
+Austria,Vienna,University of Vienna,Social Sciences,Bachelor,3.0,1500.0,,950.0,160.0,500.0,0.92
+Belgium,Brussels,KU Leuven,,Bachelor,3.0,,68.9,,180.0,,0.92
+USA,Ann Arbor,University of Michigan,Aerospace Engineering,Bachelor,4.0,52300.0,72.5,1800.0,160.0,1500.0,1.0
+,,,,Bachelor,4.0,43800.0,,,,1500.0,
+USA,,UT Austin,Chemical Engineering,Bachelor,4.0,40900.0,72.4,,160.0,1500.0,1.0
+UK,Bristol,University of Bristol,Mathematics,Bachelor,3.0,31200.0,69.8,,485.0,,
+Canada,Ottawa,University of Ottawa,,Bachelor,4.0,28900.0,68.5,,235.0,900.0,
+,,HKUST,Finance,Bachelor,4.0,22000.0,,1500.0,120.0,600.0,7.82
+Portugal,,,Architecture,Bachelor,3.0,3500.0,58.4,800.0,120.0,450.0,
+Israel,,,Computer Science,,,12000.0,76.2,1200.0,150.0,800.0,3.72
+,Taipei,National Taiwan University,Electronics Engineering,,4.0,,62.8,700.0,140.0,450.0,31.2
+,Prague,Charles University,Medicine,Bachelor,3.0,,54.6,650.0,,400.0,22.5
+USA,,Stanford University,Computer Science,PhD,5.0,54200.0,89.5,2300.0,160.0,1500.0,
+USA,Boston,,Electrical Engineering,PhD,,53800.0,83.2,,160.0,1500.0,1.0
+UK,,,Biomedical Sciences,PhD,4.0,29800.0,,1600.0,,800.0,0.79
+,Cambridge,University of Cambridge,Physics,PhD,4.0,31200.0,,1700.0,485.0,800.0,0.79
+,Heidelberg,Heidelberg University,Molecular Biology,PhD,3.0,,68.4,900.0,75.0,550.0,0.92
+Switzerland,,,,PhD,,,,1800.0,88.0,,0.89
+,Delft,TU Delft,Robotics,PhD,4.0,,71.8,,180.0,720.0,0.92
+Singapore,,NTU Singapore,Data Science,PhD,4.0,,81.5,1600.0,90.0,,1.34
+Canada,Waterloo,,Quantum Computing,PhD,4.0,21500.0,69.8,1300.0,235.0,,1.35
+Australia,Canberra,Australian National University,Climate Science,PhD,4.0,29800.0,70.2,1400.0,450.0,,1.52
+Sweden,Lund,Lund University,Neuroscience,PhD,4.0,0.0,69.5,1000.0,110.0,400.0,10.45
+,,,Computer Science,,4.0,44200.0,79.5,1900.0,160.0,1500.0,1.0
+,,University of Washington,,Master,2.0,38900.0,83.4,2000.0,160.0,,
+Canada,Edmonton,University of Alberta,Computer Science,PhD,4.0,22800.0,67.8,1200.0,235.0,900.0,1.35
+,,University of Glasgow,,Master,,33500.0,,1100.0,485.0,800.0,0.79
+India,Bangalore,Indian Institute of Science,,,2.0,2500.0,45.6,500.0,,,
+Denmark,Aalborg,Aalborg University,Computer Science,Bachelor,3.0,0.0,69.8,900.0,120.0,450.0,6.92
+Poland,,University of Warsaw,Computer Science,,,3800.0,51.2,650.0,80.0,,4.02
+Ireland,Galway,NUI Galway,Computer Science,Bachelor,4.0,25800.0,68.5,,150.0,650.0,0.92
+South Korea,Daejeon,KAIST,Computer Science,PhD,,6900.0,65.4,700.0,,,1320.5
+Malaysia,Kuala Lumpur,University of Malaya,,Bachelor,4.0,4800.0,48.2,500.0,110.0,,4.72
+USA,,UC Berkeley,Computer Science,Bachelor,4.0,,84.2,2100.0,160.0,1500.0,1.0
+,Manchester,University of Manchester,Economics,Bachelor,3.0,32000.0,68.4,1200.0,,800.0,0.79
+,Vancouver,,Psychology,Bachelor,4.0,31200.0,71.2,1700.0,235.0,900.0,1.35
+Australia,Sydney,University of Sydney,,Bachelor,3.0,,,1600.0,450.0,650.0,1.52
+,Berlin,Free University of Berlin,International Business,,3.0,0.0,,900.0,75.0,550.0,0.92
+Spain,,,Architecture,Bachelor,4.0,2800.0,62.4,,160.0,500.0,0.92
+Italy,,Politecnico di Milano,Design,,3.0,,63.8,1100.0,,650.0,0.92
+,Rotterdam,,,Bachelor,3.0,11200.0,71.5,,180.0,720.0,0.92
+Finland,Helsinki,University of Helsinki,Computer Science,Bachelor,3.0,0.0,70.2,,120.0,400.0,0.92
+,Oslo,University of Oslo,,Bachelor,3.0,,75.6,1400.0,,450.0,10.45
+,Osaka,Osaka University,Engineering,Bachelor,4.0,,71.2,,220.0,750.0,145.8
+Japan,,Kyoto University,Computer Science,Master,2.0,8500.0,71.8,900.0,,,145.8
+Japan,Nagoya,Nagoya University,Information Science,Bachelor,4.0,7800.0,,750.0,220.0,750.0,
+Japan,Sendai,Tohoku University,,,2.0,,65.4,650.0,,750.0,145.8
+Japan,,Kyushu University,Computer Engineering,Bachelor,4.0,7500.0,64.8,,,750.0,145.8
+Japan,Sapporo,Hokkaido University,,Master,,8100.0,63.5,,220.0,750.0,145.8
+Japan,Tokyo,Tokyo Institute of Technology,Artificial Intelligence,PhD,3.0,8900.0,76.4,1100.0,220.0,750.0,145.8
+Japan,Tsukuba,University of Tsukuba,Information Systems,Bachelor,4.0,7200.0,64.2,600.0,,750.0,145.8
+Japan,Kobe,Kobe University,Computer Science,Master,2.0,7900.0,67.8,,220.0,750.0,
+Japan,,Kanazawa University,Software Engineering,Bachelor,4.0,7100.0,62.5,500.0,220.0,750.0,145.8
+,Hiroshima,,Information Technology,Master,,7600.0,63.8,550.0,,750.0,145.8
+Australia,Adelaide,University of Adelaide,,Bachelor,3.0,,68.5,1100.0,450.0,650.0,1.52
+Australia,Perth,,Software Engineering,,,34500.0,,1200.0,450.0,650.0,1.52
+,Gold Coast,Griffith University,Information Technology,Bachelor,,,67.5,1100.0,450.0,650.0,
+Australia,Hobart,University of Tasmania,Data Science,,2.0,30800.0,,950.0,450.0,650.0,1.52
+,Newcastle,University of Newcastle,Computer Engineering,,,31500.0,66.8,,450.0,650.0,1.52
+Australia,Wollongong,University of Wollongong,Artificial Intelligence,,2.0,32900.0,67.2,1050.0,,650.0,1.52
+Australia,Darwin,Charles Darwin University,,Bachelor,3.0,29800.0,,900.0,450.0,,1.52
+Australia,Townsville,James Cook University,Data Analytics,Master,2.0,31200.0,65.8,950.0,450.0,650.0,1.52
+Australia,,USC,Software Development,Bachelor,3.0,29500.0,66.2,,450.0,,1.52
+Australia,Armidale,University of New England,,,2.0,30500.0,,850.0,450.0,650.0,1.52
+Germany,Dresden,TU Dresden,Computer Science,Master,,500.0,,750.0,75.0,550.0,0.92
+,Stuttgart,,Software Engineering,Bachelor,3.0,450.0,68.5,850.0,,550.0,
+,,TU Hamburg,Data Engineering,Master,2.0,500.0,71.2,950.0,75.0,550.0,0.92
+Germany,,RWTH Aachen,,,,500.0,66.4,,75.0,550.0,0.92
+,Karlsruhe,KIT,,Master,,500.0,67.8,800.0,75.0,,
+,Darmstadt,TU Darmstadt,Information Systems,Bachelor,3.0,450.0,66.9,750.0,75.0,550.0,0.92
+,Braunschweig,TU Braunschweig,Software Systems,Master,,500.0,64.5,650.0,75.0,,
+Germany,Jena,,Data Science,,3.0,450.0,,600.0,75.0,,0.92
+Germany,Hannover,,Digital Engineering,Master,2.0,500.0,,750.0,75.0,550.0,0.92
+Germany,Freiburg,University of Freiburg,Robotics & AI,Master,,500.0,,800.0,75.0,550.0,0.92
+USA,Philadelphia,University of Pennsylvania,,,2.0,51900.0,76.8,1900.0,160.0,,1.0
+USA,Chicago,University of Chicago,,Master,2.0,,78.9,2000.0,160.0,1500.0,1.0
+,Baltimore,,Artificial Intelligence,PhD,5.0,53600.0,,1700.0,160.0,1500.0,1.0
+USA,Nashville,Vanderbilt University,Computer Engineering,,,50800.0,,1600.0,160.0,1500.0,
+USA,Durham,Duke University,Software Engineering,Master,2.0,,70.8,,,,1.0
+USA,,,Computer Science,PhD,5.0,,,,,1500.0,1.0
+,Tempe,Arizona State University,Information Technology,Bachelor,,41200.0,,1300.0,,1500.0,
+USA,Boulder,University of Colorado,Data Science,Master,2.0,39800.0,,1600.0,,1500.0,1.0
+USA,,University of Minnesota,Computer Science,,4.0,42500.0,,1500.0,160.0,,1.0
+,Davis,UC Davis,,,2.0,42800.0,73.5,1700.0,160.0,1500.0,
+UK,London,,,Master,,39200.0,76.2,,485.0,800.0,0.79
+UK,Leeds,University of Leeds,,Bachelor,3.0,28500.0,65.8,950.0,,,
+UK,Warwick,University of Warwick,,Master,1.0,36800.0,67.2,1000.0,485.0,,0.79
+UK,Sheffield,,Artificial Intelligence,PhD,3.0,27900.0,64.5,850.0,485.0,800.0,0.79
+,Birmingham,University of Birmingham,Computer Engineering,,,29500.0,,950.0,,800.0,0.79
+UK,Southampton,,Cybersecurity,Master,1.0,,65.9,900.0,485.0,,
+UK,,,Computer Science,Bachelor,,28900.0,64.8,,485.0,,0.79
+UK,Cardiff,,Software Development,,1.0,,64.2,800.0,485.0,800.0,0.79
+UK,Belfast,Queen's University Belfast,Computing Systems,Bachelor,3.0,27500.0,63.5,750.0,485.0,800.0,0.79
+UK,Newcastle,Newcastle University,Data Analytics,Master,1.0,,64.6,800.0,485.0,,
+Canada,,McMaster University,Software Engineering,,,,68.5,1200.0,235.0,,1.35
+,London ON,,Computer Science,Master,,29800.0,65.8,1100.0,235.0,900.0,1.35
+Canada,Halifax,Dalhousie University,Data Science,Master,2.0,,64.5,,235.0,900.0,
+Canada,,University of Victoria,Computer Engineering,Bachelor,4.0,27900.0,69.2,1300.0,235.0,,
+,Quebec City,Laval University,Artificial Intelligence,Master,2.0,21500.0,63.8,900.0,235.0,900.0,1.35
+Canada,,University of Manitoba,Computer Science,Bachelor,4.0,26800.0,62.5,,,,1.35
+Canada,Regina,University of Regina,Software Systems,Bachelor,4.0,25500.0,61.8,900.0,,,1.35
+,St. John's,Memorial University,Computer Science,,2.0,,63.2,950.0,235.0,900.0,1.35
+Canada,Saskatoon,University of Saskatchewan,Data Analytics,,2.0,24500.0,,,235.0,900.0,1.35
+Canada,Sherbrooke,,Computer Engineering,PhD,,,,850.0,235.0,900.0,1.35
+USA,Pittsburgh,Carnegie Mellon,Computer Science,Master,2.0,,72.4,1800.0,160.0,1500.0,1.0
+USA,,,Computer Science,PhD,5.0,45800.0,68.5,1400.0,160.0,1500.0,1.0
+Canada,,University of Calgary,Software Engineering,Bachelor,4.0,26500.0,,1300.0,235.0,900.0,
+Brazil,Sao Paulo,University of Sao Paulo,Computer Science,,,0.0,48.5,600.0,160.0,,4.95
+,,,Computer Engineering,Bachelor,4.0,1800.0,,450.0,100.0,300.0,30.5
+Russia,Moscow,Moscow State University,Applied Mathematics,Master,2.0,3900.0,,700.0,120.0,350.0,
+Mexico,,UNAM,,Bachelor,4.0,800.0,,500.0,160.0,400.0,
+Greece,,National Technical University,Software Engineering,Master,2.0,2500.0,54.8,550.0,120.0,400.0,0.92
+Thailand,Bangkok,Chulalongkorn University,,Bachelor,4.0,,46.5,,140.0,300.0,35.2
+UAE,Dubai,American University in Dubai,Computer Science,Bachelor,4.0,29500.0,72.4,1200.0,270.0,800.0,
+USA,New York,Columbia University,Data Science,,2.0,,100.0,2500.0,160.0,1500.0,1.0
+USA,Ithaca,Cornell University,Computer Science,,5.0,49800.0,70.5,1600.0,160.0,1500.0,
+,Shenzhen,SUSTech,Artificial Intelligence,Master,2.0,8200.0,,800.0,,400.0,7.18
+South Africa,Cape Town,University of Cape Town,Computer Science,,3.0,5900.0,49.2,,,400.0,
+,,American University in Cairo,Computer Engineering,Bachelor,4.0,,,,130.0,350.0,30.9
+Argentina,,University of Buenos Aires,Software Engineering,Bachelor,5.0,0.0,42.6,400.0,150.0,,821.5
+Indonesia,Jakarta,,Information Systems,Bachelor,4.0,,45.8,500.0,130.0,300.0,15640.0
+Saudi Arabia,Riyadh,,Computer Science,Master,2.0,7800.0,52.4,800.0,250.0,600.0,
+Nigeria,Lagos,,Computer Engineering,Bachelor,4.0,,40.2,400.0,180.0,300.0,860.2
+Vietnam,Ho Chi Minh City,HCMUT,Software Engineering,,,,43.6,450.0,,250.0,24450.0
+Netherlands,Eindhoven,TU Eindhoven,Computer Science,,2.0,15600.0,,950.0,180.0,,0.92
+Netherlands,Enschede,University of Twente,Artificial Intelligence,,3.0,11200.0,65.4,750.0,180.0,720.0,0.92
+Netherlands,Groningen,University of Groningen,Computing Science,Master,2.0,14800.0,66.8,800.0,,,0.92
+,Maastricht,Maastricht University,Data Science,Bachelor,3.0,,67.2,850.0,180.0,,0.92
+,Nijmegen,,Software Science,Master,,14500.0,,800.0,180.0,720.0,0.92
+,Tilburg,Tilburg University,Information Systems,Bachelor,3.0,11300.0,65.8,,180.0,,0.92
+Netherlands,Utrecht,Utrecht University,,Master,2.0,15200.0,70.2,1000.0,180.0,,0.92
+,Leiden,,,Bachelor,,11400.0,,,180.0,720.0,0.92
+Netherlands,,Wageningen University,Bioinformatics,,2.0,14900.0,65.2,750.0,180.0,720.0,0.92
+Netherlands,Amsterdam,VU Amsterdam,Business Analytics,Master,2.0,15400.0,73.5,1100.0,180.0,720.0,0.92
+Singapore,Singapore,Nanyang Technological University,Computer Science,,4.0,,,1500.0,90.0,,
+,Singapore,Singapore Management University,Information Systems,Bachelor,,31800.0,81.1,1500.0,90.0,800.0,
+Singapore,Singapore,SUTD,Computer Science & Design,,4.0,31200.0,81.1,1500.0,90.0,800.0,
+Singapore,Singapore,SIT,Software Engineering,Bachelor,4.0,,81.1,1500.0,90.0,800.0,1.34
+Singapore,,,Artificial Intelligence,Master,,35600.0,,1500.0,90.0,800.0,
+Singapore,Singapore,NTU,Data Science & AI,,2.0,34900.0,,,90.0,800.0,1.34
+,,SUTD,Technology & Innovation,Master,2.0,33800.0,,,,800.0,1.34
+Singapore,Singapore,SMU,Computing & Innovation,,2.0,34200.0,,,90.0,800.0,
+Singapore,Singapore,NUS,Computer Engineering,PhD,4.0,38500.0,81.1,1500.0,90.0,800.0,1.34
+Singapore,,NTU,Digital Systems & AI,PhD,4.0,37900.0,81.1,1500.0,90.0,,1.34
+,Paris,École Polytechnique,Computer Science,Master,2.0,15600.0,74.6,1500.0,99.0,650.0,0.92
+France,Toulouse,INSA Toulouse,,Bachelor,3.0,4200.0,65.8,750.0,99.0,650.0,0.92
+France,,,Data Science,Master,2.0,4800.0,68.5,850.0,99.0,,
+France,Grenoble,Grenoble INP,Artificial Intelligence,Master,2.0,,66.4,800.0,,650.0,0.92
+,Nice,Université Nice Sophia Antipolis,Computer Engineering,,3.0,3900.0,,900.0,99.0,,0.92
+France,,,,Master,2.0,4200.0,67.8,,,,0.92
+France,Lille,Université de Lille,,Bachelor,3.0,3800.0,,750.0,99.0,650.0,0.92
+France,,,Cybersecurity,Master,2.0,4500.0,64.8,,,,0.92
+France,Strasbourg,University of Strasbourg,Digital Systems,Bachelor,3.0,,66.2,800.0,99.0,650.0,
+France,Montpellier,University of Montpellier,Data Engineering,,2.0,4100.0,65.9,750.0,99.0,,0.92
+Switzerland,Lausanne,EPFL,Computer Science,Master,2.0,1460.0,89.8,,88.0,1200.0,0.89
+,Geneva,University of Geneva,Data Science,Bachelor,3.0,1380.0,90.5,,88.0,1200.0,0.89
+Switzerland,Bern,University of Bern,Software Engineering,Master,2.0,,,1700.0,,,0.89
+,St. Gallen,University of St. Gallen,Business Informatics,,,1440.0,86.2,1600.0,,1200.0,0.89
+Switzerland,,,Artificial Intelligence,Master,2.0,,84.5,1500.0,88.0,1200.0,0.89
+Switzerland,Fribourg,,Computer Engineering,Bachelor,3.0,1380.0,,,88.0,,
+,,University of Neuchatel,,Master,2.0,1420.0,,1500.0,88.0,1200.0,0.89
+Switzerland,Basel,University of Basel,Computational Science,Master,2.0,,,1800.0,88.0,1200.0,0.89
+,Lucerne,University of Lucerne,Digital Innovation,Bachelor,,1380.0,85.8,1600.0,88.0,,0.89
+Switzerland,Winterthur,,Data Engineering,Master,,1460.0,86.4,1700.0,,1200.0,0.89
+Denmark,,University of Copenhagen,,Master,2.0,8800.0,83.2,1500.0,,600.0,
+Denmark,Aarhus,Aarhus University,,Master,2.0,8600.0,,1200.0,,600.0,0.15
+Denmark,Aalborg,Aalborg University,,Master,2.0,8400.0,75.1,1000.0,110.0,600.0,
+China,Beijing,,Computer Science,Master,,8900.0,51.2,800.0,140.0,400.0,
+China,Beijing,Peking University,Data Science,Master,,8500.0,51.2,,140.0,400.0,7.15
+China,,Fudan University,,,2.5,7800.0,48.9,700.0,140.0,400.0,7.15
+China,Shanghai,Shanghai Jiao Tong University,Artificial Intelligence,,,,48.9,720.0,140.0,400.0,7.15
+China,Hangzhou,Zhejiang University,,Master,3.0,,45.3,550.0,140.0,400.0,
+China,,Nanjing University,Information Technology,Master,3.0,7200.0,44.1,500.0,140.0,,
+China,Guangzhou,Sun Yat-sen University,,Master,3.0,,43.8,,140.0,400.0,7.15
+China,Wuhan,Wuhan University,,,,,,450.0,140.0,400.0,7.15
+China,Xi'an,,Data Science,Master,3.0,,40.5,,,400.0,7.15
+,Chengdu,Sichuan University,Computer Engineering,Master,3.0,6100.0,39.8,400.0,140.0,400.0,7.15
+,,Seoul National University,Computer Science,Master,,7200.0,85.1,950.0,90.0,800.0,
+,,Korea University,,,2.0,7000.0,85.1,920.0,90.0,800.0,
+,,Yonsei University,,Master,2.0,,,,90.0,800.0,1300.0
+South Korea,Seoul,Hanyang University,Software Engineering,Master,2.0,6500.0,85.1,850.0,90.0,800.0,1300.0
+,Seoul,,Computer Engineering,Master,,6400.0,85.1,,90.0,800.0,1300.0
+South Korea,Daejeon,KAIST,Robotics Engineering,Master,2.0,6800.0,75.4,700.0,90.0,800.0,1300.0
+,Daejeon,Chungnam National University,Information Systems,Master,2.0,,,650.0,90.0,800.0,
+South Korea,Busan,Pusan National University,,,2.0,5800.0,73.2,600.0,90.0,,1300.0
+South Korea,Busan,Dong-A University,,Master,,5600.0,73.2,580.0,90.0,800.0,1300.0
+South Korea,Daegu,Kyungpook National University,Data Analytics,Master,2.0,,71.8,550.0,90.0,,
+South Korea,Daegu,,Computer Engineering,Master,2.0,,71.8,,90.0,,
+,Gwangju,Chonnam National University,Information Technology,Master,2.0,5300.0,70.5,,,,1300.0
+South Korea,,,Computer Science,Master,2.0,5200.0,,500.0,,800.0,1300.0
+South Korea,,Ulsan National Institute of Science and Technology,AI Engineering,Master,,6100.0,72.3,580.0,,800.0,
+,Ulsan,University of Ulsan,Software Systems,Master,2.0,,,550.0,90.0,800.0,
+South Korea,Pohang,POSTECH,Computer Engineering,Master,2.0,6300.0,71.2,,90.0,800.0,1300.0
+South Korea,Incheon,Incheon National University,,,2.0,5000.0,,600.0,90.0,800.0,1300.0
+South Korea,Suwon,Sungkyunkwan University (Suwon),,Master,2.0,5900.0,,650.0,90.0,800.0,1300.0
+,Daejeon,Hanbat National University,,Master,2.0,4900.0,75.4,540.0,90.0,800.0,1300.0
+,,Chungbuk National University,Computer Networks,Master,2.0,4800.0,70.1,520.0,,800.0,
+,,Stanford University,Computer Science,Bachelor,4.0,57000.0,,2400.0,160.0,1500.0,
+USA,Cambridge,MIT,Computer Science,Bachelor,4.0,55800.0,83.5,2300.0,,1500.0,
+USA,New Haven,Yale University,Computer Science,Bachelor,4.0,54500.0,79.8,2100.0,160.0,1500.0,
+USA,Princeton,,Computer Science,,4.0,,,,160.0,1500.0,
+USA,Philadelphia,University of Pennsylvania,Computer Science,Bachelor,,53500.0,82.4,1900.0,160.0,1500.0,
+USA,Los Angeles,UCLA,,Bachelor,4.0,43000.0,88.7,,160.0,1500.0,1.0
+USA,,,Computer Science,Bachelor,4.0,,,,,,1.0
+,,University of Michigan,Computer Science,Bachelor,,52000.0,75.4,1700.0,160.0,1500.0,
+USA,Austin,University of Texas Austin,,Bachelor,,40500.0,72.8,1800.0,160.0,,1.0
+USA,Seattle,,Computer Science,Bachelor,4.0,39800.0,85.6,2000.0,,1500.0,1.0
+USA,Madison,,Computer Science,Bachelor,4.0,,71.2,,160.0,1500.0,1.0
+,,University of Illinois Urbana-Champaign,,Bachelor,4.0,,,1500.0,160.0,1500.0,
+USA,Atlanta,,Computer Science,Bachelor,,33500.0,76.8,,160.0,1500.0,1.0
+USA,,Ohio State University,Computer Science,Bachelor,,32800.0,71.4,1400.0,160.0,1500.0,
+,West Lafayette,Purdue University,Computer Science,Bachelor,4.0,31500.0,68.9,,160.0,1500.0,
+,Gainesville,,,Bachelor,4.0,28500.0,70.2,1400.0,160.0,,1.0
+USA,Tempe,Arizona State University,,Bachelor,,28000.0,72.5,1500.0,160.0,1500.0,1.0
+USA,Raleigh,NC State University,Computer Science,,,27500.0,71.8,1400.0,160.0,1500.0,1.0
+,College Station,,Computer Science,Bachelor,4.0,,69.5,,160.0,1500.0,1.0
+,Corvallis,Oregon State University,,Bachelor,4.0,26500.0,70.1,1300.0,160.0,1500.0,
+,Cambridge,,Computer Science,,3.0,38500.0,78.5,1800.0,490.0,,0.79
+,Oxford,,Computer Science,Bachelor,3.0,37900.0,,,490.0,800.0,0.79
+UK,London,Imperial College London,Computer Science,Bachelor,3.0,37500.0,,2200.0,490.0,,0.79
+UK,,University College London,Computer Science,,3.0,36800.0,83.2,2100.0,490.0,800.0,0.79
+UK,London,,Computer Science,Bachelor,3.0,35500.0,83.2,2000.0,490.0,800.0,
+,Edinburgh,University of Edinburgh,Computer Science,Bachelor,4.0,32500.0,75.4,1600.0,490.0,800.0,0.79
+UK,,University of Manchester,Computer Science,Bachelor,3.0,,72.1,,,,0.79
+UK,,University of Bristol,Computer Science,,3.0,31500.0,74.8,1500.0,,,0.79
+UK,Warwick,,,Bachelor,3.0,,71.5,1300.0,,,0.79
+UK,Glasgow,University of Glasgow,Computer Science,Bachelor,4.0,30800.0,73.2,1400.0,490.0,800.0,0.79
+UK,Birmingham,,Computer Science,Bachelor,3.0,30500.0,71.8,1300.0,490.0,800.0,
+UK,Leeds,University of Leeds,Computer Science,Bachelor,,30200.0,71.2,1250.0,490.0,800.0,0.79
+,Sheffield,,,Bachelor,,29800.0,,1200.0,490.0,800.0,0.79
+UK,Nottingham,,Computer Science,Bachelor,3.0,29500.0,70.8,1150.0,490.0,,
+UK,Southampton,University of Southampton,Computer Science,Bachelor,3.0,29200.0,72.4,1300.0,490.0,800.0,
+UK,Durham,Durham University,Computer Science,Bachelor,3.0,28900.0,71.6,1250.0,,800.0,0.79
+UK,Liverpool,University of Liverpool,,,,28600.0,70.2,1100.0,,800.0,0.79
+,Cardiff,,,Bachelor,3.0,,69.8,1050.0,490.0,,0.79
+UK,Newcastle,Newcastle University,Computer Science,Bachelor,3.0,28000.0,,1100.0,490.0,800.0,0.79
+UK,Aberdeen,University of Aberdeen,,Bachelor,4.0,27700.0,,1000.0,490.0,800.0,
+UK,,,Computer Science,Bachelor,3.0,,,,490.0,800.0,0.79
+UK,Reading,University of Reading,Computer Science,,3.0,27100.0,71.2,1150.0,,800.0,0.79
+UK,Sussex,,Computer Science,Bachelor,3.0,26800.0,72.5,1200.0,490.0,800.0,0.79
+,,University of Essex,Computer Science,Bachelor,,,69.8,1000.0,490.0,800.0,0.79
+UK,,University of Bath,Computer Science,,3.0,26200.0,73.4,,,800.0,0.79
+UK,,University of Surrey,Computer Science,Bachelor,3.0,,71.8,1150.0,490.0,,0.79
+,Exeter,University of Exeter,Computer Science,Bachelor,3.0,25600.0,72.1,1200.0,490.0,,0.79
+UK,Kent,University of Kent,,Bachelor,3.0,25300.0,,1100.0,,800.0,0.79
+,Dundee,University of Dundee,,Bachelor,4.0,25000.0,68.9,,490.0,,0.79
+UK,,University of Strathclyde,Computer Science,,4.0,,69.2,,490.0,,
+UK,Heriot-Watt,Heriot-Watt University,Computer Science,Bachelor,4.0,24400.0,69.5,1050.0,490.0,,0.79
+UK,,Loughborough University,Computer Science,Bachelor,3.0,24100.0,68.5,900.0,490.0,800.0,0.79
+UK,,Brunel University London,Computer Science,Bachelor,,23800.0,83.2,,490.0,800.0,0.79
+UK,Queen Mary,Queen Mary University of London,Computer Science,Bachelor,3.0,23500.0,,1900.0,490.0,800.0,0.79
+UK,,Royal Holloway University,,,3.0,,,1400.0,490.0,800.0,0.79
+UK,Lancaster,,Computer Science,,3.0,22900.0,69.8,1000.0,490.0,800.0,0.79
+UK,Swansea,Swansea University,Computer Science,Bachelor,3.0,22600.0,68.5,950.0,,800.0,0.79
+UK,Aston,,Computer Science,Bachelor,,22300.0,71.8,,490.0,800.0,0.79
+UK,Hull,University of Hull,Computer Science,Bachelor,3.0,22000.0,67.9,850.0,,800.0,0.79
+UK,,Keele University,Computer Science,Bachelor,3.0,,67.5,800.0,490.0,,0.79
+,,University of Plymouth,Computer Science,,3.0,21400.0,69.2,950.0,,,0.79
+UK,Portsmouth,University of Portsmouth,Computer Science,Bachelor,,21100.0,70.5,1000.0,490.0,,0.79
+UK,,Ulster University,Computer Science,,3.0,20800.0,,800.0,490.0,800.0,0.79
+UK,,Northumbria University,Computer Science,Bachelor,3.0,20500.0,68.5,900.0,490.0,800.0,
+UK,Coventry,Coventry University,Computer Science,Bachelor,3.0,,,,490.0,800.0,0.79
+UK,Oxford Brookes,Oxford Brookes University,Computer Science,Bachelor,3.0,19900.0,77.8,1500.0,490.0,800.0,0.79
+UK,De Montfort,De Montfort University,Computer Science,Bachelor,,19600.0,,900.0,,800.0,
+,Westminster,University of Westminster,Computer Science,,,19300.0,83.2,1800.0,490.0,,0.79
+UK,,University of Greenwich,Computer Science,Bachelor,3.0,19000.0,,1700.0,,800.0,0.79
+UK,Kingston,Kingston University,Computer Science,Bachelor,3.0,18700.0,83.2,1600.0,,,0.79
+,Toronto,University of Toronto,Computer Science,Bachelor,,,73.5,1800.0,235.0,600.0,1.35
+,,,Computer Science,Master,2.0,28500.0,,1800.0,235.0,600.0,
+Canada,Vancouver,University of British Columbia,Computer Science,,4.0,43800.0,71.2,1900.0,235.0,600.0,1.35
+Canada,Vancouver,,,,2.0,27900.0,71.2,1900.0,235.0,600.0,1.35
+Canada,,,Computer Science,Bachelor,,41500.0,65.8,1500.0,235.0,600.0,1.35
+,Montreal,McGill University,,Master,2.0,,65.8,1500.0,235.0,600.0,1.35
+Canada,Waterloo,,Computer Science,Bachelor,,40900.0,62.4,1300.0,,600.0,1.35
+Canada,Waterloo,University of Waterloo,Computer Science,Master,,26200.0,62.4,1300.0,235.0,600.0,1.35
+Canada,Montreal,,,Bachelor,,39500.0,65.8,1400.0,235.0,,1.35
+Canada,Montreal,University of Montreal,Computer Science,Master,2.0,25800.0,65.8,1400.0,235.0,600.0,1.35
+Canada,,,Computer Science,Bachelor,,38200.0,61.9,,,600.0,
+Canada,Edmonton,University of Alberta,Computer Science,,2.0,,61.9,1200.0,,,1.35
+Canada,Ottawa,University of Ottawa,Computer Science,Bachelor,4.0,37800.0,,,235.0,600.0,1.35
+Canada,Ottawa,University of Ottawa,Computer Science,Master,2.0,24500.0,63.5,1400.0,235.0,,
+Canada,Calgary,,Computer Science,Bachelor,4.0,37200.0,62.8,,235.0,600.0,
+Canada,Calgary,University of Calgary,,Master,2.0,24100.0,62.8,1300.0,,,1.35
+,Hamilton,McMaster University,Computer Science,,4.0,36500.0,,1250.0,235.0,,1.35
+Canada,Hamilton,McMaster University,Computer Science,,2.0,,,1250.0,235.0,600.0,
+,London,,Computer Science,Bachelor,4.0,35900.0,,1200.0,235.0,600.0,
+Canada,London,Western University,,,,23500.0,61.5,1200.0,235.0,,1.35
+Canada,Kingston,,,,4.0,35400.0,,,235.0,600.0,
+Canada,Kingston,Queen's University,Computer Science,Master,2.0,23200.0,62.1,1300.0,,600.0,1.35
+Canada,Victoria,University of Victoria,Computer Science,,,,,1400.0,235.0,600.0,
+Canada,Victoria,University of Victoria,,Master,,,64.8,1400.0,,600.0,1.35
+Canada,Halifax,Dalhousie University,Computer Science,Bachelor,4.0,34200.0,61.2,1200.0,235.0,600.0,1.35
+Canada,,Dalhousie University,Computer Science,,,22600.0,61.2,1200.0,235.0,600.0,
+Canada,,University of Manitoba,Computer Science,Bachelor,,,,1100.0,235.0,600.0,1.35
+Canada,Winnipeg,,Computer Science,,2.0,,59.8,,235.0,600.0,1.35
+Canada,,Laval University,,Bachelor,4.0,,,1000.0,235.0,,1.35
+Canada,,,Computer Science,Master,2.0,22000.0,,1000.0,,600.0,1.35
+Canada,Saskatoon,University of Saskatchewan,Computer Science,Bachelor,4.0,32400.0,58.2,,,600.0,1.35
+Canada,Saskatoon,University of Saskatchewan,Computer Science,Master,2.0,21700.0,58.2,,,,1.35
+Canada,St. John's,Memorial University,Computer Science,Bachelor,4.0,,57.9,900.0,235.0,600.0,1.35
+Canada,St. John's,Memorial University,Computer Science,Master,2.0,21400.0,57.9,900.0,235.0,,
+Canada,Regina,University of Regina,Computer Science,,4.0,31200.0,,900.0,235.0,600.0,
+Canada,Regina,University of Regina,Computer Science,,2.0,21100.0,57.5,900.0,,,1.35
+Canada,Sherbrooke,,Computer Science,,4.0,30600.0,56.8,850.0,235.0,600.0,1.35
+Canada,Sherbrooke,University of Sherbrooke,Computer Science,Master,2.0,,,850.0,,600.0,1.35
+Canada,Windsor,University of Windsor,Computer Science,,4.0,30000.0,58.9,950.0,235.0,,
+Canada,Windsor,University of Windsor,Computer Science,,2.0,20500.0,,950.0,235.0,600.0,1.35
+,Moncton,University of New Brunswick,,Bachelor,4.0,29400.0,,900.0,,600.0,1.35
+Canada,Moncton,,Computer Science,,2.0,20200.0,57.2,900.0,235.0,,
+,Trois-Rivieres,UQTR,Computer Science,Bachelor,4.0,28800.0,56.5,850.0,235.0,,1.35
+Canada,Trois-Rivieres,,Computer Science,Master,2.0,19900.0,,850.0,235.0,,
+Canada,Thunder Bay,,Computer Science,,4.0,28200.0,56.2,,235.0,,1.35
+Canada,Thunder Bay,Lakehead University,Computer Science,Master,2.0,19600.0,56.2,,235.0,600.0,1.35
+Canada,Sudbury,Laurentian University,Computer Science,,4.0,27600.0,55.8,800.0,,,1.35
+,,Laurentian University,Computer Science,,2.0,19300.0,55.8,800.0,235.0,600.0,
+Canada,Prince George,UNBC,Computer Science,Bachelor,,27000.0,55.5,750.0,,,1.35
+Canada,Prince George,,,,,,,,235.0,600.0,1.35
+Australia,Melbourne,University of Melbourne,Computer Science,,3.0,,72.8,,,650.0,1.52
+Australia,Melbourne,University of Melbourne,Computer Science,,2.0,,,1800.0,450.0,650.0,
+Australia,,University of Melbourne,Computer Science,PhD,4.0,35000.0,72.8,,450.0,650.0,1.52
+Australia,,University of Sydney,Computer Science,,,41800.0,74.5,,450.0,650.0,1.52
+Australia,Sydney,University of Sydney,Computer Science,,2.0,44900.0,74.5,,450.0,,1.52
+Australia,Sydney,,Computer Science,PhD,4.0,34500.0,74.5,2000.0,,650.0,1.52
+Australia,Canberra,Australian National University,,,3.0,41200.0,68.9,1600.0,,,1.52
+Australia,Canberra,Australian National University,Computer Science,Master,2.0,,68.9,1600.0,450.0,650.0,1.52
+,Canberra,Australian National University,Computer Science,,4.0,34000.0,68.9,1600.0,450.0,650.0,1.52
+,,,,,3.0,40500.0,,,450.0,650.0,1.52
+Australia,Brisbane,University of Queensland,Computer Science,,2.0,43500.0,69.2,1500.0,450.0,,1.52
+Australia,Brisbane,,Computer Science,,4.0,33500.0,69.2,,450.0,,1.52
+Australia,Sydney,,Computer Science,Bachelor,3.0,40200.0,74.5,1900.0,,650.0,1.52
+Australia,Sydney,University of New South Wales,Computer Science,Master,2.0,43200.0,74.5,1900.0,450.0,650.0,1.52
+Australia,Sydney,University of New South Wales,Computer Science,,4.0,33200.0,,,450.0,,1.52
+,Melbourne,Monash University,Computer Science,Bachelor,,39800.0,72.8,1700.0,,650.0,1.52
+Australia,Melbourne,Monash University,Computer Science,,,42800.0,,1700.0,450.0,650.0,1.52
+,Melbourne,Monash University,Computer Science,,4.0,32800.0,72.8,1700.0,450.0,650.0,1.52
+Australia,Adelaide,University of Adelaide,Computer Science,,3.0,39200.0,67.5,1400.0,450.0,650.0,1.52
+Australia,Adelaide,,Computer Science,Master,2.0,42200.0,,,,,
+Australia,Adelaide,University of Adelaide,Computer Science,,4.0,32200.0,67.5,,450.0,650.0,1.52
+Australia,,University of Western Australia,Computer Science,Bachelor,3.0,38800.0,68.2,1500.0,450.0,650.0,1.52
+,Perth,University of Western Australia,Computer Science,Master,,41800.0,68.2,1500.0,450.0,650.0,1.52
+Australia,,,Computer Science,PhD,4.0,31800.0,68.2,1500.0,450.0,,1.52
+Australia,Brisbane,Queensland University of Technology,Computer Science,Bachelor,3.0,38200.0,69.2,1400.0,450.0,650.0,1.52
+Australia,,Queensland University of Technology,Computer Science,Master,2.0,41200.0,,1400.0,450.0,650.0,1.52
+Australia,Brisbane,,Computer Science,,4.0,31200.0,69.2,,450.0,650.0,1.52
+Australia,Sydney,University of Technology Sydney,Computer Science,Bachelor,3.0,37800.0,74.5,1800.0,,650.0,
+Australia,Sydney,University of Technology Sydney,Computer Science,Master,2.0,,74.5,1800.0,,,1.52
+Australia,,,,PhD,,30800.0,74.5,1800.0,450.0,650.0,1.52
+Australia,Melbourne,,,Bachelor,3.0,37200.0,72.8,1600.0,450.0,,1.52
+Australia,Melbourne,RMIT University,Computer Science,Master,2.0,40200.0,,1600.0,450.0,650.0,
+Australia,Melbourne,RMIT University,Computer Science,PhD,,30200.0,72.8,1600.0,450.0,,1.52
+,,University of Wollongong,Computer Science,Bachelor,3.0,36800.0,65.8,,450.0,650.0,1.52
+Australia,Wollongong,,Computer Science,Master,2.0,,,,,650.0,1.52
+,Wollongong,University of Wollongong,Computer Science,PhD,4.0,29800.0,65.8,1300.0,,650.0,1.52
+,Newcastle,University of Newcastle,Computer Science,Bachelor,3.0,36200.0,66.2,1300.0,450.0,650.0,
+Australia,Newcastle,University of Newcastle,,Master,,39200.0,66.2,1300.0,,650.0,
+Australia,Newcastle,University of Newcastle,Computer Science,,4.0,,66.2,1300.0,450.0,650.0,
+Australia,Hobart,University of Tasmania,,Bachelor,,,64.5,1200.0,450.0,650.0,
+Australia,,University of Tasmania,Computer Science,Master,2.0,38800.0,64.5,1200.0,,650.0,
+Australia,Hobart,University of Tasmania,Computer Science,PhD,,28800.0,64.5,1200.0,450.0,,1.52
+Australia,Gold Coast,,Computer Science,Bachelor,3.0,35200.0,68.5,1400.0,450.0,650.0,
+Australia,Gold Coast,,Computer Science,Master,2.0,38200.0,68.5,,,650.0,1.52
+Australia,Gold Coast,,Computer Science,PhD,,28200.0,68.5,1400.0,450.0,650.0,1.52
+Australia,Canberra,University of Canberra,Computer Science,Bachelor,3.0,34800.0,,1500.0,450.0,650.0,
+Australia,Canberra,University of Canberra,,Master,2.0,37800.0,68.9,1500.0,,650.0,
+,,University of Canberra,Computer Science,PhD,4.0,27800.0,68.9,1500.0,450.0,,1.52
+Australia,Townsville,,,Bachelor,3.0,34200.0,,1200.0,450.0,,1.52
+Australia,Townsville,James Cook University,,Master,,,,1200.0,450.0,650.0,1.52
+Australia,,James Cook University,Computer Science,PhD,4.0,27200.0,65.2,1200.0,450.0,650.0,1.52
+Australia,Armidale,University of New England,Computer Science,,,33800.0,63.8,,450.0,650.0,1.52
+,Armidale,,Computer Science,Master,2.0,36800.0,,1100.0,,650.0,
+Australia,Armidale,University of New England,,PhD,4.0,26800.0,63.8,,450.0,650.0,1.52
+Australia,Toowoomba,,,Bachelor,3.0,33200.0,,,450.0,650.0,1.52
+Australia,Toowoomba,,Computer Science,Master,2.0,,64.2,,450.0,,1.52
+Australia,,,Computer Science,PhD,4.0,26200.0,64.2,1100.0,450.0,,1.52
+,Ballarat,,Computer Science,Bachelor,3.0,32800.0,63.5,1000.0,450.0,,1.52
+,Ballarat,,Computer Science,Master,2.0,,63.5,1000.0,450.0,650.0,1.52
+,,Federation University,Computer Science,PhD,4.0,25800.0,,1000.0,450.0,,1.52
+Australia,Lismore,Southern Cross University,Computer Science,Bachelor,3.0,32200.0,,1000.0,450.0,650.0,
+Australia,,,Computer Science,,2.0,35200.0,63.2,1000.0,,,1.52
+Australia,Lismore,Southern Cross University,Computer Science,,4.0,25200.0,63.2,1000.0,450.0,650.0,1.52
+USA,Boston,,Computer Science,Master,,58000.0,82.1,2100.0,160.0,1500.0,1.0
+,,Imperial College London,Data Science,Master,1.0,42000.0,75.3,1800.0,,800.0,
+Germany,Munich,TU Munich,Mechanical Engineering,,,0.0,71.5,,110.0,900.0,0.92
+Canada,Toronto,University of Toronto,,Master,,45000.0,,1700.0,235.0,750.0,
+Australia,Melbourne,University of Melbourne,,PhD,4.0,29000.0,72.4,1500.0,,650.0,1.52
+,Stanford,Stanford University,Physics,PhD,5.0,,84.3,2300.0,160.0,1500.0,1.0
+UK,Edinburgh,,Chemistry,Master,2.0,38000.0,67.8,1100.0,,800.0,0.79
+Germany,Berlin,Humboldt University,Computer Science,Bachelor,3.0,0.0,68.9,950.0,,900.0,0.92
+Canada,,University of British Columbia,,Master,,42000.0,71.2,1600.0,,,1.35
+Australia,Sydney,University of Sydney,,PhD,,31000.0,75.6,1700.0,450.0,650.0,1.52
+USA,Berkeley,UC Berkeley,Mathematics,Master,,54000.0,83.2,2000.0,160.0,1500.0,1.0
+UK,Manchester,University of Manchester,Engineering,Bachelor,,35000.0,65.4,900.0,,800.0,0.79
+Germany,Hamburg,University of Hamburg,Physics,Master,,,69.8,1100.0,110.0,900.0,0.92
+Canada,Montreal,McGill University,Computer Science,PhD,4.0,38000.0,68.9,,,750.0,1.35
+Australia,Brisbane,University of Queensland,,,2.0,32000.0,68.7,1200.0,450.0,650.0,1.52
+,,Columbia University,,Master,2.0,62000.0,100.0,,160.0,1500.0,1.0
+UK,Oxford,University of Oxford,,,4.0,,71.5,1400.0,485.0,800.0,
+Germany,,TU Dresden,Mechanical Engineering,,3.0,0.0,65.4,800.0,110.0,900.0,0.92
+Canada,,,Artificial Intelligence,,2.0,40000.0,67.8,,,750.0,1.35
+Australia,,University of Western Australia,Physics,Master,2.0,30000.0,67.2,,450.0,650.0,
+,,Georgia Tech,Engineering,PhD,5.0,48000.0,,1700.0,160.0,1500.0,1.0
+UK,Bristol,University of Bristol,Data Science,Master,2.0,,68.9,,485.0,800.0,0.79
+Germany,,,Computer Science,Master,2.0,0.0,72.3,,110.0,900.0,0.92
+,Calgary,,Mathematics,,4.0,35000.0,65.4,1200.0,235.0,,
+,Adelaide,University of Adelaide,Chemistry,PhD,4.0,28000.0,64.5,1000.0,450.0,,1.52
+USA,Los Angeles,UCLA,,,,52000.0,,2200.0,,1500.0,1.0
+,Glasgow,,Physics,Bachelor,3.0,,,950.0,485.0,800.0,0.79
+Germany,Stuttgart,University of Stuttgart,Engineering,Master,2.0,0.0,68.7,1100.0,110.0,900.0,0.92
+,,University of Alberta,,Master,2.0,37000.0,64.3,1100.0,235.0,,1.35
+,Canberra,Australian National University,Computer Science,PhD,4.0,33000.0,69.8,,450.0,650.0,
+,,UT Austin,Mathematics,Master,,45000.0,68.9,1600.0,160.0,,1.0
+,Leeds,University of Leeds,Chemistry,PhD,4.0,35000.0,63.2,900.0,485.0,800.0,
+Germany,Heidelberg,,Physics,Bachelor,,0.0,,,110.0,,0.92
+Canada,,Dalhousie University,Engineering,Master,2.0,,63.4,,235.0,750.0,
+Australia,Gold Coast,,Data Science,Master,,29000.0,,1100.0,450.0,650.0,1.52
+USA,Seattle,,Computer Science,PhD,,50000.0,77.8,2000.0,,1500.0,
+UK,Sheffield,University of Sheffield,Engineering,,2.0,33000.0,,,,800.0,
+,Cologne,,Mathematics,,2.0,0.0,69.8,1200.0,,900.0,0.92
+,,Laval University,Physics,Bachelor,,,,900.0,235.0,,1.35
+Australia,Newcastle,University of Newcastle,Chemistry,Master,2.0,27000.0,63.2,,450.0,650.0,1.52
+USA,Pittsburgh,Carnegie Mellon,Data Science,Master,2.0,56000.0,65.4,,160.0,1500.0,1.0
+UK,Nottingham,University of Nottingham,Computer Science,PhD,4.0,34000.0,61.2,,485.0,800.0,0.79
+Germany,Bonn,,Engineering,Master,2.0,,67.8,1100.0,110.0,,0.92
+Canada,Victoria,University of Victoria,,Master,,35000.0,,1100.0,,750.0,1.35
+,Hobart,University of Tasmania,Physics,Bachelor,,26000.0,,900.0,450.0,650.0,
+USA,,UC San Diego,Chemistry,PhD,5.0,49000.0,,,160.0,1500.0,1.0
+,Durham,Durham University,Engineering,Master,2.0,35000.0,,900.0,485.0,800.0,0.79
+Germany,Aachen,,,Bachelor,3.0,,68.9,,110.0,900.0,0.92
+,Winnipeg,University of Manitoba,Data Science,,2.0,33000.0,61.2,900.0,,,1.35
+Australia,Wollongong,University of Wollongong,Mathematics,,4.0,,,,,650.0,1.52
+USA,San Francisco,,Data Science,Master,2.0,52000.0,95.2,2400.0,160.0,,1.0
+UK,,King's College London,Computer Science,Master,1.0,,,1900.0,485.0,800.0,
+,,ETH Zurich,,Master,2.0,1500.0,122.4,2000.0,,1200.0,0.89
+France,,,,,,4500.0,84.3,1800.0,,,0.92
+Ireland,Dublin,Trinity College Dublin,Computer Science,,4.0,,,1700.0,150.0,750.0,0.92
+,Chicago,,,Master,2.0,58000.0,84.1,1900.0,160.0,,
+,Cambridge,Anglia Ruskin University,Data Analytics,Bachelor,,35000.0,71.2,1500.0,,800.0,0.79
+,Lausanne,EPFL,Computer Science,,,,119.8,1900.0,140.0,1200.0,0.89
+France,,University of Lyon,,,,,,1200.0,99.0,850.0,
+Ireland,Cork,University College Cork,Computer Science,Master,2.0,,75.4,,150.0,750.0,
+USA,Boston,Northeastern University,Data Analytics,Master,,54000.0,82.1,2200.0,160.0,1500.0,1.0
+UK,,Heriot-Watt University,Computer Science,,,37000.0,67.8,1200.0,485.0,800.0,0.79
+Switzerland,Geneva,,Data Science,Master,2.0,1500.0,116.5,1800.0,140.0,1200.0,0.89
+,,University of Toulouse,Computer Science,Bachelor,3.0,4000.0,,900.0,99.0,,0.92
+Ireland,Galway,,Data Analytics,,,15900.0,,,,,0.92
+USA,Seattle,,Data Science,,4.0,51000.0,77.8,,160.0,1500.0,1.0
+UK,Birmingham,University of Birmingham,Computer Science,Master,,,,1100.0,485.0,800.0,0.79
+Switzerland,,,Data Science,Master,,1500.0,114.3,1700.0,140.0,1200.0,0.89
+France,Bordeaux,University of Bordeaux,Data Analytics,Master,2.0,,72.1,1000.0,,850.0,0.92
+Ireland,Limerick,University of Limerick,Computer Science,Bachelor,4.0,15400.0,,,150.0,750.0,
+USA,Austin,UT Austin,Computer Science,Master,2.0,,,1800.0,,1500.0,1.0
+,,University of Salford,Data Science,Master,,35000.0,,1000.0,,,0.79
+Switzerland,,,Data Analytics,Master,2.0,1500.0,112.1,,140.0,,0.89
+France,Nice,University of Nice,,Master,,4100.0,76.5,1300.0,,850.0,0.92
+Ireland,Maynooth,Maynooth University,,PhD,,14900.0,70.1,950.0,150.0,750.0,0.92
+,Denver,University of Denver,Data Analytics,Master,2.0,47000.0,,,160.0,1500.0,1.0
+UK,,Leeds Beckett University,Computer Science,Bachelor,3.0,34000.0,63.2,900.0,485.0,,0.79
+Switzerland,Bern,,Data Science,Master,,,110.4,1500.0,140.0,1200.0,
+France,Lille,University of Lille,,,,4200.0,69.8,950.0,99.0,850.0,0.92
+,Waterford,Waterford IT,,,,,68.9,900.0,,750.0,
+,Portland,Portland State University,Data Science,Master,2.0,,71.2,1600.0,160.0,,
+UK,,UWE Bristol,,,1.0,33000.0,68.9,,485.0,,
+,Lugano,,Data Analytics,,,1500.0,108.9,1400.0,140.0,1200.0,0.89
+France,Strasbourg,University of Strasbourg,Computer Science,,2.0,4000.0,70.2,1000.0,,850.0,
+Ireland,Sligo,IT Sligo,,Bachelor,4.0,,67.5,850.0,150.0,750.0,0.92
+USA,Minneapolis,University of Minnesota,Computer Science,PhD,4.0,48000.0,72.3,,160.0,,1.0
+UK,Cardiff,Cardiff University,,Master,1.0,34000.0,64.5,,485.0,800.0,
+,Fribourg,,,Master,,1500.0,,,,1200.0,0.89
+France,Grenoble,Grenoble INP,Data Science,Master,2.0,,71.5,1100.0,,850.0,0.92
+Ireland,Athlone,Athlone IT,,Master,,13800.0,66.7,,150.0,750.0,0.92
+Norway,Oslo,University of Oslo,Computer Science,,,,83.2,1400.0,275.0,700.0,10.45
+Finland,Helsinki,University of Helsinki,Data Science,Master,2.0,,79.4,,,650.0,0.92
+Germany,Berlin,Technical University Berlin,,,2.0,,68.9,1100.0,110.0,,0.92
+,Copenhagen,University of Copenhagen,Physics,PhD,4.0,0.0,,1500.0,,,
+Norway,Trondheim,,Robotics,Master,,0.0,75.6,1100.0,275.0,700.0,10.45
+Finland,Espoo,Aalto University,Computer Engineering,Bachelor,,0.0,77.8,,350.0,650.0,0.92
+,,LMU Munich,Mathematics,,4.0,,71.5,1300.0,110.0,900.0,0.92
+Denmark,,Aarhus University,,Master,2.0,0.0,76.5,1200.0,450.0,800.0,
+Norway,Bergen,University of Bergen,Artificial Intelligence,,2.0,0.0,74.3,1200.0,,700.0,10.45
+,Tampere,,Software Engineering,Master,,,72.1,,,650.0,0.92
+Germany,Dresden,TU Dresden,Computer Science,Bachelor,3.0,0.0,65.4,900.0,,,
+Denmark,Odense,University of Southern Denmark,Biotechnology,Master,2.0,,73.2,,,800.0,
+Norway,Tromsø,UiT Arctic University,,PhD,,0.0,71.2,1000.0,,,10.45
+Finland,Turku,University of Turku,,,2.0,0.0,,,,650.0,0.92
+Germany,Hamburg,TU Hamburg,Electrical Engineering,Master,2.0,0.0,,1200.0,110.0,,0.92
+Denmark,,Aalborg University,,Bachelor,3.0,0.0,71.5,,450.0,800.0,7.45
+Norway,Stavanger,,Petroleum Engineering,Master,,0.0,72.4,1100.0,,700.0,10.45
+,Oulu,University of Oulu,Computer Science,PhD,,,70.2,800.0,350.0,650.0,0.92
+,Stuttgart,University of Stuttgart,,Master,,0.0,68.7,,110.0,900.0,0.92
+,Roskilde,Roskilde University,,,,0.0,70.8,1000.0,450.0,800.0,7.45
+,Ås,,,Master,,0.0,70.5,900.0,275.0,700.0,10.45
+Finland,Vaasa,University of Vaasa,Industrial Management,Master,2.0,0.0,,800.0,350.0,,0.92
+Germany,Karlsruhe,KIT,Mechatronics,PhD,4.0,0.0,67.9,,110.0,900.0,
+Denmark,,Technical University of Denmark,Quantum Engineering,Master,2.0,0.0,81.2,1400.0,,800.0,
+,Bodø,,Marine Biology,Bachelor,3.0,,,,,,10.45
+,Jyväskylä,University of Jyväskylä,Data Science,Master,,0.0,68.7,750.0,350.0,650.0,0.92
+Germany,Darmstadt,TU Darmstadt,Computer Engineering,Master,2.0,,,,110.0,900.0,
+Denmark,Kolding,University of Southern Denmark,Software Engineering,,4.0,0.0,69.5,900.0,450.0,800.0,7.45
+,,NTNU Gjøvik,,Master,2.0,0.0,68.9,800.0,,700.0,10.45
+,Lappeenranta,LUT University,Industrial Engineering,Master,,,67.5,700.0,350.0,,0.92
+Germany,Bremen,University of Bremen,Robotics,Master,,0.0,,900.0,,,0.92
+,Esbjerg,University of Southern Denmark,Environmental Engineering,Master,2.0,0.0,68.4,850.0,,800.0,7.45
+Norway,Kristiansand,,Renewable Energy,PhD,,0.0,67.8,850.0,275.0,700.0,
+Finland,Kuopio,University of Eastern Finland,Environmental Science,,3.0,0.0,66.9,700.0,350.0,650.0,0.92
+Germany,,RWTH Aachen,,Master,2.0,0.0,68.9,1000.0,110.0,900.0,0.92
+Denmark,Slagelse,,,Master,2.0,0.0,67.5,900.0,450.0,800.0,7.45
+Norway,Horten,University of South-Eastern Norway,Systems Engineering,Master,,,66.7,800.0,275.0,700.0,
+Finland,,,Forestry Sciences,,4.0,0.0,65.8,650.0,350.0,650.0,
+Germany,Jena,University of Jena,,,2.0,0.0,,850.0,110.0,900.0,0.92
+Denmark,,Aarhus University,Engineering Management,Master,,0.0,66.2,800.0,,,7.45
+New Zealand,Auckland,University of Auckland,Computer Science,,2.0,32000.0,,,330.0,,1.65
+,,Northeastern University,Data Science,Master,2.0,,82.1,,160.0,1500.0,
+Sweden,Stockholm,KTH Royal Institute,Engineering Physics,,,,,1100.0,120.0,,
+Netherlands,,University of Amsterdam,,PhD,,15000.0,81.2,1300.0,171.0,,0.92
+Portugal,Lisbon,,Computer Engineering,,,,65.8,800.0,75.0,400.0,0.92
+,Wellington,,Data Analytics,Master,2.0,30000.0,75.6,1100.0,,600.0,1.65
+USA,Austin,UT Austin,Robotics,PhD,5.0,48000.0,68.9,1600.0,160.0,,1.0
+Sweden,Uppsala,,Mathematics,,3.0,0.0,,,120.0,750.0,10.45
+Netherlands,Rotterdam,Erasmus University,Business Analytics,Master,2.0,,77.8,1200.0,171.0,720.0,
+,,,Software Engineering,Master,2.0,6500.0,,700.0,75.0,400.0,0.92
+New Zealand,Christchurch,,Mechanical Engineering,PhD,4.0,31000.0,,950.0,330.0,600.0,1.65
+USA,San Diego,UC San Diego,Biotechnology,,2.0,49000.0,75.6,1900.0,160.0,,
+Sweden,,,,Master,2.0,,71.2,950.0,120.0,750.0,10.45
+,Delft,,Computer Science,Master,2.0,15500.0,76.5,1100.0,171.0,720.0,
+Portugal,Coimbra,,Data Science,Bachelor,3.0,6000.0,58.9,,,400.0,0.92
+New Zealand,,University of Otago,Information Systems,Master,2.0,,70.2,,330.0,,1.65
+,Seattle,,Computer Engineering,Master,,,77.8,2100.0,160.0,1500.0,1.0
+,Lund,,Physics,PhD,4.0,,,1000.0,120.0,,10.45
+Netherlands,Eindhoven,TU Eindhoven,Artificial Intelligence,,2.0,14800.0,72.3,,171.0,,0.92
+Portugal,,University of Minho,,Master,2.0,,,550.0,75.0,400.0,0.92
+,Hamilton,University of Waikato,,,,,68.9,850.0,330.0,600.0,
+USA,,Georgia Tech,,,,48000.0,71.2,1700.0,160.0,,
+Sweden,,,Computer Science,,2.0,0.0,69.8,850.0,120.0,750.0,10.45
+Netherlands,Utrecht,Utrecht University,Data Science,Bachelor,3.0,13900.0,75.4,1100.0,171.0,720.0,
+Portugal,,University of Aveiro,,PhD,4.0,6800.0,56.7,500.0,75.0,400.0,0.92
+New Zealand,,,Computer Engineering,Bachelor,3.0,,67.5,800.0,330.0,,1.65
+,,,Software Engineering,Master,2.0,56000.0,65.4,,160.0,1500.0,1.0
+Sweden,Umeå,Umeå University,Artificial Intelligence,,2.0,,68.5,800.0,,750.0,10.45
+Netherlands,,University of Groningen,Computing Science,PhD,,,71.2,,171.0,,0.92
+Portugal,Faro,University of Algarve,Information Systems,Master,2.0,5900.0,55.4,480.0,,,0.92
+,Auckland,AUT University,Data Analytics,Master,2.0,29500.0,,1150.0,330.0,,1.65
+USA,Raleigh,NC State University,Computer Science,Master,2.0,47000.0,67.8,1400.0,160.0,1500.0,1.0
+Sweden,Karlstad,Karlstad University,,Bachelor,,0.0,67.2,750.0,120.0,750.0,10.45
+Netherlands,Tilburg,Tilburg University,Data Science,Master,2.0,,70.5,950.0,171.0,720.0,0.92
+,Vila Real,UTAD,,,,5700.0,,450.0,,400.0,0.92
+,,Lincoln University,Environmental Computing,,4.0,28000.0,72.4,,330.0,,
+USA,Davis,UC Davis,Data Science,,2.0,48000.0,,,160.0,1500.0,
+,Växjö,Linnaeus University,,,2.0,0.0,66.5,700.0,120.0,,
+Netherlands,Wageningen,Wageningen University,Bioinformatics,Master,2.0,14500.0,,900.0,171.0,720.0,0.92
+Portugal,Funchal,University of Madeira,,Bachelor,,,53.2,400.0,75.0,400.0,0.92
+,Madrid,Universidad Politécnica de Madrid,Computer Science,Master,2.0,3500.0,71.4,,,,0.92
+,Milan,Politecnico di Milano,Data Engineering,Master,2.0,4000.0,,1200.0,120.0,700.0,0.92
+Greece,Athens,,Electrical Engineering,PhD,4.0,0.0,,,100.0,600.0,0.92
+Austria,Vienna,TU Wien,Software Engineering,,2.0,,78.5,950.0,160.0,850.0,0.92
+Mexico,Mexico City,UNAM,Computer Engineering,Bachelor,4.0,800.0,52.4,,,,17.05
+Spain,,Universitat Politècnica Catalunya,,Master,,3800.0,,1000.0,,750.0,0.92
+,,Sapienza University,Robotics,PhD,4.0,3500.0,71.2,,,700.0,0.92
+Greece,,Aristotle University,Computer Engineering,Master,2.0,0.0,62.4,500.0,100.0,600.0,0.92
+,Graz,TU Graz,Mechanical Engineering,Bachelor,,1500.0,71.2,750.0,,850.0,0.92
+,Monterrey,Tecnológico de Monterrey,Data Science,,2.0,12000.0,48.9,700.0,,400.0,17.05
+Spain,Valencia,Universitat de València,Data Science,Master,2.0,3200.0,68.5,800.0,80.0,750.0,0.92
+Italy,,Politecnico di Torino,Computer Engineering,Master,,3800.0,,900.0,120.0,,0.92
+Greece,Patras,,Electronics,PhD,4.0,0.0,60.5,450.0,100.0,600.0,0.92
+Austria,Linz,Johannes Kepler University,,Master,2.0,1500.0,70.4,700.0,160.0,850.0,0.92
+Mexico,Guadalajara,Universidad de Guadalajara,Software Engineering,Bachelor,4.0,900.0,45.6,,40.0,400.0,17.05
+Spain,Seville,Universidad de Sevilla,Robotics,Master,2.0,,65.4,750.0,,750.0,0.92
+,Bologna,University of Bologna,,PhD,,3600.0,70.5,950.0,,700.0,0.92
+,Heraklion,University of Crete,Computer Science,Master,2.0,0.0,61.2,,,600.0,
+Austria,,University of Salzburg,Data Analytics,Bachelor,,1500.0,,800.0,160.0,,0.92
+Mexico,,UDLAP,Computer Engineering,,,10000.0,44.5,450.0,,400.0,
+Spain,Bilbao,University of the Basque Country,,PhD,4.0,3400.0,67.8,,80.0,750.0,0.92
+Italy,Florence,University of Florence,Cybersecurity,Master,2.0,3500.0,,1000.0,120.0,700.0,
+Greece,Volos,University of Thessaly,Digital Systems,Master,2.0,0.0,59.8,400.0,100.0,600.0,0.92
+,Innsbruck,,Mechatronics,,2.0,1500.0,71.5,780.0,,850.0,
+,Queretaro,,Data Analytics,Bachelor,4.0,11000.0,46.7,,,,17.05
+Spain,Granada,,Artificial Intelligence,Master,2.0,2800.0,64.5,700.0,80.0,,
+Italy,Naples,University of Naples,Software Engineering,PhD,4.0,3200.0,67.8,800.0,120.0,700.0,0.92
+Greece,Ioannina,,,Bachelor,4.0,0.0,58.9,,100.0,600.0,
+Austria,Klagenfurt,University of Klagenfurt,Data Science,Master,,1500.0,69.4,720.0,160.0,850.0,0.92
+,Merida,,Computer Engineering,Master,2.0,3500.0,43.2,400.0,40.0,400.0,17.05
+Spain,Zaragoza,University of Zaragoza,,,2.0,2900.0,63.2,,80.0,,0.92
+Italy,Pisa,University of Pisa,Computer Engineering,Master,2.0,3300.0,68.9,,120.0,700.0,0.92
+,Rhodes,University of the Aegean,,Master,2.0,0.0,61.2,,100.0,600.0,0.92
+Austria,Leoben,,,PhD,4.0,1500.0,68.7,700.0,160.0,,
+Mexico,Tijuana,CETYS Universidad,Information Technology,Bachelor,4.0,,45.4,,40.0,400.0,17.05
+Spain,Salamanca,University of Salamanca,,,4.0,,62.1,600.0,,750.0,
+Italy,Padua,,Artificial Intelligence,Master,,,,900.0,120.0,,0.92
+Greece,,Technical University of Crete,Electronic Engineering,Master,2.0,,60.4,450.0,100.0,600.0,0.92
+Austria,,FH Vorarlberg,,Bachelor,3.0,1500.0,70.2,800.0,160.0,,0.92
+Mexico,,,Computer Systems,Master,2.0,,42.8,380.0,,400.0,17.05
+,,,Computer Engineering,,2.0,1500.0,51.2,600.0,90.0,,28.5
+Greece,Athens,,Data Science,Master,2.0,0.0,65.8,650.0,100.0,600.0,
+Belgium,Leuven,KU Leuven,Artificial Intelligence,PhD,4.0,,76.5,950.0,,800.0,
+Hungary,Budapest,Budapest University of Technology,,,,,53.4,,,450.0,350.25
+,,Moscow State University,,Bachelor,4.0,5500.0,62.3,,160.0,400.0,95.5
+Turkey,Ankara,,Data Engineering,,2.0,1200.0,48.5,450.0,90.0,,28.5
+Greece,Thessaloniki,University of Macedonia,,PhD,,0.0,62.4,500.0,100.0,600.0,
+Belgium,Ghent,,Computer Science,,2.0,3500.0,72.8,850.0,,,0.92
+Hungary,Debrecen,University of Debrecen,Mechatronics,Bachelor,3.0,5800.0,48.9,400.0,,450.0,350.25
+Russia,,ITMO University,Data Science,,2.0,5000.0,60.1,550.0,160.0,400.0,95.5
+Turkey,Izmir,Ege University,,PhD,4.0,1300.0,47.8,400.0,90.0,,28.5
+Greece,Patras,University of Patras,Computer Engineering,Master,2.0,0.0,60.5,450.0,,600.0,
+Belgium,Brussels,Vrije Universiteit Brussel,Robotics,,2.0,3600.0,,900.0,180.0,800.0,0.92
+Hungary,Szeged,University of Szeged,,PhD,4.0,6000.0,47.2,380.0,140.0,450.0,350.25
+Russia,Novosibirsk,Novosibirsk State University,Mathematics,Master,2.0,4800.0,,,160.0,400.0,95.5
+Turkey,Eskisehir,,Information Systems,,,1000.0,45.6,350.0,,,28.5
+Greece,,,Data Analytics,,2.0,0.0,61.2,480.0,,600.0,0.92
+Belgium,,University of Antwerp,Computer Science,,4.0,,71.2,800.0,,800.0,0.92
+,,,Software Development,Master,2.0,5500.0,,,,450.0,350.25
+Russia,,Kazan Federal University,Artificial Intelligence,Bachelor,,4500.0,,,,400.0,
+Turkey,Bursa,Uludag University,Computer Science,Master,2.0,1100.0,46.5,380.0,90.0,500.0,28.5
+,Volos,,Cybersecurity,PhD,,0.0,59.8,400.0,,,
+Belgium,Louvain,,Data Engineering,Master,2.0,3500.0,70.5,780.0,180.0,800.0,
+Hungary,Gyor,Szechenyi Istvan University,,,3.0,,45.6,,140.0,450.0,
+Russia,Tomsk,Tomsk State University,Software Engineering,Master,2.0,4600.0,51.2,350.0,,400.0,95.5
+,Antalya,,,PhD,4.0,1400.0,,420.0,90.0,500.0,28.5
+Greece,,University of Piraeus,Information Technology,Master,2.0,0.0,63.4,550.0,100.0,,
+Belgium,Hasselt,Hasselt University,Artificial Intelligence,Bachelor,3.0,3400.0,69.8,750.0,,800.0,0.92
+Hungary,Miskolc,,Computer Engineering,,,,,,140.0,450.0,350.25
+Russia,Yekaterinburg,Ural Federal University,Data Analytics,PhD,4.0,4700.0,53.4,,160.0,400.0,95.5
+,Kayseri,Erciyes University,Software Engineering,Master,2.0,1200.0,,350.0,90.0,500.0,
+Greece,Xanthi,Democritus University,,Bachelor,,,,,100.0,600.0,0.92
+Belgium,,University of Liege,,PhD,4.0,,,720.0,180.0,800.0,0.92
+Hungary,Veszprem,,Information Systems,Master,2.0,,44.8,310.0,140.0,450.0,350.25
+,,,Computer Science,,2.0,4400.0,50.5,370.0,160.0,,95.5
+Turkey,,,Artificial Intelligence,Bachelor,4.0,1000.0,44.5,330.0,90.0,500.0,28.5
+Greece,,,,Master,,0.0,,400.0,100.0,600.0,
+,Mons,University of Mons,Computer Engineering,,2.0,3500.0,67.8,700.0,,800.0,0.92
+Hungary,Kecskemet,John von Neumann University,Data Analytics,,4.0,5400.0,43.9,290.0,140.0,450.0,350.25
+,,Southern Federal University,,,,,49.8,350.0,160.0,400.0,
+Brazil,Sao Paulo,University of Sao Paulo,,Master,,0.0,55.8,600.0,90.0,,
+India,Bangalore,,Data Science,PhD,4.0,2000.0,45.2,300.0,180.0,300.0,82.75
+,Bangkok,Chulalongkorn University,Software Engineering,Master,2.0,15000.0,,500.0,80.0,350.0,
+Egypt,Cairo,Cairo University,Computer Engineering,Bachelor,4.0,2500.0,,250.0,,200.0,30.9
+,Singapore,National University of Singapore,,Master,2.0,42000.0,83.8,,,800.0,1.35
+UAE,Dubai,University of Dubai,Data Analytics,Master,2.0,,72.4,,,,3.67
+Brazil,Rio de Janeiro,PUC-Rio,,PhD,,,,550.0,90.0,400.0,4.95
+India,Mumbai,IIT Bombay,Computer Engineering,Master,,,47.5,350.0,180.0,300.0,
+Thailand,Chiang Mai,Chiang Mai University,,Bachelor,,12000.0,45.6,300.0,80.0,350.0,
+,,Nanyang Technological University,Computer Science,,,40000.0,83.8,1100.0,,800.0,1.35
+UAE,Abu Dhabi,Khalifa University,Robotics,Master,2.0,,,1000.0,270.0,750.0,3.67
+,,,Computer Engineering,Master,,,51.4,,90.0,400.0,4.95
+India,Delhi,IIT Delhi,,,4.0,1900.0,44.8,320.0,,300.0,82.75
+,Khon Kaen,Khon Kaen University,Information Technology,,,11000.0,42.5,,,350.0,35.25
+Egypt,Alexandria,,Software Engineering,Master,2.0,,30.5,200.0,100.0,200.0,30.9
+Singapore,Singapore,,Data Analytics,Bachelor,4.0,38000.0,83.8,,90.0,800.0,1.35
+UAE,Sharjah,American University of Sharjah,Computer Science,PhD,,26000.0,,900.0,270.0,750.0,
+Brazil,,UFRGS,,,,0.0,49.8,400.0,90.0,400.0,4.95
+India,Chennai,IIT Madras,Software Engineering,Master,,1700.0,42.4,280.0,180.0,300.0,82.75
+Thailand,Phuket,Prince of Songkla University,,,,10000.0,,300.0,80.0,350.0,
+Egypt,Giza,,Data Science,PhD,4.0,2400.0,31.2,,,200.0,30.9
+Singapore,Singapore,Singapore University of Technology,Artificial Intelligence,,,39000.0,83.8,1100.0,90.0,800.0,1.35
+UAE,Ajman,,,Bachelor,4.0,23000.0,65.4,800.0,,,
+,Recife,UFPE,Computer Engineering,Master,2.0,,47.5,350.0,90.0,,
+India,Hyderabad,IIT Hyderabad,,,4.0,1800.0,,260.0,,300.0,
+Thailand,Hat Yai,Prince of Songkla University,Software Engineering,,4.0,9500.0,43.2,,80.0,350.0,35.25
+,Port Said,,Computer Science,Master,2.0,2100.0,29.8,,100.0,200.0,30.9
+Singapore,Singapore,SUTD,Robotics,PhD,4.0,37000.0,83.8,1050.0,90.0,800.0,1.35
+,Al Ain,,,Master,2.0,24000.0,64.2,,,750.0,
+Brazil,Florianopolis,UFSC,Information Technology,,,0.0,48.9,,,400.0,4.95
+,Pune,IIT Pune,Computer Science,,2.0,1600.0,40.5,250.0,,300.0,
+Thailand,Nakhon Ratchasima,Suranaree University,Data Engineering,Master,2.0,9000.0,41.8,250.0,80.0,,35.25
+Egypt,Mansoura,Mansoura University,Information Systems,Bachelor,4.0,2000.0,,170.0,100.0,,30.9
+Singapore,,SIM Global Education,Software Engineering,,4.0,,,1000.0,90.0,,1.35
+,Ras Al Khaimah,RAK University,Computer Engineering,Master,2.0,22000.0,,700.0,,750.0,
+Brazil,Salvador,UFBA,Data Science,Master,2.0,0.0,46.8,,90.0,400.0,4.95
+India,,IIT Kanpur,Artificial Intelligence,PhD,4.0,1900.0,39.8,,180.0,300.0,82.75
+,Songkhla,,Computer Engineering,Bachelor,4.0,8500.0,42.5,,80.0,350.0,35.25
+Egypt,Aswan,Aswan University,Data Analytics,Master,2.0,1900.0,27.8,,100.0,200.0,30.9
+UAE,,Fujairah University,,Bachelor,,,,,270.0,750.0,3.67
+Iceland,Reykjavik,University of Iceland,Computer Science,Master,2.0,0.0,,1200.0,140.0,900.0,137.5
+Colombia,Bogota,Universidad Nacional,Software Engineering,Master,,,41.2,,80.0,300.0,
+Poland,,University of Warsaw,Data Science,PhD,,3000.0,54.8,650.0,80.0,400.0,
+Romania,Bucharest,University Politehnica,Computer Engineering,Bachelor,,2500.0,,450.0,,,
+Luxembourg,Luxembourg City,University of Luxembourg,Artificial Intelligence,Master,2.0,,83.2,1400.0,100.0,800.0,0.92
+Indonesia,Jakarta,University of Indonesia,Information Systems,Master,2.0,5000.0,,400.0,150.0,250.0,15600.0
+Iceland,,University of Akureyri,Data Analytics,,3.0,0.0,78.4,900.0,140.0,900.0,137.5
+,Medellin,,Computer Science,PhD,4.0,4000.0,38.5,350.0,,300.0,3950.0
+Poland,,Jagiellonian University,,Master,2.0,,52.4,600.0,80.0,,4.1
+Romania,Cluj-Napoca,Babes-Bolyai University,Data Science,Master,2.0,,43.8,,120.0,350.0,4.65
+Luxembourg,Esch-sur-Alzette,,Data Engineering,Master,2.0,400.0,79.5,1200.0,100.0,800.0,0.92
+Indonesia,,,Computer Engineering,,,4500.0,,300.0,,,15600.0
+,Reykjavik,Reykjavik University,Robotics,Master,2.0,0.0,,,,900.0,
+Colombia,Cali,Universidad del Valle,Information Technology,Bachelor,,3200.0,36.8,300.0,80.0,,3950.0
+Poland,Wroclaw,,Artificial Intelligence,Master,,2600.0,50.5,550.0,80.0,400.0,
+Romania,,Politehnica University,,PhD,4.0,2400.0,42.5,380.0,,,4.65
+Luxembourg,Belval,,Computer Science,,3.0,400.0,,1100.0,100.0,,0.92
+Indonesia,,Gadjah Mada University,,Master,2.0,4000.0,40.2,250.0,,250.0,15600.0
+Iceland,,,Digital Design,Master,2.0,0.0,82.1,,140.0,900.0,137.5
+,Barranquilla,Universidad del Norte,,Master,2.0,,35.4,280.0,80.0,,
+Poland,Poznan,Adam Mickiewicz University,Computer Science,PhD,4.0,2700.0,,580.0,80.0,,
+,Iasi,,Information Systems,Master,,,41.8,350.0,120.0,350.0,
+Luxembourg,Kirchberg,Sacred Heart University,,Master,2.0,400.0,,1300.0,100.0,800.0,0.92
+Indonesia,Surabaya,,,Bachelor,,3800.0,,280.0,150.0,250.0,
+Iceland,Kopavogur,Bifrost University,,Bachelor,3.0,0.0,81.2,,140.0,900.0,137.5
+Colombia,Bucaramanga,UIS,Data Science,PhD,4.0,3500.0,34.8,260.0,80.0,300.0,3950.0
+Poland,Gdansk,Gdansk University of Technology,Cybersecurity,Master,,2500.0,49.8,520.0,80.0,400.0,4.1
+Romania,Brasov,Transilvania University,Computer Engineering,Bachelor,,,,330.0,120.0,350.0,4.65
+Luxembourg,,Miami University Dolibois,Information Technology,,,400.0,77.8,1150.0,100.0,800.0,0.92
+Indonesia,Malang,Brawijaya University,Artificial Intelligence,Master,2.0,3500.0,39.8,240.0,,250.0,15600.0
+Poland,Lodz,,Software Engineering,Master,2.0,2400.0,48.5,500.0,80.0,400.0,4.1
+,Constanta,Ovidius University,,Master,2.0,,39.8,320.0,120.0,,4.65
+Luxembourg,Walferdange,European Business University,,Bachelor,3.0,400.0,76.5,1100.0,,800.0,
+Indonesia,Semarang,,Computer Science,PhD,,3200.0,38.5,220.0,150.0,,15600.0
+Iceland,Borgarnes,Agricultural University,,Master,2.0,0.0,79.8,900.0,140.0,900.0,137.5
+Colombia,,Universidad de Cartagena,Information Systems,Master,2.0,3300.0,,290.0,80.0,300.0,3950.0
+Poland,,University of Silesia,Computer Engineering,Bachelor,3.0,,,480.0,80.0,400.0,
+Romania,Craiova,University of Craiova,Software Development,PhD,,2200.0,,300.0,120.0,350.0,4.65
+,Bertrange,Chamber of Commerce School,Business Analytics,Master,2.0,,75.4,,100.0,800.0,0.92
+Indonesia,,Udayana University,Information Technology,Master,,3000.0,,200.0,,250.0,15600.0
+Tunisia,,University of Tunis,Computer Science,Master,,,,250.0,,200.0,
+Cyprus,,,Data Science,,2.0,8000.0,65.4,,100.0,500.0,
+Croatia,Zagreb,University of Zagreb,,PhD,4.0,4000.0,,450.0,80.0,400.0,7.35
+Dominican Republic,Santo Domingo,INTEC,Computer Engineering,,4.0,,42.5,350.0,100.0,300.0,56.8
+Morocco,Rabat,Mohammed V University,Information Systems,Master,2.0,2000.0,41.2,300.0,70.0,250.0,10.15
+,,PUCP,,,2.0,8500.0,44.8,400.0,120.0,350.0,3.75
+Argentina,,University of Buenos Aires,Computer Science,PhD,4.0,,42.5,,90.0,280.0,275.0
+Tunisia,Sfax,,Artificial Intelligence,Master,,1400.0,33.2,,60.0,,3.15
+,Limassol,Cyprus University of Technology,,Bachelor,4.0,7500.0,62.8,550.0,100.0,500.0,
+Croatia,Split,,,Master,2.0,,,400.0,80.0,400.0,7.35
+Dominican Republic,Santiago,,,Master,,5500.0,40.2,,100.0,300.0,56.8
+Morocco,Casablanca,Hassan II University,Computer Engineering,PhD,4.0,2200.0,,350.0,,250.0,
+,Arequipa,Universidad San Agustin,Software Engineering,Bachelor,4.0,7000.0,41.2,300.0,120.0,350.0,3.75
+Argentina,Cordoba,National University of Cordoba,,Master,2.0,0.0,39.8,280.0,90.0,280.0,
+Tunisia,Sousse,,Computer Systems,Bachelor,3.0,1300.0,,180.0,60.0,200.0,3.15
+Cyprus,Larnaca,American University Cyprus,,,4.0,,61.5,500.0,100.0,500.0,0.92
+Croatia,,University of Rijeka,,Master,2.0,3500.0,54.8,380.0,,400.0,7.35
+Dominican Republic,,Universidad Central Este,Computer Science,Bachelor,4.0,,38.5,280.0,,300.0,56.8
+Morocco,Fez,University of Al Quaraouiyine,Data Analytics,,2.0,1800.0,39.8,250.0,70.0,250.0,10.15
+Peru,Trujillo,,Software Development,PhD,4.0,7500.0,40.5,280.0,120.0,,3.75
+Argentina,,,,Master,2.0,0.0,,260.0,90.0,,275.0
+,,,Data Science,PhD,,,31.8,170.0,,200.0,3.15
+Cyprus,Famagusta,Eastern Mediterranean University,Software Engineering,Master,2.0,7800.0,59.8,480.0,,500.0,0.92
+,Osijek,University of Osijek,Computer Science,,3.0,,52.5,350.0,,400.0,7.35
+Dominican Republic,,UCNE,Information Systems,Master,2.0,,37.2,260.0,,,56.8
+,Marrakech,Cadi Ayyad University,,PhD,4.0,2100.0,40.5,,70.0,250.0,10.15
+,Cusco,,Data Analytics,Master,2.0,6800.0,39.8,,120.0,350.0,3.75
+Argentina,La Plata,National University of La Plata,Software Development,Bachelor,,0.0,37.5,240.0,,280.0,275.0
+,Gabes,University of Gabes,Computer Engineering,Master,2.0,1400.0,30.5,160.0,60.0,200.0,3.15
+Croatia,Zadar,University of Zadar,Information Technology,,4.0,3600.0,53.2,,80.0,400.0,
+Cyprus,Paphos,Neapolis University,Data Science,,,7400.0,58.5,450.0,100.0,,0.92
+,Puerto Plata,UTESA,Computer Science,PhD,4.0,4500.0,36.8,250.0,100.0,,56.8
+Morocco,Tangier,Abdelmalek Essaadi University,Software Engineering,,2.0,,38.9,260.0,70.0,250.0,10.15
+Peru,Piura,,Information Systems,Master,,7200.0,38.5,250.0,120.0,350.0,
+Argentina,Mendoza,,Data Analytics,,4.0,0.0,36.8,230.0,90.0,280.0,275.0
+Tunisia,Bizerte,University of Carthage,Artificial Intelligence,Bachelor,,1200.0,,,60.0,200.0,
+Cyprus,,Girne American University,Computer Engineering,,2.0,7600.0,57.8,,100.0,500.0,0.92
+Croatia,Dubrovnik,University of Dubrovnik,Software Development,Master,2.0,3400.0,54.5,,80.0,400.0,7.35
+Morocco,Oujda,Mohammed I University,,Bachelor,4.0,1700.0,,240.0,,250.0,10.15
+Peru,Chiclayo,Universidad San Martin,,PhD,4.0,6500.0,37.8,240.0,,350.0,3.75
+Ecuador,Quito,Universidad San Francisco,Computer Science,Master,2.0,,45.8,400.0,100.0,300.0,
+Lebanon,Beirut,,Data Science,Master,2.0,20000.0,58.9,600.0,150.0,500.0,15000.0
+Bahrain,,University of Bahrain,Software Engineering,Bachelor,,7000.0,65.4,,130.0,600.0,
+Uruguay,Montevideo,,Computer Engineering,PhD,4.0,0.0,52.4,450.0,90.0,350.0,39.5
+Bulgaria,Sofia,Sofia University,Information Systems,,,3500.0,48.5,400.0,110.0,,1.85
+,,University of Ghana,,,2.0,4500.0,42.1,300.0,120.0,250.0,
+Algeria,Algiers,University of Science and Technology,Computer Science,,3.0,1200.0,38.5,,80.0,200.0,
+Panama,Panama City,Universidad Tecnologica,Artificial Intelligence,Master,,7500.0,51.2,600.0,100.0,400.0,1.0
+,Guayaquil,ESPOL,Software Development,PhD,4.0,7800.0,43.2,,100.0,,1.0
+Lebanon,,,Data Engineering,Master,2.0,18000.0,55.4,500.0,150.0,500.0,15000.0
+Bahrain,,,Information Technology,Master,,,,650.0,130.0,600.0,0.38
+Uruguay,Salto,Universidad ORT Uruguay,Computer Science,Master,2.0,6500.0,48.5,380.0,90.0,350.0,39.5
+Bulgaria,Plovdiv,Plovdiv University,Data Science,Bachelor,3.0,3200.0,,,110.0,300.0,1.85
+,,Kwame Nkrumah University,,PhD,4.0,,39.8,250.0,120.0,250.0,12.0
+Algeria,Oran,University of Oran,,,2.0,,36.4,,80.0,200.0,137.5
+Panama,David,ISAE University,Data Analytics,Bachelor,4.0,6800.0,47.5,450.0,100.0,400.0,
+Ecuador,Cuenca,Universidad de Cuenca,,,2.0,7200.0,42.5,320.0,100.0,300.0,1.0
+Lebanon,Tripoli,Lebanese University,,,4.0,2000.0,52.1,,150.0,500.0,15000.0
+Bahrain,Isa Town,Bahrain Polytechnic,,,4.0,6500.0,,600.0,130.0,600.0,
+Uruguay,Maldonado,Universidad Catolica,,,2.0,,49.2,400.0,,350.0,
+Bulgaria,Varna,Technical University Varna,Computer Engineering,Master,2.0,3100.0,44.2,330.0,110.0,300.0,1.85
+Ghana,Cape Coast,University of Cape Coast,Information Technology,,2.0,4000.0,38.5,,120.0,250.0,12.0
+Algeria,Constantine,University of Constantine,,PhD,4.0,1300.0,35.8,,80.0,200.0,
+Panama,,Universidad Latina,Computer Science,Master,,6500.0,45.8,400.0,100.0,400.0,1.0
+Ecuador,Loja,,Artificial Intelligence,Bachelor,,,41.2,300.0,100.0,,1.0
+Lebanon,Jounieh,Holy Spirit University,,Master,2.0,16000.0,54.5,450.0,150.0,500.0,15000.0
+Bahrain,Sakhir,Arabian Gulf University,Data Science,,4.0,9000.0,,620.0,,600.0,0.38
+,Rivera,UTEC,,Bachelor,,,47.8,350.0,90.0,,39.5
+Bulgaria,Burgas,Burgas Free University,Computer Science,Master,,2900.0,,320.0,,,1.85
+,Tamale,University for Development,Software Development,PhD,4.0,,36.8,200.0,120.0,250.0,
+Algeria,Annaba,,,Master,2.0,,34.5,,80.0,200.0,137.5
+Panama,Chitré,Quality Leadership University,Data Analytics,Bachelor,,6200.0,44.2,380.0,100.0,400.0,1.0
+Ecuador,,Universidad Tecnica,,PhD,,,40.5,280.0,100.0,,1.0
+,Sidon,Lebanese International,Computer Science,Bachelor,4.0,15000.0,,420.0,,,15000.0
+,Muharraq,Applied Science University,Data Engineering,Master,2.0,,61.5,580.0,130.0,600.0,0.38
+Uruguay,Paysandu,Universidad de Paysandu,Software Engineering,Master,2.0,0.0,,,,,39.5
+Bulgaria,Ruse,,Artificial Intelligence,,4.0,3300.0,42.8,300.0,110.0,,1.85
+Ghana,Ho,University of Health Sciences,Data Science,Master,,,35.4,,120.0,,12.0
+Algeria,Tlemcen,University of Tlemcen,Information Systems,Bachelor,3.0,900.0,33.2,160.0,,200.0,
+Panama,La Chorrera,Universidad Metropolitana,,Master,2.0,,43.5,350.0,100.0,400.0,1.0
+Bangladesh,Dhaka,Bangladesh University of Engineering,Computer Science,Master,2.0,,42.5,250.0,100.0,200.0,109.5
+Kuwait,,Kuwait University,Data Science,Master,2.0,,71.2,800.0,140.0,700.0,0.31
+Ukraine,,Igor Sikorsky Kyiv Polytechnic,Software Engineering,,4.0,,,,120.0,300.0,36.8
+Slovenia,Ljubljana,University of Ljubljana,Computer Engineering,PhD,4.0,,,500.0,80.0,450.0,
+Serbia,Belgrade,University of Belgrade,Information Systems,,2.0,2800.0,48.5,,90.0,320.0,108.5
+Iran,Tehran,Sharif University of Technology,Data Analytics,Master,2.0,3000.0,,400.0,,280.0,42150.0
+,Tashkent,INHA University Tashkent,Computer Science,Bachelor,4.0,4200.0,44.5,300.0,,250.0,12300.0
+El Salvador,,Universidad Don Bosco,Software Development,Master,2.0,5500.0,46.8,400.0,110.0,,1.0
+Bangladesh,Chittagong,CUET,Artificial Intelligence,PhD,4.0,2200.0,39.8,200.0,100.0,200.0,109.5
+Kuwait,Hawalli,American University Kuwait,,Master,2.0,15000.0,68.5,750.0,140.0,700.0,0.31
+Ukraine,Lviv,Lviv Polytechnic,,Master,2.0,3500.0,43.2,350.0,120.0,300.0,36.8
+Slovenia,Maribor,University of Maribor,Data Science,,,,58.5,450.0,,450.0,0.92
+Serbia,Novi Sad,University of Novi Sad,Software Engineering,PhD,4.0,2600.0,45.8,320.0,90.0,320.0,108.5
+Iran,Isfahan,,,Bachelor,3.0,2800.0,,350.0,,280.0,42150.0
+Uzbekistan,Samarkand,Samarkand State University,Data Analytics,Master,,3800.0,41.2,250.0,,250.0,12300.0
+El Salvador,Santa Ana,Universidad Catolica,Computer Engineering,Bachelor,4.0,5000.0,44.5,,110.0,300.0,1.0
+Bangladesh,Khulna,Khulna University,Software Development,Master,2.0,2100.0,38.5,180.0,100.0,200.0,109.5
+Kuwait,Al Jahra,Gulf University for Science,Artificial Intelligence,PhD,,14000.0,66.8,700.0,140.0,700.0,
+Ukraine,,Kharkiv Polytechnic,Data Science,Master,,,42.5,330.0,120.0,300.0,36.8
+Slovenia,Koper,University of Primorska,,,3.0,4000.0,57.2,420.0,,450.0,0.92
+Serbia,Nis,University of Nis,,,2.0,,44.2,300.0,90.0,320.0,108.5
+Iran,Mashhad,,,PhD,4.0,2900.0,47.8,320.0,150.0,280.0,42150.0
+,,,Computer Science,Bachelor,4.0,,39.8,220.0,,250.0,12300.0
+El Salvador,San Miguel,Universidad de Oriente,Information Systems,Master,2.0,4800.0,43.2,320.0,110.0,300.0,1.0
+Bangladesh,Rajshahi,RUET,Software Engineering,,2.0,2000.0,37.2,170.0,,200.0,109.5
+Kuwait,Salmiya,Australian College Kuwait,Data Science,Bachelor,3.0,,65.4,680.0,140.0,700.0,0.31
+Ukraine,Odesa,Odesa Polytechnic,,PhD,4.0,3600.0,,320.0,120.0,,36.8
+Slovenia,Nova Gorica,University of Nova Gorica,,Master,2.0,4100.0,,400.0,80.0,450.0,0.92
+Serbia,Kragujevac,University of Kragujevac,Data Engineering,Bachelor,4.0,2400.0,43.5,280.0,,320.0,108.5
+,Shiraz,Shiraz University,Software Development,,2.0,,46.8,300.0,,280.0,42150.0
+,Namangan,Namangan Institute,Information Technology,Master,2.0,,38.5,200.0,160.0,250.0,
+El Salvador,Sonsonate,,Data Science,Bachelor,3.0,,,300.0,110.0,300.0,1.0
+Bangladesh,Sylhet,,,,4.0,2300.0,36.8,160.0,100.0,200.0,109.5
+Kuwait,Al Ahmadi,,Software Engineering,Master,2.0,,64.5,650.0,,700.0,0.31
+Ukraine,Dnipro,Dnipro Polytechnic,Data Analytics,Master,2.0,,40.5,300.0,120.0,300.0,36.8
+Slovenia,Celje,Faculty of Logistics,Information Systems,Bachelor,,3900.0,55.4,380.0,80.0,450.0,0.92
+Serbia,Subotica,University of Subotica,Computer Science,,2.0,2300.0,42.8,270.0,,,108.5
+,Tabriz,University of Tabriz,Artificial Intelligence,PhD,4.0,2600.0,45.5,280.0,150.0,280.0,42150.0
+Uzbekistan,Andijan,,Software Development,Master,,,37.8,180.0,160.0,250.0,12300.0
+El Salvador,,ITCA-FEPADE,Computer Engineering,Bachelor,4.0,,42.1,280.0,110.0,300.0,1.0
+,,University of Malaya,,Master,,8500.0,55.4,500.0,120.0,400.0,4.65
+Saudi Arabia,Riyadh,King Saud University,Data Science,PhD,4.0,5000.0,72.5,800.0,200.0,800.0,3.75
+USA,Boston,Harvard University,Artificial Intelligence,Master,2.0,,82.1,2200.0,160.0,1500.0,1.0
+UK,London,Imperial College,,Master,2.0,,75.3,1800.0,485.0,,
+Spain,,Universidad Politecnica,,PhD,4.0,3500.0,71.4,,80.0,,0.92
+Italy,,Politecnico di Milano,Data Analytics,Master,,4000.0,,1200.0,120.0,700.0,0.92
+France,,Sorbonne University,Computer Science,Master,2.0,4500.0,84.3,1800.0,99.0,850.0,0.92
+Malaysia,,USM,Information Systems,Bachelor,3.0,7500.0,52.1,450.0,120.0,,4.65
+,Jeddah,King Abdulaziz University,Data Engineering,Master,2.0,4800.0,,,200.0,800.0,3.75
+,Stanford,Stanford University,,PhD,5.0,52000.0,84.3,2300.0,160.0,,1.0
+UK,,University of Cambridge,Artificial Intelligence,,4.0,45000.0,71.5,,485.0,800.0,0.79
+Spain,Barcelona,Universitat de Barcelona,Data Science,Master,2.0,,73.6,,,750.0,0.92
+Italy,,Sapienza University,Software Engineering,Bachelor,3.0,3500.0,71.2,,120.0,700.0,
+France,,École Normale Supérieure,Computer Engineering,Master,,,,1200.0,99.0,850.0,0.92
+Malaysia,Johor Bahru,UTM,Data Analytics,PhD,,8000.0,51.8,400.0,,400.0,4.65
+Saudi Arabia,Dhahran,KFUPM,Computer Science,Master,2.0,,68.5,700.0,200.0,,3.75
+,Berkeley,UC Berkeley,Data Science,Master,2.0,54000.0,83.2,2000.0,160.0,1500.0,1.0
+,Oxford,University of Oxford,,Master,2.0,40000.0,,1400.0,485.0,800.0,
+Spain,Valencia,Universidad de Valencia,,PhD,4.0,,68.5,,80.0,,0.92
+Italy,,Politecnico di Torino,,Master,2.0,3800.0,,900.0,,700.0,
+,,INSA Toulouse,Data Engineering,PhD,4.0,4300.0,72.1,,99.0,850.0,0.92
+Malaysia,Kuching,,Computer Science,Master,2.0,7000.0,49.5,,120.0,400.0,4.65
+,Medina,,Software Development,Bachelor,4.0,,65.4,,200.0,800.0,
+USA,MIT,Massachusetts,,PhD,5.0,56000.0,82.1,2100.0,160.0,1500.0,1.0
+,,University of Edinburgh,Data Science,,2.0,38000.0,67.8,1100.0,485.0,800.0,
+Spain,Seville,Universidad de Sevilla,Computer Engineering,,2.0,3000.0,65.4,750.0,80.0,750.0,0.92
+,Bologna,University of Bologna,Information Systems,PhD,4.0,3600.0,70.5,950.0,120.0,700.0,0.92
+,Marseille,Aix-Marseille University,,Master,2.0,4100.0,73.5,1100.0,99.0,850.0,0.92
+Malaysia,Cyberjaya,Multimedia University,,,3.0,,53.2,450.0,,400.0,4.65
+Saudi Arabia,Dammam,Imam Abdulrahman University,Computer Science,,2.0,4600.0,,680.0,200.0,,
+USA,,Columbia University,Data Science,Master,,,,,160.0,,1.0
+UK,Manchester,,,PhD,4.0,35000.0,65.4,,485.0,,0.79
+,Granada,Universidad de Granada,Computer Science,,3.0,2800.0,,700.0,80.0,,0.92
+Italy,Florence,University of Florence,Data Engineering,Master,2.0,3500.0,71.2,1000.0,120.0,700.0,0.92
+France,,University of Bordeaux,,PhD,4.0,4300.0,72.1,1000.0,99.0,,
+Malaysia,Bangi,UKM,Artificial Intelligence,,2.0,7200.0,,420.0,120.0,400.0,4.65
+Saudi Arabia,Taif,Taif University,,Master,2.0,4400.0,64.5,600.0,200.0,,3.75
+,Los Angeles,UCLA,Computer Engineering,PhD,5.0,52000.0,,,,,
+UK,,University of Bristol,Data Analytics,Master,2.0,36000.0,68.9,1200.0,485.0,800.0,0.79
+Spain,Bilbao,University of the Basque Country,Information Technology,,2.0,3400.0,67.8,850.0,,750.0,0.92
+,Naples,University of Naples,Computer Science,Bachelor,3.0,,67.8,800.0,120.0,700.0,0.92
+France,Nice,University of Nice,Data Science,Master,2.0,4100.0,76.5,1300.0,99.0,850.0,0.92
+Malaysia,Melaka,UTeM,Software Engineering,PhD,,7500.0,50.2,400.0,120.0,,
+Saudi Arabia,Tabuk,University of Tabuk,Computer Engineering,Bachelor,4.0,4100.0,63.2,,200.0,800.0,3.75
+USA,Chicago,University of Chicago,Artificial Intelligence,Master,2.0,58000.0,84.1,1900.0,160.0,1500.0,1.0
+UK,,University of Glasgow,Data Engineering,PhD,4.0,,64.5,950.0,485.0,800.0,0.79
+Spain,,,Information Systems,Master,2.0,3100.0,62.1,600.0,,750.0,
+,,University of Pisa,Software Development,Master,2.0,3300.0,68.9,850.0,120.0,700.0,
+France,Lille,University of Lille,Computer Science,,3.0,,,950.0,99.0,850.0,0.92
+,,UiTM,,,2.0,7100.0,51.8,430.0,120.0,400.0,4.65
+,Makkah,Umm Al-Qura University,Information Technology,PhD,4.0,4300.0,,650.0,200.0,,3.75
+,San Francisco,Stanford University,Data Science,Master,,55000.0,95.2,2400.0,160.0,1500.0,1.0
+,,University of Leeds,Computer Engineering,,2.0,,,,485.0,800.0,
+Spain,Zaragoza,,,PhD,4.0,2900.0,63.2,650.0,80.0,,
+Italy,Padua,University of Padua,Software Engineering,Master,2.0,3400.0,69.5,,,700.0,0.92
+France,Strasbourg,,Data Analytics,,2.0,4000.0,70.2,1000.0,99.0,850.0,0.92
+,Nilai,USIM,Computer Science,Bachelor,3.0,6800.0,50.5,400.0,120.0,400.0,4.65
+Saudi Arabia,Al-Ahsa,King Faisal University,,Master,2.0,4200.0,64.2,600.0,200.0,800.0,3.75
+USA,,University of Washington,,PhD,5.0,50000.0,77.8,,160.0,1500.0,1.0
+UK,,University of Nottingham,Data Engineering,Master,2.0,34000.0,61.2,,485.0,800.0,0.79

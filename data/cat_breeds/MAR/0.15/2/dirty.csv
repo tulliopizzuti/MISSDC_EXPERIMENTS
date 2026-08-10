@@ -1,0 +1,1072 @@
+Breed str,Ageinyears float,Ageinmonths int,Gender str,Neuteredorspayed str,Bodylength int,Weight int,Furcolourdominant str,Furpattern str,Eyecolour str,Allowedoutdoor str,Preferredfood str,Ownerplaytimeminutes int,Sleeptimehours int,Country str
+Angora,0.25,,female,False,,2.0,white,solid,blue,False,wet,46.0,16.0,France
+Angora,,4.0,male,False,,2.5,white,solid,,False,,48.0,16.0,France
+Angora,,6.0,male,False,,2.8,black,solid,,False,,41.0,11.0,France
+Angora,0.5,6.0,female,False,21.0,3.0,white,solid,,False,,24.0,8.0,France
+Angora,,6.0,male,False,,3.0,red/cream,tabby,green,False,wet,51.0,10.0,France
+Angora,0.5,6.0,female,False,21.0,3.0,white,solid,,False,,30.0,10.0,France
+Angora,,7.0,male,False,,3.0,white,solid,,False,,47.0,9.0,France
+Angora,,7.0,male,False,,3.0,red/cream,solid,,False,,55.0,11.0,France
+Angora,0.58,7.0,female,,25.0,3.0,black,tortie,blue,False,wet,20.0,12.0,France
+Angora,0.67,8.0,female,False,25.0,3.0,white,solid,,False,,33.0,17.0,France
+Angora,0.67,8.0,female,False,26.0,3.0,black,solid,,False,,39.0,18.0,France
+Angora,,8.0,male,True,26.0,3.3,white,solid,,False,,38.0,19.0,France
+Angora,,9.0,male,True,,3.3,white,solid,,False,,46.0,16.0,France
+Angora,,13.0,male,False,28.0,3.2,white,solid,,False,,35.0,14.0,France
+Angora,,16.0,male,True,30.0,3.5,red/cream,tabby,blue,False,dry,38.0,20.0,France
+Angora,,10.0,male,False,,3.4,white,solid,,False,,56.0,17.0,France
+Angora,1.42,17.0,female,True,,3.9,white,solid,,False,,48.0,14.0,France
+Angora,0.92,11.0,female,True,,3.9,white,solid,,False,,55.0,19.0,France
+Angora,,12.0,male,False,,3.5,white,solid,,True,,42.0,14.0,France
+Angora,,12.0,male,True,,3.9,white,solid,,False,,41.0,17.0,France
+Angora,,52.0,male,False,25.0,4.0,white,solid,,False,,36.0,14.0,France
+Angora,1.17,14.0,female,False,34.0,3.8,white,solid,,True,,23.0,17.0,France
+Angora,,36.0,male,True,38.0,5.0,white,solid,,,,16.0,14.0,France
+Angora,1.17,14.0,female,,25.0,3.0,white,solid,,False,,19.0,17.0,France
+Angora,,48.0,male,True,39.0,4.6,white,solid,,False,,33.0,14.0,France
+,,70.0,male,True,37.0,4.6,black,solid,,True,,9.0,,
+Angora,1.25,15.0,female,True,26.0,3.4,white,solid,,False,,25.0,15.0,France
+Angora,,64.0,male,,44.0,,white,solid,,True,,20.0,16.0,France
+Angora,,15.0,male,True,40.0,,red/cream,tabby,blue,False,wet,35.0,17.0,France
+Angora,,59.0,male,False,41.0,,black,solid,,False,,31.0,14.0,France
+Angora,,18.0,male,False,40.0,,white,solid,,False,,27.0,14.0,France
+Angora,1.58,19.0,female,,33.0,3.5,white,solid,,False,,18.0,18.0,France
+Angora,1.58,19.0,female,True,33.0,3.2,white,solid,,True,,12.0,19.0,France
+Angora,,54.0,male,True,37.0,5.6,white,solid,,,,9.0,,France
+Angora,,57.0,male,,41.0,,black,solid,,True,,19.0,14.0,France
+Angora,1.67,20.0,female,True,35.0,5.0,white,solid,,,,10.0,,France
+Angora,,20.0,male,True,28.0,3.1,white,solid,,True,,39.0,18.0,France
+Angora,,20.0,male,False,36.0,3.9,black,solid,,False,,35.0,19.0,France
+Angora,1.75,21.0,female,True,28.0,4.9,white,solid,,,,10.0,,France
+Angora,1.75,21.0,female,True,34.0,4.7,black,solid,,False,,23.0,19.0,France
+Angora,1.75,21.0,female,False,34.0,4.0,white,solid,,True,,25.0,20.0,France
+Angora,1.83,22.0,female,True,22.0,2.9,black,solid,green,False,,40.0,20.0,France
+Angora,,22.0,male,False,,,white,solid,blue,False,,45.0,20.0,France
+Angora,1.83,22.0,,True,24.0,4.3,black,bicolor,amber,True,wet,30.0,16.0,France
+Angora,1.92,23.0,female,,35.0,2.7,white,solid,amber,False,,21.0,18.0,France
+Angora,1.92,23.0,female,True,33.0,3.4,white,solid,,False,,14.0,16.0,France
+Angora,2.0,24.0,female,False,32.0,2.4,black,solid,,False,,11.0,,France
+Angora,2.0,24.0,female,True,35.0,3.8,white,solid,,False,,15.0,14.0,France
+Angora,,24.0,male,True,38.0,3.7,white,solid,,True,,23.0,16.0,France
+Angora,2.08,25.0,female,False,33.0,2.9,white,solid,,False,,36.0,14.0,France
+Angora,,25.0,male,False,41.0,,black,solid,,False,,11.0,,France
+Angora,2.17,26.0,female,True,35.0,2.6,white,solid,blue,False,,28.0,17.0,France
+Angora,,27.0,male,False,38.0,4.6,red/cream,tabby,blue,False,wet,11.0,,France
+Angora,2.25,27.0,female,False,34.0,3.7,black,solid,green,False,,10.0,,France
+Angora,,27.0,male,True,25.0,3.1,white,solid,amber,False,,39.0,16.0,France
+Angora,,27.0,male,True,38.0,5.3,white,solid,amber,,,39.0,14.0,France
+Angora,2.33,28.0,female,,36.0,4.0,red/cream,solid,blue,False,,19.0,14.0,France
+Angora,2.33,28.0,female,,36.0,2.4,white,solid,blue,False,,19.0,16.0,France
+Angora,,28.0,male,True,39.0,3.9,white,solid,,False,,34.0,14.0,France
+Angora,2.33,28.0,female,True,36.0,3.3,white,solid,,False,,32.0,17.0,France
+Angora,2.33,28.0,female,True,39.0,2.7,black,solid,,True,,33.0,14.0,France
+Angora,,29.0,male,False,39.0,4.3,white,solid,,False,,37.0,14.0,France
+Angora,2.5,30.0,female,,35.0,3.6,white,solid,,False,,18.0,14.0,France
+Angora,,30.0,male,False,,4.7,white,solid,,False,,44.0,16.0,France
+Angora,,31.0,male,True,40.0,,red/cream,solid,,False,,38.0,14.0,France
+Angora,2.58,31.0,female,False,32.0,3.0,white,solid,,False,,30.0,16.0,France
+Angora,2.67,32.0,female,True,38.0,3.9,red/cream,solid,,False,,37.0,14.0,France
+Angora,,32.0,male,False,40.0,,black,solid,,False,,30.0,14.0,France
+Angora,2.67,32.0,female,,34.0,3.9,black,solid,,True,,21.0,14.0,France
+Angora,2.92,35.0,female,True,34.0,4.1,white,solid,,True,,28.0,14.0,France
+Angora,2.92,35.0,female,True,32.0,2.5,white,solid,,False,,33.0,14.0,France
+Angora,,35.0,male,,41.0,,white,solid,,False,,21.0,14.0,USA
+Angora,,35.0,male,False,39.0,4.1,white,solid,,False,,28.0,14.0,USA
+Angora,,36.0,male,True,39.0,4.4,white,solid,,False,,16.0,15.0,USA
+Angora,,36.0,male,False,,4.8,white,solid,,,,44.0,14.0,USA
+Angora,,37.0,male,True,39.0,5.1,red/cream,tabby,blue,,dry,25.0,16.0,USA
+Angora,,,male,True,38.0,3.7,black,solid,green,True,,25.0,14.0,USA
+Angora,,,male,True,40.0,,white,solid,blue,False,,11.0,,France
+Angora,3.17,,female,False,36.0,4.0,white,solid,amber,False,,11.0,,USA
+Angora,,39.0,male,False,40.0,,,bicolor,blue,False,wet,12.0,,USA
+Angora,,,male,True,41.0,,,solid,amber,False,,24.0,17.0,USA
+Angora,,,male,True,39.0,4.8,,solid,blue,,,15.0,16.0,USA
+Angora,3.5,,male,True,40.0,,,solid,green,True,,13.0,16.0,USA
+Angora,3.5,,female,False,33.0,4.3,,solid,amber,False,,37.0,14.0,USA
+Angora,3.58,,female,True,35.0,3.4,white,solid,blue,False,,23.0,16.0,France
+Angora,3.58,,female,,34.0,3.3,,solid,blue,False,,20.0,14.0,USA
+Angora,3.67,,male,False,39.0,4.5,,solid,amber,False,,23.0,14.0,USA
+Angora,3.67,,male,False,37.0,4.6,white,solid,amber,False,,32.0,14.0,France
+Angora,3.67,44.0,male,True,37.0,4.2,,solid,blue,False,,33.0,14.0,USA
+Angora,3.75,45.0,male,True,43.0,,,solid,blue,False,,38.0,14.0,USA
+Angora,3.83,46.0,male,False,37.0,4.1,,solid,,False,,38.0,16.0,USA
+Angora,3.83,46.0,male,True,40.0,,,bicolor,amber,True,wet,11.0,,USA
+Angora,3.83,46.0,male,,39.0,4.0,red/cream,tabby,blue,False,dry,18.0,14.0,France
+Angora,3.92,,female,True,34.0,4.7,,solid,amber,False,,25.0,14.0,USA
+Angora,3.92,,female,True,37.0,3.3,,solid,amber,False,,25.0,15.0,USA
+Angora,3.92,,female,True,35.0,2.8,,solid,blue,False,,28.0,14.0,USA
+Angora,3.92,,male,False,39.0,4.4,,solid,blue,False,,23.0,15.0,USA
+Angora,4.0,,male,True,36.0,4.8,,solid,green,,,28.0,17.0,USA
+Angora,,49.0,male,False,37.0,4.8,white,solid,green,,,38.0,14.0,USA
+Angora,4.08,49.0,female,False,35.0,4.7,white,solid,,,,11.0,,USA
+Angora,4.08,,male,True,37.0,5.6,white,solid,blue,,,12.0,,USA
+Angora,4.17,,female,True,37.0,3.8,white,solid,amber,False,,23.0,14.0,USA
+Angora,,,male,False,41.0,,white,solid,amber,False,,24.0,16.0,USA
+Angora,4.17,,female,True,35.0,2.8,white,solid,amber,True,,28.0,14.0,USA
+Angora,,,male,True,37.0,4.6,white,solid,amber,False,,36.0,14.0,France
+Angora,4.33,,female,True,34.0,4.3,white,solid,blue,False,,37.0,16.0,USA
+Angora,4.33,,female,True,35.0,3.8,black,solid,amber,False,,30.0,14.0,USA
+Angora,4.33,,female,True,32.0,2.4,white,solid,blue,False,,40.0,14.0,USA
+Angora,,,male,False,39.0,4.4,white,solid,blue,False,,34.0,16.0,USA
+Angora,4.5,,male,,41.0,,white,solid,amber,False,,19.0,14.0,USA
+Angora,4.5,,male,False,39.0,4.3,white,solid,blue,False,,39.0,16.0,USA
+Angora,4.58,,female,False,35.0,3.4,white,solid,blue,False,,36.0,14.0,USA
+Angora,4.58,,female,True,37.0,2.5,white,solid,amber,True,,39.0,17.0,USA
+Angora,,,male,False,35.0,4.3,white,solid,amber,False,,36.0,17.0,USA
+Angora,4.58,,female,True,37.0,3.4,white,solid,amber,False,,24.0,14.0,USA
+Angora,4.58,,male,,38.0,5.1,red/cream,solid,blue,,,17.0,14.0,USA
+Angora,4.75,,female,False,38.0,3.9,white,solid,amber,False,,14.0,16.0,USA
+Angora,4.75,,female,True,38.0,3.1,white,solid,amber,False,,23.0,14.0,USA
+Angora,4.75,,male,False,37.0,4.0,white,solid,blue,False,,32.0,16.0,USA
+Angora,,,male,,40.0,,white,solid,amber,False,,18.0,14.0,USA
+Angora,4.83,,female,,37.0,3.0,white,solid,amber,False,,20.0,14.0,France
+Angora,,,male,False,36.0,3.7,white,solid,blue,False,,32.0,17.0,USA
+Angora,,,male,True,36.0,4.4,white,solid,green,False,,29.0,16.0,USA
+Angora,,,male,False,41.0,,white,solid,amber,False,,14.0,14.0,USA
+Angora,,59.0,male,True,40.0,,red/cream,tabby,amber,True,wet,31.0,14.0,USA
+Angora,4.92,,female,True,38.0,4.6,white,solid,blue,False,,28.0,17.0,USA
+Angora,5.0,,female,True,39.0,4.7,white,solid,blue,False,,32.0,14.0,USA
+Angora,5.0,,male,True,37.0,5.2,white,solid,amber,,,29.0,14.0,USA
+Angora,5.08,,male,True,40.0,,white,solid,amber,False,,31.0,14.0,USA
+Angora,5.08,,female,False,39.0,3.4,white,solid,blue,False,,27.0,16.0,USA
+Angora,5.08,,female,True,37.0,3.1,white,solid,blue,False,,29.0,14.0,USA
+Angora,5.17,,female,False,39.0,3.9,white,solid,blue,False,,35.0,17.0,Germany
+Angora,5.17,,female,True,34.0,3.4,white,solid,green,False,,9.0,,Germany
+Angora,5.17,,female,True,38.0,3.9,white,solid,green,True,,9.0,,Germany
+Angora,5.17,,female,False,38.0,2.7,white,solid,amber,False,,27.0,14.0,Germany
+Angora,5.17,,male,,36.0,4.3,white,solid,amber,False,,19.0,14.0,Germany
+Angora,5.17,,male,True,40.0,,white,solid,blue,False,,39.0,14.0,Germany
+Angora,5.17,,male,False,36.0,3.5,white,solid,blue,False,wet,37.0,14.0,Germany
+Angora,5.17,,female,False,39.0,4.1,white,solid,blue,False,wet,17.0,16.0,Germany
+Angora,5.25,63.0,female,True,31.0,2.4,white,solid,,False,wet,29.0,16.0,Germany
+Angora,5.25,,female,False,37.0,3.1,white,solid,blue,False,dry,23.0,14.0,Germany
+Angora,5.33,64.0,female,True,35.0,3.4,white,solid,blue,False,dry,26.0,14.0,Germany
+Angora,5.33,64.0,male,False,36.0,4.5,white,solid,,False,wet,9.0,,Germany
+Angora,5.33,64.0,female,True,37.0,2.9,white,solid,,True,dry,16.0,14.0,Germany
+Angora,5.42,65.0,male,True,38.0,4.3,black,solid,,False,wet,23.0,17.0,Germany
+Angora,5.42,65.0,female,False,39.0,4.1,white,solid,,False,wet,27.0,17.0,Germany
+Angora,5.5,66.0,male,True,40.0,,white,solid,,False,dry,17.0,14.0,Germany
+Angora,5.58,67.0,male,False,40.0,,black,solid,,False,wet,27.0,14.0,
+,5.67,68.0,male,True,39.0,5.5,white,solid,,,wet,12.0,,
+,5.67,68.0,male,False,41.0,,white,solid,,False,dry,24.0,14.0,
+,5.67,68.0,male,True,36.0,5.1,white,solid,,,dry,37.0,14.0,
+,5.67,68.0,male,True,37.0,5.3,red/cream,tabby,blue,,wet,37.0,15.0,
+,5.75,69.0,male,False,39.0,4.4,white,solid,,False,dry,39.0,15.0,
+,5.75,69.0,female,,38.0,4.4,black,bicolor,amber,False,dry,18.0,14.0,
+,5.75,69.0,female,True,38.0,3.2,white,solid,,True,wet,25.0,15.0,
+,5.75,69.0,female,True,31.0,3.1,white,solid,,False,wet,9.0,,
+,5.92,71.0,female,True,39.0,4.8,white,solid,,,wet,12.0,,
+,5.92,71.0,male,False,38.0,4.3,white,solid,,False,dry,26.0,13.0,
+,5.92,71.0,male,True,41.0,,white,solid,,False,wet,29.0,13.0,
+,5.92,71.0,female,True,36.0,4.7,white,solid,,False,dry,29.0,16.0,
+,6.0,72.0,male,False,36.0,4.8,white,solid,,,wet,33.0,17.0,
+,6.0,72.0,female,False,36.0,3.6,white,solid,green,False,dry,26.0,13.0,
+,6.08,73.0,male,True,38.0,4.4,white,solid,blue,False,wet,16.0,14.0,
+,6.08,73.0,female,True,38.0,3.4,white,solid,blue,False,wet,38.0,16.0,
+,6.08,73.0,male,False,41.0,,white,solid,blue,False,dry,39.0,16.0,
+,6.25,,male,False,39.0,4.2,white,solid,blue,False,wet,24.0,13.0,USA
+,6.25,,male,False,38.0,3.6,white,solid,amber,False,wet,23.0,16.0,France
+,6.25,,male,False,41.0,,white,solid,amber,False,wet,24.0,13.0,USA
+,6.33,76.0,female,False,37.0,3.1,white,solid,green,False,dry,30.0,13.0,
+,6.42,77.0,male,True,36.0,4.7,white,solid,amber,False,wet,12.0,16.0,
+,6.5,78.0,female,True,37.0,4.5,red/cream,solid,blue,False,wet,30.0,17.0,
+,6.5,78.0,male,,36.0,4.0,white,solid,blue,True,dry,18.0,16.0,
+,6.5,78.0,male,False,39.0,4.2,black,bicolor,amber,False,wet,15.0,17.0,
+,6.5,78.0,female,,34.0,3.8,white,solid,blue,False,wet,21.0,14.0,
+,6.5,78.0,female,True,38.0,5.2,white,solid,blue,,wet,9.0,,
+,6.58,79.0,male,False,40.0,,red/cream,tabby,blue,False,wet,12.0,,
+,6.58,79.0,male,True,41.0,,red/cream,tabby,green,False,dry,23.0,16.0,
+,6.58,79.0,male,False,41.0,,white,solid,amber,False,dry,16.0,17.0,
+,6.67,80.0,male,True,40.0,,white,solid,blue,False,dry,13.0,14.0,
+,6.67,80.0,female,False,34.0,2.2,white,solid,amber,False,dry,34.0,17.0,
+,6.75,81.0,female,False,37.0,2.4,white,solid,blue,False,dry,16.0,14.0,
+,6.75,81.0,male,True,39.0,4.4,white,solid,amber,False,dry,24.0,14.0,
+,6.75,81.0,male,True,40.0,,white,solid,blue,True,wet,17.0,14.0,
+,6.83,82.0,female,False,37.0,2.8,white,solid,amber,False,dry,36.0,14.0,
+,6.92,,male,True,41.0,,white,solid,blue,False,wet,26.0,14.0,Canada
+,6.92,,male,True,38.0,4.5,white,solid,amber,False,wet,32.0,16.0,Canada
+,6.92,,female,,39.0,4.3,white,solid,amber,False,wet,22.0,14.0,Canada
+Angora,7.0,,male,,40.0,,white,solid,blue,True,dry,20.0,14.0,Canada
+Angora,7.0,,male,True,39.0,4.4,white,solid,amber,False,dry,16.0,14.0,Canada
+Angora,7.08,,female,False,35.0,2.5,white,solid,blue,False,wet,27.0,14.0,Canada
+Angora,7.17,,male,True,40.0,,white,solid,amber,False,wet,9.0,,Canada
+Angora,7.25,,male,False,39.0,4.0,white,solid,green,False,wet,37.0,20.0,Canada
+Angora,7.25,,male,True,36.0,4.9,white,solid,amber,,dry,29.0,19.0,Canada
+Angora,7.25,,male,False,38.0,4.4,white,solid,amber,False,wet,27.0,16.0,Canada
+Angora,7.25,87.0,,False,33.0,4.0,black,bicolor,amber,False,dry,16.0,14.0,Canada
+Angora,7.25,,male,False,40.0,,white,solid,blue,False,dry,17.0,19.0,Canada
+Angora,7.25,87.0,male,True,40.0,,red/cream,tabby,blue,False,wet,12.0,20.0,USA
+Angora,7.25,,female,True,33.0,2.5,white,solid,blue,False,dry,23.0,18.0,USA
+Angora,7.33,88.0,,False,41.0,,black,bicolor,blue,False,dry,27.0,14.0,USA
+Angora,7.42,,female,True,35.0,3.9,white,solid,blue,True,dry,25.0,19.0,USA
+Angora,7.42,,female,True,34.0,3.3,white,solid,amber,False,wet,32.0,14.0,USA
+Angora,7.58,,male,True,39.0,5.4,white,solid,amber,,wet,5.0,14.0,USA
+Angora,7.58,91.0,male,True,40.0,,red/cream,tabby,blue,False,dry,14.0,14.0,USA
+Angora,7.67,,male,False,36.0,4.9,white,solid,blue,,dry,31.0,18.0,USA
+Angora,7.67,,male,True,40.0,,black,solid,blue,False,dry,39.0,18.0,USA
+Angora,7.75,,female,True,33.0,3.1,white,solid,blue,True,wet,26.0,18.0,USA
+Angora,7.75,,male,True,42.0,,white,solid,green,False,wet,16.0,14.0,USA
+Angora,7.75,,female,False,37.0,2.8,white,solid,green,False,dry,28.0,18.0,USA
+Angora,7.75,,male,True,37.0,4.2,white,solid,blue,False,wet,15.0,18.0,USA
+Angora,7.75,,male,False,41.0,,black,solid,blue,False,wet,30.0,20.0,USA
+Angora,7.83,,male,False,37.0,3.5,white,solid,amber,False,wet,25.0,14.0,USA
+Angora,7.83,,male,True,38.0,4.6,white,solid,amber,False,wet,37.0,14.0,USA
+Angora,7.83,,male,True,38.0,4.0,white,solid,amber,False,dry,27.0,16.0,USA
+Angora,7.83,,male,True,40.0,,white,solid,amber,False,wet,25.0,18.0,USA
+Angora,7.83,94.0,,True,33.0,4.0,white,bicolor,blue,True,wet,10.0,,USA
+Angora,7.83,,male,False,40.0,,white,solid,blue,False,wet,25.0,18.0,USA
+Angora,7.83,,male,True,39.0,5.0,red/cream,solid,blue,,wet,24.0,16.0,USA
+Angora,7.92,,male,True,39.0,3.8,white,solid,amber,False,wet,32.0,19.0,USA
+Angora,8.0,96.0,,False,37.0,3.4,black,bicolor,blue,False,wet,29.0,17.0,USA
+Angora,8.0,,male,False,36.0,4.5,white,solid,green,False,dry,28.0,16.0,USA
+Angora,8.0,,female,True,34.0,4.9,white,solid,amber,,wet,17.0,19.0,USA
+Angora,7.17,,male,False,36.0,3.5,red/cream,solid,blue,False,dry,29.0,20.0,USA
+Angora,8.08,,female,,33.0,3.1,white,solid,amber,False,wet,18.0,19.0,USA
+Angora,8.08,97.0,,True,41.0,,black,bicolor,amber,True,wet,9.0,,USA
+Angora,8.08,97.0,male,True,37.0,3.8,red/cream,tabby,blue,False,wet,27.0,16.0,USA
+Angora,4.0,,female,True,36.0,2.4,white,solid,blue,True,wet,14.0,14.0,USA
+Angora,8.25,,female,True,34.0,3.6,white,solid,amber,False,wet,25.0,19.0,USA
+Angora,4.17,,female,,35.0,2.8,white,solid,blue,False,dry,20.0,14.0,USA
+Angora,5.08,,female,False,36.0,2.3,white,solid,blue,False,,16.0,16.0,USA
+Angora,4.58,,female,True,35.0,2.8,white,solid,amber,False,dry,25.0,17.0,USA
+Angora,8.5,,male,,40.0,,white,solid,blue,False,dry,18.0,14.0,USA
+Angora,7.08,85.0,male,True,36.0,4.8,black,bicolor,blue,,wet,9.0,,USA
+Angora,7.0,,female,False,33.0,3.0,white,solid,blue,False,dry,34.0,14.0,USA
+Angora,8.58,,male,,39.0,4.4,white,solid,amber,False,wet,18.0,16.0,USA
+Angora,7.17,,female,,38.0,4.6,white,solid,blue,False,wet,21.0,14.0,USA
+Angora,8.58,,male,True,52.0,5.0,red/cream,solid,blue,,wet,30.0,16.0,USA
+Angora,8.67,,female,True,35.0,4.1,white,solid,amber,False,dry,15.0,16.0,USA
+Angora,4.75,,female,,34.0,2.7,white,solid,blue,True,wet,22.0,14.0,USA
+,6.83,,female,True,36.0,3.6,white,solid,blue,False,wet,32.0,17.0,USA
+Angora,7.5,,female,False,36.0,3.5,white,solid,green,False,wet,16.0,14.0,USA
+Angora,7.58,,male,False,36.0,3.6,white,solid,blue,False,,39.0,18.0,USA
+Angora,8.92,107.0,female,True,34.0,4.5,black,bicolor,amber,False,dry,13.0,19.0,USA
+,6.75,,female,,33.0,2.9,white,solid,green,False,,20.0,16.0,USA
+Angora,9.0,,female,True,38.0,3.7,white,solid,amber,True,,6.0,,USA
+Angora,7.33,,female,False,39.0,4.3,white,solid,amber,False,wet,16.0,13.0,USA
+Angora,5.17,,female,False,36.0,2.5,white,solid,amber,False,wet,27.0,13.0,USA
+Angora,9.08,109.0,male,True,58.0,5.2,black,bicolor,blue,,wet,30.0,20.0,USA
+Angora,9.17,,female,,35.0,4.1,white,solid,green,False,wet,20.0,16.0,USA
+,6.5,,male,True,39.0,3.5,white,solid,amber,False,wet,25.0,17.0,USA
+Angora,9.25,,male,True,38.0,5.0,white,solid,amber,,wet,27.0,16.0,USA
+Angora,9.25,,male,False,38.0,3.9,white,solid,amber,False,wet,22.0,19.0,USA
+Angora,9.33,,female,False,36.0,3.9,white,solid,green,False,wet,25.0,14.0,USA
+Angora,8.33,,male,,41.0,,white,solid,blue,False,dry,18.0,14.0,USA
+Angora,4.25,,female,False,33.0,2.7,white,solid,amber,False,dry,38.0,17.0,USA
+,6.42,,female,,36.0,2.5,white,solid,blue,True,wet,19.0,17.0,USA
+Angora,9.5,,female,,38.0,4.1,white,solid,blue,False,wet,18.0,19.0,USA
+Angora,9.58,,male,True,36.0,4.0,white,solid,green,False,dry,28.0,16.0,USA
+Angora,3.0,,female,True,39.0,3.1,white,solid,amber,False,wet,28.0,13.0,USA
+Angora,9.58,115.0,,True,61.0,5.0,black,bicolor,blue,,wet,13.0,20.0,USA
+Angora,9.67,,female,True,36.0,4.1,white,solid,blue,False,wet,17.0,20.0,USA
+,5.92,,female,True,35.0,3.3,,solid,blue,False,wet,34.0,13.0,USA
+Angora,9.67,,male,False,39.0,5.2,,solid,amber,,dry,14.0,18.0,USA
+Angora,9.67,,female,False,37.0,4.6,,solid,blue,False,wet,11.0,,USA
+,6.33,,female,True,38.0,4.8,white,solid,blue,,dry,16.0,13.0,UK
+Angora,8.42,,male,False,40.0,,white,solid,amber,False,,26.0,16.0,UK
+Angora,9.75,,male,,38.0,4.4,white,solid,blue,False,wet,18.0,18.0,UK
+Angora,9.75,,male,False,37.0,4.9,white,solid,blue,,wet,13.0,17.0,UK
+Angora,4.0,48.0,female,True,37.0,2.6,black,bicolor,blue,False,wet,30.0,14.0,UK
+Angora,3.0,36.0,female,True,35.0,3.3,black,bicolor,blue,False,dry,23.0,14.0,UK
+Angora,9.83,,female,False,35.0,4.9,white,solid,blue,,wet,11.0,,UK
+Angora,9.83,,female,True,39.0,2.9,white,solid,amber,True,dry,6.0,,UK
+Angora,9.83,118.0,male,,48.0,5.2,red/cream,tabby,blue,,dry,22.0,16.0,UK
+Angora,8.42,,female,,36.0,4.0,white,solid,blue,True,wet,18.0,20.0,UK
+Angora,4.92,,female,True,35.0,2.9,white,solid,amber,False,dry,38.0,13.0,UK
+Angora,7.08,85.0,male,False,40.0,,black,tortie,blue,False,wet,39.0,17.0,UK
+Angora,5.08,,female,False,33.0,2.4,white,solid,blue,False,wet,13.0,13.0,UK
+Angora,10.0,,male,False,36.0,3.8,white,solid,amber,False,wet,23.0,14.0,UK
+Angora,11.25,,male,True,40.0,,white,solid,blue,False,wet,13.0,18.0,UK
+Angora,10.0,,female,,37.0,3.7,white,solid,blue,True,wet,19.0,17.0,USA
+,5.83,70.0,female,True,35.0,2.6,red/cream,solid,,False,wet,23.0,13.0,
+Maine coon,0.25,3.0,female,False,,3.3,brown/chocolate,tabby,blue,False,wet,50.0,16.0,USA
+Maine coon,0.17,2.0,male,False,,3.7,white,solid,,False,wet,60.0,16.0,USA
+Maine coon,0.42,5.0,male,,25.0,3.3,brown/chocolate,solid,,False,,20.0,16.0,USA
+Maine coon,0.5,6.0,male,False,,3.3,brown/chocolate,tabby,yellow,False,wet,54.0,10.0,UK
+Maine coon,0.5,6.0,female,False,30.0,3.5,brown/chocolate,tabby,yellow,False,wet,39.0,10.0,UK
+Maine coon,0.5,6.0,female,False,31.0,3.0,white,solid,,False,,24.0,16.0,UK
+Maine coon,0.5,6.0,female,False,,3.0,black,tortie,yellow,False,wet,41.0,13.0,UK
+Maine coon,0.58,7.0,male,False,,3.7,white,solid,,False,wet,54.0,16.0,UK
+Maine coon,0.67,8.0,female,True,,3.2,brown/chocolate,tabby,blue,False,wet,47.0,15.0,UK
+Maine coon,0.67,8.0,male,False,38.0,3.6,white,solid,,False,dry,40.0,16.0,UK
+Maine coon,0.67,8.0,male,True,,,brown/chocolate,solid,,False,dry,54.0,18.0,UK
+Maine coon,5.0,60.0,female,False,38.0,3.9,white,solid,,False,wet,36.0,16.0,UK
+Maine coon,1.08,13.0,female,True,42.0,,black,solid,,False,wet,40.0,19.0,UK
+Maine coon,0.75,9.0,female,False,34.0,3.6,white,solid,,False,wet,28.0,20.0,UK
+Maine coon,0.75,9.0,female,True,34.0,3.8,brown/chocolate,tabby,yellow,False,wet,31.0,19.0,UK
+Maine coon,1.08,13.0,female,False,31.0,3.0,white,solid,,False,dry,28.0,16.0,UK
+Maine coon,0.75,9.0,male,,52.0,3.4,black,bicolor,yellow,False,wet,22.0,20.0,UK
+Maine coon,4.83,58.0,,,32.0,4.0,black,bicolor,yellow,False,wet,21.0,13.0,UK
+Maine coon,3.67,44.0,female,True,53.0,4.0,brown/chocolate,tabby,yellow,False,wet,32.0,13.0,UK
+Maine coon,4.75,57.0,male,True,,4.0,red/cream,tabby,blue,False,wet,44.0,13.0,UK
+Maine coon,1.08,13.0,,True,31.0,3.7,black,bicolor,green,False,dry,28.0,18.0,UK
+Maine coon,0.92,11.0,female,False,39.0,3.0,white,solid,,False,wet,33.0,19.0,USA
+Maine coon,1.42,17.0,female,True,37.0,3.2,white,solid,,False,wet,27.0,18.0,USA
+Maine coon,1.0,12.0,male,True,28.0,3.6,white,solid,,False,wet,12.0,,UK
+Maine coon,3.17,38.0,male,True,32.0,3.9,white,solid,,True,dry,28.0,17.0,UK
+Maine coon,1.0,12.0,,False,46.0,3.5,black,bicolor,yellow,False,wet,17.0,17.0,UK
+Maine coon,1.0,12.0,female,True,31.0,3.2,white,solid,,False,wet,26.0,20.0,UK
+Maine coon,5.17,62.0,female,False,38.0,4.0,brown/chocolate,tabby,green,False,wet,38.0,13.0,UK
+,6.58,79.0,male,False,48.0,3.9,black,solid,,False,wet,36.0,13.0,
+Maine coon,,13.0,male,False,55.0,3.8,black,solid,,False,wet,36.0,18.0,France
+Maine coon,4.0,48.0,male,False,54.0,4.0,white,solid,,False,wet,11.0,,France
+Maine coon,4.5,54.0,male,True,60.0,5.2,black,solid,,,dry,16.0,13.0,France
+Maine coon,1.17,14.0,female,,35.0,3.3,white,solid,,False,dry,18.0,18.0,France
+Maine coon,1.17,14.0,male,False,35.0,4.3,black,bicolor,yellow,False,wet,11.0,,France
+Maine coon,1.33,16.0,male,,56.0,3.8,black,solid,,False,wet,22.0,21.0,France
+Maine coon,1.33,16.0,female,True,50.0,3.3,black,solid,,False,wet,17.0,21.0,France
+Maine coon,5.58,67.0,male,True,56.0,4.2,black,solid,,False,wet,17.0,16.0,
+Maine coon,1.42,17.0,female,False,30.0,3.2,black,bicolor,yellow,False,dry,39.0,18.0,France
+Maine coon,1.42,17.0,male,,47.0,3.6,red/cream,tabby,yellow,False,wet,22.0,19.0,France
+Maine coon,1.5,18.0,male,False,46.0,4.3,brown/chocolate,tabby,yellow,False,dry,13.0,18.0,France
+Maine coon,1.5,18.0,female,False,38.0,3.2,brown/chocolate,tabby,blue,False,dry,17.0,15.0,France
+Maine coon,1.58,19.0,female,True,60.0,3.7,black,solid,,True,wet,37.0,19.0,UK
+,6.5,78.0,male,False,53.0,4.0,brown/chocolate,tabby,yellow,False,wet,31.0,13.0,
+Maine coon,1.58,19.0,male,True,54.0,4.5,red/cream,tabby,green,False,wet,14.0,19.0,UK
+,5.75,69.0,male,False,31.0,3.9,white,solid,,False,dry,29.0,13.0,
+Maine coon,1.58,19.0,female,,53.0,5.0,black,solid,,,wet,19.0,17.0,UK
+Maine coon,1.67,20.0,male,True,35.0,3.9,brown/chocolate,tabby,yellow,False,wet,34.0,19.0,UK
+Maine coon,1.67,20.0,male,False,32.0,3.8,white,solid,,False,wet,27.0,18.0,UK
+Maine coon,1.75,21.0,male,True,36.0,3.3,red/cream,tabby,yellow,False,wet,37.0,21.0,France
+Maine coon,1.75,21.0,female,,53.0,4.0,black,bicolor,yellow,False,dry,20.0,19.0,UK
+Maine coon,1.75,21.0,female,True,60.0,4.5,black,solid,yellow,False,dry,12.0,,UK
+Maine coon,1.75,21.0,male,True,58.0,3.1,black,solid,yellow,True,wet,26.0,13.0,UK
+Maine coon,1.75,21.0,male,False,42.0,,black,solid,yellow,False,wet,13.0,19.0,UK
+Maine coon,1.83,22.0,female,True,58.0,5.3,red/cream,solid,yellow,,dry,14.0,20.0,UK
+Maine coon,1.83,22.0,female,False,59.0,6.3,black,solid,yellow,False,wet,13.0,16.0,UK
+Maine coon,1.92,23.0,male,True,40.0,,red/cream,tabby,yellow,False,dry,12.0,,Germany
+Maine coon,1.92,23.0,female,True,,3.2,white,solid,blue,False,dry,44.0,13.0,UK
+Maine coon,1.92,23.0,male,True,53.0,4.0,red/cream,solid,yellow,False,dry,30.0,18.0,Germany
+Maine coon,2.0,24.0,male,True,31.0,3.0,white,solid,yellow,True,wet,34.0,13.0,UK
+Maine coon,2.0,24.0,female,True,46.0,3.8,black,solid,yellow,False,wet,24.0,13.0,UK
+Maine coon,2.0,24.0,female,False,32.0,3.8,white,solid,blue,False,dry,23.0,13.0,UK
+Maine coon,2.0,24.0,female,False,38.0,3.3,brown/chocolate,tabby,yellow,False,dry,29.0,13.0,UK
+Maine coon,2.08,25.0,female,True,76.0,6.31,black,solid,yellow,False,wet,33.0,13.0,UK
+Maine coon,2.08,25.0,female,False,78.0,7.3,black,,yellow,False,wet,14.0,13.0,UK
+Maine coon,2.17,26.0,female,False,70.0,6.0,black,solid,yellow,,dry,25.0,13.0,UK
+Maine coon,2.17,26.0,female,False,56.0,6.09,black,solid,green,False,wet,38.0,13.0,UK
+Maine coon,2.17,26.0,male,False,85.0,9.0,red/cream,tabby,yellow,False,wet,32.0,13.0,UK
+Maine coon,2.17,26.0,female,True,66.0,5.36,brown/chocolate,tabby,yellow,,wet,39.0,13.0,UK
+Maine coon,2.17,26.0,male,True,51.0,9.4,brown/chocolate,tabby,yellow,False,wet,39.0,17.0,UK
+Maine coon,2.17,26.0,male,True,93.0,11.3,black,solid,,False,wet,29.0,13.0,UK
+Maine coon,2.17,26.0,female,True,65.0,4.9,brown/chocolate,tabby,yellow,,dry,10.0,,UK
+Maine coon,2.17,26.0,female,False,59.0,6.61,black,solid,yellow,False,wet,16.0,16.0,UK
+Maine coon,2.25,27.0,female,False,66.0,8.42,brown/chocolate,,yellow,False,dry,15.0,13.0,UK
+Maine coon,2.25,27.0,female,True,55.0,8.47,black,,yellow,False,wet,10.0,,UK
+Maine coon,2.33,28.0,male,,74.0,7.2,brown/chocolate,tabby,yellow,False,wet,19.0,13.0,UK
+Maine coon,2.33,28.0,male,True,68.0,9.9,red/cream,tabby,yellow,False,dry,16.0,17.0,UK
+Maine coon,2.33,28.0,female,True,,6.9,black,solid,,True,wet,41.0,16.0,UK
+Maine coon,2.42,29.0,male,True,71.0,8.3,red/cream,,yellow,False,wet,12.0,,Germany
+Maine coon,2.5,30.0,male,False,56.0,8.5,brown/chocolate,,green,False,wet,10.0,,Germany
+Maine coon,2.5,30.0,male,,61.0,9.7,black,solid,,False,wet,21.0,13.0,Germany
+Maine coon,2.5,30.0,male,True,72.0,9.1,red/cream,tabby,yellow,False,wet,24.0,13.0,Germany
+Maine coon,2.58,31.0,female,True,79.0,7.15,brown/chocolate,tabby,green,False,dry,32.0,13.0,Germany
+Maine coon,2.58,31.0,male,True,,9.4,red/cream,tabby,green,False,dry,44.0,13.0,Germany
+Maine coon,2.58,31.0,male,True,55.0,8.0,brown/chocolate,,yellow,False,dry,17.0,13.0,UK
+Maine coon,2.58,31.0,male,True,85.0,9.6,black,solid,,True,dry,27.0,13.0,UK
+Maine coon,2.58,31.0,female,True,45.0,,black,solid,,False,,35.0,13.0,UK
+Maine coon,2.67,32.0,male,True,60.0,9.6,brown/chocolate,tabby,yellow,False,wet,14.0,13.0,UK
+Maine coon,2.75,33.0,female,False,69.0,7.77,black,,yellow,False,,32.0,17.0,UK
+Maine coon,2.83,34.0,female,,53.0,3.75,red/cream,solid,yellow,False,,20.0,13.0,UK
+Maine coon,2.83,34.0,female,True,77.0,5.0,black,solid,yellow,,,28.0,17.0,UK
+Maine coon,2.83,34.0,male,True,83.0,10.8,red/cream,tabby,green,False,dry,31.0,17.0,USA
+Maine coon,2.92,35.0,male,True,52.0,8.4,black,,yellow,False,dry,12.0,,USA
+Maine coon,2.92,35.0,male,False,72.0,8.0,white,,yellow,False,,25.0,17.0,USA
+Maine coon,3.0,36.0,male,True,70.0,7.1,black,solid,,False,,28.0,16.0,USA
+Maine coon,3.0,36.0,female,,60.0,4.96,brown/chocolate,tabby,yellow,,dry,18.0,13.0,USA
+Maine coon,3.0,36.0,female,,41.0,,black,solid,,False,wet,18.0,13.0,USA
+Maine coon,3.08,37.0,male,True,62.0,10.4,red/cream,tabby,yellow,True,wet,30.0,16.0,USA
+Maine coon,3.08,37.0,female,False,79.0,6.55,black,solid,,False,wet,12.0,,USA
+Maine coon,3.17,38.0,female,True,62.0,7.12,brown/chocolate,solid,,False,wet,10.0,,USA
+Maine coon,3.17,38.0,,False,53.0,7.1,black,bicolor,yellow,False,wet,26.0,16.0,Germany
+Maine coon,3.17,38.0,male,False,80.0,9.8,black,solid,,False,dry,16.0,13.0,Germany
+Maine coon,3.25,39.0,male,True,72.0,10.8,brown/chocolate,solid,,False,dry,12.0,,Germany
+Maine coon,3.33,40.0,female,True,80.0,5.47,black,solid,,,wet,24.0,17.0,Germany
+Maine coon,3.42,41.0,male,True,60.0,10.1,brown/chocolate,tabby,yellow,False,wet,15.0,13.0,Germany
+Maine coon,3.42,41.0,male,False,73.0,9.8,brown/chocolate,solid,,False,wet,37.0,13.0,Germany
+Maine coon,3.58,43.0,female,,71.0,5.79,red/cream,solid,,,,20.0,13.0,Germany
+Maine coon,3.58,43.0,male,False,67.0,10.5,brown/chocolate,tabby,yellow,False,wet,12.0,,Germany
+Maine coon,3.58,43.0,female,False,75.0,8.22,black,,yellow,False,,39.0,16.0,USA
+Maine coon,3.58,43.0,female,True,51.0,6.67,brown/chocolate,tabby,yellow,True,dry,32.0,13.0,USA
+Maine coon,3.67,44.0,male,True,53.0,7.3,brown/chocolate,,yellow,False,wet,36.0,13.0,USA
+Maine coon,3.75,45.0,female,,67.0,4.8,black,solid,,,,20.0,13.0,USA
+Maine coon,3.83,46.0,,True,72.0,7.1,black,bicolor,yellow,False,wet,26.0,13.0,USA
+Maine coon,3.83,46.0,female,,47.0,5.65,black,solid,,,,20.0,13.0,USA
+Maine coon,3.83,46.0,,False,42.0,,brown/chocolate,bicolor,yellow,False,dry,27.0,13.0,USA
+Maine coon,3.83,46.0,female,True,37.0,5.96,white,solid,,,,29.0,13.0,USA
+Maine coon,3.92,47.0,male,True,67.0,7.8,brown/chocolate,,green,False,dry,35.0,13.0,USA
+Maine coon,4.08,49.0,,True,49.0,6.28,black,bicolor,yellow,True,wet,10.0,,USA
+Maine coon,4.08,49.0,female,True,67.0,7.09,black,solid,,False,,27.0,13.0,USA
+Maine coon,4.08,49.0,male,False,86.0,8.4,black,,yellow,False,wet,11.0,,USA
+Maine coon,4.08,49.0,female,False,38.0,5.06,white,solid,,,,9.0,,USA
+Maine coon,4.17,50.0,female,True,39.0,8.21,brown/chocolate,,yellow,False,,4.0,13.0,USA
+Maine coon,4.17,50.0,male,,79.0,11.5,red/cream,tabby,green,False,wet,18.0,13.0,USA
+Maine coon,4.17,50.0,female,False,57.0,7.44,black,,yellow,False,,13.0,13.0,USA
+Maine coon,4.25,51.0,female,True,69.0,8.68,black,,yellow,False,dry,9.0,,USA
+Maine coon,4.25,51.0,female,True,70.0,5.0,black,solid,,,,30.0,16.0,USA
+Maine coon,4.25,51.0,male,True,83.0,10.5,brown/chocolate,tabby,yellow,True,dry,37.0,13.0,USA
+Maine coon,4.25,51.0,male,False,83.0,11.3,black,solid,,False,,36.0,16.0,USA
+Maine coon,4.33,52.0,male,True,70.0,9.7,white,solid,,False,,38.0,13.0,USA
+Maine coon,4.33,52.0,female,True,48.0,4.88,black,solid,,,,25.0,13.0,USA
+Maine coon,4.33,52.0,male,True,63.0,10.3,brown/chocolate,tabby,yellow,False,dry,27.0,13.0,USA
+Maine coon,4.42,53.0,female,True,77.0,6.39,black,solid,,False,,33.0,16.0,USA
+Maine coon,4.42,53.0,female,,79.0,6.25,black,solid,,False,,19.0,13.0,USA
+Maine coon,4.42,53.0,female,False,46.0,6.62,black,tortie,yellow,False,wet,12.0,,USA
+Maine coon,4.5,54.0,female,True,72.0,4.8,black,solid,,,wet,26.0,17.0,USA
+Maine coon,4.58,55.0,male,,58.0,7.5,red/cream,,yellow,False,wet,18.0,13.0,USA
+Maine coon,4.58,55.0,male,,57.0,8.7,red/cream,,yellow,False,dry,19.0,13.0,USA
+Maine coon,4.67,56.0,male,,71.0,7.0,brown/chocolate,tabby,yellow,True,wet,21.0,13.0,USA
+Maine coon,4.67,56.0,male,,51.0,9.0,brown/chocolate,tabby,yellow,False,wet,21.0,13.0,USA
+Maine coon,4.75,57.0,female,True,50.0,5.92,black,solid,,,wet,9.0,,USA
+Maine coon,4.75,57.0,female,True,48.0,6.31,black,solid,,False,wet,34.0,13.0,USA
+Maine coon,4.75,57.0,male,True,84.0,11.3,black,solid,,True,wet,15.0,13.0,USA
+Maine coon,4.83,58.0,male,False,54.0,7.0,brown/chocolate,tabby,green,False,wet,37.0,13.0,USA
+Maine coon,4.83,58.0,female,False,74.0,4.95,black,tortie,yellow,,wet,27.0,13.0,USA
+Maine coon,4.83,58.0,female,True,42.0,,brown/chocolate,tabby,yellow,False,dry,25.0,13.0,USA
+Maine coon,4.92,59.0,female,True,39.0,4.54,white,solid,,False,dry,34.0,13.0,USA
+Maine coon,4.92,59.0,female,True,56.0,8.89,black,,yellow,False,wet,12.0,13.0,USA
+Maine coon,5.0,60.0,female,True,59.0,5.76,black,solid,,,dry,34.0,13.0,USA
+Maine coon,5.0,60.0,male,False,48.0,8.1,black,,yellow,False,wet,31.0,17.0,USA
+Maine coon,5.0,60.0,male,True,76.0,8.4,black,,green,False,wet,27.0,13.0,USA
+Maine coon,5.0,60.0,female,True,68.0,4.23,black,solid,,False,wet,16.0,16.0,USA
+Maine coon,5.0,60.0,male,,77.0,10.6,red/cream,tabby,yellow,True,wet,22.0,13.0,USA
+Maine coon,5.0,60.0,male,False,72.0,8.1,brown/chocolate,,yellow,False,dry,11.0,,USA
+Maine coon,5.08,61.0,female,True,49.0,8.26,black,,yellow,False,dry,34.0,13.0,USA
+Maine coon,5.08,61.0,male,True,85.0,9.8,black,solid,,False,dry,23.0,13.0,USA
+Maine coon,5.17,62.0,female,True,72.0,5.31,black,solid,,,wet,24.0,13.0,USA
+Maine coon,5.17,62.0,male,False,83.0,10.5,black,solid,,False,wet,37.0,17.0,USA
+Maine coon,5.17,62.0,female,True,42.0,,black,solid,,False,wet,30.0,13.0,USA
+Maine coon,5.17,62.0,male,True,68.0,9.7,red/cream,solid,,False,wet,9.0,,USA
+Maine coon,5.25,63.0,male,True,88.0,8.8,brown/chocolate,,yellow,True,dry,4.0,13.0,USA
+Maine coon,5.25,63.0,female,True,51.0,7.89,black,,yellow,False,dry,29.0,13.0,USA
+Maine coon,5.25,63.0,female,,53.0,3.76,brown/chocolate,solid,,False,wet,18.0,13.0,Canada
+Maine coon,5.25,63.0,male,False,79.0,11.6,black,solid,,False,dry,11.0,,Canada
+Maine coon,5.33,64.0,,False,64.0,6.67,black,bicolor,yellow,False,wet,24.0,13.0,Canada
+Maine coon,5.33,64.0,female,,53.0,7.1,black,solid,,True,wet,18.0,16.0,Canada
+Maine coon,5.42,65.0,female,True,57.0,8.18,brown/chocolate,,yellow,False,wet,14.0,16.0,Canada
+Maine coon,5.42,65.0,male,False,66.0,7.5,red/cream,,yellow,False,wet,10.0,,Canada
+Maine coon,5.42,65.0,male,,51.0,9.2,black,solid,,False,dry,18.0,13.0,Canada
+Maine coon,5.5,66.0,female,True,52.0,6.36,black,solid,,True,dry,10.0,,Canada
+Maine coon,5.5,66.0,male,True,57.0,10.0,black,solid,,False,dry,34.0,13.0,Canada
+Maine coon,5.58,67.0,male,False,68.0,10.2,red/cream,tabby,green,False,wet,36.0,16.0,
+Maine coon,5.58,67.0,female,True,73.0,7.6,black,,green,False,wet,27.0,13.0,
+Maine coon,5.58,67.0,female,True,73.0,6.15,black,solid,,False,wet,35.0,13.0,
+Maine coon,5.58,67.0,female,False,39.0,4.76,white,solid,,,wet,10.0,,
+Maine coon,5.58,67.0,female,,70.0,4.6,black,tortie,yellow,False,wet,18.0,13.0,
+Maine coon,5.67,68.0,female,,71.0,5.2,black,solid,,,dry,18.0,13.0,
+,5.67,68.0,female,False,56.0,5.8,black,solid,,,wet,31.0,13.0,
+,5.67,68.0,male,True,83.0,8.1,brown/chocolate,,yellow,False,dry,28.0,13.0,
+,5.67,68.0,male,False,80.0,9.6,red/cream,tabby,yellow,False,dry,13.0,17.0,
+,5.75,69.0,female,True,43.0,,brown/chocolate,,green,False,wet,36.0,16.0,
+,5.75,69.0,female,True,39.0,6.29,white,solid,,False,wet,30.0,13.0,
+,5.75,69.0,male,True,51.0,8.9,black,,yellow,True,dry,14.0,13.0,
+,5.75,69.0,female,False,68.0,5.58,black,tortie,yellow,,dry,15.0,16.0,
+,5.75,69.0,female,True,51.0,5.91,white,solid,,,wet,13.0,13.0,
+,5.83,70.0,male,,51.0,7.9,black,,yellow,True,wet,21.0,13.0,
+,5.92,71.0,male,False,76.0,10.4,red/cream,tabby,yellow,False,wet,28.0,13.0,
+,5.92,71.0,female,,43.0,,black,solid,,False,wet,18.0,13.0,
+,5.92,71.0,male,True,56.0,7.0,red/cream,tabby,yellow,False,dry,30.0,13.0,
+,6.0,72.0,female,,59.0,7.56,black,,yellow,False,wet,20.0,16.0,
+,6.0,72.0,male,False,83.0,10.0,black,solid,,False,wet,10.0,,
+,6.08,73.0,male,False,72.0,9.3,brown/chocolate,tabby,green,False,wet,35.0,13.0,
+,6.17,74.0,male,,58.0,9.1,black,solid,,True,wet,20.0,13.0,
+,6.17,74.0,female,False,55.0,5.0,black,solid,,,dry,31.0,13.0,
+,6.17,74.0,male,False,87.0,11.5,black,bicolor,yellow,False,wet,30.0,13.0,
+,6.17,,female,,45.0,3.65,brown/chocolate,solid,yellow,False,dry,22.0,16.0,USA
+,6.25,75.0,male,False,87.0,8.3,,,yellow,False,dry,36.0,13.0,
+,6.25,75.0,female,False,54.0,4.13,,tabby,yellow,False,dry,36.0,13.0,
+,6.25,75.0,male,True,56.0,8.2,,,yellow,False,wet,23.0,13.0,
+,6.25,75.0,male,True,60.0,9.9,,tabby,yellow,False,wet,10.0,,
+,6.25,,male,,73.0,11.2,white,solid,blue,False,wet,21.0,13.0,Germany
+,6.33,76.0,female,True,41.0,,,solid,yellow,True,,27.0,13.0,
+,6.33,76.0,female,,42.0,,,,yellow,False,dry,19.0,16.0,
+,6.33,76.0,female,True,41.0,,,tabby,green,False,wet,17.0,13.0,
+,6.33,76.0,female,False,62.0,8.31,,,yellow,False,,9.0,,
+,6.42,77.0,male,False,70.0,8.1,,,yellow,False,wet,27.0,13.0,
+,6.42,77.0,male,True,66.0,11.3,,tabby,yellow,False,wet,33.0,13.0,
+,6.42,77.0,female,False,63.0,6.84,,solid,yellow,False,,13.0,16.0,
+,6.5,78.0,male,False,84.0,11.3,,tabby,yellow,False,wet,11.0,,
+,6.67,80.0,male,True,59.0,8.4,,,green,True,,27.0,17.0,
+,6.67,80.0,male,True,76.0,9.4,,solid,yellow,False,,36.0,17.0,
+,6.67,80.0,male,False,84.0,10.2,,tabby,yellow,False,dry,33.0,17.0,
+,6.75,81.0,male,True,51.0,8.7,,,yellow,False,wet,13.0,13.0,
+,6.75,81.0,male,,75.0,11.7,,tabby,yellow,False,wet,18.0,13.0,
+,6.75,81.0,male,,56.0,9.7,,solid,yellow,True,wet,18.0,17.0,
+,6.83,82.0,female,False,76.0,7.24,brown/chocolate,tabby,yellow,False,dry,35.0,16.0,
+,6.83,82.0,female,,63.0,7.82,brown/chocolate,,yellow,False,wet,18.0,16.0,
+,6.83,82.0,male,True,78.0,8.7,black,,yellow,False,wet,9.0,,
+,6.83,82.0,male,True,78.0,7.5,brown/chocolate,,green,True,dry,9.0,,
+,6.83,82.0,female,False,49.0,8.41,black,,yellow,False,,34.0,13.0,
+,6.83,82.0,female,True,37.0,6.98,white,solid,yellow,False,wet,34.0,13.0,
+,6.92,83.0,male,True,48.0,6.2,red/cream,tabby,yellow,False,wet,23.0,17.0,
+,6.92,83.0,male,True,59.0,9.8,black,solid,yellow,False,wet,36.0,17.0,
+,6.92,83.0,male,False,75.0,9.3,black,solid,yellow,False,wet,25.0,16.0,
+,6.92,83.0,male,False,78.0,8.8,red/cream,,yellow,False,wet,29.0,13.0,
+,7.0,84.0,female,,42.0,,black,solid,yellow,True,wet,21.0,13.0,Germany
+Maine coon,7.0,84.0,male,False,88.0,10.1,,solid,yellow,False,wet,40.0,16.0,USA
+Maine coon,7.0,84.0,male,True,78.0,11.0,red/cream,tabby,yellow,False,wet,29.0,13.0,Germany
+Maine coon,7.0,84.0,female,True,41.0,,,,yellow,False,dry,25.0,13.0,USA
+,7.0,84.0,female,False,52.0,7.96,,,yellow,False,wet,30.0,13.0,
+Maine coon,7.08,85.0,female,True,65.0,6.7,,solid,yellow,False,wet,26.0,17.0,USA
+Maine coon,7.08,85.0,female,True,80.0,5.62,,solid,yellow,,wet,11.0,,USA
+Maine coon,7.17,86.0,male,True,78.0,11.0,,tabby,yellow,False,wet,39.0,16.0,USA
+Maine coon,7.17,86.0,male,True,65.0,8.7,,,yellow,False,wet,11.0,,USA
+Maine coon,7.17,86.0,male,True,62.0,7.0,,solid,yellow,True,wet,9.0,,USA
+Maine coon,7.17,86.0,male,True,73.0,8.0,,,yellow,False,dry,9.0,,USA
+Maine coon,7.17,86.0,female,True,48.0,7.3,,,yellow,False,dry,37.0,19.0,USA
+Maine coon,7.17,86.0,female,False,49.0,7.0,,solid,yellow,False,wet,27.0,19.0,USA
+Maine coon,7.25,87.0,female,True,49.0,6.43,,solid,yellow,False,dry,37.0,17.0,USA
+Maine coon,7.25,87.0,female,True,72.0,5.28,,solid,green,,wet,23.0,19.0,USA
+Maine coon,7.25,87.0,female,False,73.0,8.14,,,yellow,False,wet,17.0,21.0,USA
+Maine coon,7.25,87.0,male,True,69.0,10.4,,tabby,yellow,False,wet,37.0,19.0,USA
+Maine coon,7.25,87.0,male,,67.0,8.5,,,yellow,False,dry,20.0,17.0,USA
+Maine coon,7.42,89.0,male,True,77.0,11.3,,tabby,yellow,True,wet,12.0,,USA
+Maine coon,7.42,89.0,male,True,52.0,9.0,,solid,yellow,False,wet,9.0,,USA
+Maine coon,7.42,89.0,male,True,89.0,10.5,,solid,yellow,False,dry,10.0,,USA
+Maine coon,7.5,90.0,male,,79.0,8.1,,,green,False,wet,21.0,13.0,USA
+Maine coon,7.5,90.0,female,False,65.0,7.86,,,yellow,False,wet,34.0,19.0,USA
+Maine coon,7.5,90.0,female,True,51.0,7.86,,,yellow,False,wet,36.0,21.0,USA
+Maine coon,7.5,90.0,male,True,48.0,8.2,,,yellow,True,wet,27.0,16.0,USA
+Maine coon,7.58,91.0,male,False,85.0,7.9,,,yellow,False,dry,35.0,16.0,USA
+Maine coon,7.58,91.0,male,False,85.0,7.4,,,yellow,False,dry,37.0,17.0,USA
+Maine coon,7.67,92.0,,False,34.0,3.61,,bicolor,green,False,wet,32.0,13.0,USA
+Maine coon,7.67,92.0,male,,79.0,11.3,,solid,green,False,wet,19.0,16.0,USA
+Maine coon,7.67,92.0,male,True,102.0,10.1,,solid,yellow,False,wet,16.0,13.0,USA
+Maine coon,7.83,94.0,female,False,77.0,5.84,brown/chocolate,tabby,green,,dry,23.0,18.0,USA
+Maine coon,7.83,94.0,male,True,56.0,11.1,black,solid,yellow,False,wet,12.0,,USA
+Maine coon,7.92,95.0,male,False,75.0,9.5,black,solid,yellow,False,wet,35.0,19.0,USA
+Maine coon,7.92,95.0,male,True,81.0,7.3,red/cream,,yellow,False,wet,17.0,20.0,USA
+Maine coon,7.92,95.0,male,False,81.0,7.6,brown/chocolate,,yellow,False,wet,11.0,,USA
+Maine coon,8.0,96.0,male,True,97.0,10.9,black,solid,yellow,True,dry,11.0,,USA
+Maine coon,8.17,98.0,female,True,40.0,,black,solid,yellow,False,wet,29.0,17.0,USA
+Maine coon,4.0,48.0,female,False,74.0,5.3,black,tortie,yellow,,wet,11.0,,USA
+Maine coon,8.25,99.0,male,True,79.0,10.4,black,solid,yellow,False,wet,29.0,20.0,USA
+Maine coon,8.33,100.0,female,False,62.0,5.49,black,solid,yellow,,wet,10.0,,USA
+Maine coon,7.67,92.0,female,True,39.0,7.98,white,,blue,False,wet,37.0,21.0,USA
+Maine coon,8.33,100.0,female,False,57.0,8.3,,,yellow,False,wet,11.0,,USA
+Maine coon,8.42,101.0,female,True,65.0,7.79,red/cream,,yellow,False,wet,15.0,19.0,USA
+Maine coon,7.58,91.0,female,False,80.0,7.9,,,yellow,False,wet,38.0,18.0,USA
+Maine coon,8.5,102.0,male,,67.0,10.9,,solid,green,False,dry,20.0,20.0,USA
+,6.17,74.0,female,True,56.0,3.9,,solid,yellow,True,wet,27.0,13.0,
+Maine coon,8.58,103.0,female,True,71.0,7.05,,solid,green,False,wet,29.0,18.0,USA
+Maine coon,8.58,103.0,male,False,85.0,9.2,,tabby,green,False,wet,31.0,20.0,USA
+Maine coon,8.58,103.0,,False,86.0,10.0,,bicolor,yellow,False,wet,35.0,19.0,USA
+,6.42,77.0,female,True,38.0,7.82,,,yellow,False,dry,17.0,16.0,
+Maine coon,7.83,94.0,male,True,68.0,11.6,,solid,yellow,False,dry,26.0,21.0,USA
+Maine coon,5.42,65.0,,True,48.0,4.15,,bicolor,yellow,False,wet,36.0,13.0,USA
+Maine coon,8.67,104.0,female,False,54.0,7.99,,,yellow,False,dry,27.0,21.0,USA
+Maine coon,5.58,,female,True,65.0,5.16,,solid,yellow,,wet,13.0,13.0,USA
+,6.42,77.0,female,False,66.0,5.0,,solid,green,,wet,10.0,,
+Maine coon,8.75,105.0,female,False,55.0,7.35,,,yellow,False,wet,13.0,17.0,USA
+Maine coon,5.0,,female,True,64.0,5.23,,solid,yellow,,dry,37.0,13.0,USA
+Maine coon,7.42,89.0,female,True,42.0,,,,yellow,False,dry,12.0,,USA
+Maine coon,8.92,107.0,female,,59.0,7.75,,,yellow,False,wet,18.0,20.0,USA
+Maine coon,8.92,107.0,female,False,75.0,6.0,,solid,yellow,,dry,27.0,16.0,USA
+Maine coon,4.83,58.0,female,True,42.0,,,tortie,yellow,False,wet,36.0,13.0,USA
+Maine coon,7.33,88.0,female,False,79.0,8.5,,,green,False,wet,12.0,,USA
+Maine coon,8.92,107.0,female,True,36.0,5.77,brown/chocolate,tabby,yellow,,wet,5.0,,USA
+Maine coon,8.92,107.0,female,True,46.0,8.07,black,,yellow,True,wet,16.0,20.0,USA
+Maine coon,8.92,,female,True,36.0,6.95,white,solid,yellow,False,wet,26.0,19.0,USA
+Maine coon,7.58,91.0,male,False,65.0,9.7,brown/chocolate,tabby,yellow,False,wet,39.0,20.0,USA
+Maine coon,9.0,108.0,female,True,64.0,6.93,brown/chocolate,tabby,yellow,False,dry,34.0,20.0,USA
+Maine coon,9.0,,male,True,83.0,11.3,black,solid,yellow,False,wet,15.0,21.0,USA
+Maine coon,9.0,,male,True,83.0,11.6,red/cream,solid,yellow,False,wet,37.0,20.0,USA
+Maine coon,9.0,,male,True,75.0,9.7,red/cream,solid,yellow,True,dry,12.0,,USA
+Maine coon,9.08,109.0,male,False,60.0,8.3,black,,yellow,False,wet,13.0,20.0,USA
+Maine coon,9.08,109.0,male,,61.0,7.9,black,,yellow,False,dry,18.0,19.0,USA
+Maine coon,9.17,,male,True,88.0,10.5,black,solid,yellow,False,wet,10.0,,USA
+Maine coon,8.5,,female,False,70.0,6.01,black,solid,yellow,,wet,37.0,21.0,USA
+Maine coon,9.25,,male,True,66.0,11.3,red/cream,solid,yellow,False,wet,12.0,,USA
+Maine coon,9.25,,male,True,69.0,9.5,black,solid,yellow,False,wet,25.0,19.0,USA
+Maine coon,8.17,98.0,male,True,52.0,8.7,black,,yellow,False,wet,23.0,20.0,USA
+Maine coon,9.33,,male,,65.0,6.2,black,solid,yellow,False,wet,21.0,21.0,USA
+Maine coon,9.33,,female,True,,5.18,black,solid,yellow,,wet,45.0,18.0,USA
+Maine coon,9.42,113.0,female,True,49.0,6.45,brown/chocolate,tabby,yellow,True,wet,23.0,16.0,USA
+Maine coon,4.92,,female,,78.0,5.1,black,solid,yellow,,wet,21.0,13.0,USA
+Maine coon,9.42,113.0,male,False,69.0,8.7,black,,yellow,False,wet,31.0,19.0,USA
+Maine coon,8.17,,male,,67.0,7.0,black,solid,yellow,False,dry,22.0,20.0,USA
+,6.5,78.0,female,False,51.0,5.3,black,tortie,yellow,,wet,11.0,,
+Maine coon,9.5,114.0,male,True,87.0,7.3,black,,yellow,False,dry,16.0,20.0,USA
+Maine coon,9.5,114.0,female,True,46.0,8.34,black,,yellow,False,wet,24.0,17.0,USA
+Maine coon,9.58,115.0,female,True,76.0,7.11,brown/chocolate,tabby,yellow,False,wet,15.0,20.0,USA
+Maine coon,7.67,92.0,male,,55.0,8.4,red/cream,,yellow,False,dry,18.0,21.0,USA
+Maine coon,4.92,,female,False,48.0,4.86,black,solid,yellow,,wet,16.0,16.0,USA
+Maine coon,9.58,115.0,,True,78.0,12.1,black,bicolor,yellow,False,dry,10.0,,USA
+Maine coon,9.67,116.0,female,False,65.0,6.61,brown/chocolate,tabby,yellow,False,dry,23.0,21.0,USA
+Maine coon,7.58,91.0,male,True,59.0,8.1,black,,yellow,False,wet,38.0,18.0,USA
+Maine coon,9.67,116.0,female,False,54.0,8.13,black,,yellow,False,dry,11.0,,USA
+Maine coon,9.75,117.0,male,True,74.0,7.4,brown/chocolate,,yellow,True,dry,16.0,18.0,USA
+,7.0,84.0,male,True,63.0,8.9,black,,yellow,False,dry,17.0,16.0,USA
+Maine coon,4.08,,female,False,37.0,3.51,white,solid,blue,False,dry,17.0,16.0,USA
+,6.5,,male,,70.0,10.9,black,solid,yellow,False,wet,19.0,13.0,USA
+Maine coon,9.83,118.0,female,False,76.0,8.58,black,,yellow,False,dry,28.0,19.0,USA
+Maine coon,9.83,118.0,female,False,72.0,7.57,brown/chocolate,,green,False,wet,17.0,19.0,USA
+Maine coon,7.17,86.0,male,True,48.0,7.8,red/cream,,yellow,False,wet,27.0,17.0,USA
+Maine coon,10.25,123.0,female,True,60.0,8.22,black,,yellow,False,dry,9.0,,USA
+,6.33,76.0,female,True,65.0,5.4,black,solid,yellow,,wet,25.0,13.0,
+Maine coon,10.0,120.0,female,False,53.0,6.5,black,tortie,yellow,False,dry,14.0,17.0,USA
+Ragdoll,0.25,3.0,,True,,3.1,red/cream,bicolor,blue,False,wet,60.0,10.0,USA
+Ragdoll,0.33,4.0,,,21.0,3.0,red/cream,colorpoint,blue,False,dry,21.0,16.0,USA
+Ragdoll,0.33,4.0,female,False,21.0,3.0,seal,tortie,green,False,wet,31.0,16.0,UK
+Ragdoll,0.33,4.0,,False,21.0,3.0,seal,colorpoint,blue,False,wet,16.0,17.0,UK
+Ragdoll,0.33,4.0,,False,21.0,3.3,red/cream,bicolor,blue,False,dry,14.0,16.0,UK
+Ragdoll,0.33,4.0,,True,22.0,3.2,seal,colorpoint,green,False,dry,16.0,20.0,UK
+Ragdoll,0.33,4.0,,False,,3.2,seal,colorpoint,blue,False,wet,46.0,15.0,UK
+Ragdoll,0.33,4.0,,False,,3.2,seal,colorpoint,blue,False,wet,48.0,21.0,UK
+Ragdoll,0.42,5.0,,False,22.0,3.2,seal,bicolor,green,False,wet,27.0,13.0,UK
+Ragdoll,0.42,5.0,,False,22.0,3.2,red/cream,bicolor,blue,False,wet,29.0,13.0,UK
+Ragdoll,0.42,5.0,,False,,3.5,red/cream,colorpoint,blue,False,wet,49.0,11.0,UK
+,6.5,78.0,,False,,4.2,red/cream,bicolor,blue,False,wet,42.0,13.0,
+Ragdoll,0.42,5.0,,False,26.0,3.7,red/cream,bicolor,blue,False,wet,28.0,12.0,UK
+,6.67,80.0,,False,26.0,4.0,seal,colorpoint,blue,False,wet,27.0,16.0,
+Ragdoll,3.25,39.0,,,25.0,4.3,seal,colorpoint,blue,False,wet,18.0,13.0,UK
+Ragdoll,0.42,5.0,,True,,3.9,seal,colorpoint,green,False,wet,48.0,14.0,UK
+Ragdoll,4.0,48.0,,False,27.0,4.4,seal,colorpoint,green,False,wet,26.0,13.0,UK
+Ragdoll,0.5,6.0,,,25.0,3.8,seal,colorpoint,blue,False,wet,18.0,15.0,UK
+Ragdoll,3.42,41.0,,False,30.0,4.8,seal,colorpoint,blue,,wet,31.0,13.0,UK
+Ragdoll,3.0,36.0,,,26.0,4.9,red/cream,bicolor,blue,,wet,20.0,16.0,UK
+Ragdoll,1.08,13.0,,False,,4.0,red/cream,colorpoint,green,False,wet,46.0,16.0,UK
+,6.5,78.0,female,,26.0,4.1,seal,tortie,blue,False,wet,22.0,13.0,
+Ragdoll,2.92,35.0,,,29.0,5.0,seal,colorpoint,blue,,wet,21.0,16.0,USA
+Ragdoll,1.5,18.0,,False,30.0,5.3,red/cream,colorpoint,blue,,wet,11.0,,USA
+Ragdoll,0.5,6.0,,False,,4.2,red/cream,bicolor,amber,False,wet,43.0,11.0,Germany
+,6.92,83.0,,False,22.0,4.0,lilac,bicolor,green,False,wet,34.0,13.0,
+Ragdoll,0.58,7.0,,False,20.0,4.3,brown/chocolate,colorpoint,green,False,wet,28.0,14.0,Germany
+Ragdoll,3.42,41.0,,False,22.0,4.4,seal,colorpoint,blue,False,wet,14.0,16.0,Germany
+Ragdoll,0.58,7.0,,,21.0,3.9,seal,colorpoint,blue,False,wet,21.0,12.0,Germany
+Ragdoll,0.58,7.0,,False,24.0,3.7,brown/chocolate,colorpoint,blue,False,wet,17.0,13.0,Germany
+Ragdoll,4.67,56.0,male,False,26.0,4.5,seal,bicolor,blue,False,wet,37.0,13.0,Germany
+Ragdoll,1.33,16.0,,False,28.0,4.4,seal,colorpoint,blue,False,dry,36.0,19.0,Germany
+Ragdoll,0.67,8.0,,True,23.0,3.8,seal,colorpoint,green,False,wet,26.0,21.0,Germany
+Ragdoll,0.67,8.0,,True,22.0,3.8,seal,colorpoint,green,False,wet,38.0,17.0,Germany
+Ragdoll,0.67,8.0,,True,,3.7,brown/chocolate,colorpoint,blue,False,wet,47.0,16.0,Germany
+Ragdoll,0.67,8.0,male,True,,4.3,red/cream,bicolor,blue,False,wet,56.0,20.0,Germany
+Ragdoll,0.75,9.0,,True,25.0,3.8,seal,colorpoint,blue,False,wet,32.0,19.0,Germany
+Ragdoll,3.08,37.0,,,25.0,4.5,brown/chocolate,colorpoint,blue,False,wet,19.0,16.0,Germany
+Ragdoll,1.67,20.0,female,True,,4.3,seal,bicolor,green,False,dry,45.0,19.0,Germany
+Ragdoll,0.83,10.0,,True,,3.5,seal,colorpoint,blue,False,dry,53.0,20.0,Germany
+Ragdoll,0.83,10.0,female,True,,3.9,seal,tortie,blue,False,wet,42.0,20.0,Germany
+Ragdoll,1.42,17.0,,False,21.0,4.3,seal,colorpoint,blue,False,dry,30.0,19.0,USA
+Ragdoll,1.0,12.0,,False,28.0,4.4,seal,colorpoint,blue,False,wet,16.0,18.0,USA
+Ragdoll,4.08,49.0,female,False,26.0,4.3,seal,tortie,blue,False,wet,9.0,,USA
+Ragdoll,1.0,12.0,,True,31.0,4.4,brown/chocolate,colorpoint,blue,True,dry,17.0,15.0,USA
+Ragdoll,1.0,12.0,,False,26.0,3.9,seal,colorpoint,blue,False,dry,11.0,,USA
+Ragdoll,1.0,12.0,,False,26.0,4.0,seal,colorpoint,blue,False,wet,17.0,19.0,USA
+Ragdoll,4.25,51.0,male,True,28.0,4.8,red/cream,bicolor,green,,wet,14.0,13.0,USA
+Ragdoll,1.08,13.0,,,21.0,3.8,seal,bicolor,blue,False,wet,22.0,20.0,USA
+Ragdoll,1.17,14.0,,True,24.0,3.9,brown/chocolate,colorpoint,blue,False,wet,34.0,21.0,USA
+Ragdoll,4.75,57.0,,True,27.0,4.7,brown/chocolate,colorpoint,blue,False,dry,16.0,13.0,USA
+Ragdoll,1.17,14.0,,True,26.0,4.1,seal,colorpoint,blue,False,wet,38.0,18.0,USA
+Ragdoll,1.17,14.0,,False,22.0,3.8,brown/chocolate,colorpoint,blue,False,dry,4.0,20.0,Canada
+Ragdoll,1.17,14.0,,True,20.0,4.3,seal,colorpoint,green,False,dry,30.0,15.0,Canada
+Ragdoll,1.25,15.0,female,True,26.0,3.8,seal,tortie,blue,False,dry,27.0,18.0,Canada
+Ragdoll,1.25,15.0,,True,21.0,3.5,seal,colorpoint,blue,False,wet,34.0,17.0,Canada
+Ragdoll,1.25,15.0,,,27.0,3.8,seal,colorpoint,blue,False,dry,19.0,20.0,Canada
+Ragdoll,1.25,15.0,,,25.0,4.7,brown/chocolate,colorpoint,blue,,dry,22.0,18.0,Canada
+Ragdoll,1.33,16.0,,True,27.0,3.6,seal,colorpoint,blue,True,wet,38.0,16.0,Canada
+Ragdoll,1.42,17.0,,True,21.0,3.8,brown/chocolate,colorpoint,blue,False,dry,29.0,21.0,Canada
+Ragdoll,1.42,17.0,female,,28.0,4.2,seal,bicolor,blue,False,wet,19.0,21.0,Canada
+Ragdoll,1.42,17.0,female,True,27.0,4.1,seal,bicolor,blue,False,dry,36.0,19.0,Canada
+Ragdoll,1.5,18.0,,False,29.0,5.1,brown/chocolate,colorpoint,blue,,dry,3.0,18.0,UK
+Ragdoll,1.5,18.0,,True,23.0,3.9,seal,colorpoint,blue,False,dry,4.0,20.0,UK
+Ragdoll,1.5,18.0,male,True,28.0,4.1,brown/chocolate,colorpoint,blue,False,dry,37.0,17.0,UK
+Ragdoll,1.5,18.0,male,False,28.0,4.4,seal,colorpoint,blue,False,wet,10.0,,UK
+Ragdoll,4.0,48.0,female,True,27.0,4.5,seal,colorpoint,blue,False,wet,23.0,15.0,UK
+Ragdoll,3.42,41.0,male,True,28.0,4.9,brown/chocolate,colorpoint,blue,,wet,10.0,,UK
+Ragdoll,1.58,19.0,male,False,28.0,4.4,red/cream,bicolor,blue,False,wet,35.0,19.0,UK
+Ragdoll,1.58,19.0,female,True,22.0,4.2,seal,colorpoint,blue,False,wet,30.0,18.0,UK
+Ragdoll,1.58,19.0,female,,26.0,4.1,seal,colorpoint,blue,False,wet,20.0,20.0,UK
+,5.67,68.0,male,,26.0,4.7,seal,colorpoint,blue,False,dry,18.0,15.0,
+,5.67,68.0,female,True,27.0,4.9,seal,colorpoint,green,,dry,12.0,,
+Ragdoll,1.67,20.0,male,False,31.0,4.7,seal,colorpoint,blue,False,wet,30.0,19.0,UK
+Ragdoll,1.67,20.0,female,True,20.0,3.5,seal,tortie,blue,False,wet,32.0,20.0,UK
+Ragdoll,3.92,47.0,male,True,28.0,5.0,seal,colorpoint,blue,,wet,2.0,15.0,UK
+Ragdoll,1.75,21.0,male,False,29.0,4.1,seal,colorpoint,blue,True,wet,11.0,,Canada
+Ragdoll,1.83,22.0,,True,28.0,4.0,seal,colorpoint,blue,False,wet,25.0,16.0,Canada
+Ragdoll,1.83,22.0,,True,26.0,4.9,seal,colorpoint,blue,,dry,32.0,21.0,Canada
+Ragdoll,1.83,22.0,,True,24.0,3.8,seal,colorpoint,blue,False,wet,4.0,17.0,Canada
+Ragdoll,1.92,23.0,male,True,31.0,4.8,seal,mitted,blue,,dry,35.0,19.0,Canada
+Ragdoll,4.5,54.0,,True,26.0,5.1,seal,colorpoint,blue,,wet,12.0,,Canada
+Ragdoll,4.0,48.0,,True,30.0,5.0,red/cream,bicolor,green,,wet,13.0,15.0,Canada
+Ragdoll,4.25,51.0,,False,30.0,5.2,seal,colorpoint,blue,,dry,7.0,,Canada
+Ragdoll,2.0,24.0,,,21.0,4.0,brown/chocolate,colorpoint,blue,False,dry,22.0,17.0,Canada
+Ragdoll,2.0,24.0,,True,27.0,4.9,red/cream,colorpoint,green,,dry,29.0,15.0,Canada
+Ragdoll,2.0,24.0,,,20.0,3.5,seal,colorpoint,blue,False,wet,20.0,15.0,Canada
+Ragdoll,2.0,24.0,,,23.0,3.9,brown/chocolate,colorpoint,blue,False,wet,22.0,15.0,USA
+Ragdoll,5.17,62.0,,True,26.0,4.7,seal,colorpoint,blue,False,wet,13.0,15.0,USA
+Ragdoll,2.08,25.0,female,True,23.0,4.33,seal,mitted,green,False,wet,8.0,,USA
+Ragdoll,2.08,25.0,,True,21.0,4.72,seal,colorpoint,green,,dry,34.0,15.0,USA
+Ragdoll,2.08,25.0,,True,25.0,6.05,seal,colorpoint,blue,,wet,5.0,15.0,USA
+Ragdoll,2.08,25.0,,True,28.0,4.57,seal,colorpoint,blue,False,wet,12.0,,USA
+Ragdoll,2.17,26.0,male,True,27.0,7.39,seal,,blue,False,dry,23.0,16.0,USA
+Ragdoll,2.17,26.0,male,True,35.0,8.29,red/cream,,blue,False,wet,29.0,15.0,USA
+Ragdoll,2.17,26.0,,True,20.0,6.0,seal,colorpoint,green,,dry,6.0,,USA
+Ragdoll,2.17,26.0,female,True,22.0,5.66,seal,bicolor,blue,,wet,28.0,15.0,USA
+,5.92,71.0,male,True,27.0,8.62,brown/chocolate,,green,False,dry,29.0,15.0,
+Ragdoll,2.25,27.0,,True,25.0,6.78,brown/chocolate,colorpoint,blue,False,wet,16.0,16.0,USA
+Ragdoll,2.33,28.0,,True,36.0,5.3,seal,colorpoint,blue,,wet,12.0,,USA
+Ragdoll,2.33,28.0,,True,31.0,6.87,seal,colorpoint,blue,False,wet,31.0,15.0,USA
+Ragdoll,2.33,28.0,,True,20.0,4.7,,colorpoint,green,False,wet,24.0,15.0,USA
+Ragdoll,2.33,28.0,,True,28.0,6.3,seal,colorpoint,blue,False,dry,7.0,,USA
+Ragdoll,2.42,29.0,female,True,22.0,5.3,brown/chocolate,tortie,blue,,dry,1.0,15.0,USA
+Ragdoll,2.42,29.0,,False,28.0,4.39,seal,colorpoint,blue,False,wet,5.0,15.0,USA
+Ragdoll,2.5,30.0,,,27.0,6.8,red/cream,bicolor,blue,False,wet,21.0,15.0,USA
+Ragdoll,2.5,30.0,male,False,29.0,6.77,seal,colorpoint,blue,False,wet,3.0,15.0,USA
+Ragdoll,2.5,30.0,,,24.0,4.88,seal,colorpoint,blue,,wet,21.0,17.0,USA
+Ragdoll,2.5,30.0,,False,27.0,6.72,seal,colorpoint,blue,False,wet,8.0,,USA
+Ragdoll,2.58,31.0,,True,28.0,5.0,seal,colorpoint,green,,dry,14.0,15.0,USA
+Ragdoll,2.67,32.0,male,True,53.0,6.15,seal,bicolor,green,False,dry,32.0,15.0,USA
+Ragdoll,2.67,32.0,female,,40.0,,seal,tortie,blue,True,wet,22.0,15.0,USA
+Ragdoll,2.67,32.0,,,45.0,5.31,seal,colorpoint,blue,,dry,22.0,15.0,USA
+Ragdoll,2.67,32.0,male,False,51.0,5.53,red/cream,bicolor,blue,,wet,25.0,15.0,USA
+Ragdoll,2.67,32.0,male,True,52.0,7.41,seal,,blue,False,wet,5.0,15.0,USA
+Ragdoll,2.75,33.0,female,,43.0,,brown/chocolate,mitted,green,False,wet,21.0,17.0,USA
+Ragdoll,2.75,33.0,,True,47.0,4.63,seal,colorpoint,blue,False,dry,34.0,17.0,USA
+Ragdoll,2.75,33.0,female,False,48.0,6.0,brown/chocolate,bicolor,green,,wet,15.0,17.0,USA
+Ragdoll,2.83,34.0,,False,38.0,5.3,seal,colorpoint,blue,,wet,31.0,17.0,USA
+Ragdoll,2.83,34.0,,True,43.0,,seal,colorpoint,blue,False,wet,29.0,15.0,USA
+Ragdoll,2.83,34.0,,True,51.0,5.67,seal,colorpoint,green,,wet,24.0,17.0,USA
+Ragdoll,2.83,34.0,,True,,8.92,seal,colorpoint,blue,False,wet,41.0,15.0,USA
+Ragdoll,2.92,35.0,,False,43.0,,seal,colorpoint,blue,True,wet,5.0,,USA
+Ragdoll,2.92,35.0,,True,44.0,,red/cream,bicolor,green,False,dry,17.0,15.0,USA
+Ragdoll,3.0,36.0,,True,45.0,6.1,seal,colorpoint,blue,False,wet,38.0,15.0,USA
+Ragdoll,3.0,36.0,,True,55.0,9.0,seal,colorpoint,blue,False,wet,12.0,16.0,USA
+Ragdoll,3.0,36.0,male,True,51.0,7.65,seal,,blue,False,dry,30.0,17.0,USA
+Ragdoll,3.0,36.0,,False,44.0,,seal,colorpoint,blue,False,wet,24.0,15.0,USA
+Ragdoll,3.0,36.0,male,False,50.0,7.48,,,blue,False,wet,27.0,17.0,USA
+Ragdoll,3.0,36.0,,True,22.0,5.5,brown/chocolate,colorpoint,blue,,wet,13.0,17.0,USA
+Ragdoll,3.08,37.0,female,True,41.0,,,tortie,green,False,wet,24.0,15.0,USA
+Ragdoll,3.08,37.0,,False,45.0,4.4,,colorpoint,blue,False,wet,25.0,15.0,USA
+Ragdoll,3.08,37.0,,True,39.0,6.75,seal,colorpoint,blue,False,dry,12.0,15.0,USA
+Ragdoll,3.17,38.0,,True,38.0,5.73,seal,colorpoint,blue,,wet,2.0,15.0,USA
+Ragdoll,3.17,38.0,,True,43.0,,brown/chocolate,colorpoint,green,False,wet,25.0,15.0,USA
+Ragdoll,3.17,38.0,,False,48.0,6.39,seal,colorpoint,blue,False,wet,32.0,16.0,USA
+Ragdoll,3.17,38.0,,False,47.0,4.38,seal,colorpoint,blue,False,wet,14.0,16.0,USA
+Ragdoll,3.17,38.0,male,True,46.0,7.79,seal,,blue,False,dry,13.0,15.0,USA
+Ragdoll,3.17,38.0,,True,39.0,5.34,seal,colorpoint,blue,,wet,29.0,17.0,USA
+Ragdoll,3.17,38.0,,True,47.0,6.42,seal,colorpoint,blue,False,wet,26.0,15.0,USA
+Ragdoll,3.17,38.0,,True,41.0,,red/cream,colorpoint,green,False,wet,16.0,15.0,USA
+Ragdoll,3.17,38.0,,,38.0,3.98,seal,colorpoint,blue,True,dry,22.0,15.0,USA
+Ragdoll,3.25,39.0,,True,52.0,6.8,red/cream,colorpoint,blue,False,dry,1.0,15.0,USA
+Ragdoll,3.25,39.0,,False,39.0,4.22,brown/chocolate,colorpoint,blue,False,wet,31.0,15.0,USA
+Ragdoll,3.25,39.0,,True,31.0,5.4,seal,colorpoint,blue,,wet,2.0,15.0,USA
+Ragdoll,3.25,39.0,male,True,48.0,7.78,red/cream,,blue,False,wet,16.0,16.0,USA
+Ragdoll,3.25,39.0,male,,49.0,7.87,seal,,green,False,wet,20.0,15.0,USA
+Ragdoll,3.25,39.0,,True,47.0,4.44,seal,colorpoint,blue,False,dry,30.0,15.0,USA
+Ragdoll,3.25,39.0,,True,30.0,4.9,brown/chocolate,colorpoint,blue,,dry,29.0,15.0,USA
+Ragdoll,3.33,40.0,,False,50.0,6.3,brown/chocolate,colorpoint,blue,False,wet,2.0,15.0,USA
+Ragdoll,3.33,40.0,,,43.0,,red/cream,colorpoint,blue,False,dry,22.0,15.0,USA
+Ragdoll,3.33,40.0,,False,47.0,4.59,seal,colorpoint,blue,False,dry,27.0,17.0,USA
+Ragdoll,3.33,40.0,,True,53.0,6.67,seal,colorpoint,blue,False,dry,24.0,15.0,USA
+Ragdoll,3.33,40.0,,False,50.0,4.88,seal,colorpoint,green,,dry,27.0,15.0,USA
+Ragdoll,3.33,40.0,female,False,39.0,4.72,seal,tortie,blue,,wet,31.0,16.0,USA
+Ragdoll,3.33,40.0,female,True,42.0,,seal,bicolor,blue,False,wet,30.0,15.0,USA
+Ragdoll,3.33,40.0,male,True,43.0,,seal,,blue,False,dry,35.0,15.0,USA
+Ragdoll,3.42,41.0,,False,50.0,6.83,seal,colorpoint,blue,False,dry,7.0,,USA
+Ragdoll,3.42,41.0,male,,29.0,8.5,red/cream,,blue,False,wet,22.0,15.0,USA
+Ragdoll,3.5,42.0,,False,47.0,5.36,seal,colorpoint,green,,wet,9.0,,USA
+Ragdoll,3.5,42.0,,False,46.0,6.79,brown/chocolate,colorpoint,blue,False,wet,4.0,15.0,USA
+Ragdoll,3.5,42.0,male,,51.0,7.32,red/cream,,blue,False,wet,22.0,15.0,USA
+Ragdoll,3.5,42.0,,False,40.0,,seal,colorpoint,green,False,dry,17.0,15.0,France
+Ragdoll,3.58,43.0,,True,43.0,,seal,colorpoint,blue,True,dry,25.0,17.0,France
+Ragdoll,3.58,43.0,,True,48.0,3.98,seal,colorpoint,blue,False,dry,31.0,15.0,France
+Ragdoll,3.58,43.0,male,False,50.0,8.02,brown/chocolate,,blue,False,wet,13.0,15.0,France
+Ragdoll,3.58,43.0,male,,51.0,8.33,seal,,green,False,wet,18.0,16.0,France
+Ragdoll,3.58,43.0,,True,45.0,6.79,red/cream,colorpoint,blue,False,wet,3.0,15.0,France
+Ragdoll,3.67,44.0,,False,41.0,,seal,colorpoint,green,False,wet,9.0,,France
+Ragdoll,3.67,44.0,,True,38.0,4.26,seal,colorpoint,blue,False,wet,23.0,16.0,France
+Ragdoll,3.67,44.0,female,False,44.0,,brown/chocolate,colorpoint,blue,False,wet,6.0,,France
+Ragdoll,3.75,45.0,,True,42.0,,seal,colorpoint,blue,False,wet,4.0,17.0,France
+Ragdoll,3.75,45.0,,True,49.0,5.6,red/cream,bicolor,blue,,wet,31.0,15.0,France
+Ragdoll,3.83,46.0,male,False,53.0,7.54,seal,,blue,False,dry,6.0,,USA
+Ragdoll,3.83,46.0,male,True,45.0,7.93,brown/chocolate,,blue,False,wet,29.0,16.0,USA
+Ragdoll,3.83,46.0,,True,45.0,5.22,seal,colorpoint,green,,dry,29.0,15.0,USA
+Ragdoll,3.83,46.0,male,True,46.0,8.6,red/cream,,blue,True,wet,13.0,17.0,USA
+Ragdoll,3.83,46.0,female,False,40.0,,seal,tortie,blue,False,wet,16.0,16.0,USA
+Ragdoll,3.83,46.0,,True,40.0,,seal,colorpoint,blue,False,dry,7.0,,USA
+Ragdoll,3.92,47.0,male,,46.0,8.13,seal,,green,False,wet,21.0,17.0,USA
+Ragdoll,3.92,47.0,male,True,46.0,7.33,seal,,green,False,wet,4.0,15.0,USA
+Ragdoll,3.92,47.0,,,38.0,5.81,seal,colorpoint,amber,,wet,21.0,12.0,USA
+Ragdoll,4.0,48.0,,True,40.0,,seal,colorpoint,blue,False,wet,13.0,12.0,USA
+Ragdoll,4.08,49.0,male,True,51.0,5.89,seal,colorpoint,blue,,wet,29.0,16.0,USA
+Ragdoll,4.08,49.0,male,True,49.0,8.81,seal,,blue,False,wet,5.0,17.0,USA
+Ragdoll,4.17,50.0,female,,42.0,,seal,colorpoint,blue,False,wet,19.0,12.0,USA
+Ragdoll,4.25,51.0,male,True,43.0,,seal,colorpoint,blue,True,dry,30.0,16.0,USA
+Ragdoll,4.33,52.0,male,True,49.0,8.2,seal,,green,False,wet,32.0,16.0,USA
+Ragdoll,4.33,52.0,male,False,42.0,,red/cream,colorpoint,blue,False,wet,33.0,12.0,USA
+Ragdoll,4.33,52.0,male,,47.0,5.64,seal,colorpoint,blue,,dry,18.0,15.0,USA
+Ragdoll,4.42,53.0,,True,53.0,5.7,red/cream,bicolor,blue,,dry,17.0,16.0,USA
+Ragdoll,4.42,53.0,female,False,46.0,4.75,brown/chocolate,colorpoint,blue,,dry,8.0,,USA
+Ragdoll,4.42,53.0,female,False,44.0,,seal,colorpoint,blue,False,wet,7.0,,USA
+Ragdoll,4.42,53.0,,False,50.0,5.09,seal,bicolor,green,,wet,13.0,12.0,USA
+Ragdoll,4.5,54.0,female,True,40.0,,seal,colorpoint,blue,False,wet,3.0,12.0,USA
+Ragdoll,4.5,54.0,female,,45.0,6.47,seal,colorpoint,blue,False,wet,20.0,16.0,USA
+Ragdoll,4.5,54.0,female,False,41.0,,seal,colorpoint,blue,False,wet,9.0,,USA
+Ragdoll,4.58,55.0,,False,46.0,5.5,brown/chocolate,bicolor,green,,wet,14.0,16.0,USA
+Ragdoll,4.58,55.0,male,True,50.0,8.46,seal,,green,True,wet,28.0,17.0,USA
+Ragdoll,,55.0,male,True,46.0,8.05,seal,,blue,False,wet,25.0,16.0,USA
+Ragdoll,4.58,55.0,female,True,38.0,5.71,red/cream,tortie,blue,,wet,27.0,12.0,USA
+Ragdoll,,55.0,male,True,47.0,8.38,seal,,blue,False,wet,15.0,12.0,USA
+Ragdoll,4.58,55.0,female,,39.0,4.23,seal,colorpoint,blue,False,wet,18.0,12.0,USA
+Ragdoll,,55.0,male,False,46.0,6.18,seal,colorpoint,blue,False,wet,12.0,,USA
+Ragdoll,4.67,56.0,male,,57.0,8.54,seal,,blue,False,dry,22.0,12.0,USA
+Ragdoll,,56.0,male,True,44.0,,seal,colorpoint,green,False,wet,7.0,,USA
+Ragdoll,4.67,56.0,female,False,48.0,5.81,seal,colorpoint,blue,,wet,17.0,12.0,USA
+Ragdoll,4.75,57.0,female,False,42.0,,seal,colorpoint,blue,False,dry,11.0,,USA
+Ragdoll,,57.0,male,True,44.0,,seal,colorpoint,blue,False,wet,27.0,15.0,USA
+Ragdoll,4.83,58.0,female,True,40.0,,seal,colorpoint,green,False,wet,36.0,12.0,USA
+Ragdoll,,58.0,male,True,52.0,7.72,red/cream,,blue,False,wet,0.0,12.0,USA
+Ragdoll,4.83,58.0,,False,43.0,,red/cream,bicolor,blue,False,wet,11.0,,USA
+Ragdoll,,58.0,male,False,57.0,7.98,seal,,blue,False,dry,31.0,12.0,USA
+Ragdoll,4.83,58.0,female,True,44.0,,brown/chocolate,colorpoint,green,False,wet,35.0,12.0,USA
+Ragdoll,4.83,58.0,male,True,51.0,8.14,seal,,green,False,dry,6.0,,USA
+Ragdoll,4.92,59.0,female,True,38.0,6.21,seal,colorpoint,blue,False,wet,27.0,16.0,USA
+Ragdoll,4.92,59.0,female,False,38.0,4.51,seal,mitted,blue,False,wet,14.0,12.0,USA
+Ragdoll,4.92,59.0,male,False,51.0,7.99,seal,,blue,False,dry,36.0,12.0,USA
+Ragdoll,4.92,59.0,male,False,48.0,7.78,seal,,blue,False,wet,14.0,12.0,USA
+Ragdoll,,59.0,male,True,47.0,7.19,seal,colorpoint,blue,False,wet,14.0,15.0,USA
+Ragdoll,5.08,61.0,female,False,40.0,,brown/chocolate,colorpoint,green,False,wet,32.0,16.0,USA
+Ragdoll,5.08,61.0,female,False,44.0,,seal,colorpoint,blue,False,dry,9.0,,USA
+Ragdoll,5.08,61.0,female,True,48.0,6.71,seal,colorpoint,blue,False,wet,7.0,,USA
+Ragdoll,,62.0,male,True,51.0,7.78,red/cream,,blue,False,wet,6.0,,USA
+Ragdoll,,62.0,male,False,49.0,7.06,red/cream,colorpoint,blue,False,dry,12.0,,USA
+Ragdoll,5.17,62.0,female,True,,5.59,seal,colorpoint,green,,wet,,,USA
+Ragdoll,5.25,63.0,female,False,50.0,4.88,brown/chocolate,colorpoint,blue,,dry,33.0,12.0,USA
+Ragdoll,5.25,63.0,male,True,45.0,5.97,seal,colorpoint,blue,,dry,30.0,12.0,USA
+Ragdoll,,65.0,male,True,61.0,9.19,seal,colorpoint,blue,False,dry,11.0,,USA
+Ragdoll,,66.0,male,False,45.0,6.63,seal,colorpoint,blue,False,dry,23.0,12.0,USA
+Ragdoll,,66.0,male,True,48.0,8.74,seal,,green,False,wet,10.0,,USA
+Ragdoll,,66.0,male,,47.0,7.43,red/cream,,blue,False,dry,20.0,15.0,USA
+Ragdoll,,67.0,male,False,,7.3,red/cream,,green,False,wet,,15.0,Germany
+Ragdoll,,67.0,male,True,,6.17,seal,colorpoint,blue,False,wet,,15.0,Germany
+Ragdoll,5.58,67.0,female,False,,,seal,colorpoint,blue,False,wet,,,Germany
+Ragdoll,5.58,67.0,male,False,,7.55,seal,,blue,False,wet,,12.0,
+Ragdoll,5.58,67.0,male,True,,6.17,seal,colorpoint,blue,False,wet,,12.0,Germany
+,5.67,68.0,female,False,,,seal,colorpoint,blue,False,wet,,12.0,
+,5.67,68.0,female,True,,,seal,colorpoint,green,False,wet,,15.0,
+,5.67,68.0,male,False,,5.62,red/cream,colorpoint,blue,,wet,,12.0,
+Ragdoll,5.67,68.0,male,False,,5.94,red/cream,colorpoint,blue,,wet,,12.0,
+Ragdoll,,68.0,male,True,,5.87,seal,colorpoint,blue,,wet,,12.0,
+Ragdoll,5.67,68.0,female,True,,,seal,colorpoint,blue,False,wet,,,
+Ragdoll,,68.0,male,True,,7.12,red/cream,colorpoint,blue,True,wet,,17.0,
+,5.67,68.0,female,True,40.0,,seal,colorpoint,blue,False,dry,26.0,12.0,
+,,69.0,male,False,,5.73,seal,colorpoint,blue,,wet,,,
+,,69.0,male,True,,,seal,bicolor,amber,False,wet,,,
+,5.83,70.0,female,True,,6.9,seal,mitted,blue,False,wet,,16.0,
+,,70.0,male,True,,,seal,,blue,False,wet,,,
+,5.83,70.0,female,False,,7.08,lilac,colorpoint,blue,False,wet,,,
+,6.0,72.0,female,True,,,brown/chocolate,colorpoint,blue,False,wet,,,
+,6.0,72.0,female,False,,3.73,red/cream,mitted,blue,False,wet,,16.0,
+,,72.0,male,True,,,seal,colorpoint,blue,False,wet,,15.0,
+,,72.0,male,True,,8.97,seal,colorpoint,blue,False,wet,,12.0,
+,6.0,72.0,female,False,,3.86,seal,colorpoint,green,False,wet,,16.0,
+,6.08,73.0,female,True,,5.84,seal,colorpoint,blue,,wet,,12.0,
+,,73.0,male,,,7.25,red/cream,,blue,False,wet,,16.0,
+,6.08,73.0,female,False,,5.43,seal,colorpoint,blue,,wet,,12.0,
+,6.08,73.0,female,True,,6.06,seal,colorpoint,blue,,wet,,17.0,
+,6.08,73.0,female,True,,,seal,colorpoint,blue,False,wet,,,
+,6.08,73.0,female,True,,,seal,colorpoint,green,False,wet,,16.0,
+,6.08,73.0,,,,,seal,bicolor,blue,False,wet,,15.0,
+,6.08,73.0,female,,41.0,,seal,colorpoint,blue,False,dry,18.0,12.0,
+,6.17,74.0,male,True,,,brown/chocolate,,blue,False,wet,,17.0,
+,6.17,74.0,male,False,,7.25,seal,,blue,False,wet,,12.0,
+,6.17,74.0,female,True,40.0,,seal,bicolor,blue,False,dry,9.0,,
+,6.25,75.0,female,False,48.0,5.26,red/cream,colorpoint,blue,,dry,27.0,12.0,
+,6.25,75.0,female,False,,3.99,seal,colorpoint,blue,False,wet,,,
+,6.25,75.0,male,True,,,seal,,blue,False,wet,,17.0,
+,6.25,75.0,male,False,,,seal,,green,False,wet,,,
+,6.25,75.0,female,False,48.0,6.29,seal,colorpoint,blue,True,dry,10.0,,
+,6.25,75.0,male,True,47.0,6.21,seal,colorpoint,blue,False,dry,27.0,12.0,
+,6.33,76.0,female,,,5.6,seal,tortie,blue,,wet,,17.0,
+,6.33,76.0,female,False,47.0,6.89,seal,colorpoint,blue,False,dry,9.0,,
+,6.5,78.0,female,True,46.0,6.21,seal,colorpoint,blue,False,dry,27.0,12.0,
+,6.5,78.0,male,True,,7.54,seal,,green,False,wet,,12.0,
+,6.5,78.0,female,True,,6.93,brown/chocolate,tortie,blue,False,wet,,12.0,
+,6.5,78.0,male,,,7.31,seal,,blue,False,wet,,17.0,
+,6.58,79.0,female,,48.0,6.53,seal,tortie,blue,False,dry,19.0,12.0,
+,6.58,79.0,female,,,6.25,seal,colorpoint,blue,False,wet,,17.0,
+,6.67,80.0,female,False,46.0,6.6,seal,bicolor,blue,False,dry,3.0,12.0,
+,6.67,80.0,male,True,,,brown/chocolate,colorpoint,blue,False,wet,,,
+,6.75,81.0,male,,,7.92,red/cream,,green,False,wet,,12.0,
+,6.75,81.0,female,True,44.0,,seal,colorpoint,blue,False,dry,6.0,,
+,6.83,82.0,female,False,,4.08,lilac,colorpoint,blue,False,wet,,12.0,
+,6.92,83.0,male,True,45.0,,seal,,blue,False,wet,26.0,15.0,
+Ragdoll,7.0,84.0,male,True,,8.23,seal,,blue,False,wet,,12.0,
+,7.0,84.0,female,False,,,seal,tortie,blue,False,wet,,15.0,Germany
+Ragdoll,7.0,84.0,male,True,,7.22,seal,colorpoint,green,False,wet,,17.0,
+Ragdoll,7.08,85.0,male,,,7.18,brown/chocolate,colorpoint,blue,False,wet,,17.0,USA
+Ragdoll,,85.0,male,True,,8.18,seal,,blue,False,wet,,21.0,USA
+Ragdoll,7.08,85.0,female,False,48.0,3.92,seal,mitted,blue,False,dry,9.0,,USA
+Ragdoll,7.08,85.0,female,True,,5.28,brown/chocolate,colorpoint,blue,,wet,,,USA
+Ragdoll,7.17,86.0,female,False,,5.04,seal,colorpoint,blue,,wet,,19.0,USA
+Ragdoll,,86.0,male,True,,,brown/chocolate,bicolor,blue,False,wet,,20.0,USA
+Ragdoll,,87.0,male,False,,6.34,red/cream,colorpoint,blue,True,wet,,18.0,USA
+Ragdoll,,87.0,male,,43.0,,seal,colorpoint,green,False,dry,20.0,20.0,USA
+Ragdoll,7.25,87.0,female,,,3.66,,colorpoint,blue,False,wet,,20.0,USA
+Ragdoll,7.33,88.0,female,True,,6.24,brown/chocolate,mitted,blue,False,wet,,20.0,USA
+Ragdoll,,88.0,male,True,,8.29,,,blue,False,wet,,15.0,USA
+Ragdoll,,88.0,male,,,8.95,,colorpoint,blue,False,wet,,18.0,USA
+Ragdoll,,90.0,male,False,,6.74,,colorpoint,blue,False,wet,,15.0,USA
+Ragdoll,7.5,90.0,female,True,,4.39,,colorpoint,blue,False,wet,,,USA
+Ragdoll,,90.0,male,False,49.0,7.25,,,blue,False,dry,12.0,,USA
+Ragdoll,,91.0,male,True,,,,colorpoint,blue,False,wet,,19.0,USA
+Ragdoll,,91.0,male,True,,5.79,,colorpoint,blue,,wet,,21.0,USA
+Ragdoll,,91.0,male,True,47.0,7.73,,,green,False,dry,10.0,,USA
+Ragdoll,,91.0,male,True,,,seal,colorpoint,blue,False,wet,,15.0,Canada
+Ragdoll,,91.0,male,True,,7.91,seal,,green,False,wet,,18.0,Canada
+Ragdoll,7.67,92.0,female,True,,5.04,red/cream,colorpoint,blue,,wet,,,Canada
+Ragdoll,,92.0,male,,45.0,7.03,seal,colorpoint,blue,False,wet,21.0,19.0,Canada
+Ragdoll,7.67,92.0,female,True,49.0,4.87,seal,colorpoint,blue,,wet,29.0,18.0,Canada
+Ragdoll,,92.0,male,True,62.0,7.2,brown/chocolate,bicolor,green,False,wet,13.0,17.0,Canada
+Ragdoll,7.67,92.0,female,True,48.0,6.75,brown/chocolate,colorpoint,blue,False,dry,27.0,20.0,Canada
+Ragdoll,,92.0,male,True,,7.24,red/cream,colorpoint,blue,False,wet,,17.0,Canada
+Ragdoll,,93.0,male,True,49.0,7.36,seal,,blue,False,wet,14.0,19.0,Canada
+Ragdoll,7.75,93.0,female,False,,5.91,seal,colorpoint,blue,,wet,,21.0,Canada
+Ragdoll,,93.0,male,True,,,seal,,blue,False,wet,,19.0,Canada
+Ragdoll,,93.0,male,True,,8.68,red/cream,,green,False,wet,,16.0,Canada
+Ragdoll,7.75,93.0,female,True,,5.52,seal,colorpoint,blue,,wet,,16.0,Canada
+Ragdoll,,93.0,male,False,,7.72,seal,,blue,False,wet,,17.0,Canada
+Ragdoll,7.83,94.0,female,False,44.0,,brown/chocolate,colorpoint,blue,False,dry,2.0,15.0,Canada
+Ragdoll,7.83,94.0,,True,,6.42,,bicolor,green,False,wet,,18.0,USA
+Ragdoll,7.83,94.0,female,True,,6.2,,colorpoint,blue,False,wet,,18.0,USA
+Ragdoll,7.92,95.0,female,,,4.65,brown/chocolate,colorpoint,blue,False,wet,,16.0,USA
+Ragdoll,,95.0,male,False,,6.28,,colorpoint,green,False,wet,,18.0,USA
+Ragdoll,,96.0,male,True,,7.67,,,blue,False,wet,,20.0,USA
+Ragdoll,,96.0,male,,,7.62,,,blue,False,wet,,18.0,USA
+Ragdoll,8.0,96.0,female,True,,,,colorpoint,blue,False,wet,,19.0,USA
+Ragdoll,,96.0,male,,48.0,6.58,,colorpoint,blue,False,dry,18.0,16.0,USA
+Ragdoll,7.83,94.0,female,,45.0,3.98,,colorpoint,blue,False,dry,19.0,21.0,USA
+Ragdoll,8.0,96.0,,True,,4.28,,bicolor,blue,False,wet,,16.0,USA
+Ragdoll,8.08,97.0,male,False,,7.66,,,blue,False,wet,,,USA
+Ragdoll,7.92,95.0,female,True,,6.73,,colorpoint,green,False,wet,,15.0,USA
+Ragdoll,,97.0,male,True,47.0,8.41,,,blue,False,dry,10.0,,USA
+Ragdoll,8.17,98.0,female,True,38.0,6.99,,tortie,blue,False,dry,2.0,16.0,USA
+Ragdoll,,98.0,male,False,,8.38,,,blue,False,wet,,20.0,USA
+Ragdoll,,98.0,male,True,,,,,blue,False,wet,,19.0,USA
+Ragdoll,,98.0,male,,48.0,5.74,,colorpoint,blue,,dry,22.0,20.0,USA
+Ragdoll,8.17,98.0,female,False,44.0,,,colorpoint,blue,False,dry,28.0,20.0,USA
+Ragdoll,,98.0,male,True,,8.7,,,blue,False,wet,,,USA
+Ragdoll,,99.0,male,True,46.0,9.07,,colorpoint,blue,False,dry,7.0,,USA
+Ragdoll,8.25,99.0,female,True,,5.03,,bicolor,blue,,wet,,,USA
+Ragdoll,,99.0,male,True,,,,colorpoint,green,False,wet,,19.0,USA
+Ragdoll,,101.0,male,False,53.0,5.99,,colorpoint,blue,,dry,13.0,17.0,USA
+Ragdoll,8.42,101.0,female,True,41.0,,,colorpoint,blue,False,dry,29.0,20.0,USA
+Ragdoll,8.5,102.0,female,True,47.0,5.86,,colorpoint,blue,,dry,9.0,,USA
+Ragdoll,,102.0,male,,,,,,blue,False,wet,,20.0,USA
+Ragdoll,8.5,102.0,male,True,,8.33,,,blue,False,wet,,17.0,USA
+Ragdoll,8.58,103.0,female,False,,5.51,,colorpoint,blue,,wet,,18.0,USA
+Ragdoll,8.58,103.0,female,True,,,,colorpoint,blue,False,wet,,,USA
+Ragdoll,,103.0,male,False,,6.61,,colorpoint,blue,False,wet,,19.0,USA
+Ragdoll,,103.0,male,False,,6.37,,colorpoint,green,False,wet,,18.0,USA
+Ragdoll,4.58,55.0,female,True,,4.37,,tortie,blue,False,wet,,12.0,USA
+Ragdoll,8.67,104.0,female,,,6.46,,tortie,blue,False,wet,,18.0,USA
+Ragdoll,8.75,105.0,female,False,,,,colorpoint,blue,False,wet,,20.0,USA
+Ragdoll,,105.0,male,False,,6.79,,colorpoint,blue,False,wet,,21.0,USA
+Ragdoll,4.5,54.0,female,True,,,,tortie,blue,False,wet,,15.0,USA
+Ragdoll,8.75,105.0,female,True,,6.04,,colorpoint,blue,,wet,,19.0,USA
+Ragdoll,8.75,105.0,female,,,,,colorpoint,blue,False,wet,,18.0,USA
+Ragdoll,5.58,67.0,female,False,45.0,,,colorpoint,blue,False,dry,16.0,12.0,
+Ragdoll,8.83,106.0,female,False,,,,bicolor,blue,False,wet,,,USA
+Ragdoll,,107.0,male,True,,,,colorpoint,blue,False,wet,,20.0,USA
+Ragdoll,,107.0,male,,,7.18,,colorpoint,blue,False,wet,,19.0,USA
+Ragdoll,,107.0,male,True,,9.13,,colorpoint,green,False,wet,,18.0,USA
+Ragdoll,8.92,107.0,female,False,,,,colorpoint,blue,False,wet,,18.0,USA
+Ragdoll,,108.0,male,True,,,,bicolor,blue,False,wet,,,USA
+Ragdoll,,108.0,male,False,,7.99,,,blue,False,wet,,17.0,USA
+Ragdoll,9.0,108.0,female,False,,6.36,,colorpoint,blue,False,wet,,19.0,USA
+Ragdoll,,108.0,male,,,,,colorpoint,blue,False,wet,,17.0,USA
+Ragdoll,,109.0,male,,,5.72,,colorpoint,blue,,wet,,18.0,USA
+Ragdoll,5.08,61.0,female,,,4.37,,tortie,green,False,wet,,17.0,USA
+Ragdoll,,109.0,male,True,47.0,7.91,,,blue,False,dry,8.0,,USA
+Ragdoll,,109.0,male,False,,6.15,,colorpoint,blue,False,wet,,21.0,USA
+Ragdoll,9.17,110.0,female,True,,5.73,,colorpoint,blue,,wet,,17.0,USA
+Ragdoll,,110.0,male,True,,5.84,,colorpoint,blue,,wet,,18.0,USA
+Ragdoll,,110.0,male,True,,7.52,,,green,False,wet,,18.0,USA
+Ragdoll,2.67,32.0,female,False,38.0,4.59,,colorpoint,blue,False,wet,8.0,,USA
+Ragdoll,9.25,111.0,female,False,48.0,3.71,,bicolor,blue,False,wet,15.0,18.0,USA
+Ragdoll,9.25,111.0,female,False,48.0,6.11,,colorpoint,green,False,dry,14.0,20.0,USA
+Ragdoll,,111.0,male,True,47.0,8.61,,,blue,False,dry,6.0,,USA
+Ragdoll,9.25,111.0,female,True,48.0,5.49,,colorpoint,blue,,dry,28.0,20.0,USA
+Ragdoll,,112.0,male,False,50.0,7.16,brown/chocolate,colorpoint,blue,False,wet,27.0,19.0,USA
+Ragdoll,5.58,67.0,female,False,49.0,4.57,seal,colorpoint,blue,False,wet,29.0,16.0,
+Ragdoll,9.33,112.0,female,True,39.0,6.15,seal,colorpoint,blue,False,wet,13.0,19.0,USA
+Ragdoll,9.33,112.0,female,True,47.0,7.34,lilac,,blue,False,wet,11.0,,USA
+Ragdoll,,113.0,male,True,46.0,8.17,brown/chocolate,,blue,False,wet,22.0,16.0,USA
+Ragdoll,9.42,113.0,female,True,38.0,6.38,seal,colorpoint,blue,False,wet,38.0,21.0,USA
+Ragdoll,9.42,113.0,female,True,45.0,,brown/chocolate,colorpoint,blue,False,wet,27.0,17.0,USA
+Ragdoll,,113.0,male,True,54.0,9.15,seal,colorpoint,green,False,wet,6.0,,USA
+Ragdoll,9.5,114.0,female,True,48.0,4.76,seal,colorpoint,blue,,wet,13.0,19.0,USA
+Ragdoll,5.17,62.0,female,False,40.0,,seal,colorpoint,blue,False,wet,22.0,15.0,USA
+Ragdoll,,114.0,male,True,58.0,9.06,red/cream,colorpoint,blue,False,wet,0.0,18.0,USA
+Ragdoll,,114.0,male,,53.0,7.09,seal,colorpoint,green,False,wet,21.0,20.0,USA
+Ragdoll,,115.0,male,True,51.0,7.7,red/cream,,blue,False,wet,23.0,19.0,USA
+Ragdoll,,115.0,male,True,46.0,5.87,red/cream,colorpoint,blue,,dry,29.0,19.0,USA
+Ragdoll,,115.0,male,False,50.0,6.91,seal,colorpoint,blue,False,wet,30.0,16.0,USA
+Ragdoll,,115.0,male,,48.0,8.58,seal,,green,False,dry,18.0,21.0,USA
+Ragdoll,4.0,48.0,female,True,44.0,,seal,bicolor,blue,False,dry,36.0,17.0,USA
+Ragdoll,,116.0,male,True,43.0,,seal,colorpoint,blue,False,wet,14.0,16.0,USA
+Ragdoll,9.67,116.0,female,True,,6.37,seal,colorpoint,blue,False,wet,,19.0,USA
+Ragdoll,9.67,116.0,female,True,,,seal,colorpoint,blue,False,wet,,17.0,USA
+Ragdoll,,117.0,male,False,47.0,6.0,seal,colorpoint,green,,dry,24.0,17.0,USA
+Ragdoll,4.67,56.0,female,False,,5.0,seal,mitted,blue,,wet,,,USA
+Ragdoll,5.58,67.0,female,False,,5.59,brown/chocolate,tortie,blue,,wet,,,
+Ragdoll,,118.0,male,,,8.4,seal,,blue,False,wet,,19.0,USA
+Ragdoll,,118.0,male,True,,,seal,colorpoint,green,False,wet,,17.0,USA
+Ragdoll,9.83,118.0,female,,,,lilac,colorpoint,blue,False,wet,,16.0,USA
+Ragdoll,9.83,118.0,female,,44.0,,seal,colorpoint,blue,False,wet,,19.0,USA
+Ragdoll,4.67,56.0,female,True,49.0,4.62,seal,colorpoint,blue,True,wet,,12.0,USA
+Ragdoll,4.67,56.0,female,True,42.0,,seal,colorpoint,blue,False,wet,,12.0,USA
+Ragdoll,10.83,130.0,female,True,41.0,,seal,colorpoint,blue,False,dry,31.0,18.0,USA
+Ragdoll,9.92,119.0,female,True,33.0,6.07,seal,colorpoint,green,False,dry,4.0,19.0,USA
+Ragdoll,3.08,37.0,,True,45.0,,red/cream,bicolor,blue,False,wet,,15.0,USA
+Ragdoll,10.5,126.0,,True,43.0,,seal,bicolor,blue,False,wet,,19.0,USA
+Ragdoll,,120.0,male,True,48.0,7.59,brown/chocolate,,blue,False,dry,16.0,16.0,USA
+Ragdoll,,1.0,male,,11.0,0.6,seal,colorpoint,blue,False,wet,,21.0,USA
+Ragdoll,,1.0,male,False,12.0,0.8,seal,colorpoint,blue,False,wet,,20.0,USA
+Ragdoll,,1.0,male,False,11.0,0.7,seal,colorpoint,blue,False,dry,40.0,19.0,USA
+Ragdoll,,1.0,male,False,12.0,0.9,seal,colorpoint,blue,False,wet,,20.0,USA
+Ragdoll,,1.0,male,False,12.0,0.6,seal,colorpoint,blue,False,wet,,22.0,USA
+Ragdoll,0.17,2.0,female,,14.0,0.9,seal,colorpoint,blue,False,wet,,18.0,USA
+Ragdoll,0.08,1.0,,False,10.0,0.8,red/cream,bicolor,blue,True,dry,26.0,21.0,USA
+Ragdoll,0.17,2.0,,,14.0,1.3,red/cream,bicolor,blue,False,wet,,20.0,USA
+Ragdoll,0.08,1.0,,False,11.0,0.9,red/cream,bicolor,blue,False,wet,,21.0,USA
+Ragdoll,0.08,1.0,,False,15.0,0.8,red/cream,bicolor,blue,False,dry,34.0,21.0,USA
+Ragdoll,0.08,1.0,female,False,10.0,0.8,red/cream,tortie,blue,False,wet,,21.0,USA
+Ragdoll,0.17,2.0,female,False,14.0,1.1,brown/chocolate,colorpoint,blue,False,wet,,18.0,USA
+Ragdoll,,1.0,male,False,15.0,0.8,brown/chocolate,colorpoint,blue,False,dry,39.0,22.0,USA
+Ragdoll,,1.0,male,False,10.0,0.9,red/cream,colorpoint,blue,False,wet,,20.0,USA
+Ragdoll,0.17,2.0,female,False,13.0,0.8,red/cream,colorpoint,blue,False,wet,,18.0,USA
+Ragdoll,0.08,1.0,female,False,13.0,0.7,red/cream,colorpoint,blue,False,wet,,22.0,USA
+Ragdoll,0.17,2.0,female,False,16.0,0.8,red/cream,colorpoint,blue,True,wet,,18.0,USA
+Ragdoll,0.17,2.0,female,False,16.0,1.1,red/cream,tortie,blue,False,dry,31.0,18.0,USA
+Ragdoll,0.17,2.0,,False,17.0,1.2,red/cream,bicolor,blue,False,wet,,18.0,USA
+Angora,,1.0,male,False,12.0,0.8,white,solid,blue,False,wet,,19.0,USA
+Angora,0.08,1.0,female,False,13.0,0.8,white,solid,blue,False,wet,,20.0,USA
+Angora,0.17,2.0,female,False,16.0,0.8,white,solid,blue,False,wet,,20.0,USA
+Angora,,2.0,male,False,17.0,0.8,black,solid,blue,False,dry,40.0,20.0,USA
+Angora,,2.0,male,,15.0,1.1,,solid,green,False,wet,,20.0,USA
+Angora,0.17,2.0,female,False,17.0,0.9,,solid,blue,False,wet,,20.0,USA
+Angora,0.08,1.0,female,False,15.0,0.7,white,solid,blue,False,wet,,22.0,UK
+Angora,,2.0,male,False,14.0,0.7,black,solid,blue,False,dry,40.0,20.0,USA
+Angora,,2.0,male,False,15.0,0.8,,solid,green,False,wet,,20.0,USA
+Angora,0.08,1.0,female,False,14.0,0.7,white,solid,blue,True,wet,,20.0,USA
+Angora,0.17,2.0,female,False,14.0,0.7,white,solid,blue,False,wet,,18.0,Germany
+Angora,0.17,,female,False,17.0,0.8,white,solid,green,False,wet,,19.0,USA
+Angora,0.17,,female,False,14.0,0.8,white,solid,blue,False,dry,24.0,18.0,USA
+Angora,,2.0,male,False,16.0,1.2,white,solid,blue,False,wet,,19.0,USA
+Maine coon,,1.0,male,False,15.0,0.7,white,solid,blue,False,wet,,19.0,USA
+Maine coon,0.08,1.0,female,False,15.0,0.8,brown/chocolate,tabby,green,False,wet,,21.0,USA
+Maine coon,0.08,1.0,female,False,13.0,0.8,red/cream,tabby,blue,False,wet,,22.0,USA
+Maine coon,0.08,1.0,,False,15.0,0.8,black,bicolor,green,False,dry,40.0,21.0,USA
+Maine coon,,2.0,male,False,14.0,1.2,red/cream,tabby,blue,False,wet,,18.0,USA
+Maine coon,0.08,1.0,female,False,15.0,0.5,red/cream,tortie,blue,False,wet,,21.0,USA
+Maine coon,0.08,1.0,female,False,12.0,0.8,brown/chocolate,tabby,green,True,wet,,20.0,USA
+Maine coon,,1.0,male,False,13.0,0.7,brown/chocolate,tabby,blue,False,dry,36.0,19.0,USA
+Maine coon,,2.0,male,,15.0,1.3,brown/chocolate,tabby,green,False,wet,,20.0,UK
+Maine coon,0.17,2.0,female,False,15.0,1.4,brown/chocolate,tabby,blue,False,wet,,18.0,UK
+Maine coon,0.17,2.0,female,False,12.0,0.9,brown/chocolate,solid,green,False,wet,,19.0,UK
+Maine coon,0.17,2.0,female,False,15.0,1.2,white,solid,blue,False,wet,,20.0,UK
+Maine coon,0.17,2.0,,False,17.0,1.0,black,bicolor,blue,False,wet,,19.0,UK
+Maine coon,,2.0,male,,14.0,0.7,red/cream,tabby,blue,False,wet,20.0,20.0,UK
+Maine coon,0.17,2.0,male,False,16.0,1.1,red/cream,tabby,green,False,wet,34.0,19.0,UK
+Maine coon,0.17,,female,False,15.0,1.1,red/cream,solid,blue,False,,39.0,20.0,UK

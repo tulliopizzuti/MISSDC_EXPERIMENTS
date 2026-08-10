@@ -1,0 +1,1072 @@
+Breed str,Ageinyears float,Ageinmonths int,Gender str,Neuteredorspayed str,Bodylength int,Weight int,Furcolourdominant str,Furpattern str,Eyecolour str,Allowedoutdoor str,Preferredfood str,Ownerplaytimeminutes int,Sleeptimehours int,Country str
+Angora,a.cf,d.a,female,False,bj.a,c.a,white,solid,blue,False,wet,eg.a,bg.a,France
+Angora,a.dd,,male,False,bj.a,c.f,white,,blue,False,wet,ei.a,bg.a,France
+Angora,a.f,g.a,male,False,ca.a,c.i,black,solid,green,False,wet,eb.a,bb.a,France
+,a.f,,female,False,cb.a,d.a,white,,blue,False,wet,ce.a,i.a,France
+Angora,a.f,,male,False,cb.a,d.a,red/cream,,green,False,wet,fb.a,ba.a,France
+,a.f,,female,False,cb.a,d.a,white,,amber,False,wet,da.a,ba.a,France
+Angora,a.fi,h.a,male,False,cc.a,d.a,white,solid,amber,False,wet,eh.a,j.a,France
+Angora,a.fi,,male,False,cd.a,d.a,red/cream,,blue,False,wet,ff.a,bb.a,France
+,a.fi,,female,False,cf.a,d.a,black,tortie,blue,False,wet,ca.a,bc.a,
+Angora,a.gh,i.a,female,False,cf.a,d.a,white,solid,blue,False,wet,dd.a,bh.a,France
+Angora,a.gh,i.a,female,False,cg.a,d.a,black,solid,green,False,wet,dj.a,bi.a,France
+Angora,a.gh,,male,True,cg.a,d.d,white,solid,amber,False,wet,di.a,bj.a,France
+Angora,a.hf,,male,True,ch.a,d.d,white,solid,amber,False,wet,eg.a,bg.a,France
+Angora,b.ai,,male,False,ci.a,d.c,white,solid,blue,False,wet,df.a,be.a,France
+Angora,b.dd,,male,True,da.a,d.f,red/cream,,blue,False,dry,,ca.a,France
+Angora,a.id,,male,False,db.a,d.e,white,,green,False,dry,fg.a,bh.a,France
+Angora,b.ec,,female,True,db.a,d.j,white,solid,green,False,wet,ei.a,be.a,France
+Angora,a.jc,,female,True,db.a,d.j,white,,amber,False,wet,ff.a,bj.a,France
+Angora,b.a,,male,False,db.a,d.f,white,solid,blue,True,wet,ec.a,be.a,France
+Angora,b.a,,male,,df.a,d.j,white,solid,amber,False,wet,eb.a,bh.a,France
+Angora,e.dd,,,False,cf.a,e.a,white,solid,blue,False,dry,dg.a,be.a,France
+,b.bh,,female,,de.a,d.i,white,solid,blue,True,wet,cd.a,bh.a,France
+Angora,d.a,,male,,di.a,f.a,white,solid,amber,False,wet,bg.a,be.a,
+,b.bh,,female,True,cf.a,d.a,white,solid,amber,False,wet,bj.a,bh.a,
+Angora,e.a,,,,dj.a,e.g,white,solid,amber,False,wet,dd.a,be.a,France
+Angora,f.id,,male,,dh.a,e.g,black,solid,green,True,dry,j.a,bg.a,France
+,b.cf,,female,True,cg.a,d.e,white,solid,blue,False,wet,cf.a,bf.a,France
+,f.dd,,,True,ee.a,e.g,white,solid,blue,True,wet,ca.a,bg.a,
+Angora,b.cf,,male,,ea.a,d.i,red/cream,,blue,False,wet,df.a,bh.a,France
+Angora,e.jc,,,,eb.a,f.a,black,solid,green,False,dry,db.a,be.a,France
+,b.f,,male,,ea.a,d.g,white,solid,blue,False,wet,ch.a,be.a,France
+,b.fi,bj.a,female,True,dd.a,d.f,white,solid,amber,False,dry,bi.a,bi.a,
+Angora,b.fi,bj.a,female,,dd.a,d.c,white,solid,amber,True,wet,,bj.a,
+Angora,e.f,fe.a,,,dh.a,f.g,white,solid,blue,False,wet,j.a,be.a,France
+,e.hf,fh.a,,False,eb.a,e.c,black,solid,blue,True,dry,bj.a,be.a,
+Angora,b.gh,ca.a,female,,df.a,f.a,white,solid,amber,False,wet,ba.a,bf.a,
+Angora,b.gh,ca.a,male,True,ci.a,d.b,white,solid,amber,True,wet,dj.a,bi.a,France
+Angora,b.gh,ca.a,male,,dg.a,d.j,black,solid,green,False,wet,,bj.a,France
+Angora,b.hf,cb.a,female,True,ci.a,e.j,white,solid,amber,False,wet,ba.a,bh.a,
+Angora,b.hf,cb.a,female,,de.a,e.h,black,solid,blue,False,dry,,bj.a,France
+Angora,b.hf,cb.a,female,,de.a,e.a,white,solid,blue,True,wet,,ca.a,France
+Angora,b.id,cc.a,female,True,cc.a,c.j,black,solid,green,False,wet,,ca.a,France
+Angora,b.id,cc.a,male,,eb.a,e.h,white,solid,blue,False,dry,,ca.a,France
+,b.id,cc.a,female,True,ce.a,e.d,black,bicolor,amber,True,,da.a,bg.a,France
+,b.jc,cd.a,female,,df.a,c.h,white,solid,amber,False,dry,cb.a,bi.a,France
+Angora,b.jc,cd.a,female,,dd.a,d.e,white,solid,amber,False,wet,be.a,bg.a,
+Angora,c.a,ce.a,female,False,dc.a,c.e,black,solid,green,False,wet,bb.a,be.a,
+Angora,c.a,ce.a,female,,df.a,d.i,white,solid,blue,False,wet,bf.a,be.a,
+,c.a,ce.a,male,,di.a,d.h,white,solid,blue,True,dry,cd.a,bg.a,France
+Angora,c.ai,cf.a,female,,dd.a,c.j,white,solid,amber,False,wet,dg.a,be.a,France
+Angora,c.ai,cf.a,male,False,eb.a,e.b,black,solid,green,False,wet,bb.a,bg.a,
+,c.bh,cg.a,female,,df.a,c.g,white,solid,blue,False,wet,ci.a,bh.a,France
+Angora,c.cf,,male,,di.a,e.g,red/cream,,blue,False,wet,bb.a,be.a,
+Angora,c.cf,ch.a,female,,de.a,d.h,black,solid,green,False,wet,ba.a,be.a,
+Angora,c.cf,ch.a,male,True,cf.a,d.b,white,solid,amber,False,wet,dj.a,bg.a,France
+Angora,c.cf,ch.a,male,,di.a,f.d,white,solid,amber,False,wet,dj.a,be.a,France
+,c.dd,,female,,dg.a,e.a,red/cream,,blue,False,dry,bj.a,be.a,
+,c.dd,,female,,dg.a,c.e,white,solid,blue,False,wet,bj.a,bg.a,
+Angora,c.dd,,male,,dj.a,d.j,white,solid,blue,False,wet,de.a,be.a,France
+Angora,c.dd,,female,,dg.a,d.d,white,solid,amber,False,dry,dc.a,bh.a,France
+Angora,c.dd,,female,,dj.a,c.h,black,solid,green,True,dry,dd.a,be.a,France
+Angora,c.ec,,male,,dj.a,e.d,white,solid,blue,False,wet,dh.a,be.a,France
+,c.f,,female,,df.a,d.g,white,solid,green,False,wet,bi.a,be.a,
+Angora,c.f,,male,,dh.a,e.h,white,solid,amber,False,wet,ee.a,bg.a,France
+Angora,c.fi,,male,,ea.a,e.f,red/cream,,blue,False,wet,di.a,be.a,France
+Angora,c.fi,,female,False,dc.a,d.a,white,solid,blue,False,dry,da.a,bg.a,France
+Angora,c.gh,,female,,di.a,d.j,red/cream,,blue,False,wet,dh.a,be.a,France
+,c.gh,,male,,ea.a,e.a,black,solid,blue,False,dry,da.a,be.a,France
+,c.gh,,female,,de.a,d.j,black,solid,green,True,dry,cb.a,be.a,France
+,c.jc,,female,,de.a,e.b,white,solid,green,True,wet,ci.a,be.a,France
+Angora,c.jc,,female,True,dc.a,c.f,white,solid,amber,False,wet,dd.a,be.a,France
+,c.jc,,male,,eb.a,,white,solid,amber,False,wet,cb.a,be.a,USA
+,c.jc,,male,,dj.a,,white,solid,blue,False,wet,ci.a,be.a,USA
+Angora,d.a,,male,,dj.a,e.e,white,solid,green,False,dry,bg.a,bf.a,
+Angora,d.a,,male,,dj.a,,white,solid,blue,False,wet,ee.a,be.a,USA
+,d.ai,,,,dj.a,,red/cream,,,False,dry,cf.a,bg.a,USA
+,d.ai,,,,di.a,,black,solid,,True,wet,cf.a,be.a,USA
+Angora,d.ai,,,,ea.a,f.d,white,solid,,False,dry,bb.a,be.a,
+Angora,d.bh,,,,dg.a,e.a,white,solid,,False,wet,bb.a,be.a,
+Angora,d.cf,dj.a,,,ea.a,e.f,black,bicolor,,False,wet,bc.a,bg.a,
+,d.ec,,,True,eb.a,,white,solid,,False,dry,ce.a,bh.a,USA
+Angora,d.f,,,,dj.a,e.i,black,solid,,False,wet,bf.a,bg.a,
+Angora,d.f,,,,ea.a,d.j,white,solid,,True,dry,bd.a,bg.a,
+Angora,d.f,,,False,dd.a,,white,solid,,False,dry,dh.a,be.a,USA
+,d.fi,,,,df.a,d.e,white,solid,,False,dry,cd.a,bg.a,France
+,d.fi,,,,de.a,d.d,white,solid,,False,wet,ca.a,be.a,
+,d.gh,,,,dj.a,,white,solid,,False,wet,cd.a,be.a,USA
+Angora,d.gh,,,,dh.a,e.g,white,solid,,False,wet,dc.a,be.a,France
+Angora,d.gh,,,,dh.a,,white,solid,,False,wet,dd.a,be.a,USA
+Angora,d.hf,,,True,ed.a,,white,solid,,False,wet,di.a,be.a,USA
+Angora,d.id,,,,dh.a,,white,solid,,False,wet,di.a,bg.a,USA
+Angora,d.id,eg.a,,,ea.a,e.i,black,bicolor,,True,wet,bb.a,bf.a,
+,d.id,,,,dj.a,e.a,red/cream,,,False,dry,bi.a,be.a,
+,d.jc,,,,de.a,,white,solid,,False,dry,cf.a,be.a,USA
+,d.jc,,,,dh.a,,black,solid,,False,dry,cf.a,bf.a,USA
+,d.jc,,,,df.a,,white,solid,,False,wet,ci.a,be.a,USA
+,d.jc,,,,dj.a,,white,solid,,False,wet,cd.a,bf.a,USA
+,e.a,,,,dg.a,,white,solid,,False,wet,ci.a,bh.a,USA
+Angora,e.ai,,,,dh.a,,,solid,,False,wet,di.a,be.a,USA
+Angora,e.ai,,,,df.a,e.h,,solid,,False,wet,bb.a,be.a,
+Angora,e.ai,,,,dh.a,f.g,,solid,,False,wet,bc.a,be.a,
+,e.bh,,,,dh.a,,,solid,,False,dry,cd.a,be.a,USA
+,e.bh,,,False,eb.a,,,solid,,False,wet,ce.a,bg.a,USA
+,e.bh,,,,df.a,,,solid,,True,dry,ci.a,be.a,USA
+Angora,e.cf,,,,dh.a,e.g,white,solid,,False,dry,dg.a,be.a,France
+Angora,e.dd,,,,de.a,,,solid,,False,wet,dh.a,bg.a,USA
+Angora,e.dd,,,,df.a,,,solid,,False,wet,da.a,be.a,USA
+Angora,e.dd,,,True,dc.a,,,solid,,False,wet,ea.a,be.a,USA
+Angora,e.ec,,,,dj.a,,,solid,,False,wet,de.a,bg.a,USA
+,e.f,,,True,eb.a,f.b,,solid,,False,dry,bj.a,be.a,
+Angora,e.f,fe.a,,,dj.a,,,solid,,False,wet,dj.a,bg.a,USA
+Angora,e.fi,ff.a,,,df.a,,,solid,,False,wet,dg.a,be.a,USA
+Angora,e.fi,ff.a,,,dh.a,,,solid,amber,True,wet,dj.a,bh.a,USA
+Angora,e.fi,ff.a,,,df.a,,,solid,amber,False,dry,dg.a,bh.a,USA
+,e.fi,ff.a,,,dh.a,,,solid,amber,False,dry,ce.a,be.a,USA
+,e.fi,ff.a,,,di.a,f.b,,solid,blue,False,wet,bh.a,be.a,
+Angora,e.hf,fh.a,,,di.a,d.j,,solid,amber,False,wet,be.a,bg.a,
+,e.hf,fh.a,,,di.a,,,solid,amber,False,dry,cd.a,be.a,USA
+Angora,e.hf,fh.a,,,dh.a,,,solid,blue,False,dry,dc.a,bg.a,USA
+,e.id,fi.a,,,ea.a,e.f,,solid,amber,False,wet,bi.a,be.a,
+,e.id,fi.a,,,dh.a,d.a,white,solid,amber,False,wet,ca.a,be.a,
+Angora,e.id,fi.a,,,dg.a,,,solid,blue,False,wet,dc.a,bh.a,USA
+,e.jc,fj.a,,,dg.a,,,solid,green,False,dry,cj.a,bg.a,USA
+Angora,e.jc,fj.a,,,eb.a,e.j,,solid,amber,False,wet,be.a,be.a,
+Angora,e.jc,,,,ea.a,,,tabby,amber,True,wet,db.a,be.a,USA
+,e.jc,fj.a,,,di.a,,,solid,blue,False,wet,ci.a,bh.a,USA
+Angora,f.a,ga.a,,,dj.a,,,solid,blue,False,dry,dc.a,be.a,USA
+,f.a,ga.a,,,dh.a,,,solid,amber,False,dry,cj.a,be.a,USA
+Angora,f.ai,gb.a,,,ea.a,,,solid,amber,False,wet,db.a,be.a,USA
+,f.ai,gb.a,,,dj.a,,,solid,blue,False,wet,ch.a,bg.a,USA
+,f.ai,gb.a,,,dh.a,,,solid,,False,dry,cj.a,be.a,USA
+Angora,f.bh,gc.a,,,dj.a,d.j,,solid,blue,False,dry,df.a,bh.a,Germany
+Angora,f.bh,gc.a,,,de.a,d.e,,solid,green,False,dry,j.a,be.a,Germany
+Angora,f.bh,gc.a,,,di.a,d.j,,solid,green,True,wet,j.a,be.a,Germany
+,f.bh,gc.a,,,di.a,c.h,,solid,,False,wet,ch.a,be.a,Germany
+,f.bh,gc.a,,,dg.a,e.d,,solid,amber,False,wet,bj.a,be.a,
+Angora,f.bh,gc.a,,,ea.a,e.j,,solid,blue,False,wet,dj.a,be.a,Germany
+Angora,f.bh,gc.a,,,dg.a,d.f,,solid,blue,False,wet,dh.a,be.a,Germany
+,f.bh,gc.a,,,dj.a,e.b,,solid,blue,False,wet,bh.a,bg.a,
+,f.cf,gd.a,,True,db.a,c.e,,solid,blue,False,wet,cj.a,bg.a,Germany
+,f.cf,gd.a,,,dh.a,d.b,,solid,blue,False,dry,cd.a,be.a,Germany
+,f.dd,ge.a,,,df.a,d.e,,solid,blue,False,dry,cg.a,be.a,Germany
+Angora,f.dd,ge.a,,,dg.a,e.f,,solid,blue,False,wet,j.a,be.a,Germany
+Angora,f.dd,ge.a,,,dh.a,c.j,,solid,blue,True,dry,bg.a,be.a,
+,f.ec,gf.a,,,di.a,e.d,,solid,amber,False,wet,cd.a,bh.a,Germany
+,f.ec,gf.a,,,dj.a,e.b,,solid,blue,False,wet,ch.a,bh.a,Germany
+,f.f,gg.a,,,ea.a,f.c,,solid,green,False,dry,bh.a,be.a,
+,f.fi,gh.a,,,ea.a,e.e,,solid,blue,False,wet,ch.a,be.a,Germany
+Angora,f.gh,gi.a,male,,dj.a,f.f,,solid,blue,False,wet,bc.a,be.a,
+,f.gh,gi.a,male,,eb.a,e.d,,solid,blue,False,dry,ce.a,be.a,Germany
+Angora,f.gh,gi.a,male,,dg.a,f.b,,solid,green,False,dry,dh.a,be.a,Germany
+Angora,f.gh,,male,,dh.a,f.d,,tabby,blue,False,wet,dh.a,bf.a,Germany
+Angora,f.hf,gj.a,male,,dj.a,e.e,,solid,amber,False,dry,dj.a,bf.a,Germany
+,f.hf,gj.a,female,,di.a,e.e,,bicolor,amber,False,,bi.a,be.a,
+,f.hf,gj.a,female,,di.a,,,solid,amber,True,wet,cf.a,bf.a,USA
+Angora,f.hf,gj.a,female,True,db.a,,,solid,blue,False,wet,j.a,bf.a,USA
+Angora,f.jc,hb.a,female,,dj.a,e.i,,solid,green,False,wet,bc.a,bg.a,
+,f.jc,hb.a,male,,di.a,,,solid,green,False,dry,cg.a,bd.a,USA
+,f.jc,hb.a,male,,eb.a,,,solid,amber,False,wet,cj.a,bd.a,USA
+,f.jc,hb.a,female,,dg.a,,,solid,amber,False,dry,cj.a,bg.a,USA
+Angora,g.a,hc.a,male,,dg.a,,,solid,blue,False,wet,dd.a,bh.a,USA
+,g.a,hc.a,female,,dg.a,d.g,white,solid,green,False,dry,cg.a,bd.a,France
+Angora,g.ai,hd.a,male,,di.a,e.e,,solid,blue,False,wet,bg.a,be.a,
+Angora,g.ai,hd.a,female,,di.a,,,solid,blue,False,wet,di.a,bg.a,USA
+Angora,g.ai,hd.a,male,,eb.a,,,solid,blue,False,dry,dj.a,bg.a,USA
+,g.cf,hf.a,male,,dj.a,,,solid,blue,,wet,ce.a,bd.a,USA
+,g.cf,hf.a,male,,di.a,d.g,white,solid,amber,,wet,cd.a,bg.a,France
+,g.cf,hf.a,male,,eb.a,,,solid,amber,,wet,ce.a,bd.a,USA
+Angora,g.dd,hg.a,female,,dh.a,,white,solid,green,,dry,da.a,bd.a,USA
+Angora,g.ec,hh.a,male,,dg.a,e.h,white,solid,amber,,wet,bc.a,bg.a,
+Angora,g.f,,female,,dh.a,,red/cream,,blue,,wet,da.a,bh.a,USA
+,g.f,hi.a,male,,dg.a,e.a,white,solid,blue,,dry,bi.a,bg.a,
+Angora,g.f,hi.a,male,,dj.a,e.c,black,bicolor,amber,,,bf.a,bh.a,
+,g.f,hi.a,female,,de.a,,white,solid,blue,,wet,cb.a,be.a,USA
+Angora,g.f,hi.a,female,,di.a,f.c,white,solid,blue,,wet,j.a,bd.a,USA
+Angora,g.fi,,male,,ea.a,e.c,red/cream,,blue,,wet,bc.a,be.a,
+,g.fi,,male,,eb.a,d.i,red/cream,,green,,dry,cd.a,bg.a,USA
+Angora,g.fi,hj.a,male,,eb.a,d.j,white,solid,amber,,dry,bg.a,bh.a,
+Angora,g.gh,ia.a,male,,ea.a,e.i,white,solid,blue,,dry,bd.a,be.a,
+Angora,g.gh,ia.a,female,,de.a,c.c,white,solid,amber,,dry,de.a,bh.a,Canada
+Angora,g.hf,ib.a,female,,dh.a,c.e,white,solid,blue,,dry,bg.a,be.a,
+,g.hf,ib.a,male,,dj.a,e.e,white,solid,amber,,dry,ce.a,be.a,Canada
+,g.hf,ib.a,male,,ea.a,e.f,white,solid,blue,,wet,bh.a,be.a,
+Angora,g.id,ic.a,female,,dh.a,c.i,white,solid,amber,,dry,dg.a,be.a,Canada
+,g.jc,id.a,male,,eb.a,e.h,white,solid,blue,,wet,cg.a,be.a,Canada
+Angora,g.jc,id.a,male,,di.a,e.f,white,solid,amber,,wet,dc.a,bg.a,Canada
+,g.jc,id.a,female,,dj.a,e.d,white,solid,amber,,wet,cc.a,be.a,Canada
+,h.a,ie.a,male,,ea.a,e.h,white,solid,blue,,dry,ca.a,be.a,
+Angora,h.a,ie.a,male,,dj.a,e.e,white,solid,amber,,dry,bg.a,be.a,
+,h.ai,if.a,female,,df.a,c.f,white,solid,blue,,wet,ch.a,be.a,Canada
+Angora,h.bh,ig.a,male,,ea.a,f.e,white,solid,amber,,wet,,ca.a,Canada
+Angora,h.cf,ih.a,male,,dj.a,e.a,white,solid,green,,wet,,ca.a,Canada
+Angora,h.cf,ih.a,male,,dg.a,e.j,white,solid,amber,,dry,,bj.a,Canada
+,h.cf,ih.a,male,,di.a,e.e,white,solid,amber,,wet,ch.a,bg.a,Canada
+Angora,h.cf,ih.a,female,,dd.a,e.a,black,bicolor,amber,,dry,bg.a,be.a,
+Angora,h.cf,ih.a,male,,ea.a,e.c,white,solid,blue,,dry,,bj.a,
+Angora,h.cf,,male,,ea.a,f.e,red/cream,,blue,,wet,,ca.a,
+,h.cf,ih.a,female,,dd.a,c.f,white,solid,blue,,dry,cd.a,bi.a,USA
+,h.dd,ii.a,male,,eb.a,d.j,black,bicolor,blue,,dry,ch.a,be.a,USA
+Angora,h.ec,ij.a,female,,df.a,d.j,white,solid,blue,,dry,,bj.a,USA
+Angora,h.ec,ij.a,female,,de.a,d.d,white,solid,amber,,wet,dc.a,be.a,USA
+Angora,h.fi,jb.a,male,,dj.a,f.e,white,solid,amber,,wet,f.a,be.a,USA
+Angora,h.fi,,male,,ea.a,f.f,red/cream,,blue,,dry,be.a,be.a,
+Angora,h.gh,jc.a,male,,dg.a,e.j,white,solid,blue,,dry,db.a,bi.a,USA
+Angora,h.gh,jc.a,male,,ea.a,f.d,black,solid,blue,,dry,dj.a,bi.a,USA
+,h.hf,jd.a,female,,dd.a,d.b,white,solid,blue,,wet,cg.a,bi.a,USA
+Angora,h.hf,jd.a,male,True,ec.a,e.h,white,solid,green,,wet,bg.a,be.a,
+,h.hf,jd.a,female,,dh.a,c.i,white,solid,green,,dry,ci.a,bi.a,USA
+Angora,h.hf,jd.a,male,,dh.a,e.c,white,solid,blue,,wet,bf.a,bi.a,
+Angora,h.hf,jd.a,male,,eb.a,d.i,black,solid,blue,,wet,,ca.a,USA
+,h.id,je.a,male,,dh.a,d.f,white,solid,amber,,wet,cf.a,be.a,USA
+Angora,h.id,je.a,male,,di.a,e.g,white,solid,amber,,wet,dh.a,be.a,USA
+,h.id,je.a,male,,di.a,e.a,white,solid,amber,,dry,ch.a,bg.a,USA
+,h.id,je.a,male,,ea.a,f.d,white,solid,amber,,wet,cf.a,bi.a,USA
+Angora,h.id,je.a,female,,dd.a,e.a,white,bicolor,blue,,wet,ba.a,bg.a,
+,h.id,je.a,male,,ea.a,e.d,white,solid,blue,,wet,cf.a,bi.a,USA
+,h.id,,male,,dj.a,f.a,red/cream,,blue,,wet,ce.a,bg.a,USA
+Angora,h.jc,,male,,dj.a,d.i,white,solid,amber,,wet,,bj.a,USA
+,i.a,jg.a,female,,dh.a,d.e,black,bicolor,blue,,wet,cj.a,bh.a,USA
+,i.a,,male,,dg.a,e.f,white,solid,green,,dry,ci.a,bg.a,USA
+Angora,i.a,,female,,de.a,e.j,white,solid,amber,,wet,,bj.a,
+Angora,h.bh,,male,,dg.a,d.f,red/cream,,blue,,dry,,ca.a,USA
+,i.ai,,female,,dd.a,d.b,white,solid,amber,,wet,bi.a,bj.a,
+Angora,i.ai,jh.a,male,,eb.a,e.c,black,bicolor,amber,,,j.a,bi.a,USA
+,i.ai,,male,,dh.a,d.i,red/cream,,blue,,wet,ch.a,bg.a,USA
+Angora,e.a,,,,dg.a,c.e,white,solid,blue,True,wet,be.a,be.a,
+Angora,i.cf,,female,,de.a,d.g,white,solid,amber,,wet,,bj.a,USA
+,e.bh,,,,df.a,c.i,white,solid,blue,False,dry,ca.a,be.a,
+Angora,f.ai,,,,dg.a,c.d,white,solid,blue,False,dry,bg.a,bg.a,
+,e.fi,,,,df.a,c.i,white,solid,amber,False,dry,cf.a,bh.a,USA
+,i.f,,male,,ea.a,e.a,white,solid,blue,,dry,bi.a,be.a,
+Angora,h.ai,if.a,male,,dg.a,e.i,black,bicolor,blue,,,j.a,bg.a,USA
+Angora,h.a,,female,,dd.a,d.a,white,solid,blue,,dry,de.a,be.a,USA
+,i.fi,,male,,dj.a,e.e,white,solid,amber,,wet,bi.a,bg.a,
+,h.bh,,female,,di.a,e.g,white,solid,blue,,wet,cb.a,be.a,USA
+Angora,i.fi,,male,True,fc.a,f.a,red/cream,,blue,,wet,,,USA
+Angora,i.gh,,female,,df.a,e.b,white,solid,amber,,dry,bf.a,bg.a,
+,e.hf,,,,de.a,c.h,white,solid,blue,True,wet,cc.a,be.a,USA
+Angora,g.id,,female,,dg.a,d.g,white,solid,blue,,wet,dc.a,bh.a,USA
+Angora,h.f,,female,,dg.a,d.f,white,solid,green,,wet,bg.a,be.a,
+Angora,h.fi,,male,,dg.a,d.g,white,solid,blue,,wet,dj.a,bi.a,USA
+Angora,i.jc,bah.a,female,,de.a,e.f,black,bicolor,amber,,dry,,bj.a,
+,g.hf,,female,,dd.a,c.j,white,solid,green,,wet,ca.a,bg.a,USA
+Angora,j.a,,female,,di.a,d.h,white,solid,amber,,dry,g.a,bh.a,USA
+Angora,h.dd,,female,,dj.a,e.d,white,solid,amber,,wet,bg.a,bd.a,
+,f.bh,,,,dg.a,c.f,white,solid,amber,False,wet,ch.a,bd.a,USA
+Angora,j.ai,baj.a,male,True,fi.a,f.c,black,bicolor,blue,,,,,USA
+,j.bh,,female,,df.a,e.b,white,solid,green,,wet,ca.a,bg.a,USA
+,g.f,,male,,dj.a,d.f,white,solid,amber,,wet,cf.a,bh.a,USA
+,j.cf,,male,,di.a,f.a,white,solid,amber,,wet,ch.a,bg.a,USA
+Angora,j.cf,,male,,di.a,d.j,white,solid,amber,,wet,,bj.a,USA
+,j.dd,,female,,dg.a,d.j,white,solid,green,,wet,cf.a,be.a,USA
+,i.dd,,male,True,eb.a,e.b,white,solid,blue,,dry,bi.a,be.a,
+Angora,e.cf,,,,dd.a,c.h,white,solid,amber,False,dry,di.a,bh.a,USA
+,g.ec,,female,,dg.a,c.f,white,solid,blue,,wet,bj.a,bh.a,
+Angora,j.f,,female,,di.a,e.b,white,solid,blue,False,wet,,bj.a,
+,j.fi,,male,,dg.a,e.a,white,solid,green,False,dry,ci.a,bg.a,USA
+,d.a,,female,,dj.a,d.b,white,solid,amber,False,wet,ci.a,bd.a,USA
+Angora,j.fi,bbf.a,male,True,gb.a,f.a,black,bicolor,blue,True,,,,
+Angora,j.gh,,female,,dg.a,e.b,white,solid,blue,False,wet,,ca.a,
+Angora,f.jc,,female,,df.a,d.d,white,solid,blue,False,wet,de.a,bd.a,USA
+Angora,j.gh,,male,,dj.a,f.c,white,solid,amber,False,dry,be.a,bi.a,
+Angora,j.gh,,female,,dh.a,e.g,white,solid,blue,False,wet,,ca.a,
+Angora,g.dd,,female,,di.a,e.i,,solid,blue,,dry,bg.a,bd.a,
+,i.ec,,male,,ea.a,,,solid,amber,,wet,cg.a,bg.a,UK
+,j.hf,,male,,di.a,e.e,,solid,blue,False,wet,bi.a,bi.a,
+Angora,j.hf,,male,,dh.a,e.j,,solid,blue,False,wet,bd.a,bh.a,
+Angora,e.a,ei.a,,,dh.a,,,bicolor,blue,False,,da.a,be.a,UK
+,d.a,dg.a,female,,df.a,,,bicolor,blue,False,,cd.a,be.a,UK
+Angora,j.id,,female,,df.a,e.j,,solid,blue,False,wet,bb.a,bh.a,
+Angora,j.id,,female,,dj.a,,,solid,amber,True,dry,g.a,be.a,UK
+Angora,j.id,,male,False,ei.a,,,tabby,blue,False,dry,,,UK
+Angora,i.ec,,female,,dg.a,e.a,,solid,blue,,wet,,ca.a,
+Angora,e.jc,,,,df.a,,,solid,amber,False,dry,di.a,bd.a,UK
+Angora,h.ai,,male,,ea.a,,,tortie,blue,,wet,dj.a,bh.a,UK
+Angora,f.ai,,,,dd.a,c.e,,solid,blue,False,wet,bd.a,bd.a,
+,ba.a,,male,,dg.a,,,solid,amber,False,wet,cd.a,be.a,UK
+Angora,bb.cf,,male,,ea.a,e.e,,solid,blue,False,wet,bd.a,bi.a,
+,ba.a,,female,,dh.a,d.h,white,solid,blue,True,wet,bj.a,bh.a,
+,f.id,,female,,df.a,c.g,red/cream,,blue,False,wet,cd.a,bd.a,USA
+Maine coon,a.cf,,female,False,cc.a,d.d,brown/chocolate,,,False,wet,fa.a,bg.a,USA
+Maine coon,a.bh,,male,False,cf.a,d.h,white,solid,,False,wet,ga.a,bg.a,USA
+,a.ec,,male,False,cf.a,d.d,brown/chocolate,solid,,False,wet,ca.a,bg.a,USA
+Maine coon,a.f,,male,False,cg.a,,,tabby,,False,wet,fe.a,ba.a,UK
+Maine coon,a.f,,female,False,da.a,,,tabby,,False,wet,dj.a,ba.a,UK
+,a.f,,female,False,db.a,,,solid,,False,wet,ce.a,bg.a,UK
+Maine coon,a.f,,female,,de.a,,,tortie,,False,wet,eb.a,bd.a,UK
+Maine coon,a.fi,,male,,df.a,,,solid,,False,wet,fe.a,bg.a,UK
+Maine coon,a.gh,,female,,dg.a,,,tabby,,False,wet,eh.a,bf.a,UK
+Maine coon,a.gh,,male,,di.a,,,solid,,False,dry,ea.a,bg.a,UK
+Maine coon,a.gh,,male,,ea.a,,,solid,,False,dry,fe.a,bi.a,UK
+Maine coon,f.a,,,,di.a,,,solid,,False,wet,dg.a,bg.a,UK
+Maine coon,b.ai,,female,True,ec.a,,,solid,,False,wet,ea.a,bj.a,UK
+Maine coon,a.hf,,female,,de.a,,,solid,,False,wet,,ca.a,UK
+Maine coon,a.hf,,female,,de.a,,,tabby,,False,wet,db.a,bj.a,UK
+,b.ai,,female,False,db.a,,,solid,,False,dry,ci.a,bg.a,UK
+Maine coon,a.hf,j.a,male,False,fc.a,,,bicolor,,False,wet,,,UK
+,e.id,fi.a,,True,dc.a,,,bicolor,,False,wet,cb.a,bd.a,UK
+Maine coon,d.gh,,,True,fd.a,,,tabby,,False,wet,,,UK
+Maine coon,e.hf,,,True,fg.a,,,tabby,,False,wet,,,UK
+,b.ai,bd.a,female,True,db.a,,,bicolor,,False,dry,ci.a,bi.a,UK
+Maine coon,a.jc,,female,,dj.a,d.a,white,solid,,False,wet,dd.a,bj.a,USA
+,b.ec,,female,,dh.a,d.c,white,solid,,False,wet,ch.a,bi.a,USA
+Maine coon,b.a,,male,True,ci.a,d.g,,solid,,False,wet,bc.a,bj.a,
+,d.bh,,,True,dc.a,,,solid,,True,dry,ci.a,bh.a,UK
+Maine coon,b.a,bc.a,male,False,eg.a,d.f,,bicolor,,False,,,,
+Maine coon,b.a,,female,True,db.a,,,solid,,False,wet,,ca.a,UK
+Maine coon,f.bh,,,,di.a,,,tabby,,False,wet,di.a,bd.a,UK
+Maine coon,g.fi,,male,False,ei.a,d.j,black,solid,,,wet,,,France
+Maine coon,b.ai,,male,False,ff.a,d.i,black,solid,,False,wet,,,France
+Maine coon,e.a,,,False,fe.a,e.a,white,solid,,False,wet,,,
+Maine coon,e.f,,,True,ga.a,f.c,black,solid,,False,dry,,,
+,b.bh,,female,,df.a,d.d,white,solid,,False,dry,bi.a,bi.a,
+Maine coon,b.bh,be.a,male,,df.a,e.d,black,bicolor,,False,,bb.a,bj.a,
+Maine coon,b.dd,,male,True,fg.a,d.i,black,solid,,False,wet,,,France
+Maine coon,b.dd,,female,True,fa.a,d.d,black,solid,,False,wet,,,
+Maine coon,f.fi,,,True,fg.a,e.c,black,solid,,False,wet,,,
+Maine coon,b.ec,bh.a,female,False,da.a,d.c,black,bicolor,,False,,dj.a,bi.a,France
+Maine coon,b.ec,,male,True,eh.a,d.g,red/cream,,,False,wet,,,France
+Maine coon,b.f,,male,False,eg.a,e.d,brown/chocolate,tabby,,False,dry,,,
+,b.f,,female,,di.a,d.c,brown/chocolate,tabby,,False,dry,bh.a,bf.a,
+Maine coon,b.fi,,female,True,ga.a,,,solid,,True,wet,,,UK
+Maine coon,g.f,,male,False,fd.a,,,tabby,,,wet,,,UK
+Maine coon,b.fi,,male,True,fe.a,e.f,,tabby,,False,wet,,,
+,f.hf,,male,False,db.a,,,solid,,False,dry,cj.a,bd.a,UK
+Maine coon,b.fi,,female,True,fd.a,f.a,,solid,,False,wet,,,
+Maine coon,b.gh,,male,,df.a,,,tabby,,False,wet,de.a,bj.a,UK
+,b.gh,,male,False,dc.a,,,solid,,False,wet,ch.a,bi.a,UK
+Maine coon,b.hf,,male,,dg.a,d.d,red/cream,,,False,wet,,cb.a,France
+Maine coon,b.hf,cb.a,female,True,fd.a,,,bicolor,,False,,,,UK
+Maine coon,b.hf,,female,True,ga.a,e.f,,solid,,False,dry,,,
+Maine coon,b.hf,,male,True,fi.a,,,solid,,True,wet,,,UK
+Maine coon,b.hf,,male,False,ec.a,d.h,,solid,,False,wet,bd.a,bj.a,
+Maine coon,b.id,,female,True,fi.a,f.d,,solid,,False,dry,,,
+Maine coon,b.id,,female,False,,g.d,,solid,,False,wet,,,
+Maine coon,b.jc,,male,,ea.a,d.e,red/cream,,,False,dry,,ca.a,
+Maine coon,b.jc,,female,,dg.a,,,solid,,False,dry,ee.a,bd.a,UK
+Maine coon,b.jc,,male,True,fd.a,e.a,red/cream,,,False,dry,,,Germany
+Maine coon,c.a,,male,True,db.a,,,solid,,True,wet,de.a,bd.a,UK
+Maine coon,c.a,,female,True,eg.a,,,solid,,False,wet,,,UK
+,c.a,,female,False,dc.a,,,solid,,False,dry,cd.a,bd.a,UK
+,c.a,,female,,di.a,,,tabby,,False,dry,cj.a,bd.a,UK
+Maine coon,c.ai,,female,True,,,,solid,,False,wet,dd.a,bd.a,UK
+Maine coon,c.ai,,female,False,,h.d,,solid,,False,wet,be.a,bd.a,
+Maine coon,c.bh,,female,False,ha.a,,,solid,,False,dry,,,UK
+Maine coon,c.bh,,female,False,fg.a,,,solid,,False,wet,,,UK
+Maine coon,c.bh,,male,False,,,,tabby,,False,wet,dc.a,bd.a,UK
+Maine coon,c.bh,,female,True,gg.a,,,tabby,,False,wet,,,UK
+Maine coon,c.bh,,male,True,fb.a,,,tabby,,False,wet,,,UK
+,c.bh,,male,True,jd.a,,,solid,,False,wet,cj.a,bd.a,UK
+Maine coon,c.bh,,female,True,gf.a,e.j,,tabby,,False,dry,,,UK
+Maine coon,c.bh,,female,False,,g.gb,,solid,,False,wet,,,
+Maine coon,c.cf,,female,False,,i.ec,,tabby,,False,dry,,,
+Maine coon,c.cf,,female,True,,i.eh,,solid,,False,wet,,,UK
+,c.dd,,male,False,,h.c,,tabby,,False,wet,bj.a,bd.a,
+Maine coon,c.dd,,male,True,gi.a,j.j,,tabby,,False,dry,,,
+Maine coon,c.dd,,female,True,,g.j,,solid,,True,wet,eb.a,bg.a,UK
+Maine coon,c.ec,,male,True,,i.d,red/cream,,,False,wet,bc.a,bh.a,
+Maine coon,c.f,,male,False,,i.f,brown/chocolate,tabby,,False,wet,,,
+Maine coon,c.f,,male,True,gb.a,j.h,black,solid,,False,wet,,,Germany
+,c.f,,male,True,,j.b,red/cream,,,False,wet,ce.a,bd.a,Germany
+Maine coon,c.fi,,female,True,,h.bf,brown/chocolate,tabby,,False,dry,dc.a,bd.a,Germany
+Maine coon,c.fi,,male,True,,j.e,,tabby,,False,dry,ee.a,bd.a,Germany
+Maine coon,c.fi,,male,True,,i.a,,tabby,,False,dry,,,
+,c.fi,,male,True,if.a,j.g,,solid,,True,dry,ch.a,bd.a,UK
+Maine coon,c.fi,,female,True,ef.a,g.aj,,solid,,False,dry,df.a,bd.a,UK
+Maine coon,c.gh,,male,True,ga.a,j.g,,tabby,,False,wet,,,
+Maine coon,c.hf,,female,False,,h.hh,,solid,,False,dry,,,UK
+Maine coon,c.id,,female,True,fd.a,d.hf,,solid,,False,wet,,,UK
+,c.id,,female,True,hh.a,f.a,,solid,yellow,False,wet,ci.a,bh.a,UK
+Maine coon,c.id,,male,True,id.a,ba.i,red/cream,,green,False,dry,db.a,bh.a,USA
+Maine coon,c.jc,df.a,male,True,,i.e,black,bicolor,yellow,False,,,,
+,c.jc,,male,False,,i.a,white,solid,yellow,False,wet,cf.a,bh.a,USA
+Maine coon,d.a,,male,True,,h.b,black,solid,yellow,False,wet,,,USA
+Maine coon,d.a,,female,True,ga.a,e.jg,brown/chocolate,tabby,yellow,False,dry,,,
+,d.a,,female,False,eb.a,f.dg,black,solid,yellow,False,wet,bi.a,bd.a,
+Maine coon,d.ai,,,True,gc.a,ba.e,red/cream,,yellow,True,wet,,,USA
+Maine coon,d.ai,,,False,,g.ff,black,solid,yellow,False,wet,bc.a,bd.a,
+Maine coon,d.bh,,,True,,h.bc,brown/chocolate,solid,yellow,False,wet,,,
+Maine coon,d.bh,di.a,,False,,h.b,,bicolor,yellow,False,,,,Germany
+Maine coon,d.bh,,,False,ia.a,j.i,,solid,yellow,False,dry,bg.a,bd.a,
+Maine coon,d.cf,,,True,hc.a,ba.i,,solid,yellow,False,dry,bc.a,bd.a,
+,d.dd,,,True,ia.a,f.eh,,solid,yellow,False,wet,ce.a,bh.a,Germany
+Maine coon,d.ec,,,True,ga.a,ba.b,,tabby,yellow,False,wet,,,
+Maine coon,d.ec,,,False,hd.a,j.i,,solid,yellow,False,wet,dh.a,bd.a,Germany
+,d.fi,,,False,hb.a,f.hj,,solid,yellow,False,dry,ca.a,bd.a,Germany
+Maine coon,d.fi,,,False,gh.a,ba.f,,tabby,yellow,False,wet,,,
+Maine coon,d.fi,ed.a,,False,,i.cc,black,solid,yellow,False,wet,dj.a,bg.a,USA
+Maine coon,d.fi,,,True,,g.gh,brown/chocolate,tabby,yellow,True,dry,,,USA
+Maine coon,d.gh,,,True,,h.d,brown/chocolate,tabby,yellow,False,wet,,,USA
+Maine coon,d.hf,ef.a,,True,gh.a,e.i,black,solid,green,False,dry,,,USA
+,d.id,eg.a,,True,,h.b,black,bicolor,yellow,False,wet,cg.a,bd.a,USA
+Maine coon,d.id,eg.a,,True,eh.a,f.gf,black,solid,green,False,wet,,,USA
+,d.id,eg.a,,False,,h.ab,brown/chocolate,bicolor,yellow,False,dry,ch.a,bd.a,USA
+,d.id,eg.a,,,dh.a,f.jg,white,solid,blue,False,wet,cj.a,bd.a,USA
+Maine coon,d.jc,,,True,,h.i,brown/chocolate,,green,False,dry,,,USA
+Maine coon,e.ai,ej.a,,True,,g.ci,black,bicolor,yellow,True,wet,,,USA
+Maine coon,e.ai,ej.a,,True,,h.aj,black,solid,yellow,False,dry,,,USA
+Maine coon,e.ai,ej.a,,False,,i.e,black,bicolor,yellow,False,wet,bb.a,bd.a,
+Maine coon,e.ai,ej.a,,,di.a,f.ag,white,solid,blue,False,wet,j.a,bd.a,USA
+Maine coon,e.bh,fa.a,,,,i.cb,brown/chocolate,solid,yellow,False,wet,e.a,bd.a,USA
+,e.bh,,,True,hj.a,bb.f,red/cream,,green,False,wet,bi.a,bd.a,
+Maine coon,e.bh,fa.a,,False,,h.ee,black,solid,yellow,False,dry,,,
+Maine coon,e.cf,fb.a,,True,,i.gi,black,bicolor,yellow,False,dry,,,USA
+Maine coon,e.cf,fb.a,,True,ha.a,f.a,black,solid,yellow,False,dry,,,USA
+Maine coon,e.cf,,,True,id.a,ba.f,brown/chocolate,,yellow,True,dry,dh.a,bd.a,USA
+Maine coon,e.cf,fb.a,,False,id.a,bb.d,black,solid,yellow,False,dry,dg.a,bg.a,USA
+Maine coon,e.dd,fc.a,,True,ha.a,j.h,white,solid,blue,False,wet,,,USA
+Maine coon,e.dd,fc.a,,True,ei.a,e.ii,black,solid,yellow,False,wet,,,USA
+Maine coon,e.dd,,,True,gd.a,ba.d,brown/chocolate,tabby,yellow,False,dry,,,USA
+Maine coon,e.ec,fd.a,,True,,g.dj,black,solid,yellow,False,wet,dd.a,bg.a,USA
+,e.ec,fd.a,,False,,g.cf,black,solid,green,False,wet,bj.a,bd.a,
+Maine coon,e.ec,,,False,,g.gc,black,tortie,yellow,False,wet,,,
+,e.f,fe.a,,True,hc.a,e.i,black,solid,yellow,False,wet,cg.a,bh.a,USA
+Maine coon,e.fi,,,False,,h.f,red/cream,,,False,wet,,,
+Maine coon,e.fi,,,True,,i.h,red/cream,,,False,dry,,,
+,e.gh,,,True,,h.a,brown/chocolate,tabby,,True,wet,cb.a,bd.a,USA
+Maine coon,e.gh,,,True,,j.a,brown/chocolate,tabby,,False,wet,,,USA
+Maine coon,e.hf,fh.a,,True,fa.a,f.jc,black,solid,,False,wet,,,USA
+Maine coon,e.hf,fh.a,,True,,g.db,black,solid,,False,wet,,,USA
+Maine coon,e.hf,fh.a,,True,ie.a,bb.d,black,solid,,True,wet,bf.a,bd.a,
+Maine coon,e.id,,,False,,h.a,brown/chocolate,tabby,,False,wet,,,USA
+,e.id,,,False,he.a,e.jf,black,tortie,,False,wet,ch.a,bd.a,USA
+,e.id,,,True,,g.bj,brown/chocolate,tabby,,False,dry,cf.a,bd.a,USA
+Maine coon,e.jc,fj.a,,,dj.a,e.fe,white,solid,,False,dry,de.a,bd.a,USA
+Maine coon,e.jc,fj.a,,True,,i.ij,black,solid,,False,wet,,,
+Maine coon,f.a,ga.a,,True,fj.a,f.hg,black,solid,,False,dry,,,USA
+Maine coon,f.a,ga.a,,False,,i.b,black,solid,,False,wet,,,USA
+,f.a,ga.a,,True,,i.e,black,solid,,False,wet,ch.a,bd.a,USA
+Maine coon,f.a,ga.a,,True,gi.a,e.cd,black,solid,,False,wet,,,
+,f.a,,,True,hh.a,ba.g,red/cream,,yellow,True,wet,cc.a,bd.a,USA
+Maine coon,f.a,ga.a,,False,,i.b,brown/chocolate,solid,yellow,False,dry,bb.a,bd.a,
+Maine coon,f.ai,gb.a,,True,,i.cg,black,solid,yellow,False,dry,,,USA
+,f.ai,gb.a,,True,if.a,j.i,black,solid,yellow,False,dry,cd.a,bd.a,USA
+,f.bh,gc.a,,True,hc.a,f.db,black,solid,yellow,False,wet,ce.a,bd.a,USA
+Maine coon,f.bh,gc.a,,False,id.a,ba.f,black,solid,yellow,False,wet,dh.a,bh.a,USA
+Maine coon,f.bh,gc.a,,True,ec.a,g.bb,black,solid,yellow,False,wet,da.a,bd.a,USA
+Maine coon,f.bh,,,True,gi.a,j.h,red/cream,,yellow,False,wet,,,USA
+Maine coon,f.cf,gd.a,,True,,i.i,brown/chocolate,solid,yellow,True,dry,e.a,bd.a,USA
+Maine coon,f.cf,gd.a,,True,,h.ij,black,solid,yellow,False,dry,,,USA
+Maine coon,f.cf,gd.a,,True,fd.a,d.hg,brown/chocolate,solid,yellow,False,wet,,,
+Maine coon,f.cf,gd.a,,False,hj.a,bb.g,black,solid,yellow,False,dry,bb.a,bd.a,
+Maine coon,f.dd,ge.a,,False,,g.gh,black,bicolor,yellow,False,,,,Canada
+Maine coon,f.dd,ge.a,,True,,h.b,black,solid,yellow,True,wet,,,
+Maine coon,f.ec,,,True,,i.bi,brown/chocolate,tabby,,False,wet,,,
+Maine coon,f.ec,,,False,,h.f,red/cream,,yellow,False,wet,,,Canada
+Maine coon,f.ec,gf.a,,True,,j.c,black,solid,,False,dry,,,
+Maine coon,f.f,gg.a,,True,,g.dg,black,solid,,True,dry,,,Canada
+Maine coon,f.f,gg.a,,True,fh.a,ba.a,black,solid,,False,dry,,,Canada
+Maine coon,f.fi,,,False,gi.a,ba.c,red/cream,,,False,wet,,,Canada
+,f.fi,gh.a,,True,,h.g,black,solid,,False,wet,ch.a,bd.a,Canada
+Maine coon,f.fi,gh.a,,True,hd.a,g.bf,black,solid,,False,wet,df.a,bd.a,Canada
+Maine coon,,gh.a,,,dj.a,e.hg,white,solid,,False,wet,ba.a,bh.a,
+Maine coon,,,,False,ha.a,e.g,black,tortie,,False,wet,,,
+,,gi.a,female,True,hb.a,f.c,black,solid,,False,dry,bi.a,bd.a,
+Maine coon,,gi.a,female,False,fg.a,f.i,black,solid,,False,wet,,,Canada
+,,,male,True,,i.b,brown/chocolate,tabby,,False,dry,ci.a,bd.a,Canada
+Maine coon,,,male,False,ia.a,j.g,red/cream,,,False,dry,bd.a,bh.a,
+Maine coon,,,female,True,,h.gf,brown/chocolate,tortie,,False,wet,dg.a,bg.a,Canada
+,,gj.a,female,,,g.cj,white,solid,,False,wet,da.a,bd.a,Canada
+Maine coon,f.hf,gj.a,male,True,,i.j,black,solid,,True,dry,,,
+Maine coon,,,female,False,gi.a,f.fi,black,tortie,,False,dry,,,
+Maine coon,f.hf,gj.a,female,True,fb.a,f.jb,white,solid,,True,wet,,,
+Maine coon,f.id,ha.a,male,True,,h.j,black,solid,,True,wet,,,USA
+,,,male,False,hg.a,ba.e,red/cream,,,False,wet,ci.a,bd.a,USA
+,,hb.a,female,True,ed.a,f.fj,black,solid,,False,wet,bi.a,bd.a,
+Maine coon,,,male,True,,h.a,red/cream,,,False,dry,,,USA
+Maine coon,,hc.a,female,True,,h.fg,black,solid,,False,wet,,,USA
+Maine coon,,hc.a,male,False,id.a,ba.a,black,solid,,False,wet,ba.a,bd.a,
+Maine coon,,,male,False,,j.d,brown/chocolate,tabby,,False,wet,df.a,bd.a,USA
+Maine coon,g.bh,he.a,male,True,,j.b,black,solid,,True,wet,,,USA
+Maine coon,g.bh,he.a,female,False,ff.a,f.a,black,solid,,,dry,,,USA
+,g.bh,he.a,male,False,ih.a,bb.f,black,bicolor,,,,da.a,bd.a,USA
+,,he.a,female,True,ef.a,d.gf,brown/chocolate,solid,,False,dry,cc.a,bg.a,USA
+Maine coon,g.cf,,male,False,,i.d,brown/chocolate,tabby,,,dry,dg.a,bd.a,USA
+Maine coon,g.cf,,female,False,fe.a,e.bd,brown/chocolate,tabby,,,dry,,,USA
+Maine coon,g.cf,hf.a,male,True,,i.c,red/cream,,,,wet,,,USA
+Maine coon,g.cf,hf.a,male,True,ga.a,j.j,red/cream,,,,wet,,,
+,g.cf,hf.a,male,True,hd.a,bb.c,,solid,,,wet,cb.a,bd.a,Germany
+,g.dd,hg.a,female,,,g.jc,black,solid,,,wet,ch.a,bd.a,USA
+,g.dd,,female,True,,i.bd,brown/chocolate,tabby,,,dry,bj.a,bg.a,
+Maine coon,g.dd,,female,,eb.a,e.c,brown/chocolate,tabby,,,wet,bh.a,bd.a,
+Maine coon,g.dd,hg.a,female,False,,i.db,black,solid,,,dry,,,USA
+,g.ec,,male,False,,i.b,brown/chocolate,tabby,,,wet,ch.a,bd.a,USA
+Maine coon,g.ec,,male,True,gg.a,bb.d,brown/chocolate,tabby,,,wet,,,USA
+Maine coon,g.ec,hh.a,female,False,,g.ie,black,solid,,,wet,,,
+Maine coon,g.f,,male,False,ie.a,bb.d,brown/chocolate,tabby,,,wet,bb.a,bd.a,
+Maine coon,g.gh,ia.a,male,True,,i.e,black,solid,,,dry,,,USA
+Maine coon,g.gh,ia.a,male,True,hg.a,j.e,black,solid,,,wet,dg.a,bh.a,USA
+Maine coon,g.gh,ia.a,male,False,ie.a,ba.c,red/cream,,,,dry,dd.a,bh.a,USA
+Maine coon,g.hf,ib.a,male,True,,i.h,black,solid,,,wet,,,
+,g.hf,,male,True,hf.a,bb.h,brown/chocolate,tabby,,,wet,bi.a,bd.a,
+Maine coon,g.hf,ib.a,male,True,fg.a,j.h,white,solid,,,wet,,,
+Maine coon,g.id,,female,False,,h.ce,,tabby,,,dry,df.a,bg.a,Germany
+Maine coon,g.id,,female,True,,h.ic,,tortie,,,wet,,,
+Maine coon,g.id,ic.a,male,True,,i.h,,solid,,,wet,j.a,bd.a,Germany
+Maine coon,g.id,,male,True,,h.f,,tabby,,,dry,j.a,bg.a,Germany
+Maine coon,g.id,ic.a,female,False,,i.eb,,solid,,,dry,,,Germany
+Maine coon,g.id,ic.a,female,,,g.ji,,solid,,,wet,de.a,bd.a,Germany
+Maine coon,g.jc,,male,True,,g.c,,tabby,,,wet,,,Germany
+Maine coon,g.jc,id.a,male,True,fj.a,j.i,,solid,,,wet,,,Germany
+,g.jc,id.a,male,False,,j.d,,solid,,,wet,cf.a,bg.a,Germany
+,g.jc,id.a,male,False,,i.i,red/cream,,,,wet,cj.a,bd.a,Germany
+,h.a,ie.a,female,True,ec.a,d.jj,,solid,,,wet,cb.a,bd.a,Germany
+Maine coon,h.a,ie.a,male,False,ii.a,ba.b,black,solid,,,wet,ea.a,bg.a,USA
+,h.a,ie.a,male,True,hi.a,bb.a,red/cream,,,,wet,cj.a,bd.a,Germany
+,h.a,ie.a,female,,,i.cd,black,solid,,,dry,cf.a,bd.a,USA
+Maine coon,h.a,,female,False,,h.jg,black,tortie,,,wet,,,USA
+Maine coon,h.ai,if.a,female,True,,,brown/chocolate,solid,,,wet,,,USA
+Maine coon,h.ai,if.a,female,True,ia.a,f.gc,black,solid,,,wet,bb.a,bj.a,
+Maine coon,h.bh,ig.a,male,True,hi.a,,red/cream,,,,wet,dj.a,bg.a,USA
+Maine coon,h.bh,,male,True,,i.h,brown/chocolate,tabby,,,wet,,,
+Maine coon,h.bh,ig.a,male,True,,,black,solid,,,wet,,,USA
+Maine coon,h.bh,ig.a,male,True,,,black,solid,,,dry,j.a,bh.a,USA
+Maine coon,h.bh,ig.a,female,True,,,black,solid,,,dry,,,USA
+Maine coon,h.bh,ig.a,female,False,,,black,solid,,,wet,,,USA
+Maine coon,h.cf,ih.a,female,True,,,red/cream,,,,dry,,,USA
+,h.cf,ih.a,female,True,hc.a,,black,solid,,,wet,cd.a,bj.a,USA
+Maine coon,h.cf,,female,False,,i.be,brown/chocolate,tabby,,,wet,,cb.a,
+Maine coon,h.cf,ih.a,male,True,gj.a,,red/cream,,,,wet,,,USA
+Maine coon,h.cf,,male,True,,,brown/chocolate,tabby,,,dry,,,USA
+Maine coon,h.ec,,male,True,hh.a,bb.d,brown/chocolate,tabby,,,wet,bc.a,bh.a,
+Maine coon,h.ec,ij.a,male,True,,,black,solid,,,wet,,,USA
+Maine coon,h.ec,ij.a,male,True,ij.a,ba.f,brown/chocolate,solid,,,dry,ba.a,bj.a,
+,h.f,ja.a,male,False,,,black,solid,,,wet,cb.a,bd.a,USA
+Maine coon,h.f,,female,False,,,brown/chocolate,tabby,,,wet,,,USA
+Maine coon,h.f,ja.a,female,True,,h.ig,black,solid,,,wet,,,USA
+Maine coon,h.f,ja.a,male,True,,i.c,black,solid,,,wet,,,USA
+Maine coon,h.fi,jb.a,male,False,,h.j,black,solid,,,dry,df.a,bg.a,USA
+Maine coon,h.fi,jb.a,male,False,,h.e,black,solid,,,dry,dh.a,bh.a,USA
+Maine coon,h.gh,jc.a,female,,de.a,d.gb,black,bicolor,,,,dc.a,bd.a,USA
+,h.gh,jc.a,male,False,hj.a,bb.d,black,solid,,,wet,bj.a,bg.a,
+Maine coon,h.gh,jc.a,male,True,bac.a,ba.b,black,solid,,,wet,bg.a,bd.a,
+,h.id,,female,False,hh.a,f.ie,brown/chocolate,tabby,,,dry,cd.a,bi.a,USA
+Maine coon,h.id,je.a,male,True,fg.a,bb.b,black,solid,,,wet,,,
+Maine coon,h.jc,jf.a,male,False,hf.a,j.f,black,solid,,,wet,df.a,bj.a,USA
+Maine coon,h.jc,jf.a,male,True,,h.d,red/cream,,,,wet,,ca.a,
+Maine coon,h.jc,,male,False,,h.g,brown/chocolate,tabby,,,wet,bb.a,bd.a,
+Maine coon,i.a,jg.a,male,True,jh.a,ba.j,black,solid,,,dry,,ca.a,
+,i.bh,ji.a,female,,ea.a,f.ef,black,solid,,,wet,cj.a,bh.a,USA
+Maine coon,,,,False,he.a,f.d,black,tortie,,False,wet,bb.a,bd.a,
+Maine coon,i.cf,jj.a,male,True,hj.a,ba.e,black,solid,,,wet,,ca.a,USA
+Maine coon,i.dd,baa.a,female,False,gc.a,f.ej,black,solid,,,wet,,,
+Maine coon,h.gh,jc.a,female,,,h.ji,white,solid,,,wet,,cb.a,USA
+Maine coon,i.dd,,female,False,,i.d,brown/chocolate,tabby,,,wet,,,
+Maine coon,i.ec,bab.a,female,True,,h.hj,red/cream,,,,,,,
+Maine coon,h.fi,jb.a,female,False,,h.j,black,solid,,,wet,di.a,bi.a,USA
+Maine coon,i.f,bac.a,male,True,gh.a,ba.j,black,solid,,,dry,,,USA
+Maine coon,g.bh,he.a,female,True,fg.a,d.j,black,solid,,True,wet,,,USA
+,i.fi,bad.a,female,True,,h.af,black,solid,,,wet,cj.a,bi.a,USA
+Maine coon,i.fi,bad.a,male,False,,j.c,red/cream,,,,wet,,ca.a,USA
+Maine coon,i.fi,bad.a,male,False,ig.a,ba.a,red/cream,,,,,df.a,bj.a,USA
+,g.ec,hh.a,female,,,h.ic,red/cream,,,,dry,bh.a,bg.a,
+Maine coon,h.id,je.a,male,True,gi.a,bb.g,black,solid,,,dry,,,USA
+Maine coon,,gf.a,,True,ei.a,e.bf,brown/chocolate,bicolor,,False,,,,USA
+Maine coon,i.gh,bae.a,female,False,,h.jj,black,solid,,,dry,,,USA
+Maine coon,,gh.a,,True,gf.a,f.bg,black,solid,,False,wet,,,
+Maine coon,g.ec,hh.a,female,False,gg.a,f.a,black,solid,,,wet,,,USA
+Maine coon,i.hf,baf.a,female,False,,h.df,black,solid,,,wet,,,
+Maine coon,f.a,ga.a,,True,ge.a,f.cd,black,solid,,True,dry,,,USA
+Maine coon,h.ec,ij.a,female,True,,h.ch,black,solid,,,dry,bc.a,bh.a,
+Maine coon,i.jc,bah.a,female,True,,h.hf,black,solid,,,wet,,,
+,i.jc,bah.a,female,False,hf.a,g.a,black,solid,,,dry,ch.a,bg.a,USA
+Maine coon,,,,True,ec.a,f.bc,brown/chocolate,tortie,,False,wet,dg.a,bd.a,USA
+Maine coon,h.dd,ii.a,female,False,,i.f,black,solid,,,wet,bc.a,bh.a,
+Maine coon,i.jc,,female,,dg.a,f.hh,brown/chocolate,tabby,,,wet,f.a,bg.a,USA
+Maine coon,i.jc,bah.a,female,True,,i.ah,black,solid,,,wet,,,
+,i.jc,bah.a,female,,,g.jf,white,solid,,,wet,cg.a,bj.a,USA
+Maine coon,h.fi,,male,False,gf.a,j.h,brown/chocolate,tabby,,,wet,,,USA
+Maine coon,j.a,,female,True,,g.jd,brown/chocolate,tabby,,,dry,,,USA
+Maine coon,j.a,bai.a,male,True,id.a,bb.d,black,solid,,,wet,,cb.a,
+Maine coon,j.a,bai.a,male,True,id.a,bb.g,red/cream,,,,wet,,ca.a,USA
+Maine coon,j.a,bai.a,male,True,hf.a,j.h,red/cream,,,,dry,bc.a,bj.a,
+Maine coon,j.ai,baj.a,male,False,,i.d,black,solid,,,wet,,,
+Maine coon,j.ai,baj.a,male,False,,h.j,black,solid,,,dry,,,
+Maine coon,j.bh,bba.a,male,True,ii.a,ba.f,black,solid,,,wet,ba.a,bj.a,
+Maine coon,i.f,bac.a,female,False,ha.a,g.ab,black,solid,,,wet,,,USA
+Maine coon,j.cf,bbb.a,male,True,gg.a,bb.d,red/cream,,,,wet,,,
+Maine coon,j.cf,bbb.a,male,True,gj.a,j.f,black,solid,,,wet,,,USA
+Maine coon,i.bh,ji.a,male,True,,i.h,black,solid,,,wet,,,USA
+Maine coon,,bbc.a,male,True,,g.c,black,solid,,False,wet,,,USA
+Maine coon,j.dd,bbc.a,female,True,ge.a,f.bi,black,solid,,,wet,,,USA
+Maine coon,j.ec,,female,True,,g.ef,brown/chocolate,tabby,,True,wet,,,USA
+,,fj.a,,False,hi.a,f.b,black,solid,,False,wet,cb.a,bd.a,USA
+Maine coon,,bbd.a,male,False,,i.h,black,bicolor,,False,,,,USA
+Maine coon,i.bh,ji.a,male,False,,h.a,black,solid,,,dry,,,USA
+Maine coon,g.f,,female,False,fb.a,f.d,black,tortie,,,wet,,,
+Maine coon,,bbe.a,male,True,,h.d,black,solid,,False,dry,,ca.a,
+Maine coon,,bbe.a,female,True,,i.de,black,solid,,False,wet,,,USA
+Maine coon,,,female,True,,h.bb,brown/chocolate,tabby,,False,wet,,ca.a,
+Maine coon,h.gh,jc.a,male,True,,i.e,red/cream,,,,dry,,,
+Maine coon,,fj.a,,False,ei.a,e.ig,black,solid,,False,wet,,,
+Maine coon,,bbf.a,male,True,hi.a,bc.b,black,bicolor,,False,,ba.a,bj.a,USA
+Maine coon,,,female,False,,g.gb,brown/chocolate,tabby,,False,dry,,,USA
+Maine coon,h.fi,jb.a,male,True,,i.b,black,solid,,,wet,,,USA
+Maine coon,,bbg.a,female,False,,i.bd,black,solid,,False,dry,,,
+Maine coon,j.hf,,male,True,,h.e,brown/chocolate,tabby,,True,dry,bg.a,bi.a,
+Maine coon,h.a,ie.a,male,True,,i.j,black,solid,,,dry,,,
+,,ej.a,,,dh.a,d.fb,white,solid,,False,dry,bh.a,bg.a,
+Maine coon,g.f,hi.a,male,True,ha.a,ba.j,black,solid,,,wet,,,
+,,,female,False,,i.fi,black,tortie,,False,dry,ci.a,bj.a,USA
+,,,female,False,,h.fh,brown/chocolate,tabby,,False,wet,bh.a,bj.a,
+Maine coon,h.bh,ig.a,male,True,,h.i,red/cream,,,,wet,,,USA
+Maine coon,,bcd.a,female,True,,i.cc,black,solid,,False,dry,,,USA
+Maine coon,g.dd,hg.a,female,True,gf.a,f.e,black,solid,,,wet,,,USA
+Maine coon,,,female,False,,g.f,black,tortie,,False,dry,,,
+Ragdoll,,d.a,female,True,cb.a,d.b,red/cream,,blue,False,,ga.a,ba.a,USA
+,,e.a,male,False,cb.a,d.a,red/cream,,blue,False,,cb.a,bg.a,USA
+Ragdoll,,,female,False,cb.a,d.a,,tortie,green,False,wet,db.a,bg.a,UK
+Ragdoll,,e.a,male,False,cb.a,d.a,,colorpoint,blue,False,,bg.a,bh.a,
+Ragdoll,,e.a,female,False,cb.a,d.d,,bicolor,blue,False,,be.a,bg.a,
+Ragdoll,,e.a,female,True,cc.a,d.c,,colorpoint,green,False,,,ca.a,
+Ragdoll,,e.a,female,False,cc.a,,,colorpoint,blue,False,,eg.a,bf.a,UK
+Ragdoll,,e.a,male,False,cc.a,,,colorpoint,blue,False,,,cb.a,UK
+,,f.a,female,False,cc.a,,,bicolor,green,False,,ch.a,bd.a,UK
+,,f.a,male,False,cc.a,,,bicolor,blue,False,,cj.a,bd.a,UK
+Ragdoll,,f.a,male,False,cd.a,,,colorpoint,blue,False,,ej.a,bb.a,UK
+Ragdoll,g.f,hi.a,male,False,cg.a,,,bicolor,blue,,,ec.a,bd.a,UK
+,,f.a,female,False,cg.a,,,bicolor,blue,False,,ci.a,bc.a,UK
+,g.gh,ia.a,female,False,cg.a,,,colorpoint,blue,,,ch.a,bg.a,UK
+,,dj.a,,False,cf.a,e.d,,colorpoint,blue,False,,bi.a,bd.a,
+Ragdoll,,f.a,female,True,cb.a,,,colorpoint,green,False,,ei.a,be.a,UK
+,,ei.a,,False,ch.a,,,colorpoint,green,False,,cg.a,bd.a,UK
+,,g.a,female,False,cf.a,d.i,,colorpoint,blue,False,,bi.a,bf.a,
+Ragdoll,,eb.a,,False,da.a,,,colorpoint,blue,False,,db.a,bd.a,UK
+,,dg.a,male,False,cg.a,,,bicolor,blue,False,,ca.a,bg.a,UK
+Ragdoll,,bd.a,male,False,cj.a,,,colorpoint,green,False,,eg.a,bg.a,UK
+,g.f,,female,False,cg.a,,,tortie,blue,,wet,cc.a,bd.a,UK
+,,df.a,male,False,cj.a,f.a,seal,,blue,False,,cb.a,bg.a,USA
+Ragdoll,,bi.a,male,False,da.a,f.d,red/cream,,blue,False,,bb.a,bh.a,
+Ragdoll,,g.a,male,False,da.a,e.c,red/cream,,amber,False,,ed.a,bb.a,Germany
+Ragdoll,g.jc,id.a,female,False,cc.a,e.a,lilac,,green,,,de.a,bd.a,Germany
+,,h.a,female,False,ca.a,e.d,brown/chocolate,colorpoint,green,False,,ci.a,be.a,Germany
+Ragdoll,,eb.a,,False,cc.a,e.e,seal,,blue,False,,be.a,bg.a,
+,,h.a,female,True,cb.a,d.j,seal,,blue,False,,cb.a,bc.a,Germany
+Ragdoll,,h.a,female,False,ce.a,d.h,brown/chocolate,colorpoint,blue,False,,bh.a,bd.a,
+Ragdoll,,fg.a,,False,cg.a,e.f,seal,,blue,False,,dh.a,bd.a,Germany
+Ragdoll,,bg.a,female,False,ci.a,e.e,seal,,blue,False,,dg.a,bj.a,Germany
+Ragdoll,,i.a,female,True,cd.a,d.i,seal,,green,False,,,cb.a,Germany
+Ragdoll,,i.a,female,True,cc.a,d.i,seal,,green,False,,di.a,bh.a,Germany
+Ragdoll,,i.a,female,True,cb.a,d.h,brown/chocolate,colorpoint,blue,False,,eh.a,bg.a,Germany
+Ragdoll,,i.a,male,True,db.a,e.d,red/cream,,blue,False,,,ca.a,Germany
+Ragdoll,,j.a,female,True,cf.a,d.i,seal,,blue,False,,dc.a,bj.a,Germany
+,,dh.a,,True,cf.a,e.f,,colorpoint,blue,False,,bj.a,bg.a,
+Ragdoll,,ca.a,female,True,cc.a,e.d,,bicolor,green,False,,ef.a,bj.a,Germany
+Ragdoll,,ba.a,female,True,cg.a,d.f,,colorpoint,blue,False,,,ca.a,Germany
+Ragdoll,,,female,True,ce.a,d.j,,tortie,blue,False,wet,,ca.a,Germany
+,,bh.a,female,False,cb.a,e.d,seal,,blue,False,,da.a,bj.a,USA
+Ragdoll,,bc.a,female,False,ci.a,e.e,seal,,blue,False,,bg.a,bi.a,
+Ragdoll,,ej.a,,False,cg.a,e.d,seal,,blue,False,wet,j.a,bh.a,USA
+,b.a,bc.a,male,True,db.a,e.e,brown/chocolate,colorpoint,blue,True,,bh.a,bf.a,
+Ragdoll,,bc.a,female,False,cg.a,d.j,seal,,blue,False,,bb.a,bh.a,
+,,bc.a,female,False,cg.a,e.a,seal,,blue,False,,bh.a,bj.a,
+Ragdoll,,fb.a,,True,ci.a,e.i,red/cream,,green,False,wet,be.a,bd.a,
+Ragdoll,,bd.a,female,True,cb.a,d.i,seal,,blue,False,wet,,ca.a,USA
+Ragdoll,,be.a,female,True,ce.a,d.j,brown/chocolate,colorpoint,blue,False,,,cb.a,USA
+Ragdoll,,fh.a,,True,ch.a,e.h,brown/chocolate,colorpoint,blue,False,,bg.a,bd.a,
+Ragdoll,,be.a,female,True,cg.a,e.b,seal,,blue,False,,di.a,bi.a,USA
+Ragdoll,,be.a,female,False,cc.a,d.i,brown/chocolate,colorpoint,blue,False,,,ca.a,Canada
+,,be.a,female,True,ca.a,e.d,seal,,green,False,,da.a,bf.a,Canada
+,,bf.a,female,True,cg.a,d.i,seal,,blue,False,dry,ch.a,bi.a,Canada
+Ragdoll,,bf.a,female,True,cb.a,d.f,seal,,blue,False,,de.a,bh.a,Canada
+Ragdoll,,bf.a,female,True,ch.a,d.i,seal,,blue,False,,,ca.a,
+,,bf.a,male,True,cf.a,e.h,brown/chocolate,colorpoint,blue,False,,cc.a,bi.a,Canada
+Ragdoll,b.dd,bg.a,female,True,ch.a,d.g,seal,,blue,True,,di.a,bg.a,Canada
+Ragdoll,,bh.a,female,True,cb.a,d.i,brown/chocolate,colorpoint,blue,False,,,cb.a,Canada
+Ragdoll,,bh.a,female,True,ci.a,e.c,seal,,blue,False,wet,,cb.a,
+Ragdoll,,bh.a,female,True,ch.a,e.b,seal,,blue,False,dry,dg.a,bj.a,Canada
+Ragdoll,,bi.a,male,False,cj.a,,,colorpoint,blue,False,,d.a,bi.a,UK
+Ragdoll,,bi.a,female,True,cd.a,,,colorpoint,blue,False,,,ca.a,UK
+Ragdoll,,bi.a,male,True,ci.a,,,colorpoint,blue,False,,dh.a,bh.a,UK
+Ragdoll,,bi.a,male,False,ci.a,e.e,,colorpoint,blue,False,,,cb.a,UK
+,,ei.a,,True,ch.a,,,colorpoint,blue,False,,cd.a,bf.a,UK
+Ragdoll,d.ec,eb.a,,True,ci.a,,,colorpoint,blue,True,,ba.a,bf.a,UK
+Ragdoll,,bj.a,male,False,ci.a,,,bicolor,blue,False,wet,df.a,bj.a,UK
+,,bj.a,female,True,cc.a,,,colorpoint,blue,False,,da.a,bi.a,UK
+Ragdoll,,bj.a,female,False,cg.a,,,colorpoint,blue,False,,,ca.a,UK
+,,gi.a,male,True,cg.a,e.h,,colorpoint,blue,False,,bi.a,bf.a,
+Ragdoll,,gi.a,female,True,ch.a,e.j,,colorpoint,green,False,,bc.a,bg.a,
+,,ca.a,male,False,db.a,,,colorpoint,blue,False,,da.a,bj.a,UK
+Ragdoll,,,female,True,ca.a,d.f,,tortie,blue,False,wet,,ca.a,UK
+Ragdoll,,eh.a,,True,ci.a,f.a,,colorpoint,blue,False,,c.a,bf.a,UK
+Ragdoll,b.hf,cb.a,male,False,cj.a,e.b,seal,,blue,True,,bb.a,bh.a,
+,,cc.a,female,True,ci.a,e.a,seal,,blue,False,,cf.a,bg.a,Canada
+Ragdoll,,cc.a,male,True,cg.a,e.j,seal,,blue,False,,,cb.a,Canada
+Ragdoll,,cc.a,female,True,ce.a,d.i,seal,,blue,False,,e.a,bh.a,Canada
+Ragdoll,,cd.a,male,True,db.a,e.i,seal,,blue,False,dry,df.a,bj.a,Canada
+Ragdoll,,fe.a,,True,cg.a,f.b,seal,,blue,False,,bc.a,bf.a,
+Ragdoll,,ei.a,,True,da.a,f.a,red/cream,,green,False,,bd.a,bf.a,
+Ragdoll,,fb.a,,False,da.a,f.c,seal,,blue,False,,h.a,bf.a,Canada
+,,ce.a,female,True,cb.a,e.a,brown/chocolate,colorpoint,blue,False,,cc.a,bh.a,Canada
+,,ce.a,male,True,ch.a,e.j,red/cream,,green,False,,cj.a,bf.a,Canada
+,c.a,ce.a,female,True,ca.a,d.f,seal,,blue,False,,ca.a,bf.a,Canada
+,c.a,ce.a,female,True,cd.a,d.j,brown/chocolate,colorpoint,blue,False,,cc.a,bf.a,USA
+Ragdoll,f.bh,gc.a,,True,cg.a,e.h,seal,,blue,False,,bd.a,bf.a,
+Ragdoll,c.ai,cf.a,female,True,cd.a,e.dd,seal,,green,False,wet,i.a,bh.a,USA
+Ragdoll,c.ai,cf.a,female,True,cb.a,e.hc,seal,,green,False,,de.a,bf.a,USA
+Ragdoll,c.ai,cf.a,male,True,cf.a,g.af,seal,,blue,False,,f.a,bf.a,USA
+Ragdoll,c.ai,cf.a,female,True,ci.a,e.fh,seal,,blue,False,,bc.a,bg.a,
+,c.bh,cg.a,male,True,,h.dj,seal,,blue,False,,cd.a,bg.a,USA
+,c.bh,cg.a,male,,,i.cj,red/cream,,blue,False,,cj.a,bf.a,USA
+Ragdoll,,cg.a,female,True,ca.a,g.a,seal,,green,False,,g.a,bf.a,USA
+,,cg.a,female,True,cc.a,f.gg,seal,,blue,False,,ci.a,bf.a,USA
+,,hb.a,male,True,,i.gc,brown/chocolate,colorpoint,green,False,,cj.a,bf.a,USA
+Ragdoll,,ch.a,female,True,,g.hi,brown/chocolate,colorpoint,blue,False,,bg.a,bg.a,
+Ragdoll,,ci.a,female,,dg.a,f.d,seal,,blue,False,,bc.a,bf.a,
+Ragdoll,,ci.a,male,True,,g.ih,seal,,blue,False,,db.a,bf.a,USA
+,,ci.a,female,True,ca.a,e.h,brown/chocolate,colorpoint,green,False,,ce.a,bf.a,USA
+Ragdoll,,ci.a,male,True,,g.d,seal,,blue,False,,h.a,bf.a,USA
+Ragdoll,,,female,True,cc.a,f.d,brown/chocolate,tortie,blue,False,dry,b.a,bf.a,USA
+Ragdoll,,cj.a,female,False,ci.a,e.dj,seal,,blue,False,,f.a,bf.a,USA
+,,da.a,male,True,,g.i,red/cream,,blue,False,,cb.a,bf.a,USA
+Ragdoll,,da.a,male,False,,g.hh,seal,,blue,False,,d.a,bf.a,USA
+,,da.a,female,True,ce.a,e.ii,seal,,blue,False,,cb.a,bh.a,USA
+Ragdoll,,da.a,male,False,,g.hc,seal,,blue,False,,i.a,bf.a,USA
+Ragdoll,,db.a,male,True,ci.a,f.a,seal,,green,False,,be.a,bf.a,
+Ragdoll,,dc.a,male,True,fd.a,g.bf,seal,,green,False,,,,USA
+,c.gh,dc.a,female,,ea.a,e.gb,seal,,blue,True,wet,cc.a,bf.a,USA
+,,dc.a,female,False,ef.a,f.db,seal,,blue,False,,cc.a,bf.a,USA
+Ragdoll,,dc.a,male,False,fb.a,,red/cream,,blue,False,,,,USA
+Ragdoll,,dc.a,male,True,,h.eb,seal,,blue,False,,,,USA
+,,dd.a,female,False,ed.a,e.gf,brown/chocolate,mitted,green,False,wet,cb.a,bh.a,USA
+Ragdoll,,dd.a,female,True,eh.a,e.gd,seal,,blue,False,,,,USA
+Ragdoll,,dd.a,female,False,ei.a,g.a,brown/chocolate,bicolor,green,False,,,,
+Ragdoll,,de.a,female,,di.a,f.d,seal,,blue,False,,db.a,bh.a,USA
+,,de.a,male,True,ed.a,f.jh,seal,,blue,False,,cj.a,bf.a,USA
+Ragdoll,,de.a,male,True,fb.a,f.gh,seal,,green,False,,,,USA
+Ragdoll,,de.a,male,True,,i.jc,seal,,blue,False,,,,USA
+Ragdoll,c.jc,df.a,male,False,,g.jg,seal,,blue,True,,f.a,bf.a,USA
+,,df.a,male,True,,g.h,red/cream,,green,False,,bh.a,bf.a,
+Ragdoll,,dg.a,female,True,ef.a,g.b,seal,,blue,False,,di.a,bf.a,USA
+Ragdoll,,dg.a,male,True,,j.a,seal,,blue,False,,,,
+Ragdoll,,dg.a,male,True,,h.gf,seal,,blue,False,,,,USA
+,,dg.a,,False,ee.a,f.ge,seal,,blue,False,,ce.a,bf.a,USA
+Ragdoll,,dg.a,male,False,,h.ei,seal,,blue,False,,,,USA
+Ragdoll,,dg.a,male,True,cc.a,f.f,brown/chocolate,colorpoint,blue,False,,bd.a,bh.a,
+,,,,,eb.a,f.df,brown/chocolate,tortie,green,False,wet,ce.a,bf.a,USA
+,,dh.a,,False,ef.a,e.e,seal,,blue,False,,cf.a,bf.a,USA
+Ragdoll,,dh.a,,,,g.hf,seal,,blue,False,,bc.a,bf.a,
+Ragdoll,,di.a,,,di.a,f.hd,,colorpoint,blue,False,,c.a,bf.a,USA
+,,di.a,,True,,g.fg,,colorpoint,green,False,,cf.a,bf.a,USA
+Ragdoll,,di.a,,False,,g.dj,,colorpoint,blue,False,,,,USA
+Ragdoll,,di.a,,False,eh.a,e.di,,colorpoint,blue,False,,,,
+Ragdoll,,di.a,,True,,h.hj,,colorpoint,blue,False,,bd.a,bf.a,
+,,di.a,,,dj.a,f.de,,colorpoint,blue,False,,cj.a,bh.a,USA
+Ragdoll,,di.a,,True,,g.ec,,colorpoint,blue,False,,,,USA
+Ragdoll,,di.a,,,,g.hh,,colorpoint,green,False,,bg.a,bf.a,
+,d.bh,di.a,,,di.a,d.ji,,colorpoint,blue,True,,cc.a,bf.a,USA
+Ragdoll,,dj.a,,True,,,red/cream,,blue,False,,,,USA
+Ragdoll,,dj.a,,,dj.a,e.cc,,colorpoint,blue,False,,db.a,bf.a,USA
+Ragdoll,,dj.a,,True,db.a,,,colorpoint,blue,False,,c.a,bf.a,USA
+Ragdoll,,dj.a,,True,,h.hi,,bicolor,blue,False,,,,
+Ragdoll,,dj.a,,True,,,,colorpoint,green,False,,,,USA
+Ragdoll,,dj.a,,True,eh.a,,,colorpoint,blue,False,,,,USA
+,,dj.a,,True,da.a,,,colorpoint,blue,False,,cj.a,bf.a,USA
+Ragdoll,,ea.a,,False,,,,colorpoint,blue,False,,,,USA
+,,ea.a,,True,,,,colorpoint,blue,False,,cc.a,bf.a,USA
+Ragdoll,,ea.a,,False,eh.a,,,colorpoint,blue,False,,,,USA
+Ragdoll,,ea.a,,True,,,,colorpoint,blue,False,,,,USA
+Ragdoll,d.dd,ea.a,,False,fa.a,,,colorpoint,green,True,,,,USA
+Ragdoll,,,,,dj.a,,,tortie,blue,False,wet,db.a,bg.a,USA
+,,ea.a,,True,ec.a,,,bicolor,blue,False,,da.a,bf.a,USA
+Ragdoll,,ea.a,,True,,,,colorpoint,blue,False,,df.a,bf.a,USA
+Ragdoll,,eb.a,,False,,,,colorpoint,blue,False,,,,USA
+,,eb.a,,True,,,,colorpoint,blue,False,,cc.a,bf.a,USA
+Ragdoll,,ec.a,,False,eh.a,,,colorpoint,green,False,,,,USA
+Ragdoll,,ec.a,,False,,,,colorpoint,blue,False,,,,USA
+Ragdoll,,ec.a,,True,,,,colorpoint,blue,False,,,,USA
+,,ec.a,,,ea.a,e.gj,seal,,green,False,,bh.a,bf.a,
+,d.fi,ed.a,,True,,g.gi,seal,,blue,True,,cf.a,bh.a,France
+Ragdoll,,ed.a,,True,ei.a,d.ji,seal,,blue,False,,,,France
+Ragdoll,,ed.a,,False,,i.ac,brown/chocolate,colorpoint,blue,False,,,,
+Ragdoll,,ed.a,,True,,i.dd,seal,,green,False,,,,
+Ragdoll,,ed.a,,True,,g.hj,red/cream,,blue,False,,d.a,bf.a,France
+Ragdoll,,ee.a,,,,g.dc,seal,,green,False,,j.a,bh.a,France
+,,ee.a,,,di.a,e.cg,seal,,blue,False,,cd.a,bg.a,France
+Ragdoll,,ee.a,,False,ee.a,e.jb,brown/chocolate,colorpoint,blue,False,,g.a,bf.a,France
+Ragdoll,,ef.a,,True,,g.hg,seal,,blue,False,,e.a,bh.a,France
+Ragdoll,,ef.a,,True,ej.a,f.g,red/cream,,blue,False,wet,,,France
+Ragdoll,,eg.a,,False,,,,colorpoint,blue,False,,,,USA
+,,eg.a,,True,,,,colorpoint,blue,False,,cj.a,bg.a,USA
+,,eg.a,,True,ef.a,,,colorpoint,green,False,,cj.a,bf.a,USA
+Ragdoll,d.id,eg.a,,True,,i.g,red/cream,,blue,True,,,,
+Ragdoll,,eg.a,,,ea.a,d.he,seal,,blue,False,wet,bg.a,bg.a,
+Ragdoll,,eg.a,,,,,seal,,blue,False,,h.a,bf.a,USA
+Ragdoll,,eh.a,,True,,,seal,,green,False,,,,USA
+Ragdoll,,eh.a,,True,,,seal,,green,False,,,,USA
+,,eh.a,,,di.a,,seal,,amber,False,,cb.a,bc.a,USA
+Ragdoll,,ei.a,,,ea.a,d.jh,seal,,blue,False,,bd.a,bc.a,
+Ragdoll,,ej.a,,True,fb.a,,seal,,blue,False,,,,USA
+Ragdoll,,ej.a,,True,,,seal,,blue,False,,,,USA
+,,fa.a,,True,ec.a,e.bj,seal,,blue,False,,bj.a,bc.a,
+,e.cf,fb.a,,True,,,seal,,blue,True,,da.a,bg.a,USA
+Ragdoll,,fc.a,,True,,,seal,,green,False,,,,USA
+Ragdoll,,fc.a,,False,,,red/cream,,blue,False,,dd.a,bc.a,USA
+Ragdoll,,fc.a,,False,eh.a,f.ge,seal,,blue,False,,,,
+Ragdoll,,fd.a,,True,fd.a,f.h,red/cream,,blue,False,,,,
+Ragdoll,,fd.a,,False,eg.a,,brown/chocolate,colorpoint,blue,False,,,,USA
+Ragdoll,,fd.a,,False,ee.a,,seal,,blue,False,,h.a,bc.a,USA
+Ragdoll,,fd.a,,False,fa.a,f.aj,seal,,green,False,,,,
+Ragdoll,,fe.a,,,,,seal,,blue,False,,d.a,bc.a,USA
+,,fe.a,,False,,g.eh,seal,,blue,False,,ca.a,bg.a,
+Ragdoll,,fe.a,,,eb.a,,seal,,blue,False,,j.a,bh.a,USA
+Ragdoll,,ff.a,,False,eg.a,f.f,brown/chocolate,bicolor,green,False,,,,
+Ragdoll,e.fi,ff.a,,True,,,seal,,green,True,,,,USA
+Ragdoll,,ff.a,,True,,,seal,,blue,False,wet,,,USA
+,,ff.a,,,di.a,,red/cream,,blue,False,wet,ch.a,bc.a,USA
+Ragdoll,,ff.a,,True,,i.di,seal,,blue,False,,,,
+,,ff.a,,,dj.a,e.cd,seal,,blue,False,,bi.a,bc.a,
+Ragdoll,,ff.a,,False,,g.bi,seal,,blue,False,,,,
+Ragdoll,,fg.a,,True,,,seal,,blue,False,dry,,,USA
+Ragdoll,,fg.a,,True,,,seal,,green,False,wet,h.a,bc.a,USA
+Ragdoll,,fg.a,,False,ei.a,f.ib,seal,,blue,False,wet,,,
+Ragdoll,e.hf,fh.a,,False,ec.a,f.ej,seal,,blue,False,dry,bb.a,bg.a,
+,e.hf,fh.a,,True,ee.a,,seal,,blue,False,wet,ch.a,bf.a,USA
+Ragdoll,e.id,fi.a,,,ea.a,,seal,,green,False,wet,dg.a,bc.a,USA
+Ragdoll,e.id,fi.a,,True,,,red/cream,,blue,False,wet,,,USA
+Ragdoll,e.id,fi.a,,False,,g.jf,red/cream,,blue,False,,bb.a,bc.a,
+Ragdoll,e.id,fi.a,,False,,,,colorpoint,blue,False,dry,,,USA
+Ragdoll,e.id,fi.a,,True,ee.a,,brown/chocolate,colorpoint,green,False,wet,df.a,bc.a,USA
+Ragdoll,e.id,fi.a,,True,,,seal,,green,False,dry,g.a,,USA
+,e.jc,fj.a,,,,,seal,,blue,False,wet,ch.a,bg.a,USA
+Ragdoll,e.jc,fj.a,,,di.a,e.fb,seal,,blue,False,wet,be.a,bc.a,
+Ragdoll,e.jc,fj.a,,False,,,,colorpoint,blue,False,dry,dg.a,,USA
+Ragdoll,e.jc,fj.a,,False,,h.hi,,colorpoint,blue,False,wet,be.a,,
+Ragdoll,e.jc,fj.a,,True,,h.bj,,colorpoint,blue,False,wet,be.a,,
+Ragdoll,f.ai,gb.a,,,ea.a,,,colorpoint,green,False,wet,dc.a,bg.a,USA
+Ragdoll,f.ai,gb.a,,False,,,,colorpoint,blue,False,dry,j.a,bf.a,USA
+Ragdoll,f.ai,gb.a,,True,,,,colorpoint,blue,False,wet,h.a,,USA
+Ragdoll,f.bh,gc.a,,True,,,,colorpoint,blue,False,wet,g.a,,USA
+Ragdoll,f.bh,gc.a,,False,,h.ag,,colorpoint,blue,False,dry,bc.a,,
+Ragdoll,f.bh,gc.a,,True,fa.a,f.fj,,colorpoint,green,False,wet,ba.a,,
+Ragdoll,f.cf,gd.a,,False,fa.a,,,colorpoint,blue,False,dry,dd.a,,USA
+Ragdoll,f.cf,gd.a,,True,ef.a,,,colorpoint,blue,False,dry,da.a,bc.a,USA
+Ragdoll,f.ec,gf.a,,True,,j.bj,,colorpoint,blue,False,dry,bb.a,,
+,f.f,gg.a,,False,,,,colorpoint,blue,False,dry,cd.a,bc.a,USA
+Ragdoll,,gg.a,,True,,,,colorpoint,green,False,wet,ba.a,,USA
+,,gg.a,,True,,h.ed,,bicolor,blue,False,,ca.a,,
+Ragdoll,,gh.a,,False,,h.d,,bicolor,green,False,wet,b.a,,Germany
+,,gh.a,,True,ei.a,g.bh,,colorpoint,blue,False,wet,bh.a,,
+Ragdoll,,gh.a,,False,,g.fc,,colorpoint,blue,False,wet,j.a,bh.a,Germany
+,,gh.a,,False,,h.ff,,colorpoint,blue,False,wet,cg.a,,Germany
+Ragdoll,,gh.a,,True,eg.a,g.bh,,colorpoint,blue,False,wet,bf.a,,
+,,gi.a,female,False,ed.a,f.fi,,colorpoint,blue,False,wet,ce.a,bc.a,Germany
+Ragdoll,,gi.a,female,True,,h.cb,,colorpoint,green,False,wet,d.a,bf.a,Germany
+Ragdoll,,gi.a,male,False,eg.a,f.gc,,colorpoint,blue,False,wet,dc.a,,Germany
+Ragdoll,,gi.a,,False,fc.a,f.je,,colorpoint,blue,False,wet,da.a,,Germany
+Ragdoll,,gi.a,male,True,ef.a,f.ih,,colorpoint,blue,False,wet,be.a,bc.a,
+Ragdoll,,gi.a,female,True,eb.a,,,colorpoint,blue,False,wet,j.a,bc.a,USA
+,f.gh,gi.a,male,True,,,,colorpoint,blue,True,wet,ce.a,,USA
+,f.gh,gi.a,female,,ea.a,,,colorpoint,blue,False,dry,cg.a,bc.a,USA
+Ragdoll,f.hf,gj.a,male,False,ei.a,,,colorpoint,blue,False,wet,ba.a,,USA
+Ragdoll,f.hf,gj.a,male,True,,h.bd,,bicolor,amber,False,wet,bc.a,bc.a,
+Ragdoll,f.id,ha.a,female,,,,,mitted,blue,False,wet,c.a,bg.a,USA
+Ragdoll,f.id,ha.a,male,True,,,,colorpoint,blue,False,wet,ba.a,bc.a,USA
+Ragdoll,f.id,ha.a,female,False,,,,colorpoint,blue,False,wet,j.a,bc.a,USA
+Ragdoll,,hc.a,female,True,,,,colorpoint,blue,False,wet,j.a,bg.a,USA
+Ragdoll,g.a,hc.a,female,False,ef.a,d.hd,,mitted,blue,False,wet,bf.a,bg.a,
+,,hc.a,male,True,ee.a,,,colorpoint,blue,False,wet,ci.a,bf.a,USA
+,,hc.a,male,True,,i.jh,,colorpoint,blue,False,wet,bh.a,,
+,,hc.a,female,,di.a,,,colorpoint,green,False,wet,cd.a,bg.a,USA
+Ragdoll,,hd.a,female,True,ef.a,,,colorpoint,blue,False,wet,da.a,bc.a,USA
+,,hd.a,male,True,,h.cf,,colorpoint,blue,False,wet,bi.a,,
+Ragdoll,,hd.a,female,,dg.a,,,colorpoint,blue,False,wet,e.a,bc.a,USA
+Ragdoll,,hd.a,female,True,ef.a,,,colorpoint,blue,False,wet,db.a,bh.a,USA
+Ragdoll,,hd.a,female,True,ec.a,e.gc,,colorpoint,blue,False,wet,bb.a,bf.a,
+Ragdoll,,hd.a,female,,ea.a,f.ab,,colorpoint,green,False,wet,bf.a,bg.a,
+,,hd.a,male,False,,g.cc,,bicolor,blue,False,,ca.a,bf.a,
+,,hd.a,female,,,g.eh,,colorpoint,blue,False,dry,bi.a,bc.a,
+Ragdoll,g.bh,he.a,male,True,,i.ch,,colorpoint,blue,,wet,f.a,bh.a,UK
+Ragdoll,g.bh,he.a,male,False,,h.cf,,colorpoint,blue,,wet,bf.a,,
+Ragdoll,g.bh,he.a,female,,,g.ie,,bicolor,blue,,,j.a,bh.a,UK
+,g.cf,hf.a,female,False,ei.a,f.cg,,colorpoint,blue,,dry,ch.a,,UK
+Ragdoll,g.cf,hf.a,female,False,fa.a,d.jj,,colorpoint,blue,,wet,ba.a,,UK
+,g.cf,hf.a,male,True,,i.cc,,colorpoint,blue,,wet,cd.a,bh.a,UK
+Ragdoll,g.cf,hf.a,male,False,,h.ed,,bicolor,green,,,bc.a,bc.a,
+Ragdoll,g.cf,hf.a,female,False,,g.cj,,colorpoint,blue,,dry,ba.a,,UK
+,g.cf,hf.a,male,True,,g.cb,,colorpoint,blue,,dry,ch.a,,UK
+,g.dd,,female,,di.a,f.g,,tortie,blue,,wet,bi.a,bh.a,
+Ragdoll,g.dd,hg.a,female,False,,g.ij,,colorpoint,blue,,dry,j.a,,UK
+,g.f,hi.a,female,True,,g.cb,,colorpoint,blue,,dry,ch.a,,UK
+Ragdoll,g.f,hi.a,male,True,,h.fe,,mitted,green,,wet,b.a,bc.a,UK
+Ragdoll,g.f,,female,,,,,tortie,blue,,wet,f.a,bc.a,USA
+,g.f,hi.a,male,True,,h.db,,colorpoint,blue,,wet,cc.a,,Germany
+,g.fi,,female,True,,g.fd,,tortie,blue,,dry,bj.a,,
+,g.fi,hj.a,female,,,g.cf,,colorpoint,blue,,wet,bi.a,bh.a,
+Ragdoll,g.gh,ia.a,female,False,,g.g,,bicolor,blue,,,d.a,,Germany
+Ragdoll,g.gh,ia.a,male,True,,g.ch,,colorpoint,blue,,wet,h.a,bc.a,Germany
+,g.hf,ib.a,male,True,,h.jc,red/cream,,green,,,bi.a,,
+Ragdoll,g.hf,ib.a,female,True,ee.a,e.eb,,colorpoint,blue,,dry,g.a,bh.a,Germany
+Ragdoll,g.id,ic.a,female,False,ej.a,e.ai,,colorpoint,blue,,wet,dd.a,,Germany
+,g.jc,id.a,male,True,,h.gh,,colorpoint,blue,,wet,cg.a,bf.a,Germany
+,h.a,ie.a,male,True,,i.cd,,colorpoint,blue,,wet,ci.a,,Germany
+Ragdoll,h.a,,female,,ea.a,f.hj,,tortie,blue,,wet,f.a,bf.a,Germany
+Ragdoll,h.a,ie.a,male,True,,h.cc,,colorpoint,green,,wet,bd.a,,
+,h.ai,if.a,male,True,,,,colorpoint,blue,,wet,cb.a,,USA
+Ragdoll,h.ai,if.a,male,True,,,,colorpoint,blue,,wet,,cb.a,USA
+Ragdoll,h.ai,if.a,female,False,ei.a,,,mitted,blue,,dry,j.a,,USA
+Ragdoll,h.ai,if.a,female,True,db.a,,,colorpoint,blue,,wet,h.a,bg.a,USA
+Ragdoll,h.bh,ig.a,female,False,eg.a,,,colorpoint,blue,,wet,de.a,,USA
+Ragdoll,h.bh,ig.a,male,True,,,,bicolor,blue,,,,ca.a,USA
+,h.cf,ih.a,male,False,,,red/cream,,blue,,wet,cf.a,,USA
+Ragdoll,h.cf,ih.a,male,True,ed.a,f.ie,seal,,green,,dry,,ca.a,
+,h.cf,ih.a,female,False,fa.a,d.gg,seal,,blue,,wet,ca.a,,
+Ragdoll,h.dd,ii.a,female,,,g.ce,brown/chocolate,mitted,blue,,wet,,ca.a,
+Ragdoll,h.dd,ii.a,male,True,,,seal,,blue,,wet,e.a,,USA
+,h.dd,ii.a,male,True,,,seal,,blue,,wet,cb.a,,USA
+,h.f,ja.a,male,False,,,seal,,blue,,wet,ce.a,,USA
+Ragdoll,h.f,ja.a,female,True,fa.a,,seal,,blue,,wet,j.a,,USA
+Ragdoll,h.f,ja.a,male,False,,h.cf,seal,,blue,,dry,bc.a,,
+Ragdoll,h.fi,jb.a,male,True,,,seal,,blue,,wet,de.a,bj.a,USA
+Ragdoll,h.fi,jb.a,male,True,eh.a,f.hj,seal,,blue,,wet,bg.a,,
+Ragdoll,h.fi,jb.a,male,True,,,seal,,green,,dry,ba.a,,USA
+Ragdoll,h.fi,jb.a,male,True,,h.ai,seal,,blue,,wet,d.a,bf.a,Canada
+,h.fi,jb.a,male,True,,h.jb,seal,,green,,wet,cg.a,,Canada
+Ragdoll,h.gh,jc.a,female,True,fa.a,f.ae,red/cream,,blue,,wet,h.a,,Canada
+,h.gh,jc.a,male,False,,h.ad,seal,,blue,,wet,cb.a,bj.a,Canada
+,h.gh,jc.a,female,True,ej.a,e.ih,seal,,blue,,wet,cj.a,,Canada
+Ragdoll,h.gh,jc.a,male,True,,h.c,brown/chocolate,bicolor,green,,,bd.a,,
+,h.gh,jc.a,female,True,,g.hf,brown/chocolate,colorpoint,blue,,dry,ch.a,,Canada
+,h.gh,jc.a,male,True,,h.ce,red/cream,,blue,,,cd.a,,Canada
+Ragdoll,h.hf,jd.a,male,True,,h.dg,seal,,blue,,,be.a,,
+,h.hf,jd.a,female,False,eh.a,f.jb,seal,,blue,,,ci.a,,Canada
+,h.hf,jd.a,male,True,,i.ij,seal,,blue,,,ch.a,bj.a,Canada
+Ragdoll,h.hf,jd.a,male,True,,i.gi,red/cream,,green,,,f.a,,Canada
+Ragdoll,h.hf,jd.a,female,,di.a,f.fc,seal,,blue,,,bd.a,bg.a,
+,h.hf,jd.a,male,False,,h.hc,seal,,blue,,,cg.a,,Canada
+Ragdoll,h.id,je.a,female,False,,h.ah,brown/chocolate,colorpoint,blue,,,c.a,bf.a,Canada
+Ragdoll,h.id,je.a,male,True,,g.ec,brown/chocolate,bicolor,green,,,bd.a,,
+Ragdoll,h.id,je.a,female,,,,seal,,blue,,,a.a,bi.a,USA
+,h.jc,jf.a,female,False,ei.a,e.gf,brown/chocolate,colorpoint,blue,,,bi.a,,
+Ragdoll,h.jc,jf.a,male,False,,,seal,,green,,,de.a,,USA
+Ragdoll,i.a,jg.a,male,True,,h.gh,seal,,blue,,,,ca.a,
+,i.a,jg.a,male,True,,h.gc,brown/chocolate,colorpoint,blue,,,bj.a,bi.a,
+Ragdoll,i.a,jg.a,female,True,eb.a,,seal,,blue,,,,bj.a,USA
+,i.a,jg.a,male,True,,g.fi,seal,,blue,,,bi.a,,
+Ragdoll,h.id,je.a,female,True,ef.a,d.ji,seal,,blue,,,,cb.a,
+Ragdoll,i.a,jg.a,female,True,ei.a,,seal,,blue,,,db.a,,USA
+Ragdoll,i.ai,jh.a,male,False,,h.gg,seal,,blue,,,ba.a,,
+,h.jc,jf.a,female,True,,,seal,,green,,,ch.a,,USA
+Ragdoll,i.ai,jh.a,male,True,,i.eb,red/cream,,blue,,dry,ba.a,,
+Ragdoll,i.bh,ji.a,female,,,,seal,,blue,,dry,c.a,bg.a,USA
+,i.bh,ji.a,male,False,,,seal,,blue,,,ci.a,,USA
+Ragdoll,i.bh,ji.a,male,True,,,seal,,blue,,,,bj.a,USA
+,i.bh,ji.a,male,False,ei.a,,seal,,blue,,,cc.a,,USA
+Ragdoll,i.bh,ji.a,female,False,ee.a,,brown/chocolate,colorpoint,blue,,,,ca.a,USA
+Ragdoll,i.bh,ji.a,male,True,,,red/cream,,blue,,,i.a,,USA
+Ragdoll,i.cf,jj.a,male,True,,,seal,,blue,,,h.a,bg.a,USA
+Ragdoll,i.cf,jj.a,female,,dj.a,,seal,,blue,,,ba.a,bj.a,USA
+,i.cf,jj.a,male,True,,,seal,,green,,,cg.a,bj.a,USA
+Ragdoll,i.ec,bab.a,male,False,fd.a,f.jj,seal,,blue,,,bd.a,,
+Ragdoll,i.ec,bab.a,female,True,eb.a,,brown/chocolate,colorpoint,blue,,,,ca.a,USA
+Ragdoll,i.f,bac.a,female,True,eh.a,,brown/chocolate,colorpoint,blue,,,j.a,,USA
+Ragdoll,i.f,bac.a,male,True,,,seal,,blue,,,,ca.a,USA
+,i.f,bac.a,male,True,,,seal,,blue,,,cc.a,,USA
+Ragdoll,i.fi,bad.a,female,False,fa.a,,seal,,blue,,,dc.a,,USA
+Ragdoll,i.fi,bad.a,female,True,ee.a,f.h,seal,,blue,,,,ca.a,
+Ragdoll,i.fi,bad.a,male,False,,g.gb,brown/chocolate,colorpoint,blue,,,be.a,bj.a,
+Ragdoll,i.fi,bad.a,male,False,,,brown/chocolate,colorpoint,green,,,de.a,,USA
+Ragdoll,,ff.a,,True,eg.a,e.dh,seal,,blue,False,wet,bd.a,,
+,i.gh,bae.a,female,True,,g.eg,seal,,blue,,wet,ca.a,,
+Ragdoll,i.hf,baf.a,female,False,ed.a,g.b,seal,,blue,,,,ca.a,
+Ragdoll,i.hf,baf.a,male,False,,,seal,,blue,,,dd.a,,USA
+,,fe.a,,True,ef.a,,seal,,blue,False,wet,cg.a,bf.a,USA
+Ragdoll,i.hf,baf.a,female,,di.a,,seal,,blue,,,da.a,bj.a,USA
+,i.hf,baf.a,female,False,,g.e,seal,,blue,,,bi.a,bi.a,
+Ragdoll,,gh.a,,False,ef.a,e.db,seal,,blue,False,,bg.a,bc.a,
+Ragdoll,i.id,bag.a,female,False,eb.a,f.hc,seal,,blue,,wet,,ca.a,
+Ragdoll,i.jc,bah.a,male,True,ee.a,,seal,,blue,,,,ca.a,USA
+,i.jc,bah.a,male,True,,h.bi,red/cream,,blue,,,bj.a,,
+Ragdoll,i.jc,bah.a,male,True,,j.bd,seal,,green,,,bf.a,,
+Ragdoll,i.jc,bah.a,female,False,,g.ic,seal,,blue,,,bd.a,bi.a,
+Ragdoll,j.a,bai.a,male,True,,,seal,,blue,,wet,i.a,bj.a,USA
+,j.a,bai.a,male,False,,,red/cream,,blue,,,cf.a,,USA
+Ragdoll,j.a,bai.a,female,False,,,seal,,blue,,,da.a,,USA
+,j.a,bai.a,male,True,,g.ec,red/cream,,blue,,,ca.a,bh.a,
+,j.ai,baj.a,male,False,eg.a,,seal,,blue,,,cb.a,,USA
+,,gb.a,,,di.a,e.dh,seal,,green,False,wet,bi.a,bh.a,
+Ragdoll,j.ai,baj.a,male,True,,,seal,,blue,,,i.a,,USA
+Ragdoll,j.ai,baj.a,male,False,eg.a,g.bf,brown/chocolate,colorpoint,blue,,,bd.a,,
+,j.bh,bba.a,female,True,ej.a,,red/cream,,blue,,,da.a,,USA
+,j.bh,bba.a,male,True,eg.a,,seal,,blue,,wet,cd.a,,USA
+,j.bh,bba.a,male,True,,,brown/chocolate,colorpoint,green,,,cj.a,,USA
+Ragdoll,,dc.a,female,,di.a,,seal,,blue,False,,i.a,bc.a,USA
+Ragdoll,j.cf,bbb.a,female,False,ei.a,d.hb,seal,,blue,,wet,bf.a,,
+Ragdoll,j.cf,bbb.a,female,False,ei.a,g.bb,seal,,green,,,be.a,,
+Ragdoll,j.cf,bbb.a,male,True,,,seal,,blue,,,g.a,,USA
+,j.cf,bbb.a,female,True,ei.a,,seal,,blue,,,ci.a,,USA
+,j.dd,bbc.a,male,False,,,brown/chocolate,colorpoint,blue,,,ch.a,,USA
+,,gh.a,,False,ej.a,,seal,,blue,False,,cj.a,,USA
+Ragdoll,j.dd,bbc.a,female,,dj.a,g.bf,seal,,blue,,,bd.a,bj.a,
+Ragdoll,j.dd,bbc.a,female,True,,h.de,lilac,,blue,,,bb.a,,
+,,bbd.a,male,True,,,brown/chocolate,colorpoint,blue,False,,cc.a,,USA
+Ragdoll,,bbd.a,female,,,,seal,,blue,False,,,cb.a,USA
+,,bbd.a,female,True,,,brown/chocolate,colorpoint,blue,False,,ch.a,bh.a,USA
+Ragdoll,,bbd.a,male,True,,,seal,,green,False,,g.a,,USA
+Ragdoll,,bbe.a,female,True,ei.a,e.hg,seal,,blue,False,,bd.a,,
+,,gc.a,,,ea.a,,seal,,blue,False,,cc.a,bf.a,USA
+Ragdoll,,bbe.a,male,True,,,red/cream,,blue,False,,a.a,,USA
+,,bbe.a,male,False,,,seal,,green,False,,cb.a,,USA
+,,bbf.a,male,True,,,red/cream,,blue,False,,cd.a,,USA
+,,bbf.a,male,True,eg.a,,red/cream,,blue,False,,cj.a,,USA
+,,bbf.a,male,False,,,seal,,blue,False,,da.a,,USA
+,,bbf.a,male,True,,i.fi,seal,,green,False,dry,bi.a,,
+Ragdoll,,ei.a,,True,ee.a,,seal,,blue,False,,dg.a,bh.a,USA
+Ragdoll,,bbg.a,male,True,,j.dd,seal,,blue,False,wet,be.a,bg.a,
+Ragdoll,,bbg.a,female,,,,seal,,blue,False,,db.a,bj.a,USA
+Ragdoll,,bbg.a,female,True,,g.db,seal,,blue,False,,bg.a,bh.a,
+,,bbh.a,male,False,eh.a,,seal,,green,False,,ce.a,,USA
+Ragdoll,,fg.a,,False,eh.a,,seal,,blue,False,wet,i.a,,USA
+Ragdoll,,,,,df.a,f.fj,brown/chocolate,tortie,blue,False,wet,bb.a,bh.a,
+,,bbi.a,male,False,,i.e,seal,,blue,False,,bi.a,,
+,,bbi.a,male,True,,,seal,,green,False,,ce.a,bh.a,USA
+,,bbi.a,female,,eb.a,f.hg,lilac,,blue,False,,bj.a,bg.a,
+,,bbi.a,female,True,,g.cf,seal,,blue,False,,bi.a,bj.a,
+,e.gh,fg.a,,True,ej.a,,seal,,blue,True,,ce.a,,USA
+,,fg.a,,True,ec.a,,seal,,blue,False,,ce.a,bc.a,USA
+Ragdoll,,bda.a,female,True,,,seal,,blue,False,,db.a,bi.a,USA
+Ragdoll,,bbj.a,female,,dd.a,,seal,,green,False,,e.a,bj.a,USA
+Ragdoll,,dh.a,,True,ef.a,e.ag,red/cream,,blue,False,,bg.a,bf.a,
+Ragdoll,,bcg.a,female,True,ed.a,,seal,,blue,False,,a.a,bj.a,USA
+Ragdoll,,bca.a,male,True,,h.fj,brown/chocolate,colorpoint,blue,False,,bg.a,,
+Ragdoll,,b.a,male,False,bb.a,a.g,seal,,blue,False,,,cb.a,
+Ragdoll,,b.a,male,False,bc.a,,seal,,blue,False,,,ca.a,USA
+Ragdoll,,b.a,male,False,bb.a,,seal,,blue,False,,ea.a,bj.a,USA
+Ragdoll,,b.a,male,False,bc.a,,seal,,blue,False,,,ca.a,USA
+Ragdoll,,b.a,male,False,bc.a,,seal,,blue,False,,,cc.a,USA
+,,c.a,female,False,be.a,a.j,seal,,blue,False,,ca.a,bi.a,
+Ragdoll,a.ai,b.a,male,False,ba.a,,red/cream,,blue,True,,,cb.a,USA
+Ragdoll,,c.a,female,False,be.a,,red/cream,,blue,False,,,ca.a,USA
+Ragdoll,,b.a,female,False,bb.a,,red/cream,,blue,False,,,cb.a,USA
+Ragdoll,,b.a,male,False,bf.a,,red/cream,,blue,False,,,cb.a,USA
+Ragdoll,,b.a,female,False,ba.a,,red/cream,,blue,False,wet,,cb.a,USA
+Ragdoll,,c.a,female,False,be.a,,brown/chocolate,colorpoint,blue,False,,df.a,bi.a,USA
+Ragdoll,,b.a,male,False,bf.a,,brown/chocolate,colorpoint,blue,False,,,cc.a,USA
+Ragdoll,,b.a,male,False,ba.a,,red/cream,,blue,False,,,ca.a,USA
+,,c.a,female,False,bd.a,,red/cream,,blue,False,,da.a,bi.a,USA
+Ragdoll,,b.a,female,False,bd.a,,red/cream,,blue,False,,,cc.a,USA
+Ragdoll,a.bh,c.a,female,False,bg.a,,red/cream,,blue,True,,de.a,bi.a,USA
+Ragdoll,,c.a,female,False,bg.a,,red/cream,,blue,False,dry,db.a,bi.a,USA
+Ragdoll,,c.a,male,False,bh.a,,red/cream,,blue,False,,dj.a,bi.a,USA
+Angora,,b.a,male,False,bc.a,,white,,blue,False,wet,dg.a,bj.a,USA
+Angora,,b.a,female,False,bd.a,,white,,blue,False,wet,,ca.a,USA
+Angora,,c.a,female,False,bg.a,,white,,blue,False,wet,,ca.a,USA
+Angora,,c.a,male,False,bh.a,,black,solid,blue,False,dry,,ca.a,USA
+Angora,,c.a,male,False,bf.a,,white,,green,False,wet,,ca.a,USA
+Angora,,c.a,female,False,bh.a,,white,,blue,False,wet,,ca.a,USA
+Angora,,b.a,female,False,bf.a,a.h,,solid,blue,False,wet,,cc.a,UK
+Angora,,c.a,male,False,be.a,,black,solid,blue,False,dry,,ca.a,USA
+Angora,,c.a,male,False,bf.a,,white,,green,False,wet,,ca.a,USA
+Angora,a.ai,b.a,female,False,be.a,,white,,blue,True,wet,,ca.a,USA
+Angora,,c.a,female,False,be.a,a.h,,solid,blue,False,wet,dc.a,bi.a,Germany
+Angora,,c.a,female,False,bh.a,,white,,green,False,wet,,bj.a,USA
+,,c.a,female,False,be.a,,white,,blue,False,dry,ce.a,bi.a,USA
+Angora,,c.a,male,False,bg.a,,white,,blue,False,wet,,bj.a,USA
+Maine coon,,b.a,male,False,bf.a,,white,,,False,wet,,bj.a,USA
+Maine coon,,,female,False,bf.a,,brown/chocolate,tabby,,False,wet,,cb.a,USA
+Maine coon,,b.a,female,False,bd.a,,red/cream,,,False,wet,,cc.a,USA
+Maine coon,,b.a,male,False,bf.a,,black,bicolor,,False,,,cb.a,USA
+Maine coon,,c.a,male,False,be.a,,red/cream,,,False,wet,di.a,bi.a,USA
+Maine coon,,b.a,female,False,bf.a,,red/cream,,,False,wet,,cb.a,USA
+Maine coon,a.ai,,female,False,bc.a,,brown/chocolate,tabby,,True,wet,,ca.a,USA
+Maine coon,,,male,False,bd.a,,brown/chocolate,tabby,,False,dry,,bj.a,USA
+Maine coon,,,male,False,bf.a,,,tabby,,False,wet,,ca.a,UK
+,,,female,False,bf.a,,,tabby,,False,wet,cd.a,bi.a,UK
+Maine coon,,c.a,female,False,bc.a,,,solid,,False,wet,,bj.a,UK
+Maine coon,,c.a,female,False,bf.a,,,solid,,False,wet,,ca.a,UK
+Maine coon,,c.a,female,False,bh.a,,,bicolor,,False,,,bj.a,UK
+Maine coon,,,male,False,be.a,a.h,,tabby,,False,wet,,ca.a,UK
+Maine coon,,,male,False,bg.a,,,tabby,,False,wet,,bj.a,UK
+Maine coon,a.bh,,female,False,bf.a,,,solid,,False,wet,,ca.a,UK
