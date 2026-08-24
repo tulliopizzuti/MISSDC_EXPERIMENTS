@@ -39,7 +39,7 @@ def run_experiment(approach_name,
     clean_file = dataset_dir / "clean.csv"
     dirty_file = dataset_dir / "dirty.csv"
     repaired_file = dataset_dir / "dirty_imputed.csv"
-    ncols = get_num_columns(dirty_file)
+    nrows, ncols = get_dataset_size(dirty_file)
 
 
     timestamp = datetime.now().isoformat(timespec="seconds")
@@ -83,6 +83,7 @@ def run_experiment(approach_name,
             missingness=missingness,
             ratio=ratio,
             ncols=ncols,
+            nrows=nrows,
             timestamp=timestamp,
             repetition=repetition,
             status=f"{approach_name}_failed",
@@ -104,6 +105,7 @@ def run_experiment(approach_name,
             missingness=missingness,
             ratio=ratio,
             ncols=ncols,
+            nrows=nrows,
             timestamp=timestamp,
             repetition=repetition,
             status=f"{approach_name}_failed",
@@ -136,6 +138,8 @@ def run_experiment(approach_name,
             missingness=missingness,
             ratio=ratio,
             ncols=ncols,
+            nrows=nrows,
+
             timestamp=timestamp,
             repetition=repetition,
             status="score_failed",
@@ -159,6 +163,7 @@ def run_experiment(approach_name,
         missingness=missingness,
         ratio=ratio,
         ncols=ncols,
+        nrows=nrows,
         timestamp=timestamp,
         repetition=repetition,
         status="ok",

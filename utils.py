@@ -52,9 +52,10 @@ def compute_diff_list(clean_df: pd.DataFrame, dirty_df: pd.DataFrame) -> List[di
 
 
 
-def get_num_columns(dataset_file):
+def get_dataset_size(dataset_file):
     df = pd.read_csv(dataset_file)
-    return len(df.columns)
+    return df.shape[0], df.shape[1]
+
 
 def normalize_command(cmd):
     cmd = list(map(str, cmd))
@@ -144,6 +145,7 @@ def build_result_row(
     dataset,
     missingness,
     ncols,
+    nrows,
     ratio,
     timestamp,
     repetition,
@@ -168,6 +170,7 @@ def build_result_row(
         "dataset": dataset,
         "missingness": missingness,
         "ncols": ncols,
+        "nrows": nrows,
         "ratio": ratio,
         "repetition": repetition,
         "precision": scores.get("precision", ""),

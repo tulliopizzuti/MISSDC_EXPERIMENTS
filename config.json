@@ -87,6 +87,22 @@
           }
         }
       },
+      "MISSDCEVIDENCE": {
+        "approach_folder": "MISSDCEVIDENCE",
+        "imputation_script": "impute.py",
+        "sys_exec": ["conda","run","-n","MISSDC_EXP_MISSDC","python"],
+        "common_arguments_to_exclude": ["dataset_null_char", "csv_sep", "output_file_path"],
+        "additional_arguments": {
+          "mode": {
+            "default": "dc",
+            "type": "str"
+          },
+          "min_evidence_multiplicity": {
+            "default": null,
+            "type": "str"
+          }
+        }
+      },
       "MISSFOREST": {
         "approach_folder": "MISSFOREST",
         "imputation_script": "impute.py",
