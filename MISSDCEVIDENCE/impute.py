@@ -15,7 +15,7 @@ def missdc_imputation(
         *java_opts,
         "-jar",
         IMPUTATION_SCRIPT,
-        dirty_file,
+        dirty_file, "--mode", mode,
     ]
     if evidence_multiplicity is not None:
         imputation_cmd.append("--min-evidence-multiplicity")
