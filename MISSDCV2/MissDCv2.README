@@ -1,0 +1,107 @@
+# MissDCv2
+
+Assume:
+
+```text
+MISSDCV2/missdcv2.jar
+
+data/<dataset>/<mechanism>/<ratio>/<repetition>/dirty.csv
+```
+
+## Run with the default configuration
+
+```bash
+java -jar MISSDCV2/missdcv2.jar \
+  data/<dataset>/<mechanism>/<ratio>/<repetition>/dirty.csv
+```
+
+This runs MissDCv2 with the **default final configuration**:
+
+```text
+DC discovery              = exact
+minimum evidence count    = 8
+maximum DC size            = 7
+voting                     = tuple
+ML                         = disabled
+fallback                   = disabled
+```
+
+Example:
+
+```bash
+java -jar MISSDCV2/missdcv2.jar \
+  data/adult/MCAR/0.05/1/dirty.csv
+```
+
+The output is written beside the input:
+
+```text
+data/adult/MCAR/0.05/1/dirty_imputed.csv
+```
+
+## Override parameters
+
+You only need to provide options when testing a configuration different from the defaults.
+
+For example, use evidence multiplicity 4:
+
+```bash
+java -jar MISSDCV2/missdcv2.jar \
+  data/adult/MCAR/0.05/1/dirty.csv \
+  --min-evidence-multiplicity 4
+```
+
+Use maximum DC size 5:
+
+```bash
+java -jar MISSDCV2/missdcv2.jar \
+  data/adult/MCAR/0.05/1/dirty.csv \
+  --dc-size-max 5
+```
+
+Change both:
+
+```bash
+java -jar MISSDCV2/missdcv2.jar \
+  data/adult/MCAR/0.1/1/dirty.csv \
+  --min-evidence-multiplicity 4 \
+  --dc-size-max 5
+```
+
+Enable ML completion:
+
+```bash
+java -jar MISSDCV2/missdcv2.jar \
+  data/adult/MCAR/0.1/1/dirty.csv \
+  --mode dc-ml
+```
+
+Change voting:
+
+```bash
+java -jar MISSDCV2/missdcv2.jar \
+  data/adult/MCAR/0.1/1/dirty.csv \
+  --voting current
+```
+
+Available voting modes are:
+
+```text
+current
+tuple
+dc
+```
+
+## Disk cleanup
+
+After scoring the result, remove:
+
+```text
+data/<dataset>/<mechanism>/<ratio>/<repetition>/dirty_imputed.csv
+```
+
+The comparison script should therefore:
+
+```text
+run JAR → score dirty_imputed.csv → record results → delete dirty_imputed.csv
+```
