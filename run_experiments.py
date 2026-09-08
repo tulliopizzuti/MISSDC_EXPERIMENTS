@@ -218,7 +218,8 @@ def parse_args():
     parameters["additional_arguments"] = {}
     for k in APPROACHES_CONFIG[args.approach].get("additional_arguments", {}):
         parameters["additional_arguments"][k] = args.__dict__[k]
-
+    if "additional_arguments" in parameters:
+        parameters["additional_arguments"] = {k: v for k, v in parameters["additional_arguments"].items() if v is not None}
     return parameters
 
 
